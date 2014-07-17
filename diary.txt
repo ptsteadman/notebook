@@ -28,6 +28,8 @@ im goimg to tell myself that i didnt make a mistake, and believe it.
 your time is limited and shes notthe one, not now or in the long run.
 one possible reason breakups are so sad is that it breaks the usual feeling of ... statis and continuity, of endless progressive nights and long alcohol/drug/movie afternoons, and makes very clear the sob inducing human fact that we are always at some point on a growth/death arc, that all will someday be lost
 
+
+Maybe this is a privilege of having decent parents...but that is something to be fiercly proud of, I've decided.  Any other feeling towards decent parents seem selfish and stupid and ...
 Spent the vast majority of today (so far) writing a script to always be the
 last comment on Spencer Madsen's facebook page (because he said he'd give a
 bood to the last person to comment).  
@@ -66,7 +68,6 @@ to lay in the snow and look at, thinking.
 alina inspired: IMPLICIT SORRY NOT SORRY
 main reaction to writing is "wtf is that"
 
-
 becoming less ego-bound is important to your goals as an engineer and a writer
 how can you ask your father to teach you what he knows about engineering?
 really, working with him at Buffalo Wire would be an excellent job.  but
@@ -82,3 +83,49 @@ your head applied to my shoulder. readers of code are trained to make sense of
 things...how else could a reader be trained.
 
 english is code on what levels?
+having your parents and family see your facebook statuses is a good way to keep yourself honest I think.  I one sense knowing they will see will make you afraid.  In one sense that is a good thing.  They have the most complete horizontal knowledge of your life.  They know who you were before you decided to try to be someone else.  Most everything is better than a sad gap growing between you each year until they die.  Fuck that kind of sadness.  It's not inevitable.  In ancient texts it seems like fathers and sons, mothers and daughters, could hunt, work, party, talk together and need not feel a sense of alienation from the people who love them and raised them.  Seems stupidly capitalistic that embarassment or shame would come between us.  I have to believe that whatever differences we have can be worked out or explained no matter how many long days of discussion it takes to convince them.  Or be convinced by them that they know better, and change my mind.  If my writing is going to hurt them I want to think about that while I write it.  Then I will not write hurtful writing for no good reason.  
+
+7/15/14:
+A month left of summer, basically.  yeah.
+Set up tablet so it can properly do colors, vim plugins, etc.  Looks good.
+Sort of glitchy inside tmux.  But cool.  Oh wait it just fixed itself!  Very
+strange.  And then broke again. 
+
+Wonder what will happen with Moon Temple.  Let's trying giving myself odds: 10%
+chance something big happens, 20% chance something small happens, the rest
+nothing happens.
+
+Your writing style is really up in the air right now.  It's punching at and
+fiddling with empty space.  What are the odds something will come out of ~it~.  
+
+Maybe you should just use flask for developing docgoose?  A plan for docgoose
+is important at this point in the summer.  A plan for rowing is also important.
+Plans you need: docgoose, open source, rowing, school, social, hardware,
+writing, waste reduction, reading, ...
+Too many.  Prioritizing: school, rowing, docgoose/programming, writing, social.
+Writing has less priority because you will be able to do it for the rest of
+your life (?).  Whatever, seems logical.  I think as long as it is _part_ of a
+plan, and the plan is continuously executed.
+
+7/16/14:
+I guess you should have plans for all those things but the plans for the low
+priority ones should be "this is low priority, pay attention when you can."
+
+Lana Del Rey is really hot for a cancerous tumor.
+Justine, Marg, Moon, Beth, Sloane.
+Good names!
+
+Yesterday at work was good. 
+After, thought about creating something that uses websockets to stream the 9/11
+pages to a web app in real time, synced to the time on 9/11.
+Are these little projects worth doing?  Of course!  But you should do them on
+the weekend and make sure you take your time and learn certain topics well.
+For example, the 9/11 would be about learning how to do things in real time and
+using websockets with python.  I think that project could definitely be
+accomplished in a weekend.  This weekend?  
+
+It's good to feel excited.  Excitement is incompatible with grief.  Maybe you
+should focus on doing some exciting things until you don't feel like you're
+grieving.
+
+Today my excitement will be going to the tinker shop.
