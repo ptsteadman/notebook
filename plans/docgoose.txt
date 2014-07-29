@@ -9,7 +9,7 @@ with building "a company" "a website".  Finally, this is an idea that you have
 been trying to execute for a while, so it's good to get it off the backlog.
 
 Steps:
-7/19/14: learn about Flask/Pyramid (finish that Pyramid tutorial!) 
+7/19/14: learn about Flask/Pyramid (finish that Pyramid tutorial!) DONE 7/25/14
 7/21/14: set up personal site / demo app (9/11 thing) on ec2
 7/28/14: develop ORM with set of tests, get cornell class data
 8/4/14:  develop a minimual viable GUI (?)
@@ -21,3 +21,10 @@ Use the notes and todo of the old node app while doing ORM design.
 Finish work on the backend before you start working on the js/gui.
 Try to minimize JS stuff... will you use client side MVC?  don't let the bad
 experience with it last time dissuade you, necessarily.
+
+Updates:
+7/23/14: Still haven't finished the Flask/Pyramid Tutorial!  Do today!
+7/25/14: Finally finished the Pyramid Turorial.  Not sure how I feel about
+Pyramid.  It kind of reminds me of ASP.NET MVC...which may be a good thing.
+(Maybe that's just the ORM.)  Anyways, should build that demo app (but also play
+with arduino since it's the weekend).
