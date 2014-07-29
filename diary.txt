@@ -157,3 +157,67 @@ arduino uno kit, which should be much better documented and do the same thing
 Cool, I'll order it on payday.  Need to focus on the plan up to this weekend.
 Even though the arduino stuff may be cooler. ... lol, cooler.  bla bla bla
 
+7/23/14: Got arduino today.  Too bad I'm behind on the docgoose plans and
+work..."working from home" for no good reason today.  I don't really know what
+to work on.  I guess fixing the impression level data stuff.  I wrote a plan for
+rowing...I have that feeling of last summer, when I told myself "this is your
+last chance to making it good"..."this is your last chance to make it okay"...
+
+It's important to get work shit together.  I will work on work tonight after I
+finish the pyramid tutorial and then set up ec2 / personal site stuff.
+
+Going to go run soon.
+Ran, nice.
+
+GUEST LIST FOR KARAOKE
+me
+dennis
+margeurite
+justine
+jennifer
+isabel
+JP
+moon 
+STD
+timmons 
+
+dennis friend
+random friend
+
+7/25/14: Trying to find music that isn't the "same old thing", that will impress Justine.
+
+7/26/14: Planning KTV night: kind of sucks.  Wonder if people will show up.  If
+not: you'll get your money's worth in hard learning facts.  People are
+"unwilling to take a risk".
+
+7/27/14: KTV night was okay.  Of course not as good as the night with
+Alina...but as expensive.  That's okay.   It felt okay.
+
+Talking with Justine today was good.  She has some decent points and was sort of
+inspiring to talk to.  Like it made me want to impress her.
+"you should (have to?) demand more"
+"damage control / you're safe"
+Also some interesting discussion re: how our society writes more than it reads.
+"Write only" language.  (ADA).  
+
+Went to a bar to see Isabel, Claire, and the guy who Claire is seeing, who
+reminds Isabel of Ed.  Isabel kept trying to make me kiss and touch her...and
+tried to get me to sleep with her.  Saying it would be fun.  When I refused her
+(inelegantly, I didn't really know how to handle it, and was sober, and she was
+pretty drunk), she went outside and told me not to come with her.  I heard her
+planning to get in a cab to go to Bedford-Nostrand where Stephen Tully lives.
+This whole experience made me sad in the pleasurable way.  Long, thin lightning
+strikes were in the sky on the walk home.
+
+I got a start on the 9/11 memorial project.  It'll probably take about a week of
+evenings to complete.  So I'm going to be pretty behind on my docgoose plans.
+
+7/28/14:  I feel like I have learned so little about programming this summer...
+relative to last summer.  Is that the case?  Or maybe just building apps from
+scratch is a very good way to learn, and you haven't done that for Python.  Or
+maybe Pyramid is just more complicated.  
+
+I was being very productive all morning (after rowing) but then watched an ISIS
+propaganda video.  It was very upsetting.  
+
+"if this doesn't get you to change, nothing will"
