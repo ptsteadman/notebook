@@ -10,7 +10,7 @@ been trying to execute for a while, so it's good to get it off the backlog.
 
 Steps:
 7/19/14: learn about Flask/Pyramid (finish that Pyramid tutorial!) DONE 7/25/14
-7/21/14: set up personal site / demo app (9/11 thing) on ec2
+7/21/14: set up personal site / demo app (9/11 thing) on ec2 DONE 8/9/14
 7/28/14: develop ORM with set of tests, get cornell class data
 8/4/14:  develop a minimual viable GUI (?)
 8/11/14: polish GUI, add features (?)
@@ -28,3 +28,7 @@ Updates:
 Pyramid.  It kind of reminds me of ASP.NET MVC...which may be a good thing.
 (Maybe that's just the ORM.)  Anyways, should build that demo app (but also play
 with arduino since it's the weekend).
+8/9/14: Finished the 9/11 demo app.  Cool...  These things take a lot of time!
+Debating on whether it's worth continuing on this plan.  I'm going to think
+about it tomorrow and make a definite decision.  In a sense you are "on your
+way" with this already...
