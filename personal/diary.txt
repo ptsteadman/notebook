@@ -327,3 +327,88 @@ Distributed personal website.
 Portfolio is vanity.  You should always have nothing.  Past projects should be
 lost.  No accomplishments.  No success.  How to.  No accumulation.  Even though
 it appeals.
+
+8/16/14: PyGotham
+
+1. Talk by Salt creator about managing a large open source project
+   - politeness
+   - nuture contributors 
+2. Foreign Data Wrappers
+   - use case of NoSQL: "tags" or arrays
+   - postgres supports "arrays" so you don't need join table
+   - select * from not_so_simple where 2 = ANY(col1);
+   - select array_length(col1, 1) * from not_so_simple;
+   - unnest removes array structure
+   - problems: probably can't really put ORM on top of it
+3. Automated Manufacturing
+   - rhino3d/cinema4d: robot
+   - $30,000-$70,000 
+4. SQLaLCHEMY 
+   - session.flush()
+5. nltk
+
+     tokenized = ntltk.word_tokenize(snippet)
+     tagged_sniptted = nltk.pos_tag(tokenized)
+     "[('the','DT'), ('fox','NN'), ('jumped', ...
+     
+     finding verse in text, accidental lyrics
+     wordnet
+
+So many potential problems.  Docgoose.  "Grotesque Self-Portrait".  Writing.
+Ludum Dare game.  
+
+The most interesting talk was actually probably about args/kwargs, along with
+the postgres data binding talk.  It's good to understand the tools that you use.
+It is calming.
+
+8/17/14:
+1. Distributed Systems Failure
+   - harder case of "kind of failures"
+   - host failure / network failure / consistency
+   - async queues: allows letters to "pile up"
+   - nsq.io / pynsq
+   - timeouts: think about the components that aggregate in the timeout
+   - retries
+   - to prevent dogpiles: exponential backoff
+   - also exponential buildup
+   - re-route via a host pool
+   - events vs commands
+   - monitoring
+   - stats.d / graphite / graphona 
+
+2. Decorators
+   - decoarator inspired by Java annotation
+   - "advices"
+   - what does the statement "functions are first class objects" 
+   - "first class citizen" -- entity which supports all the operations available
+     to other entities: can be passed as parameter, returned, assigned.
+
+    def decorator(inner):
+        def inner_decorator():
+            print('this happens before')
+            inner()
+            print('this happens after')
+        return inner_decorator
+
+    @decorator
+    def decorated():
+        print('this happened')
+
+
+    - uses
+    - classes as decorators
+    - we need to be more conscious of "user holes" in docs
+
+Very tired.  Today is the end of summer.  
+"making programming friends", a more interesting problem than you'd expect.  I
+guess it takes time like making any other sort of type of friends.  Probably it
+wil be best if you make them on the internet.  They seem boring are they boring.
+That conference place lol.  You need sunlight.
+
+It all seems very possible.  Your understanding of what goes into a true web
+business is getting clearer and clearer, there are few parts you don't have a
+grasp on.  Hmm...write a plan to get to the next level of programming.
+
+Thinking about that interesting talk with Theo about "tone", and the feeling
+that we were going to grow up to be the people that we look up to, like Tao and
+Kanye.

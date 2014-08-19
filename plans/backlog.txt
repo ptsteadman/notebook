@@ -1,12 +1,19 @@
-9/11 memorial
+CURRENT PROJECTS
 cornell novel
-personal website
+docgoose
+cracking coding
+html5 video game
+
+BACKLOG
+perceptual hash library
 project euler
 cracking coding
-docgoose
 zen garden
 counterfeit corporate t-shirts
 selling plants online
-bushwick video game
 install arch linux
+trivial grotesque self portrait
 
+DONE FROM BACKLOG
+9/11 memorial
+personal website

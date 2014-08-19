@@ -32,3 +32,9 @@ with arduino since it's the weekend).
 Debating on whether it's worth continuing on this plan.  I'm going to think
 about it tomorrow and make a definite decision.  In a sense you are "on your
 way" with this already...
+8/17/14: Decision: going to go forward.  Been thinking about some possible ways
+you could "pivot" this project if it doesn't work out.  It goes very well with
+your "information retrieval" class as well.  Very important to learn:
+    - how to properly do forms, validation, reusable code, views, etc
+    - build a proper ETL-type web app with queues, etc (you haven't done this)
+    - zen coding
