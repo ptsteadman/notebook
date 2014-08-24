@@ -412,3 +412,110 @@ grasp on.  Hmm...write a plan to get to the next level of programming.
 Thinking about that interesting talk with Theo about "tone", and the feeling
 that we were going to grow up to be the people that we look up to, like Tao and
 Kanye.
+
+8/18/14: Algorithms, idioms, and understanding how the machine works.  In
+Pascal, there is a plethora of data structures, which induces a specialization
+of functions.  
+
+8/21/14: I'm all moved in in Ithaca.  I feel very hopeful about the coming year.
+One important emotional experience I had was walking home from Highland across
+the suspension bridge, and seeing how lush and green everything was.  It was
+misty.  Without all the stress it was very beautiful, more beautiful than 
+New York.  I took pictures and sent them to Alina.
+
+Like every year, I don't know what to focus on most.  I think about focusing on
+writing, getting docgoose up and running, other small programming projects, just
+focusing on making sure school goes okay...
+
+I think I'm afraid I'll get bored if I just focus on school.  But I think my
+heart says that I should do that, and build in some time to work on the other
+things.  I think...what I learned from last year, is that the school things are
+very valuable.  If you had learned your classwork from last year (more)
+effectively you'd be in a better place to realize your dreams.  I think that's
+what all this anxiety is about anyways.  You're anxious if you'll realize your
+dreams or not.
+
+You did a decent job of using your planner this summer.  You "wasted" a lot of
+time at work but whatever.  It was much more controlled. 
+
+Feeling tired right now.  Want to meet someone good-looking and intelligent.
+Maybe you should go to a bar alone tonight.  Would be weird.  It's probably
+worth a shot.  It'd be good to get yourself together.  Midnight bedtime tonight?
+
+Should read more about the raytracing and write down the stories Greg told
+today.  And do yoga.   
+
+"You know what would be really nice?  If a dining hall was open right now."
+
+"Fucking YES.  I've been complaining about that all week.  All I've been eating
+this summer is pussy and eggs."
+
+What's more important is ~how~ Greg says things.  And that's a lot harder to
+recreate.  It's funny how these guys are a lot more inspiring to me than New
+York was this summer.
+
+Make it last.  When you make a plan, the states that it can be in: success,
+failure, abandoned, deferred.
+
+"We just fucked all week."
+
+"We trained from like seven to two, with an hour break in the middle.  So from
+three to nine I could have just been fucking Caroline.  But I wasn't about that, wasn't
+about not feeling it.  What's the point?"
+
+"We were really lost but it still felt chill, you know?  Like, at worst, the
+campground was five miles away, we kept saying that.
+So I just kept going up to cars and asking if they could give us a ride.  And
+most were just like "no".  But finally these four chicks in a pickup were like
+sure.  So Marissa and I got in the back of the pickup.  These chicks were like
+forty."
+
+"Haha, damn."
+
+"At first Marissa and I were kind of crouching down because we didn't want like,
+the security guys to see us. We were sort of making out and the chicks were like
+'fuck her right in the pussy!'"
+
+"Jesus.  They were in their forties?"
+
+"Yeah, like fucking moms."
+
+"It was awesome.  We woke up in a tent, not even hung over."
+
+"We were hooking up on the grass, and these women were like, 'could you, not do
+that', and I said 'there are seven billion people in this world, and do you know
+how they got here?  By fucking.  So you should thank me, because we're not even
+really fucking, just making out."
+
+8/22/14: Having trouble getting wifi to work, have wasted quite a bit of time on
+it.  Should go to Teagle to work out in a second.
+
+8/23/14: To recursively compress image files:
+
+find . -name "*.JPG" | xargs mogrify -strip -interlace Plane -gaussian-blur 0.05
+-quality 85%
+
+ImageMagick is a great tool!
+
+Last night: met Ian for a drink.  He seemed very self-absorbed.  Which is the
+opposite of how it usually is: usually he would want to know what "weird" things
+I was up to and try to show me off.  I went to a party with him and his "weed
+dealer" female friend, who was relatively cute.  I found it hard to be social.
+The people he was hanging out with, I suppose his friends, were somewhat
+attractive.  They talked about drugs which was funny.  I didn't drink much at
+all.  I slipped out and went home.  I guess Friday nights are not the night to
+go out anyways.  You should go out tonight.  Maybe message Alex.  Even though
+you didn't like her poetry.  (Well, looking at my past writing...you should have
+a lot of forgiveness for bad writing, if you want to have any hope for
+yourself.)
+
+I looked at some pictures from Taiwan, China, etc.  I look pretty good in the
+Taiwan pictures (very young).  I look quite bad in some of the China pictures.
+I guess I remember not feeling good when those pictures were taken.  Hmm. 
+
+I've saved them all into a directory and managed to compress them.  
+Finding the "interesting" writing in all of that would be good. 
+Your minimalist/toneless writing is pretty boring to read.
+
+I can tell I'm tempted to not row today.  I didn't go to the boathouse in the
+morning, like I was planning to do.

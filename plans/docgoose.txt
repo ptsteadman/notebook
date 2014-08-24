@@ -8,6 +8,8 @@ people.  Also you will get lots of practical programming experience that comes
 with building "a company" "a website".  Finally, this is an idea that you have
 been trying to execute for a while, so it's good to get it off the backlog.
 
+Status: executing
+
 Steps:
 7/19/14: learn about Flask/Pyramid (finish that Pyramid tutorial!) DONE 7/25/14
 7/21/14: set up personal site / demo app (9/11 thing) on ec2 DONE 8/9/14

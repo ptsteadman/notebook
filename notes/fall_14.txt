@@ -1,0 +1,32 @@
+INTRODUCTION TO COMPUTER GRAPHICS:
+
+
+8/21/14:
+
+Three basic parts of a ray tracer:
+    1. ray generation (computes origin and direction of each ray)
+    2. ray intersection (finds object intersecting the ray)
+    3. shading (computes pixel color)
+
+for pixel in pixels:
+    compute viewing ray
+    find first object hit by ray and its surface normal
+    set pixel color value computer from hit point, light, and surface
+
+Parallel Projection: all rays are perpendicular to the view plane
+    points moved along "projection direction" until they hit the image plane
+    if image plane is perpendicular to view plane, orthogonal, else oblique
+    should look up some examples of what an orthographic rendering would look
+    
+"You may have learned about the artistic conventions of three-point-perspective,
+a system for manually constructing perspective views.  A surprising fact about
+perspective is that all the rules of perspective drawing will be followed
+automatically is we follow the simple mathematical rule underlying perspective:
+objects are projected directly towards the eye, and they are drawn where they
+meet a view plane in front of the eye."
+
+Surface Normal: vector perpendicular to the surface
+3D Parametric Lines: in graphics we use vectors because their forms are more
+intuitive than the cartesian forms.  
+Also easier to support in code.
+
