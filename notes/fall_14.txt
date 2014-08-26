@@ -3,20 +3,17 @@ INTRODUCTION TO COMPUTER GRAPHICS:
 
 8/21/14:
 
-Three basic parts of a ray tracer:
-    1. ray generation (computes origin and direction of each ray)
-    2. ray intersection (finds object intersecting the ray)
-    3. shading (computes pixel color)
+Three basic parts of a ray tracer: 1. ray generation (computes origin and
+direction of each ray) 2. ray intersection (finds object intersecting the ray)
+3. shading (computes pixel color)
 
-for pixel in pixels:
-    compute viewing ray
-    find first object hit by ray and its surface normal
-    set pixel color value computer from hit point, light, and surface
+for pixel in pixels: compute viewing ray find first object hit by ray and its
+surface normal set pixel color value computer from hit point, light, and surface
 
-Parallel Projection: all rays are perpendicular to the view plane
-    points moved along "projection direction" until they hit the image plane
-    if image plane is perpendicular to view plane, orthogonal, else oblique
-    should look up some examples of what an orthographic rendering would look
+Parallel Projection: all rays are perpendicular to the view plane points moved
+along "projection direction" until they hit the image plane if image plane is
+perpendicular to view plane, orthogonal, else oblique should look up some
+examples of what an orthographic rendering would look
     
 "You may have learned about the artistic conventions of three-point-perspective,
 a system for manually constructing perspective views.  A surprising fact about
@@ -25,8 +22,38 @@ automatically is we follow the simple mathematical rule underlying perspective:
 objects are projected directly towards the eye, and they are drawn where they
 meet a view plane in front of the eye."
 
-Surface Normal: vector perpendicular to the surface
-3D Parametric Lines: in graphics we use vectors because their forms are more
-intuitive than the cartesian forms.  
-Also easier to support in code.
+Surface Normal: vector perpendicular to the surface 3D Parametric Lines: in
+graphics we use vectors because their forms are more intuitive than the
+cartesian forms.  Also easier to support in code.
 
+
+ORAL COMMUNICATION
+
+Dialectical: only philosophical kings know Truth Only content matters
+
+Sophistical: hippias, gorgias -> gorgeous delivery, organization, style,
+audience analysis
+
+Rhetorical: probabilistic requires belief truth without belief without truth,
+truth without belief
+
+
+COMMUNICATION AND TECHNOLOGY
+
+Discoverability: is it possible to figure out what actions are possible and how
+to perform them?  Understanding: what do the settings/controls mean?
+
+very upsetting that he is pushing a specific, non-free software "edublogs"
+Industrial Design: "The professional service of creating and developing concepts
+and specifications that optimize the function, value, and appearance of products
+and systems for the mutual benefit of bothuser and manufacturer"
+
+tweet @2450fall2014 about chapter 1 of Norman
+set up blog site
+"machines require us to be precise and accurate, things we are not very good
+at"
+...machines / machine-like humans as deficient
+"many of the rules followed by a machine are known only by the machine and its
+designers" pg. 6
+"it is not our duty to understand the arbitrary, meaningless dictates of
+machines" ...disagree.  should be exactly as simple
