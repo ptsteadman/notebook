@@ -55,7 +55,6 @@ audience analysis
 
 Rhetorical: probabilistic requires belief truth without belief without truth,
 truth without belief
-
 1. Select a topic (word, phrase, question)
 2. Determine your purpose (informative, persuasive, ceremonial)
 3. Research (informal, formal, library)
@@ -120,3 +119,21 @@ indexing process:
 	  document frequency the collection
 	- inversion: converts document-term information to term-document
 	  information.   
+
+query process:
+    user interaction:
+        - query input
+        - query transformation
+        - results output: includes snippets
+    ranking:
+        - scoring: calculates scores for documents
+        - basic is SUM(q[i]*d[i]) for term i
+        - performance optimizations: term at a time vs document at a time, safe
+          vs unsafe
+        - distribution: query broker, cache
+    evaluation:
+        - precision: the proportion of retrieved documents that are relevant
+        - set precision: over entire set of docs
+        - precision at cutoff X = num docs with rank <= X / X
+        - if less than X documents are retreived, system loses (missing
+          documents are non-relevant)
