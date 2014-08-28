@@ -1,8 +1,5 @@
 INTRODUCTION TO COMPUTER GRAPHICS:
 
-
-8/21/14:
-
 Three basic parts of a ray tracer: 1. ray generation (computes origin and
 direction of each ray) 2. ray intersection (finds object intersecting the ray)
 3. shading (computes pixel color)
@@ -26,6 +23,28 @@ Surface Normal: vector perpendicular to the surface 3D Parametric Lines: in
 graphics we use vectors because their forms are more intuitive than the
 cartesian forms.  Also easier to support in code.
 
+8/27/14:
+achingly beautiful
+trillion triangles: 21 levels of detail
+cultural heritage
+
+graphics applications:
+entertainment
+science and engineering
+virtual prototyping
+cultural heritage
+training and simulation
+graphics art, fine art
+
+3d modeling: differential geometry, numerical optimization, grammars
+3d rendering: 2d views of 3d geometry, integrals
+animation: keyframe animation (interpolation) vs physical simulation (diffeq)
+images: polynomials, etc
+user interaction
+
+computer graphics: mathematics made visibile
+modeling: diffuse materials
+
 
 ORAL COMMUNICATION
 
@@ -36,6 +55,16 @@ audience analysis
 
 Rhetorical: probabilistic requires belief truth without belief without truth,
 truth without belief
+
+1. Select a topic (word, phrase, question)
+2. Determine your purpose (informative, persuasive, ceremonial)
+3. Research (informal, formal, library)
+4. Analyze audience
+5. Come up with a thesis/central idea
+6. Organize speech around thesis
+7. Practice and reduce notes
+
+Invention, Organization, Style, Delivery
 
 
 COMMUNICATION AND TECHNOLOGY
@@ -57,3 +86,37 @@ at"
 designers" pg. 6
 "it is not our duty to understand the arbitrary, meaningless dictates of
 machines" ...disagree.  should be exactly as simple
+
+8/28/14:
+
+key concepts from chapter 1:
+ - everydayness
+ - affordances: actual and perceived properties of how a thing should be used
+ - visibility 
+ - mappings: cultural, physical
+ - feedback
+ - conceptual models: design model, user model, system image
+
+
+INFORMATION RETREIVAL
+
+indexing process: 
+    text acquisition:
+	- use crawler, web, enterprise or.  need coverage and freshness
+	- feeds
+	- conversion
+    	- need a document data store 
+    text transformation:
+	- need parser to tokenizer
+	- stopping: remove common words...what about "let it be"
+	- stemming: group words derived from a common stem
+	- want to use algorithms, not language-specific knowledge 
+        - link analysis: makes use of links and anchor text
+	- information extraction: named entity recognizers
+	- classifiers: assigns labels to documents, topics, sentiment
+    index creation:
+	- document statistics
+	- weighting: use tf*idf weight, term frequency in document and inverse
+	  document frequency the collection
+	- inversion: converts document-term information to term-document
+	  information.   
