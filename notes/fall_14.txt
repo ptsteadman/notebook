@@ -55,6 +55,7 @@ audience analysis
 
 Rhetorical: probabilistic requires belief truth without belief without truth,
 truth without belief
+
 1. Select a topic (word, phrase, question)
 2. Determine your purpose (informative, persuasive, ceremonial)
 3. Research (informal, formal, library)
@@ -96,44 +97,19 @@ key concepts from chapter 1:
  - feedback
  - conceptual models: design model, user model, system image
 
+NETWORKS
 
-INFORMATION RETREIVAL
+bipartite graphs
+what are some things that can be modeled as a graph?  
+matching on graphs
+Internet in 1970
+path: a sequence of nodes, each connected by edges
+connected: path between any two nodes
+is the internet today connected? ... well, by definition, probably yes
+component: connected piece of a graph
+visual vs non-visual graphs "to big to draw"
+global friendship network has a "giant component" that contains you and most of
+the world's people
+could there be a second giant component?  
 
-indexing process: 
-    text acquisition:
-	- use crawler, web, enterprise or.  need coverage and freshness
-	- feeds
-	- conversion
-    	- need a document data store 
-    text transformation:
-	- need parser to tokenizer
-	- stopping: remove common words...what about "let it be"
-	- stemming: group words derived from a common stem
-	- want to use algorithms, not language-specific knowledge 
-        - link analysis: makes use of links and anchor text
-	- information extraction: named entity recognizers
-	- classifiers: assigns labels to documents, topics, sentiment
-    index creation:
-	- document statistics
-	- weighting: use tf*idf weight, term frequency in document and inverse
-	  document frequency the collection
-	- inversion: converts document-term information to term-document
-	  information.   
 
-query process:
-    user interaction:
-        - query input
-        - query transformation
-        - results output: includes snippets
-    ranking:
-        - scoring: calculates scores for documents
-        - basic is SUM(q[i]*d[i]) for term i
-        - performance optimizations: term at a time vs document at a time, safe
-          vs unsafe
-        - distribution: query broker, cache
-    evaluation:
-        - precision: the proportion of retrieved documents that are relevant
-        - set precision: over entire set of docs
-        - precision at cutoff X = num docs with rank <= X / X
-        - if less than X documents are retreived, system loses (missing
-          documents are non-relevant)
