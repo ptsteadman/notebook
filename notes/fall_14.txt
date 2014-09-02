@@ -45,6 +45,15 @@ user interaction
 computer graphics: mathematics made visibile
 modeling: diffuse materials
 
+8/29/14:
+cartesian product of set A and set B: all possible ordered pairs of A and B
+A^2 = A x A
+one to one = bijection = has inverse
+frame of reference/coordinate frame: store vectors u, v and w
+then we have a vector b in the canonical coordinate system
+to get the u, v, w coordinates of b:
+u[b] = u o b, v[b] = v o b, w[b] = w o b
+
 
 ORAL COMMUNICATION
 
@@ -113,3 +122,52 @@ the world's people
 could there be a second giant component?  
 
 
+INFORMATION RETREIVAL
+
+cranfield test collection paradigm for evaluation
+evaluation corpus: documents, queries, and relevance judgments
+queries: static set of information needs that a user might want to search on
+test collections drive IR research
+test collection drawbacks: hard to get realistic queries...also hard to avoid
+bias in relevance judgment
+only cover part of what is needed: user interactions are important but
+abstracted out
+"Document categorization in legal electronic discovery: computer classification
+vs manula review"
+Less than 20% agreement with documents actually turned over
+Amount of disagreement: relevance judgment doesn't necessarily effect the
+ranking of systems
+25 queries is the absolute minimum to be able to make general claims
+50 is preferred
+necessity for averaging over queries
+no single perfect query standard to tune towards
+so, there's been a lot of a focus on statistical methodology
+effectiveness measures: A is relevant, B is retreived
+
+recall = porportion of relevant documents retreived
+precision = porportion of retreived documents that are relevant
+
+false positive (Type I Error): a non-relevant document is retrieved
+false negative (Type II Error): relevant document is not retrieved
+
+F-Measure= Harmonic Mean of recall and precision = 2RP/(R + P)
+emphasizes small values
+
+Evaluating the effectiveness of ranking:
+     - calculatig recall and precision at fixed ranking
+     - calculating precision at standard recall levels
+     - average precision values from the points where relevant docs
+	- Mean Average Precision (MAP): assumes user is interested in finding
+	  many relevant documents for each query, requires many relevance judg
+     - recall precision graph
+     - calculate maximum precision at any point
+     - R-precision: measure precision for a single query after R documents have
+       been retrieved, where R is the number of relevant docs for the query
+     - MRR: mean reciprocal rank average of the reciprocal ranks over a set a of
+       queries.  Useful where there's only one relevant doc
+     - Discounted Cumulative Gain: accounts for multiple levels of relevance.
+       Also, lower ranked documents are less useful.  
+     - ex: 10 documents judged: 3, 2, 3, 0, 0, 1...
+				3, 2/1, 3/ 
+     - Normalized Discounted Cumulative Gain used so it can be averaged
+       Compares with "perfect" ranking actual/ideal
