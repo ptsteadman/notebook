@@ -121,8 +121,13 @@ global friendship network has a "giant component" that contains you and most of
 the world's people
 could there be a second giant component?  
 
+9/2/14: Bridge: removal would put endpoints in different components
+new information tends to flow over a bridge
+local bridge: an edge whose endpoints have no neighbors in common...not part of
+any triangle
 
-INFORMATION RETREIVAL
+
+INFORMATION RETRIEVAL
 
 cranfield test collection paradigm for evaluation
 evaluation corpus: documents, queries, and relevance judgments
@@ -133,7 +138,7 @@ bias in relevance judgment
 only cover part of what is needed: user interactions are important but
 abstracted out
 "Document categorization in legal electronic discovery: computer classification
-vs manula review"
+vs manual review"
 Less than 20% agreement with documents actually turned over
 Amount of disagreement: relevance judgment doesn't necessarily effect the
 ranking of systems
