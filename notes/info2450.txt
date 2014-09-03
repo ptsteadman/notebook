@@ -1,0 +1,36 @@
+Design Hall of Infamy: The Beer Bottle
+
+Few people seem to question the fact that one needs a special-purpose tool to
+open the classic beer bottle, even though beer is a generally considered a
+unpretentious consumer good.  Trying to open a bottle of beer without an opener
+is frustrating, and can often become dangerous, especially when the individuals
+being frustrated are intoxicated.  The existence of "twist-off" bottles (which
+reflect the state of the art for almost every other type of beverage container
+on the market) actually only make the situation worse: beer companies have
+generally neglected to make it obvious whether a bottle is twist-off or requires
+an opener, which leads to futile attempts to use a bottle opener with a twist-off top,
+and vice versa.  The scalloped ridges of the typical "pop off" bottle top
+resemble a grip providing traction for twisting, even though twisting the top
+will only result in injury.   While the twist-off tops allow for twisting, from
+the users perspective they are usually identical to pop-off tops.  The
+prospective beer user has to read to the label to discover if the bottle is
+twist-off or not, which is often difficult in typical beer-drinking scenarios.  
+
+After the beer user has opened the bottle, the bottle still poses a number of
+problems.  The shape of the bottle affords its use as a club: the neck of the
+bottle is approximately hand-sized, and the body of the bottle can be broken to
+create sharp surfaces.  Even when not intentionally used as a weapon, a broken
+beer bottle can be very dangerous.  The design of the classic beer bottle does
+not take into account the many of the classic use cases of beer.
+
+Most other beverage containers have evolved towards the use of soft plastic
+packaging, plastic twist-off lids with ridged surfaces affording twisting, and
+ergonomic shapes for gripping.  Why then, until recently, has the design of beer
+resisted these trends?  One factor is nostalgia for the old design, and a belief
+in its subjective superiority.  When Coors Brewing Company launched a plastic
+bottle and visibly twist-off-able lid for its classic "Old English" brand of
+beer, the new design received ridicule.  Coors and other companies are
+attempting to create a new bottle that is a hybrid between an aluminum can and a
+bottle shape, with a twist-off lid.  But many premium and craft brewers are
+won't budge from the classic design, meaning that the "old-fashioned" beer
+bottle design will remain in the Hall of Infamy for a long time.
