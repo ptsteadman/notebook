@@ -54,6 +54,10 @@ then we have a vector b in the canonical coordinate system
 to get the u, v, w coordinates of b:
 u[b] = u o b, v[b] = v o b, w[b] = w o b
 
+9/3/14:
+https://p3d.in
+Use it to check vertex normals and UV coordinates, not great for diagnosing
+
 
 ORAL COMMUNICATION
 
@@ -96,6 +100,19 @@ designers" pg. 6
 "it is not our duty to understand the arbitrary, meaningless dictates of
 machines" ...disagree.  should be exactly as simple
 
+and specifications that optimize the function, value, and appearance of products
+and systems for the mutual benefit of bothuser and manufacturer"
+
+tweet @2450fall2014 about chapter 1 of Norman
+set up blog site
+"machines require us to be precise and accurate, things we are not very good
+at"
+...machines / machine-like humans as deficient
+"many of the rules followed by a machine are known only by the machine and its
+designers" pg. 6
+"it is not our duty to understand the arbitrary, meaningless dictates of
+machines" ...disagree.  should be exactly as simple
+
 8/28/14:
 
 key concepts from chapter 1:
@@ -105,6 +122,12 @@ key concepts from chapter 1:
  - mappings: cultural, physical
  - feedback
  - conceptual models: design model, user model, system image
+
+9/4/14:
+information in the world: combine inforation in the world with info in head
+less declarative knowledge, more procedural
+great precision is not required
+constraints: natural (physical) constraints, cultural constraints
 
 NETWORKS
 
@@ -166,13 +189,25 @@ Evaluating the effectiveness of ranking:
 	  many relevant documents for each query, requires many relevance judg
      - recall precision graph
      - calculate maximum precision at any point
-     - R-precision: measure precision for a single query after R documents have
-       been retrieved, where R is the number of relevant docs for the query
-     - MRR: mean reciprocal rank average of the reciprocal ranks over a set a of
-       queries.  Useful where there's only one relevant doc
-     - Discounted Cumulative Gain: accounts for multiple levels of relevance.
-       Also, lower ranked documents are less useful.  
-     - ex: 10 documents judged: 3, 2, 3, 0, 0, 1...
-				3, 2/1, 3/ 
-     - Normalized Discounted Cumulative Gain used so it can be averaged
-       Compares with "perfect" ranking actual/ideal
+
+9/4/14: Text Acquisition and Web Crawlers
+What pages should we search?
+web crawler starts with set of seeds
+seeds are added to a url request queue, new urls are added "frontier"
+Exact duplicate detection is easy: 
+Checksum: value based on the contetn of the file...Cyclic Redundancy Check (CRC)
+Near Duplicate Detection: Search is O(N), Discovery is O(N^2).  Fingerprinting
+Simple priority queue fails: many links out of a page go to same server
+politeness policy, use threads
+Mercator Scheme: URLs-> Prioritizer -> front queues of pri -> back queue router
+-> back queues with single host on each -> back queue selector
+Desktop Crawlers:
+	- easier to find data
+	- responding to updates is more important
+	- must be more conservative of cpu/disk usage
+	- many document formats
+	- data privacy
+Also, Document Feeds:
+	- push feeds alerts subscriber to new documents
+	- pull feed requires the subscriber to check
+	- RSS: ttl (amount of time contents should
