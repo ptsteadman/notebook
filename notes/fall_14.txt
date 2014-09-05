@@ -45,6 +45,19 @@ user interaction
 computer graphics: mathematics made visibile
 modeling: diffuse materials
 
+8/29/14:
+cartesian product of set A and set B: all possible ordered pairs of A and B
+A^2 = A x A
+one to one = bijection = has inverse
+frame of reference/coordinate frame: store vectors u, v and w
+then we have a vector b in the canonical coordinate system
+to get the u, v, w coordinates of b:
+u[b] = u o b, v[b] = v o b, w[b] = w o b
+
+9/3/14:
+https://p3d.in
+Use it to check vertex normals and UV coordinates, not great for diagnosing
+
 
 ORAL COMMUNICATION
 
@@ -87,6 +100,19 @@ designers" pg. 6
 "it is not our duty to understand the arbitrary, meaningless dictates of
 machines" ...disagree.  should be exactly as simple
 
+and specifications that optimize the function, value, and appearance of products
+and systems for the mutual benefit of bothuser and manufacturer"
+
+tweet @2450fall2014 about chapter 1 of Norman
+set up blog site
+"machines require us to be precise and accurate, things we are not very good
+at"
+...machines / machine-like humans as deficient
+"many of the rules followed by a machine are known only by the machine and its
+designers" pg. 6
+"it is not our duty to understand the arbitrary, meaningless dictates of
+machines" ...disagree.  should be exactly as simple
+
 8/28/14:
 
 key concepts from chapter 1:
@@ -96,6 +122,12 @@ key concepts from chapter 1:
  - mappings: cultural, physical
  - feedback
  - conceptual models: design model, user model, system image
+
+9/4/14:
+information in the world: combine inforation in the world with info in head
+less declarative knowledge, more procedural
+great precision is not required
+constraints: natural (physical) constraints, cultural constraints
 
 NETWORKS
 
@@ -112,4 +144,70 @@ global friendship network has a "giant component" that contains you and most of
 the world's people
 could there be a second giant component?  
 
+9/2/14: Bridge: removal would put endpoints in different components
+new information tends to flow over a bridge
+local bridge: an edge whose endpoints have no neighbors in common...not part of
+any triangle
 
+
+INFORMATION RETRIEVAL
+
+cranfield test collection paradigm for evaluation
+evaluation corpus: documents, queries, and relevance judgments
+queries: static set of information needs that a user might want to search on
+test collections drive IR research
+test collection drawbacks: hard to get realistic queries...also hard to avoid
+bias in relevance judgment
+only cover part of what is needed: user interactions are important but
+abstracted out
+"Document categorization in legal electronic discovery: computer classification
+vs manual review"
+Less than 20% agreement with documents actually turned over
+Amount of disagreement: relevance judgment doesn't necessarily effect the
+ranking of systems
+25 queries is the absolute minimum to be able to make general claims
+50 is preferred
+necessity for averaging over queries
+no single perfect query standard to tune towards
+so, there's been a lot of a focus on statistical methodology
+effectiveness measures: A is relevant, B is retreived
+
+recall = porportion of relevant documents retreived
+precision = porportion of retreived documents that are relevant
+
+false positive (Type I Error): a non-relevant document is retrieved
+false negative (Type II Error): relevant document is not retrieved
+
+F-Measure= Harmonic Mean of recall and precision = 2RP/(R + P)
+emphasizes small values
+
+Evaluating the effectiveness of ranking:
+     - calculatig recall and precision at fixed ranking
+     - calculating precision at standard recall levels
+     - average precision values from the points where relevant docs
+	- Mean Average Precision (MAP): assumes user is interested in finding
+	  many relevant documents for each query, requires many relevance judg
+     - recall precision graph
+     - calculate maximum precision at any point
+
+9/4/14: Text Acquisition and Web Crawlers
+What pages should we search?
+web crawler starts with set of seeds
+seeds are added to a url request queue, new urls are added "frontier"
+Exact duplicate detection is easy: 
+Checksum: value based on the contetn of the file...Cyclic Redundancy Check (CRC)
+Near Duplicate Detection: Search is O(N), Discovery is O(N^2).  Fingerprinting
+Simple priority queue fails: many links out of a page go to same server
+politeness policy, use threads
+Mercator Scheme: URLs-> Prioritizer -> front queues of pri -> back queue router
+-> back queues with single host on each -> back queue selector
+Desktop Crawlers:
+	- easier to find data
+	- responding to updates is more important
+	- must be more conservative of cpu/disk usage
+	- many document formats
+	- data privacy
+Also, Document Feeds:
+	- push feeds alerts subscriber to new documents
+	- pull feed requires the subscriber to check
+	- RSS: ttl (amount of time contents should
