@@ -149,6 +149,19 @@ new information tends to flow over a bridge
 local bridge: an edge whose endpoints have no neighbors in common...not part of
 any triangle
 
+9/5/14: Networks with Positive and Negative Links
+claim: if a complete graph is balanced, then one of two things must occur:
+    - all edges are positive
+    - the nodes can be divided into two groups
+proof:
+take any node A, x = A and A's friends
+                 y = A's enemies
+in a balanced world, every pair of A's friends must be friends
+in a balanced world, every pair of A's enemies must be friends
+in a balanced world, any pair of a friend and an enemy must be enemies
+
+9/8/14: 
+
 
 INFORMATION RETRIEVAL
 
@@ -211,3 +224,42 @@ Also, Document Feeds:
 	- push feeds alerts subscriber to new documents
 	- pull feed requires the subscriber to check
 	- RSS: ttl (amount of time contents should
+
+9/9/14:
+BigTable:
+    - No query language
+    - only row level operations
+    - row stores data for a single web page: row key, column key, timestamp
+    - distributed
+    - huge number of columns: same column groups, not necessarily the same
+      columns
+    - important for reducing disk/memory reads to access document data
+    - rows are partitioned into tablets based on their row keys
+    - tablet server allows for distribution...similar to a B tree
+    - in 2006: 800TB crawl, 11% compression, 1000 billion cells, 16 column
+      families
+    - no locking issues: data is never overwritten
+Removing Noise:
+    - look at the tag/token ratio
+Processing Text:
+    - converting documents to a more consistent set of index terms
+    - can't match strings
+    - not all words are of equal value
+    - Zipf's Law: rank of a word times its frequency is approximately a
+      constant 0.1
+    - word that occurs n times has rank k/n
+    - number of words with requence n is 
+    - Heap's Law: as corpus grows, so does vocabularly size slowly
+    - v = k * n^b...logarithmic
+    - tokenizing: small decisions in tokenzizing can have large impact on
+      queries
+    - small words can be important in some queries, usually in combination
+    - often hyphenated and non-hyphenated forms of words are both common
+    - best to defer complex decision to other components
+    - stopping: removing high frequency words, but they can be important in
+      combination
+    - stemming: many morphological variations of words...inflectional (plurals,
+      tenses), derivational (making verbs nouns...)
+    - same or similar meaningsa
+    - things can be done at query time or as part of indexing
+    - 
