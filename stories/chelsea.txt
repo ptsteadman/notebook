@@ -1,0 +1,95 @@
+var root = {
+text: "In the fall of my senior year at Cornell, I got a software engineering job at
+Facebook.  It was a surprise, sort of:  I'd been planning on being a poor
+hacker/writer/artist.   But I figured, why not work for Facebook?  I'd meet
+some good programmers, make $120k a year.  Maybe that's what I deserved,
+despite, or because of, my struggles in college. 
+
+Accepting the offer led to dramatic changes in my character, and in how I
+related to other people, such that just two years after graduation, I found
+myself in a nightmare of New York, looking at the childhood stuffed animals
+sitting by my monitor, wondering if they served the same purpose as photographs
+given to androids: to provide a physical anchor for false, implanted memories of
+a life before.",
+children: {
+"c1": {
+text:
+"The biggest change is that I developed an interest in "hacking" the devices and
+accounts of the people in my life.  To the outside observer, this is probably
+pretty scandalous and extreme.  To me, most of the time, it felt like a positive
+development: I had finally found my passion as a programmer.  I had found the
+place where my interests in programming and literature intersected.  My whole life I had felt that
+I was surrounded by beautiful stories that I simply couldn't access because I
+was relatively introverted, or didn't possess a strong speaking voice, etc.  I
+wanted my cake, but I didn't want to ever have to eat it, if that makes sense.
+And by covertly accessing all of the digital information about the lives of the
+people in my life, now I suddenly could have my cake, every day.  I felt the
+sense of connection to other people and the world that I had always craved.
+
+Perhaps unsuprisingly, the story of the first person I "hacked" is
+interesting, and personal. [c1] It involved someone beautiful, a newfound sense of
+power, humilation, and what felt like victory.  Subsequent "hackings" have been
+much softer.  Softness has fallen onto my life.
+
+To what degree did I use the information gained from my hacking activities in
+order to further my own interests?  To a moderately high degree.
+
+The social capital of working at facebook meant that, as soon as I moved to New
+York and became friendly with my class of new software engineers, I suddenly had
+a truly busy social life, for the first time in my life.  I had somewhere to go
+every night.  Before getting the facebook job....
+
+I would meet new people every day, and they were all good enough to have a
+decent conversation with.  Everything we talked about felt relevant.  How this
+exactly was connected with the job at facebook, I'm not sure.  I just felt I was
+coming to into my own role in the world, and everyone I met was now relevant to that
+role.  It wasn't exactly clear what that role was, yet, but I needed lots of
+information about what was going on in New York and on the Internet, and
+everyone I met had information.
+
+My life was more or less under control, for the first time ever.  I had been a
+depressed person in college, and also bipolar sometimes.  I wanted to see how
+far I could push that control. 
+
+Love is the only thing that can drive you crazy.  That's not true at all.",
+children: {
+"c1": {
+text: "
+I'd trade everything I have in life to be a pretty boy, or I guess a pretty
+girl.  When I was in high school, I had an intense sense that I grossed people
+out by my physical appearance, mannerisms, and essence, at a fundamental level.
+This sense has diminished over time, but I think my insecurity about my
+physical, emotional, and intellectual hygenie led to my fascination with
+Tom.  
+
+Upon moving to New York and starting my job, I made a girlfriend almost
+immediately, named Marissa.  Tom was her ex.  They were still friends.  
+
+"I know this seems like a dick move", said Marissa, "but you should hang out
+with Tom.  You guys are both into computers."
+
+Tom had broken up with Marissa.  It seemed to me like Tom had dumped Marissa,
+because he wanted to be single.  
+
+It became clear very quickly, over the course of a few nights out, that Tom was
+what I had always wanted to be.  But I also discovered that he was fragile.
+
+On one of these fragile nights I helped Tom to a cab.  He left his jacket with
+me, and in his jacket was his phone.  I messaged him on facebook that he could
+pick it up anytime.
+
+His phone wasn't locked, and I immediately started looking through his recent
+messages.  I spent the rest of the day reading everything I could find.
+",
+children:{}
+}
+}
+}
+}
+}
+
+I had been planning on doing some hardware hacking for some time.  I imagined a
+place in New York full of old and new electronics parts, slightly
+obselete computers, etc.  I searched for a store or thift market like this both
+on the internet and by just walking around areas that seemed
+promising.",
