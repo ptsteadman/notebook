@@ -1,35 +1,25 @@
 var root = {
-text: "In the fall of my senior year at Cornell, I got a software engineering job at
-Facebook.  It was a surprise, sort of:  I'd been planning on being a poor
-hacker/writer/artist.   But I figured, why not work for Facebook?  I'd meet
-some good programmers, make $120k a year.  Maybe that's what I deserved,
-despite, or because of, my struggles in college. 
-
-Accepting the offer led to dramatic changes in my character, and in how I
-related to other people, such that just two years after graduation, I found
-myself in a nightmare of New York, looking at the childhood stuffed animals
-sitting by my monitor, wondering if they served the same purpose as photographs
-given to androids: to provide a physical anchor for false, implanted memories of
-a life before.",
-children: {
+"text": "In the fall of my senior year at Cornell, I \n\n\
+ got a software engineering job atFacebook.  It was sort of a surprise:  I'd been planning on being a poor hacker/writer/artist.   But I figured, why not work for Facebook?  I'd meet some good programmers, make $120k a year.  Maybe that's what I deserved, despite, or because of, my struggles in college.  \n Accepting the offer led to dramatic changes in my character, and in how I related to other people. Just two years after graduation, I found myself in a nightmare of New York, looking at the childhood stuffed animals sitting by my monitor, wondering if they served the same purpose as photographs given to androids: to provide a physical anchor for false and implanted memories ofa life before.",
+"children": {
 "c1": {
-text:
-"The biggest change is that I developed an interest in "hacking" the devices and
-accounts of the people in my life.  To the outside observer, this is probably
-pretty scandalous and extreme.  To me, most of the time, it felt like a positive
-development: I had finally found my passion as a programmer.  I had found the
-place where my interests in programming and literature intersected.  My whole life I had felt that
-I was surrounded by beautiful stories that I simply couldn't access because I
-was relatively introverted, or didn't possess a strong speaking voice, etc.  I
-wanted my cake, but I didn't want to ever have to eat it, if that makes sense.
-And by covertly accessing all of the digital information about the lives of the
-people in my life, now I suddenly could have my cake, every day.  I felt the
-sense of connection to other people and the world that I had always craved.
+"text":
+"The biggest change is that I developed an interest in 'hacking' the devices and accounts of the people in my life.  To the outside observer, this probably sounds pretty scandalous and extreme.  To me, most of the time, it felt like a positive development: I had finally found my passion as a programmer.  I had found the place where my interests in programming and literature intersected."
+}}}
+/*
+My whole life I had felt that I was surrounded by stories of harrowing beauty that I
+simply couldn't access because I was relatively introverted, or didn't possess a
+strong speaking voice, etc.  I wanted my cake, but I didn't want to ever have to
+eat it, if that makes sense.  By covertly accessing all of the digital
+information about the lives of the people in my life, I suddenly could have
+my cake, every day.  I felt the sense of connection to other people and the
+world that I had always craved.
 
 Perhaps unsuprisingly, the story of the first person I "hacked" is
 interesting, and personal. [c1] It involved someone beautiful, a newfound sense of
 power, humilation, and what felt like victory.  Subsequent "hackings" have been
-much softer.  Softness has fallen onto my life.
+much softer.  Softness has fallen on my life.  Softness and mild pain like a New
+England Christmas morning.
 
 To what degree did I use the information gained from my hacking activities in
 order to further my own interests?  To a moderately high degree.
@@ -93,3 +83,5 @@ place in New York full of old and new electronics parts, slightly
 obselete computers, etc.  I searched for a store or thift market like this both
 on the internet and by just walking around areas that seemed
 promising.",
+*/
+
