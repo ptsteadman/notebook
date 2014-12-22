@@ -1,11 +1,188 @@
 <html>
-    <head>
-        <script src="chelsea.json"></script>
-        <script src="narrative_tree.js"></script>
-        <link rel="stylesheet" href="chelsea.css">
-    </head>
-    <body>
-         <h1>Chelsea</h1>
-         <div id="text"></div>
-    </body>
+<head>
+<title>Chelsea</title>
+<script src="jquery-1.11.1.min.js"></script>
+<script src="narrative_tree.js"></script>
+<link rel="stylesheet" href="narrative_tree.css">
+<link rel="stylesheet" href="chelsea.css">
+</head>
+<body>
+<h1>Chelsea</h1>
+<div class="narrative"></div>
+<div class="narrative_tree">
+    <div data-nid="root" class="node">
+        <div class="text">
+            Before moving to New York, I made two promises to myself: that I
+            would row five kilometers a day, and that I would do nothing but
+            "work" while at work.  I believed that if I followed these two
+            rules, I could avoid most post-grad nightmare hells.
+            <br><br>
+            In the fall of my senior year at Cornell, I got a software engineering job at Facebook.
+            It was sort of a surprise:  I'd been planning on being a poor hacker/writer/artist.  But
+            I figured, why not <span class="link" data-nid="mornings">work for
+                Facebook?</span><span class="replace"
+                data-nid="mornings"></span>  I'd meet some good programmers, make $120k a
+            year.  Maybe that's what I deserved, despite, or because of, my struggles in college.
+            <br><br>
+            <span data-nid="changes" class="replace"> Accepting the offer led to <span
+                    data-nid="changes" class="link">dramatic changes in my character, and in how I
+                    related to other people.</span><br /></span> <br /><br>
+            Just two years after graduation, I found myself in a nightmare of New York, looking at the
+            childhood stuffed animals sitting by my monitor, wondering if they served the same purpose as
+            photographs given to androids: to provide a physical anchor for false and implanted memories of
+            a life before.
+        </div>
+    </div>
+    <div data-nid="changes" class="node">
+        <div class="text"><br />
+            The biggest change is that I developed an interest in 'hacking' the devices and accounts
+            of the people in my life.  To the outside observer, this probably sounds pretty
+            scandalous and extreme.  To me, most of the time, it felt like a positive development: I
+            had finally found my passion as a programmer.  
+                <span class="link replace" data-nid="beauty"> I had found the place where my interests
+                in programming and literature intersected.</span>
+        </div>
+    </div>
+    <div data-nid="beauty" class="node">
+      <div class="text">
+                      <br>
+            My whole life I had felt that I was surrounded by stories of beauty
+            that I couldn't access because I was relatively introverted, didn't
+            possess a strong speaking voice, etc.  I wanted my cake, but I
+            didn't want to ever have to eat it, if that makes sense.  By
+            covertly accessing all of the digital information about the lives of
+            the people in my life, I suddenly could have my cake, every day.  I
+            felt the sense of connection to other people and the world that I
+            had always craved.
+                <span class="replace" data-nid="tom">Perhaps unsuprisingly, 
+                <span class="link" data-nid="tom">the story of the first person I "hacked"</span> 
+                is interesting, and personal. It involved someone beautiful, a newfound sense of
+                power, humilation, and what felt like victory. </span> 
+            Subsequent "hackings" have been much softer.  Softness has fallen on my life.  Softness
+            and mild pain like a New England Christmas morning.
+      </div>
+    </div>
+
+    <div class="node" data-nid="tom">                    
+        <div class="text">
+            <br>
+            I'd trade everything I have to be a pretty boy, or I guess a pretty girl.  When
+            I was in high school, I had a sense that my physical appearance and mannerisms
+            grossed people at a fundamental level.  This fall has diminished over time, but
+            I think this insecurity led to my fascination with Tom.  
+
+            Upon moving to New York and starting my job, I met a girlfriend almost
+            immediately, named Marissa.  Tom was her ex.  They were still friends.  
+
+            "I know this seems like a dick move", said Marissa, "but you should hang out
+            with Tom.  You guys are both into computers."
+
+            Tom had broken up with Marissa.  It seemed to me like Tom had dumped Marissa,
+            because he wanted to be single.  
+
+            It became clear, over the course of a few nights out, that Tom was what I had
+            always wanted to be.  But I also discovered that he was fragile.
+
+            On one of these fragile nights I helped Tom to a cab.  He left his jacket with
+            me, and in his jacket was his phone.  I messaged him on facebook that he could
+            pick it up anytime.
+
+            His phone wasn't locked, and I immediately started looking through his recent
+            messages.  I didn't think much of it.  I spent the rest of the day reading
+            everything I could find.
+
+            I searched for my name.
+
+            "Yeah, he was nice.  Kind of boring though," Tom had said to Marissa.
+
+            "Oh?" said Marissa.
+
+            "You made him seem a lot more interesting.  He just talked about work and
+            money," Tom continued.  Marissa defended me, and they had a subdued fight
+            where...
+
+            Facebook's search function found only one other conversation where I was named
+            explicitly.
+
+            Tom talked to so many people, all the time.  This was surprising to me, because
+            I barely ever saw him using his phone.  It was hard to understand what made him
+            message "hey" to six or seven people at once.  Some of the conversations would
+            go somewhere, other's wouldn't.  Randomly, Tom would have an intense
+            conversation with someone, where he really spilled his guts.  In a plaintive
+            tone, he would talk about his stressors.
+
+        </div>
+    </div>
+    <div class="node" data-nid="boring-tease">
+        <div class="text">
+            It was just Tom discussing who to invite out, one night two weeks
+            ago.
+        </div>
+    </div>
+    <div class="node" data-nid="own_life_scrutiny">
+        <div class="text">
+            While reading through the old messages of friends and lovers, I
+            sometimes ended up reading conversations from my own past.
+            I usually felt the familiar dread and pain that
+            came  with seeing myself as others saw me.  None of the
+            messages were old enough to allow for the possibility that
+            I'd changed since sending them.  A person with more willpower
+            might have used the pain of these messages as motivation to change
+            himself.  A more humble person might have realized that she should
+            be kinder to others.  A person with more hustle might have stopped reading,
+            to avoid any loss of self-confidence or accumulation of
+            self-consciousness.  For me, my own messages were mostly just an
+            unpleasant reminder of a reality that I thought I had haphazardly
+            transcended, or avoided.
+        </div>
+    </div>
+    <div class="node" data-nid="marissa">
+        <div class="text">
+            I only had one girlfriend during college, and one abortive "hookup".
+            Thus, it was surprising that within a month of moving to New York, I
+            was in a relationship with someone that I really liked.  Marissa
+            really lit up my life.  I found her both mysterious and pleasant; I
+            was happy to be dating someone who was appealing to me on so many
+            levels.  It felt like we were both proper young adults, at the exact
+            same place in life together, but each with our own inner lives that gave
+            lustre to our eyes and made conversation interesting.  
+
+            We cheated on each other so much.
+            Too much perfume.
+        </div>
+    </div>
+    <div class="node" data-nid="mornings">
+        <div class="text">
+            <br>
+            My job was beautiful in the mornings.  I'd wake up and drink a glass
+            of ice water, and then row on the rowing machine <span class="link
+                " data-nid="rowing_machine">rowing machine</span>.<span
+                class="replace" data-nid="rowing_machine"></span>  
+            <br><br>
+        </div>
+    </div>
+    <div class="node" data-nid="rowing_machine">
+        <div class="text">
+            The rowing machine was the only sacred object in my apartment.  It
+            was situated so that I could see the Manhattan skyline while I
+            rowed.  I anticipated the late fall and winter because I could row
+            in the dark, and see the warning lights on the buildings across the
+            river pulsing slowly. 
+            <br />
+           
+            My parents were confused by the young adult I became in
+            college, and when I walked on to the rowing team, they had clung
+            to my identity as a rower as one of the few positive facts they knew
+            about me.  As a result, almost all of my Christmas gifts during
+            those years were rowing related.  These gifts hung on the wall next
+            to the rowing machine: a hand drawn poster from the 1920's
+            commemorating Ivy League crews, parts of antique rowing shells, and,
+            "embarassingly", pictures of me racing at Eastern Sprints and the
+            IRAs.  When people made fun of my shrine, I reminded myself that
+            these items were proof that my parents loved me more than any of
+            them.
+        </div>
+    </div>
+</div>
+</body>
 </html>

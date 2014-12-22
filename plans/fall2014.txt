@@ -5,7 +5,7 @@ Objectives:
     - make a new friend 
     - get to go to florida for rowing
 
-Status: executing
+Status: done
 9/28/14: These are some very ~difficult~ goals.  They are essentially the goals
 of 2012 in a lot of ways.  Each alone is difficult.  Each is not particular
 exciting: I am very accustomed to ~not~ achieving these goals.  But acheiving
@@ -30,6 +30,35 @@ Making a new friend?  Fuck.
 Florida?  Makes me nervous thinking about it.
 
 Reaffirm!
+
+12/18/14: Done.
+    - get solid grades, solidly
+    This went pretty well.  This finals week was good.  Getting the mean on the
+graphics final was one of the few academic things I feel good about at Cornell.
+Everything else went pretty well.  You stopped going to every class at some
+point, which made things a bit hairier than they had to be, but it was all
+recoverable and nothing got too crazy.  You learned more than any other semester
+by far.  We'll see when grades come out, but I think the outcome will be good.
+3.3 is my overall GPA goal.  
+    - consistently work on projects
+    Eh.  When I stopped ~trying~ to do this and the cracking coding stuff every
+day, things got messier.  Having this daily things keeps everything else
+focused, I think.  But, I am well set up for working on Chelsea on break: the
+other little projects converged into Chelsea, which will hopefully be a "game
+changer"...a "game changer" is what I want and need.
+    - crack the coding interview
+    Facebook stuff was intense.  Definitely took some good steps.  The next
+level as a programmer is probably obtainable via reading SICP, doing
+Brilliant.org things, TopCoder, etc.  Project Euler.  Cracking the Coding
+Interview alone won't really do it, I think.  Doesn't actually develop the
+problem solving skills very much.  This doesn't really seem like a priority now,
+though.
+    - make a new friend
+    Sigh...there's always tonight.
+    - get to go to Florida for rowing
+    I was far off this one.  I should probably think about why.  Probably just
+did not put in the work and just expected to get better.  Injured knee kept you
+a bit slower too.  I think I am set up well for spring, though.  
 
 How to get solid grades, solidly:
     - go to all classes
