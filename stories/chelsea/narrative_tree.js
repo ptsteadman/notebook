@@ -4,7 +4,7 @@ $(document).ready(function(){
     
     var liveText = function(nid){
         console.log(nid);
-        var text = root.find(".node[data-nid=\"" + nid + "\"]>.text").html();
+        var text = root.find(".node[data-nid=\"" + nid + "\"]").html();
         var liveText = $("<div class='live_text'>").html(text);
         liveText.attr('data-nid', nid).hide();
         return liveText;
@@ -23,6 +23,7 @@ $(document).ready(function(){
             $(".replace[data-nid=\"" + nid + "\"]").replaceWith(newText);
             showLiveText(nid);
         });
+        console.log($(".live_text"));
     });
 
 });
