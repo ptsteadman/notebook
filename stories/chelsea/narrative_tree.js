@@ -12,6 +12,7 @@ $(document).ready(function(){
 
     var showLiveText = function(nid){
         $(".live_text[data-nid=\"" + nid + "\"]").fadeIn();
+        $(".live_text[data-nid=\"" + nid + "\"]").css("background-color","#fff");
     }
 
     var root = $(".narrative_tree").clone();
@@ -19,6 +20,8 @@ $(document).ready(function(){
     $(".narrative").on("click",".link", function(){
         var nid = $(this).attr('data-nid');
         var newText = liveText(nid);
+        $(".live_text").css("background-color", "#eee");
+        $(".center").css("background-color", "#eee");
         $(".replace[data-nid=\"" + nid + "\"]").fadeOut(500, function(){
             $(".replace[data-nid=\"" + nid + "\"]").replaceWith(newText);
             showLiveText(nid);

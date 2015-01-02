@@ -1,0 +1,14 @@
+.narrative_tree {
+    display: none;
+}
+
+
+.link {
+    text-decoration: underline;
+    color: darkblue;
+    cursor: pointer;
+}
+
+.live_text {
+    padding: 2px 5px;
+}
