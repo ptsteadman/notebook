@@ -1,3 +1,5 @@
+# Hexo Notes
+
 ### Setup
 
 To Update NPM: `npm install npm@latest -g`.
