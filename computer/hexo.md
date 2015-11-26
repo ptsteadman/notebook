@@ -1,9 +1,13 @@
-To Update NPM: npm install npm@latest -g
-NVM Installation Instructions:
-http://linoxide.com/ubuntu-how-to/install-node-js-ubuntu/
+### Setup
+
+To Update NPM: `npm install npm@latest -g`.
+
+In 2015 it makes sense to use NVM.  [NVM Installation Instructions](http://linoxide.com/ubuntu-how-to/install-node-js-ubuntu)
 
 Hexo: why can't you use helper functions in source code? 
 Should be in docs.
+
+### Creating a Custom Index File in Hexo
 
 Trying to generate a custom index file in source, hexo would ignore
 `source/index.md` no matter what I did.  What I had to do was uninstall
