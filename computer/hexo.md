@@ -14,4 +14,28 @@ seperate the theme from the content, I think.  Having everyone edit the theme
 index.ejs template is no good.
 
 
+### Hexo Rendering Raw EJS File Problem I Encountered
 
+Sometimes the server would keep rendering an old version of my code, but as
+text.  So I'd see stuff like
+
+<% if (site.tags.length){ %>
+
+The raw ejs, essentially.  Restarting the server or running `hexo clean` didn't
+do anything.
+
+After some time, I realized it was due to the gedit swap files being read by
+hexo as the actual layout files: for example, `tag.ejs~`.  My `partial` helpers
+looked like: `<%- partial('_partials/tag') %>`, and apparently hexo was reading
+in `tag.ejs~` instead of `tag.ejs`.  And therefore, the ejs wasn't rendering.
+
+To fix this, I simply changed my partial helper to `<%-
+partial('_partials/tag.ejs') %>`.  Problem solved.
+
+### Hexo Excerpt Variable
+
+I was confused by the behavior of the hexo `excerpt` variable.  If you define
+`excerpt: something` in the front matter, hexo ignores that.  Instead, to get it
+to work, one needs to add a `<!-- more -->` comment in the source of the post.
+Or, you can install a plugin that allows you to define custom excerpt in the
+front matter.
