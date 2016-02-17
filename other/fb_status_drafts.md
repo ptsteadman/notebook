@@ -16,3 +16,22 @@ there's a nice apartment.  On the second and third floors, there a coffee
 packaging operation.  On the fourth floor, there's a mysterious silent digital
 agency.  We share the fifth floor with a lingeie company.  There's a nice
 apartment on the sixth floor.  I haven't tried to access the roof.  
+
+I'm very interested in what makes writing "seductive".  By seductive writing I
+mean writing that you want to keep reading, and also writing that you think
+about after you stop reading.  Essentially, writing that you want.  Here's some
+observations I've made:
+
+1) Two key aspects of seductive writing: the creation of tension, and
+effectively embodying the reader within the story.  Tension is an interesting
+thing because it generally doesn't seem "tense".  The tension I'm referring to
+is the tension that compels you to wake up in the morning and continue living
+your life.  There are certain things that pull you forward.  You desire the next
+thing.  Embodiment is a big part of making tension work.  If the reader can feel
+themselves in the story, its a lot easier to create tension.  The reader is
+going to feel the natural tension of an unexplored relationship or section of
+the town.
+
+2) Writing can always fall flat.  Seductive writing is very temporal and
+subjective.  Very few things are universally seductive to all people.  Seductive
+writing can be bad, or it can be good.
