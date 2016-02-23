@@ -1,9 +1,9 @@
 I'm 'into' politics against for the first time since 2004.
 
-No one beyond your friends will ever like you or pay attention to you.
-It is just what you are.
-There is always a fact of reality that can wear down your desire for something
-until you consider yourself wiser, for not wanting it any more.
+No one beyond your friends will ever like you or pay attention to you.  It is
+just what you are.  There is always a fact of reality that can wear down your
+desire for something until you consider yourself wiser, for not wanting it any
+more.
 
 We should burn all of the mountains and use the energy to power computers.
 
@@ -31,4 +31,12 @@ relationship.
 2) Writing can always fall flat.  Seductive writing is very temporal and
 subjective.  Not much is universally seductive.  Seductive writing can be bad,
 or it can be good.
+
+Many people have asked me what my secret is.  My secret is that I get pumped up
+for *everything* that I do.  In 2016, with a decent stack of genetics,
+environment, and consistent effort, it is possible to be happy virtually all of
+the time.  If you build your life on top of robust systems, like Soylent,
+Adderall, TalkSpace, SoulCycle, Ketamine, GitHub, and Harvest, almost nothing
+can ruin your life, except for a few thorny edge and corner cases.  But those
+are what make life beautiful :). 
 
