@@ -1,9 +1,8 @@
 I'm 'into' politics against for the first time since 2004.
 
 No one beyond your friends will ever like you or pay attention to you.  It is
-just what you are.  There is always a fact of reality that can wear down your
-desire for something until you consider yourself wiser, for not wanting it any
-more.
+just what you are.  There is always some fact of reality that can wear down your
+desire until you consider yourself wiser, for not wanting it any more.
 
 We should burn all of the mountains and use the energy to power computers.
 
@@ -33,10 +32,57 @@ subjective.  Not much is universally seductive.  Seductive writing can be bad,
 or it can be good.
 
 Many people have asked me what my secret is.  My secret is that I get pumped up
-for *everything* that I do.  In 2016, with a decent stack of genetics,
+for *everything* I do.  In 2016, with a decent stack of genetics,
 environment, and consistent effort, it is possible to be happy virtually all of
-the time.  If you build your life on top of robust systems, like Soylent,
-Adderall, TalkSpace, SoulCycle, Ketamine, GitHub, and Harvest, almost nothing
-can ruin your life, except for a few thorny edge and corner cases.  But those
-are what make life beautiful :). 
+the time.  If you build your life on top of robust systems like Soylent,
+Adderall, TalkSpace, SoulCycle, ReactJS, Ketamine, GitHub, and Harvest, almost nothing
+can ruin your life, except for a few thorny edge cases.  But those are what make
+life beautiful :). 
+
+Please enjoy the pain which is unable to avoid. 
+As the dog equally studies, the gentleman equally plays. 
+If you nap now, you will interpret a dream, but if 
+you wake, you will realize it. 
+Now drips the saliva, will become tomorrow the tear.
+Time passes.
+
+When I ran away from home and my dad had to fly to North Dakota to retrieve me
+from a juvenile detention center, he brought me swim trunks, anticipating that
+we'd probably have to stay at a hotel.
+
+A famous artist convinced my middle school art teacher to help him with with an
+elaborate art project, but refused to give the teacher a little sketch after,
+because "it would devalue [the famous artist's] work".
+
+Coors light and keystone light are the exact same beer, just with different
+branding.
+
+A child just lost their favorite stuffed animal at a gas station, the family
+drove away, leaving it sitting in dirty slush.
+
+
+Translating things that series A tech recruiters say:
+
+"We've transitioned a lot of our site to React" -> "We are trying to manage the
+inherent complexity of our views by telling the junior developer to add a new
+framework"
+
+"We have a microservice architecture" -> "No one can agree on anything, so we
+give each developer their own ec2 box"
+
+"Data warehouse" -> "PostgreSQL database"
+
+"We do don't the typical whiteboard coding interview process" -> "First, you're
+going to spend three hours on a homework assignment, and then you will do a
+graph search coding problem on a whiteboard in person"
+
+"This is a really unique opportunity" -> "Most likely, you're going to waste
+your time and also get screwed in terms of compensation"
+
+"We don't care how you get things done, we're really results oriented here" ->
+"We need you to sit in our office every day, and sign a contract
+devoting the next year of your life to the company"
+
+"We offer a really good value proposition to our customers" -> "We are mostly
+useless in real-world terms"
 
