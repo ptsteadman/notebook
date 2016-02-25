@@ -86,3 +86,11 @@ devoting the next year of your life to the company"
 "We offer a really good value proposition to our customers" -> "We are mostly
 useless in real-world terms"
 
+
+The "show-don't-tell" school of writing teaches that you should use an
+incredibly low-bandwidth channel to communicate images, sounds, smells, and
+motions.  It's a futile attempt to increase the immediacy of prose by using the
+techniques of film and art.  But, the amount of actionable facts contained in an
+hour-long documentary is roughly equivalent to the contents of an essay that you
+could read in less than ten minutes.  The immediacy of writing lies in the
+highly concise, memorable, and sharable nature of text.
