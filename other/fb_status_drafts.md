@@ -94,3 +94,29 @@ techniques of film and art.  But, the amount of actionable facts contained in an
 hour-long documentary is roughly equivalent to the contents of an essay that you
 could read in less than ten minutes.  The immediacy of writing lies in the
 highly concise, memorable, and sharable nature of text.
+
+### Shifting From Becoming To Being
+
+In the past year I think I have undergone a shift from a mode of "becoming" to a
+mode of "being".  As a child and young adult, I focused mostly on potentials:
+who I would be when I grew up, and the memories I was creating.  Insofar as
+things happened in real life, I was mostly interested in them as auguries of a
+distant, glittering future.  The fantasy world was perhaps rightly more
+important, and I leaped into relationships when my world intersected with
+someone else's.  But in 2015, entropy started to creep into my life.  Since
+then, every month has started to "count frantically and seems a cudgel in a
+fight for happiness against time".  (Thanks Alina for that quote!)  
+
+The onset of this sort of reality has been no surprise: I feel my parents and
+education prepared me well, and I am by no means caught off guard.  My friends
+and I seem to be facing the challenges of life with some grace, rigor, and
+aplomb.  The shift to "becoming" from "being" comes with many pleasures, as
+anyone who has ever successfully played their role in the American workplace
+knows.  There's an eurphoria to the working lunch, the appropriate paycheck, the
+clean apartment.  These things aren't trivial at all.
+
+"Being" seems to require both humility and arbitrary confidence.  I have thought
+a lot about shame, which is both a barrier to being, and a cornerstone of being.
+Shame is a very human feeling, key to our ability to focus our efforts, but
+extremely toxic in fragile moments.  Shame tells us to stop, for better or
+worse, but it can also motivate us to fix things. ???
