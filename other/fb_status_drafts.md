@@ -120,3 +120,8 @@ a lot about shame, which is both a barrier to being, and a cornerstone of being.
 Shame is a very human feeling, key to our ability to focus our efforts, but
 extremely toxic in fragile moments.  Shame tells us to stop, for better or
 worse, but it can also motivate us to fix things. ???
+
+Trolls:
+March 2nd, 2016, the day I am no longer a bro
+New York is a bad dream that I am enjoying a lot
+
