@@ -2,7 +2,7 @@ TOWARDS MY FIRST PRINCIPLES OF LITERATURE
 
 -------------------------------------------------------------------------------
 
-I can think of two ways to go about learning about literature.  One is to start
+I can think of two ways to go about learning literature.  One is to start
 from first principles.  We would look at letters, words, events, and figure out
 where meaning comes from, and what makes sentences beautiful, and beautiful to
 whom.  We would examine a large number of text and non-text documents, and

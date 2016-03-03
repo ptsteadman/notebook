@@ -1,5 +1,5 @@
 things learned in school, fall '14:
-- finally fucking memorized n choose c, vector cross products, bayes formula, and cramer's method
+- finally memorized n choose c, vector cross products, bayes formula, and cramer's method
 - realistic shading without extremely high triangle counts is achieved by mapping a 2d (u,v) parametric function of surface normals, displacement, color, reflectance, etc, to 3d geometry
 - pretty much any "document" can be effectively modeled as a feature vector, normalized, and compared with other "document" vectors by using dot products in a high dimensional space, producing a similarity metric ("angle")
 - sysout-control-space autocompletes to System.out.println(); in eclipse

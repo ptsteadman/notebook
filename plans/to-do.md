@@ -1,0 +1,16 @@
+### To Do
+- ~~Cornell Novel.~~
+- A game made with HTML/CSS/JS.
+- ~~A 9/11 Memorial.~~
+- ~~Personal website.~~
+- Computer Lab website
+- Web interface for this repository.
+- 'Quora Religion' piece of writing published.
+- Writer's toolkit.
+- A zen garden.
+- ~~Hexo theme~~
+- ~~Millennial BSO~~
+- Define 'Virtual Realism'
+- Coding Rehab Bootcamp Landing Page
+- Story about Facebook programmer, entropy, suicide.
+- All the problems in Cracking the Coding Interview.
