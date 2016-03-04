@@ -1,5 +1,7 @@
-An upstanding young programmer is used the test subject for a new "direct
-semantic IO" machine.
+# Symbol Grounding
+
+*An upstanding young programmer acts as the test subject of a new "direct
+semantic IO" machine.*
 
 Feyerabend received an invitation to spend the next year working with Emma Chen
 and her team, and immediately responded.  She got up from her desk and walked to
@@ -22,9 +24,6 @@ The protagonist takes chemical castration medication, and is a pretty
 upstanding, idealistic person.  The world in general is an improved, a positive
 late capitalism.  
 
-For almost nine year Feyeraband had lived something like the ideal life of the
-mind, but in a way that felt very normal and pragmatic.
-
 He coworkers were always very concerned about 'business value' and 'making
 things work', something that seemed dull to Feyeraband.  They were building
 something that had been built, contributing no new understanding to the world.
@@ -33,7 +32,6 @@ You can't start a fire You can't start a fire without a spark This gun's for
 hire Even if we're just dancing in the dark
 
 Her work, her contribution mattered! 
-
 
 
 The protagonist interacts with the other character via a computer program they
