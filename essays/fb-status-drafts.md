@@ -125,3 +125,6 @@ Trolls:
 March 2nd, 2016, the day I am no longer a bro
 New York is a bad dream that I am enjoying a lot
 
+https://www.youtube.com/watch?v=V_3rcP2Duv0
+I feel that I am fated to one day be killed by a drone.
+
