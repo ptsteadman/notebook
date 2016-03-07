@@ -13,22 +13,18 @@ plastic table, working on a terminal.
 
 "Yes," replied Feyerabend.  "A project I've been working on is going well."
 
-"Nice!"  Roberto let the conversation die awkwardly, and looked back down at the
-computer, squinting in the autumn sunset light.
+"Nice!"  Roberto let the conversation die by looking back down at his computer,
+squinting in the autumn sunset light.
 
 Feyerabend got pita chips and hummus, and went to another table to think.
 
-This was probably be the best moment of her life, Feyerabend realized.  This was
+This was probably be the best moment of her life, Feyerabend thought.  This was
 it, and it was really good.  This was everything paying off at once.
 
 Feyerabend had spent ten years at University, studying grammar.  Whenever her
 classmates had gone out to jobs, they'd always treated her with a sort of pity,
-asking passive-aggressive questions like "what applications do you see for that
+asking passive-aggressive questions like "what applications do you see for this
 research?", etc.
-
-He coworkers were always very concerned about 'business value' and 'making
-things work', something that seemed dull to Feyeraband.  They were building
-something that had been built, contributing no new understanding to the world.
 
 Feyerabend had always been certain that the best way to spend one's life was
 trying to add some new understanding to the world.  Everything else would be
@@ -40,14 +36,10 @@ experienced irreversible steps forward in the past, and this was the biggest
 one.  There would always be something that she could rest her mind on, use to
 assuage anxieties if she was having trouble falling asleep or felt useless.
 
-
-You can't start a fire You can't start a fire without a spark This gun's for
-hire Even if we're just dancing in the dark
-
 She knew that, almost certainly, the work she would do with Edison Chen would
 live on beyond her, and provide a baseline of her unhappiness.
 
-Her work, her contribution mattered! 
+<hr>
 
 Even though Feyerabend would be living in Poland for over a year, it felt like
 she was going on an exciting vacation.  
