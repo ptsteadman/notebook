@@ -3,19 +3,43 @@
 *An upstanding young programmer serves as the test subject of a new "direct
 semantic IO" machine.*
 
-Feyerabend received an invitation to spend the year working with Edison Chen and
-her team in Poland, and immediately responded.  She got up from her desk and
-walked to the kitchen, her upper body dancing to the pop music playing on the
-office soundsystem.  
+When Feyerabend received an invitation to spend the next year working with
+Addison Chen and her team in Poland, she responded immediately, and pushed
+herself away from her desk. She walked to the kitchen, her upper body dancing to
+the pop music on the office soundsystem.  
 
 "You're in a good mood," said Roberto.  He was sitting at an awkwardly shaped
 plastic table, working on a terminal.
 
-"," replied Feyerabend, grinning.  "."
+"Yes," replied Feyerabend.  "A project I've been working on is going well."
+
+"Nice!"  Roberto let the conversation die awkwardly, and looked back down at the
+computer, squinting in the autumn sunset light.
+
+Feyerabend got pita chips and hummus, and went to another table to think.
+
+This was probably be the best moment of her life, Feyerabend realized.  This was
+it, and it was really good.  This was everything paying off at once.
+
+Feyerabend had spent ten years at University, studying grammar.  Whenever her
+classmates had gone out to jobs, they'd always treated her with a sort of pity,
+asking passive-aggressive questions like "what applications do you see for that
+research?", etc.
 
 He coworkers were always very concerned about 'business value' and 'making
 things work', something that seemed dull to Feyeraband.  They were building
 something that had been built, contributing no new understanding to the world.
+
+Feyerabend had always been certain that the best way to spend one's life was
+trying to add some new understanding to the world.  Everything else would be
+dismal.  And now she felt validated: Addison Chen's direct semantic IO project
+was valuable, and apparently her contributions to it were also valuable.
+Feyerabend felt more certain of this than anything else in the world, now, and
+this meant that a deep dark hole in her life was now filled with gold.  She had
+experienced irreversible steps forward in the past, and this was the biggest
+one.  There would always be something that she could rest her mind on, use to
+assuage anxieties if she was having trouble falling asleep or felt useless.
+
 
 You can't start a fire You can't start a fire without a spark This gun's for
 hire Even if we're just dancing in the dark
@@ -24,6 +48,7 @@ She knew that, almost certainly, the work she would do with Edison Chen would
 live on beyond her, and provide a baseline of her unhappiness.
 
 Her work, her contribution mattered! 
+
 Even though Feyerabend would be living in Poland for over a year, it felt like
 she was going on an exciting vacation.  
 
