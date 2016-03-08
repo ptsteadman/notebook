@@ -88,12 +88,13 @@ mirror and quieted old dysphoric feelings.
 On Monday morning, a driver picked Feyerabend up from her apartment a little bit
 after sunrise.
 
+The driver led her through a glowing marble building enclosed in a glass atrium.
+
 <hr>
 
 The protagonist takes chemical castration medication, and is a pretty
 upstanding, idealistic person.  The world in general is an improved, a positive
 late capitalism.  
-
 A very clear, discrete presence in his mind, at a very precise point.
 
 "That's a qualia," said Addison, laughing.
