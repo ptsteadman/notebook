@@ -83,6 +83,9 @@ She drank at dinner alone, and gave the cab driver a slip of paper with her
 address on it.  Back in her strange apartment, she looked at herself in the
 mirror and quieted old dysphoric feelings. 
 
+A sense of baseless anxiety, like she had taken some sort of speedy drug and was
+trying to convince herself that everything was okay.
+
 <hr>
 
 On Monday morning, a driver picked Feyerabend up from her apartment a little bit
