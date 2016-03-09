@@ -88,17 +88,78 @@ trying to convince herself that everything was okay.
 
 <hr>
 
-On Monday morning, a driver picked Feyerabend up from her apartment a little bit
-after sunrise.
+A little after sunrise on Monday morning, a driver picked Feyerabend up from her
+apartment.  Feyerabend fell asleep in the car, awaking when they arrived.  The
+driver laughed, and led her into a marble building enclosed by a glass atrium.
 
-The driver led her through a glowing marble building enclosed in a glass atrium.
+After walking through a few industrial hallways, Feyerabend was shown directly
+to her new office, a room with a bookshelf, a coffee table, and windows.  The
+driver left, and Feyerabend spent a few minutes organizing the things in her
+bag.
+
+Someone pushed open the door, sticking only his head in.
+
+"Leah?" the person said.  He had a French accent.
+
+"Hello," said Feyerabend, standing up.  
+
+The person introduced himself, saying that he was also a researcher.  He was
+unusually friendly for a French person, Feyerabend thought.  They walked to a
+meeting room, and the researcher asked Feyerabend what she thought about Warsaw.
+
+"The people working on the project go out for dinner together, sometimes, I like
+that," he said.
+
+Talk shifted quickly to their work.  The researcher said that he mostly worked
+on the project's hardware, but had read through all of Feyerabend's RFCs, and
+thought they were all very well-considered. 
+
+"Do you have any insight into whether or not I will be involved with the
+hardware aspect of the project?" asked Feyerabend.
+
+"Well, you'll be working with the hardware almost constantly.  That's the main
+reason why the organization decided to fund your residency here."
+
+"It's not an area I have much expertise in," said Feyerabend, somewhat
+excitedly.  The researcher smiled.
+
+"We've developed a fairly straightforward user interface for the focused
+ultrasound CBI machine, I'll be interested in your feedback on it.  Shall we go
+take a look at it?"
+
+"The CBI device?  Now?" 
+
+"Sure," said the researcher.  "Addison should be working with it, I think, so
+you can meet her as well."
+
+Feyerabend was very excited about the prospect of a whole year with a
+medical-grade computer-brain interface.  At university, she had worked with
+transcranial magnetic stimulation machines, and an Internet friend had once
+demonstrated the use of a focused ultrasound effector on a rat for her benefit,
+but tests on the project's focused ultrasound device had shown that its spatial
+and temporaral resolutions were both higher by at least a few orders of
+magnitude.  Feyerabend's proposals depended on the reality of this hardware.
+
+On the way to Addison Chen's lab, the French researcher showed her the break
+room, containing only a refrigerator and a coffee machine.  The room containing
+the focused ultrasound effector was similar.  The machine was not yet encased in
+white medical plastic: it looked like a delicate industrial robot, with a large
+number of modular microprocessor boards connected to custom components.
+
+Addison Chen
+
+It was quickly obvious why the distributed autonomous organization that governed
+the project's priorities had decided to allocate so many resources to Addison:
+she had an almost garrulous enthusiasm that was absolutely necessary to
+effectively herd cats.  Feyerabend was reminded of a busy but sociable doctor.
+
+
+Feyerabend dimly recognized that she was attractive, something she had not
+expected.  Chemical castration  Chemical castration
 
 <hr>
 
-The protagonist takes chemical castration medication, and is a pretty
-upstanding, idealistic person.  The world in general is an improved, a positive
-late capitalism.  
-A very clear, discrete presence in his mind, at a very precise point.
+A very clear, discrete presence in her mind, at a very precise point.
 
 "That's a qualia," said Addison, laughing.
 
