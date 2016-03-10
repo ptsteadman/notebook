@@ -144,25 +144,26 @@ temporaral resolutions orders of magnitude higher than legacy devices.
 Feyerabend's proposals depended on the reality of this hardware.
 
 On the way to see the machine, the French researcher showed her the break room,
-containing only a refrigerator and a coffee machine.  The room containing the
-focused ultrasound CBI machine was similar.  It was not yet encased in white
-medical plastic: it looked like a delicate industrial robot, with a large number
-of modular microprocessor boards connected to custom mechanical components.
+containing only a refrigerator and a coffee machine. 
+
+The focused ultrasound room contained a hacked-open MRI sled, stripped of its
+white medical plastic. The focused ultrasound transducers were mounted on the
+inside of the MRI tube, with copper wires leading to a server room.
 
 "Here it is!" said the French researcher.  "We have a few others, but this is
 the latest iteration."
 
 The researcher gave her a tour of the machine's components.  There were few
-surprises.  As he was finishing up, an older woman came into the room, saying
-"Hello!" loudly to announce herself.
+surprises.  As he was finishing up, a middle-aged woman came into the room,
+saying "Hello!" loudly to announce herself.
 
 "Leah, meet Addison," said the French researcher.
 
-"Wow," said Feyerabend, shaking Addison's hand lightly.  "Really great to meet
-to you in person, finally."  Feyerabend dimly recognized that Addison was
-attractive, something she had not expected.  Feyerabend took chemical
-sterilization medication, drugs that she had initially purchased from the
-darknet, but now had a prescription for.
+"Wow," said Feyerabend, shaking Addison's hand lightly.  "Great to meet to you
+in person, finally."  Feyerabend dimly recognized that Addison was attractive,
+something she had not expected.  Feyerabend took chemical sterilization
+medication, drugs that she had initially purchased from the darknet, but now had
+a prescription for.
 
 It was quickly obvious why the distributed autonomous organization that governed
 the project had decided to allocate so many resources to Addison: she had the
@@ -177,23 +178,64 @@ they would devise a research plan.
 
 That evening, Feyerabend asked her driver to drop her off at a restaurant near
 her apartment, and treated herself to a celebratory meal.  She tried to think
-back to the last time she was truly unhappy.  It was almost scary, the thought
-that her work could be so perfect, so fulfilling.  It seemed that with a decent
-stack of genetics, environment, and consistent effort, it is possible to be
-happy virtually all of the time.  If you build your life on top of robust
-systems like Soylent, Adderall, TalkSpace, SoulCycle, ReactJS, Ketamine, GitHub,
-and Harvest, almost nothing can ruin your life, except for a few thorny edge
-cases.  But those are what make life beautiful :). 
+back to the last time she was truly unhappy.  Work seemed so unbelievably
+perfect.  As she waited for her food to come, Feyerebend used her phone to sign
+up for weekly fitness classes, a few expat meetup groups, a recurring vacation
+week, and automated bill payments.  It was hard to imagine being unhappy ever
+again.  Humanity had progressed to a point where nothing could ruin Feyerabend's
+life, except for a few thorny edge cases. 
 
+At home, Feyerabend had a beer, and fell asleep.
 
+<hr>
 
-The only thing that seemed comparable, at least in terms of novelty, was when
-she had experienced the confusion of her first orgasm around the age of
-thirteen.  But this was a much quieter, more precise version of that feeling.
+Feyerabend brought a notebook to the CBI room the next morning.  Addison arrived
+moments after.
 
-A very clear, discrete presence in her mind, at a very precise point.
+"Ready?" said Addison.
 
-"That's a qualia," said Addison, laughing.
+"Yup."
+
+"Okay, I think Eric already has everything up and running.  Could you quickly
+get into the calibration pose?"
+
+Feyerabend stretched out her arms, like Jesus on the cross.
+
+"Thanks, got your data."
+
+Addison and Feyerabend went through the familiar pre-MRI procedure.  Feyerabend
+was already wearing the proper attire.
+
+The inside of the new MRI scanner was almost silent.  
+
+"Okay.  Here we go, targeting," said Addison's voice, from a speaker somewhere.  
+
+"We'll start with a test pulse, now."
+
+Feyerabend experienced something entirely new.
+
+"What was that?" laughed Feyerabend, knowing exactly what it was.  So it worked!
+Of course it did.
+
+"A qualia!" said Addison, also laughing.
+
+The only thing that seemed comparable to what she had just experienced, at least
+in terms of novelty, was when she had experienced the confusion of her first
+orgasm around the age of thirteen.  But this was a much quieter, more precise
+version of that feeling.  It was totally abstract: it didn't remind her of any
+other sensation she had experienced before.  It was just there, and distinct.
+
+"Okay, let's call that one '0', just for fun," said Addision.  "Here comes '1'."
+
+Feyerabend experienced an entirely different quiet little sensation.
+
+"And '0' again."  Now Addison reminded Feyerabend of a optometrist.  
+
+"Got it," said Feyerabend.  There was no question of confusing the two qualia.
+
+Feyerabend lay in silence as Addison slowly transmitted a binary sequence
+encoding the ASCII characters 'HI'.  When Addison finished, Feyerabend laughed
+gleefully.
 
 <hr>
 
