@@ -203,14 +203,11 @@ Feyerabend stretched out her arms, like Jesus on the cross.
 
 "Thanks, got your data."
 
-Addison and Feyerabend went through the familiar pre-MRI procedure.  Feyerabend
-was already wearing the proper attire.
-
 The inside of the new MRI scanner was almost silent.  
 
-"Okay.  Here we go, targeting," said Addison's voice, from a speaker somewhere.  
+"Okay.  Here we go," said Addison's voice, from a speaker somewhere.  
 
-"We'll start with a test pulse, now."
+"We'll start with a test pulse...now."
 
 Feyerabend experienced something entirely new.
 
@@ -220,24 +217,77 @@ Of course it did.
 "A qualia!" said Addison, also laughing.
 
 The only thing that seemed comparable to what she had just experienced, at least
-in terms of novelty, was when she had experienced the confusion of her first
-orgasm around the age of thirteen.  But this was a much quieter, more precise
-version of that feeling.  It was totally abstract: it didn't remind her of any
-other sensation she had experienced before.  It was just there, and distinct.
+in terms of novelty, was when she had experienced her first orgasm around the
+age of thirteen.  But this was a much quieter, more precise version of that
+confused feeling.  It was totally abstract: it didn't remind her of anything she
+had experienced before.  It was just there, and distinct.
+
+"Wow," said Feyerabend.  "Got it."
 
 "Okay, let's call that one '0', just for fun," said Addision.  "Here comes '1'."
 
 Feyerabend experienced an entirely different quiet little sensation.
 
-"And '0' again."  Now Addison reminded Feyerabend of a optometrist.  
+"And '0' again."
 
 "Got it," said Feyerabend.  There was no question of confusing the two qualia.
 
-Feyerabend lay in silence as Addison slowly transmitted a binary sequence
-encoding the ASCII characters 'HI'.  When Addison finished, Feyerabend laughed
-gleefully.
+Addison slowly transmitted a binary sequence of qualia encoding the ASCII
+characters 'HI'.  When Addison finished, Feyerabend laughed gleefully.
 
 <hr>
+
+The focused ultrasound effector was capable of producing at least a million
+different qualia, consistently, thousands of times a second.  Experiments with
+human cortical plasticity had shown that novel qualia could be interpreted
+semantically. At lunch, Addison explained the obvious: it was Feyerabend's job
+to develop a useful set of symbol groundings for the qualia, so that they could
+be used as a high-bandwidth direct semantic communication channel between the
+computer and brain.
+
+"I'd love to tell you that this will just be a prototype, but my feeling is that
+whatever you develop, it will be widely adopted.  Of course, it'll be adapted
+and improved, but I think you should try to create a system with strong
+conceptual clarity and extensibility.  Does that make sense to you?"
+
+"Yeah, totally."
+
+<hr>
+
+After a few months of thought and time experimenting with the effector,
+Feyerabend began to develop her grammar and symbol vocabularly.  The first thing
+she developed was a set of qualia that could be used to describe the formal
+structure of a language: words related to grammar, syntax, and morphology.  A
+team of programmers from the Internet helped her develop a training program that
+helped users learn to associate the correct qualia with the concepts that
+Feyerabend had chosen.
+
+Feyerabend was then able to partially describe her plans for the qualia language
+using qualia.  After Addison and the French researcher spent about a week using
+the training program, they could go into the machine and recieve a very rapid
+and concise outline of Feyerabend's language structure.
+
+What was happening in Feyerabend's real life?  She spent the majority of each
+day inside of an MRI machine, thinking, and vocally telling the computer to
+store her ideas as qualia codepoints.  She limited herself to nine hour days.
+They were nine hours of true work, probably the most she'd ever consistently
+worked in her life.  She started using a chat application to learn Polish, and
+indulged in endless small talk.  It was a familiar situation for Feyerabend: she
+didn't really feel lonely, because she spent the day working with people that
+she had massive respect and affection for.
+
+<hr>
+
+Feyerabend began to develop a system by which the qualia could be combined to
+produce novel meanings, using the qualia symbols that referred to the concept of
+morphological combination themselves.  There was no issue of creating an overly
+verbose language: the bandwidth of the CBI allowed the listener to almost
+instantly comprehend and distinguish the sequence of a large number of qualia.
+She also began to develop a set of "qualia radicals", meant to span the   
+
+
+
+
 
 The protagonist interacts with the other character via a computer program they
 wrote.
