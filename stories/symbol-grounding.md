@@ -328,6 +328,9 @@ Shame is a very human feeling, key to our ability to focus our efforts, but
 extremely toxic in fragile moments.  Shame tells us to stop, for better or
 worse, but it can also motivate us to fix things. ???
 
+Went to ocean with her colleagues
+Seawater rushing quickly under her feet
+
 
 Feyerabend had no idea what future might be meaningful.
 
