@@ -278,26 +278,63 @@ she had massive respect and affection for.
 
 <hr>
 
-Feyerabend began to develop a system by which the qualia could be combined to
+Feyerabend began to develop a system that allowed the qualia could be combined to
 produce novel meanings, using the qualia symbols that referred to the concept of
 morphological combination themselves.  There was no issue of creating an overly
 verbose language: the bandwidth of the CBI allowed the listener to almost
 instantly comprehend and distinguish the sequence of a large number of qualia.
 She also began to develop a set of "qualia radicals", meant to span the   
 
-
-
-
-
-The protagonist interacts with the other character via a computer program they
-wrote.
-
 Now in the world there was the wordless voice of her thoughts, the swell and
 grind of her emotions, and this new third fast whisper.  It communicated clearly
 
+Addison had asked Feyerabend to call her 'Addy'.  They were becoming friends.
+
+The frustrations she experienced with her research were almost total: the fact
+that she was currently unable to input qualia back to the computer was a
+constant frustration, and she had trouble not becoming enraged at Eric and his
+team when the machine was down due to hardware issues.
+
+As Feyerabend's work progressed, a sinister undertone of physical dysphoria was
+building.  In a distant way, Feyerabend missed her home, and constantly thought
+of her ex-girlfriend, a person who she knew she didn't actually like.  The
+elegance and importance of her work was making her life feel shoddy.  
+
+Feyerabend felt that she had finally shifted from a mode of 'becoming' to a mode
+of 'being'.  At work, she was starting to lead a fairly considerable team, and
+felt competent almost al of the time.
+
+In the past year I think I have undergone a shift from a mode of "becoming" to a
+mode of "being".  As a child and young adult, I focused mostly on potentials:
+who I would be when I grew up, and the memories I was creating.  Insofar as
+things happened in real life, I was mostly interested in them as auguries of a
+distant, glittering future.  The fantasy world was perhaps rightly more
+important, and I leaped into relationships when my world intersected with
+someone else's.  But in 2015, entropy started to creep into my life.  Since
+then, every month has started to "count frantically and seems a cudgel in a
+fight for happiness against time".  (Thanks Alina for that quote!)  
+
+The onset of this sort of reality has been no surprise: I feel my parents and
+education prepared me well, and I am by no means caught off guard.  My friends
+and I seem to be facing the challenges of life with some grace, rigor, and
+aplomb.  The shift to "becoming" from "being" comes with many pleasures, as
+anyone who has ever successfully played their role in the American workplace
+knows.  There's an eurphoria to the working lunch, the appropriate paycheck, the
+clean apartment.  These things aren't trivial at all.
+
+"Being" seems to require both humility and arbitrary confidence.  I have thought
+a lot about shame, which is both a barrier to being, and a cornerstone of being.
+Shame is a very human feeling, key to our ability to focus our efforts, but
+extremely toxic in fragile moments.  Shame tells us to stop, for better or
+worse, but it can also motivate us to fix things. ???
 
 
+Feyerabend had no idea what future might be meaningful.
 
+It was very clear that role would be as an important assistant of Addison Chen.
+The historicity of what they were doing.
+
+<hr>
 
 The story ends without any major conflict, merely technical challenges and a
 "difficult conversation" that exposes difficult realities that the characters
