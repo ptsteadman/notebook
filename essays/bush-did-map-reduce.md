@@ -7,7 +7,7 @@ track.
 
 I found that I enjoyed talking to the tech companies more than the banks.  When
 I talked to the banks, I had this sense of emptiness: neither the recruiters or
-I seemed to know what we were talking about, what exactly the **work** was.  I
+I seemed to know what we were talking about, what exactly the *work* was.  I
 felt like no information was being exchanged.  With the tech companies, at least
 I could stretch my superficial knowledge of programming and talk about
 something, learn something.
@@ -27,29 +27,28 @@ rocking back and forth.
 millions of ad slots a minute.  You should really look it up."
 
 I did look it up, and felt the familiar sense of wondering what was really going
-on: were terms like Hadoop, and NoSQL, or NodeJS, just buzzwords, like the names
-of bands in high school, or the different sectors at an investment bank?  Or did
-they **actually matter**?  
+on: were terms like Hadoop, and NoSQL, or NodeJS, just buzzwords, like the
+different sectors at an investment bank, or the names of bands in high school?
+Or did they *actually matter*?  
 
 Over a year later, I would smile when I implemented the PageRank algorithm using
 the Hadoop framework for my Database Systems class.  Computer Science had turned
 out to be more than emptiness, for me.
 
-And a year after **that**, one of the men indirectly responsible for the
-creation of Hadoop spoke in my Information Retrieval class.  I was fascinated,
-because I had watched a video where he talked about the role of 9/11 in Google's
-history.  I had developed a pet theory: that the attack on the Twin Towers had
-directly prompted the creation of the Map Reduce programming paradigm, and the
-Hadoop framework that enabled many of the "big data" applications of the later
-2000s.
+And a year after that, one of the men indirectly responsible for the creation of
+Hadoop spoke in my Information Retrieval class.  I was fascinated, because I had
+watched a video where he talked about the role of 9/11 in Google's history.  I
+had developed a pet theory: that the attack on the Twin Towers had directly
+prompted the creation of the Map Reduce programming paradigm, and the Hadoop
+framework that enabled many of the "big data" applications of the later 2000s.
 
 Here's what I learned:
 
 On September 11th, 2001, Amit Singhal, director of search quality at Google, was
 away at a conference. As the public searched for news about the attacks on the
 Twin Towers and the Pentagon, Amit and his colleagues realized that Google was
-dramatically failing to meet the nation's information need. Searches for ``World
-Trade Center'' led to web pages detailing the architecture of the now-destroyed
+dramatically failing to meet the nation's information need. Searches for "World
+Trade Center" led to web pages detailing the architecture of the now-destroyed
 buildings, or the lunch menu at the 'Windows on the World' restaurant.  
 
 In 2001, Google was only able to index the internet about once a month, and
@@ -73,15 +72,15 @@ models for distributed systems would need to be perfected in order to have
 enough computing power to simulataneously index thousands of news websites.
 
 Over the next few years, Google built and expanded their news platform, but Amit
-and Google realized that everything else also needed to be indexed in ``real
-time''.  In order to index the whole internet, every day, the programming
+and Google realized that everything else also needed to be indexed in "real
+time".  In order to index the whole internet, every day, the programming
 methods used to create Google News would have to be formalized.  In addition,
 Google realized that the rest of the internet had to catch up with Google.  To
-address both of these concerns, in 2003 Krishna released ``the MapReduce
-paper'', which explained the abstractions Google had developed in order to
+address both of these concerns, in 2003 Krishna released "the MapReduce
+paper", which explained the abstractions Google had developed in order to
 reason about their complicated distributed systems.  
 
 Something in the nature of MapReduce felt very current and zeitgeisty to me.  It
-reminded me of how ``real life'' was starting to feel: many many isolated bits
+reminded me of how 'real life' was starting to feel: many many isolated bits
 of data being mapped by an abstraction, fragmented by an hash function, and then
 reduced to useful key-value pairs.
