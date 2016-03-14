@@ -159,22 +159,23 @@ a prescription for.
 It was quickly obvious why the distributed autonomous organization that governed
 the project had decided to allocate so many resources to Addison: she had the
 almost garrulous enthusiasm required to effectively herd neuroscientists,
-electrical engineers, and programmers.  Feyerabend was reminded of a busy but
-sociable dentist, as Addison outlined the plan for the next few weeks.  Tomorrow
-morning, Feyerabend could start testing the CBI machine, and would have a week
-to simply experiment with it, under the supervision of Addison herself.  Then,
-they would devise a research plan.
+electrical engineers, and programmers.  As Addision outlined the plan for the
+next few weeks, Feyerabend was reminded of a busy but sociable dentist.
+
+Tomorrow morning, Feyerabend could start testing the CBI machine, and would have
+a week to simply experiment with it, under the supervision of Addison herself.
+Then, they could devise a research plan.
 
 <hr>
 
-That evening, Feyerabend asked her driver to drop her off at a restaurant near
-her apartment, and treated herself to a celebratory meal.  She tried to think
-back to the last time she was truly unhappy.  Work seemed so unbelievably
-perfect.  As she waited for her food to come, Feyerebend used her phone to sign
-up for weekly fitness classes, a few expat meetup groups, a recurring vacation
-week, and automated bill payments.  It was hard to imagine being unhappy ever
-again.  Humanity had progressed to a point where nothing could ruin Feyerabend's
-life, except for a few thorny edge cases. 
+That evening, Feyerabend treated herself to a celebratory meal at a restaurant
+near her apartment.  She tried to think back to the last time she had been truly
+unhappy.  Work seemed so unbelievably perfect.  As she waited for her food to
+come, Feyerabend used her phone to sign up for things: fitness classes, a few
+expat meetup groups, a recurring vacation week, and automated bill payments.  It
+was hard to imagine being unhappy ever again.  Humanity had progressed to a
+point where nothing could ruin Feyerabend's life, except for a few thorny edge
+cases. 
 
 At home, Feyerabend had a beer, and fell asleep.
 
@@ -190,13 +191,10 @@ moments after.
 "Okay, I think Eric already has everything up and running.  Could you quickly
 get into the calibration pose?"
 
-Feyerabend stretched out her arms, like Jesus on the cross.
-
-"Thanks, got your data."
-
 The inside of the new MRI scanner was almost silent.  
 
-"Okay.  Here we go," said Addison's voice, from a speaker somewhere.  
+"Okay.  Here we go," said Addison's voice, from a speaker somewhere.
+Feyerabend's heart was racing.
 
 "We'll start with a test pulse...now."
 
@@ -207,15 +205,19 @@ Of course it did.
 
 "A qualia!" said Addison, also laughing.
 
-The only thing that seemed comparable to what she had just experienced, at least
-in terms of novelty, was when she had experienced her first orgasm around the
-age of thirteen.  But this was a much quieter, more precise version of that
-confused feeling.  It was totally abstract: it didn't remind her of anything she
-had experienced before.  It was just there, and distinct.
+What had she just experienced?  Feyerabend tried to describe it to herself.  It
+was totally abstract: it didn't remind her of anything she had experienced
+before.  It was just there, and distinct.  The only thing that seemed
+comparable, at least in terms of novelty, was when she had experienced her first
+orgasm around the age of thirteen.  But this was a much quieter, more precise
+version of that confused feeling.  
 
 "Wow," said Feyerabend.  "Got it."
 
-"Okay, let's call that one '0', just for fun," said Addision.  "Here comes '1'."
+"Okay," said Addison.
+
+"Okay, okay, let's call that one '0', just for fun," said Addision.  "Here comes
+'1'."
 
 Feyerabend experienced an entirely different quiet little sensation.
 
@@ -231,10 +233,12 @@ characters 'HI'.  When Addison finished, Feyerabend laughed gleefully.
 The focused ultrasound effector was capable of producing at least a million
 different qualia, consistently, thousands of times a second.  Experiments with
 human cortical plasticity had shown that novel qualia could be interpreted
-semantically. At lunch, Addison explained the obvious: it was Feyerabend's job
+semantically. 
+
+At lunch the next Monday, Addison explained the obvious: it was Feyerabend's job
 to develop a useful set of symbol groundings for the qualia, so that they could
 be used as a high-bandwidth direct semantic communication channel between the
-computer and brain.
+computer and brain, the first useful Computer Brain Interface.
 
 "I'd love to tell you that this will just be a prototype, but my feeling is that
 whatever you develop, it will be widely adopted.  Of course, it'll be adapted
@@ -245,12 +249,10 @@ conceptual clarity and extensibility.  Does that make sense to you?"
 
 <hr>
 
-After a few months of thought and time experimenting with the effector,
-Feyerabend began to develop her grammar and symbol vocabularly.  The first thing
-she developed was a set of qualia that could be used to describe the formal
-structure of a language: words related to grammar, syntax, and morphology.  A
-team of programmers from the Internet helped her develop a training program that
-helped users learn to associate the correct qualia with the concepts that
+The first thing Feyerabend developed was a set of qualia that could be used to
+describe the formal structure of a language: words related to grammar, syntax,
+and morphology.  A remote team of programmers helped her develop a training
+program that taught users to associate the correct qualia with the concepts that
 Feyerabend had chosen.
 
 Feyerabend was then able to partially describe her plans for the qualia language
@@ -276,8 +278,76 @@ symbols to create new meaning.  There was no issue of creating an overly verbose
 language: the bandwidth of the CBI allowed the listener to almost instantly
 comprehend a long sequence of qualia. 
  
-Now in the world there was the wordless voice of her thoughts, the swell and
-grind of her emotions, and this new third fast whisper.  It communicated clearly
+This part of the project felt almost silly, a picture language that a child
+might develop, creating a special word for everything.  In meetings, they used
+academic language to describe the updates to the training program they needed to
+make in order to extend the language beyond an abstract meta-language.
+Feyerabend started to feel fear and frustration, the first negative feelings
+she'd experienced while working on the project.  One of her articles of faith
+was that there was success in smallness, and that the small worked.  She felt
+inadequate.
+
+Addision rescued her, interrupting a meeting that had dragged on past sunset.
+
+"Okay, let's be real here, okay?" said Addision.  "What we're about to do now is
+crazy ambitious.  It sounds stupid, almost.  Like what is this program going to
+look like?  We to get people to associate like, trees, with an arbitrary qualia.
+What are we going to do?  Show them a picture of a tree and then fire the
+qualia?  That's basically how it works now, right?"
+
+There was a contemplative silence.
+
+"This part of things isn't going to be precise, or clean, or recursive.  We need
+to map the world onto an a sixteen-bit codepoint plane.  It's going to get
+messy.  Someday, this is going to be a thing that kids use.  But we have to deal
+with it as adults."
+
+Feyerabend picked out a few of the weirder programmers involved in the project,
+and set them up in their own room.  They did drugs, stayed up late, and played a
+lot in virtual reality.  But progress started to happen.  Feyerabend distanced
+herself from development, and used herself as the test subject.  A number of
+special displays, speakers, and various experimental sensory inputs had been
+mounted inside the MRI.  It looked ugly.
+
+The first thing symbol they grounded was trees.  Videos, scents, sounds of
+trees.  Feyerabend thought back to the trees in her backyard growing up, the
+last trees she had ever really thought seriously about, besides the abstract
+syntax ones.  Trees.
+
+Then ocean.  Lake.  Void.  Heaven.  Heaven was kind of corny, rendered as some
+Christian thing, and then grafted in clips from other language, incense.  More
+concepts.  Then the whole cycle again.
+
+Feyerabend had lunch with the qualia radical training program team.
+
+"That was interesting," she said.
+
+"This is fucking nuts," said one of the audio-visual guys.  "I feel like I'm
+being paid to create the biggest vaporware ever."
+
+"Well, hopefully it'll work, and we will figure out how to make it useful."
+
+It did work.  After a week with the training program, Feyerabend could perfectly
+associate 256 qualia radicals with her own private version of each concept.
+Real world, concrete concepts, if that made sense.  The programmers excitedly
+encoded qualia series for the sense of Genesis, xxx, songs by Rush, every
+bombastic thing they could find.  On Friday afternoon, Feyerabend listened to
+them all, in less than a minute, and cried.
+
+"Guys, it's really amazing," she said.  "There aren't many words yet, but it's
+just as clear as my grammar stuff.  I wish we had more machines so you could try
+it out."
+
+Feyerabend started spending more and more time in the MRI machine, alone
+sometimes, asking the computer for various items transpiled into qualia via a
+rough program someone contributed. Now in the world there was the wordless voice
+of her thoughts, the swell and grind of her emotions, and this new third fast
+whisper.  
+
+<hr>
+
+
+
 
 Addison had asked Feyerabend to call her 'Addy'.  They were becoming friends.
 
@@ -295,29 +365,6 @@ Feyerabend felt that she had finally shifted from a mode of 'becoming' to a mode
 of 'being'.  At work, she was starting to lead a fairly considerable team, and
 felt competent almost al of the time.
 
-In the past year I think I have undergone a shift from a mode of "becoming" to a
-mode of "being".  As a child and young adult, I focused mostly on potentials:
-who I would be when I grew up, and the memories I was creating.  Insofar as
-things happened in real life, I was mostly interested in them as auguries of a
-distant, glittering future.  The fantasy world was perhaps rightly more
-important, and I leaped into relationships when my world intersected with
-someone else's.  But in 2015, entropy started to creep into my life.  Since
-then, every month has started to "count frantically and seems a cudgel in a
-fight for happiness against time".  (Thanks Alina for that quote!)  
-
-The onset of this sort of reality has been no surprise: I feel my parents and
-education prepared me well, and I am by no means caught off guard.  My friends
-and I seem to be facing the challenges of life with some grace, rigor, and
-aplomb.  The shift to "becoming" from "being" comes with many pleasures, as
-anyone who has ever successfully played their role in the American workplace
-knows.  There's an eurphoria to the working lunch, the appropriate paycheck, the
-clean apartment.  These things aren't trivial at all.
-
-"Being" seems to require both humility and arbitrary confidence.  I have thought
-a lot about shame, which is both a barrier to being, and a cornerstone of being.
-Shame is a very human feeling, key to our ability to focus our efforts, but
-extremely toxic in fragile moments.  Shame tells us to stop, for better or
-worse, but it can also motivate us to fix things. ???
 
 Went to ocean with her colleagues
 Seawater rushing quickly under her feet
@@ -355,7 +402,7 @@ problem on a whiteboard.
 
 "I think you and I were both blessed with vocations
 
-"You want more," said Addision. 
+"You want more," said Addision.  "That's natural."
 
 Feyerabend felt alone when she got back to her apartment.  But, she comforted
 herself with the fact that in her old age, it would probably be possible to fall
