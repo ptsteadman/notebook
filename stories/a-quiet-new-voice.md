@@ -1,22 +1,24 @@
-# Symbol Grounding
+# A Quiet New Voice
 
-*An upstanding young programmer serves as the test subject of a new "direct
+*An upstanding young grammatist serves as the test subject of a new "direct
 semantic IO" machine.*
 
-When Feyerabend received an invitation to spend the next year working with
-Addison Chen and her team in Poland, she responded immediately, and pushed
-herself away from her desk. She walked to the kitchen, her upper body dancing to
-the pop music on the office soundsystem.  
+Even though Feyerabend would be living in Poland for over a year, it felt like
+she was going on an exciting vacation. 
 
-"You're in a good mood," said Roberto.  He was sitting at an awkwardly shaped
-plastic table, working on a terminal.
+When Feyerabend arrived in Warsaw, an email from Addison Chen explicitly
+suggested that she spend a week 'getting situated', not working.  Feyerabend
+decided to go along with this.  Her new apartment building was set back from the
+road, in a stand of old oak trees.   The build quality of the fixtures and
+furniture wasn't amazing, but it was spacious and comfortable, with three
+bedrooms and two bathrooms.
 
-"Yes," replied Feyerabend.  "A project I've been working on is going well."
 
-"Nice!"  Roberto looked back down at his computer, squinting in the autumn
-sunset light.
+For ten years, Leah Feyerabend studied grammar, at a number of different
+schools.  As her classmates went out to jobs, they always asked 
 
-Feyerabend got pita chips and hummus, and went to another table to think.
+Leah Feyerabend had spent ten years at school, studying grammar.  When her
+classmates had gone out to jobs, they'd always 
 
 This was probably be the best moment of her life, Feyerabend thought.  This was
 it, and it was really good.  This was everything paying off at once.
@@ -35,39 +37,28 @@ in the past, and this was the biggest one.  She would never feel truly useless
 again, when she was having trouble falling asleep.
 
 Feyerabend cleaned up her snack, and went back to her desk.  A notification was
-waiting for her, saying that $20,000 had been deposited to her account for
+waiting for her, saying that $20,000 had been deposited into her account for
 relocation costs.  Feyerabend was impressed that the organization somehow knew
 her bank account number, and was able to move money to it instantly. 
 
 <hr>
 
-Even though Feyerabend would be living in Poland for over a year, it felt like
-she was going on an exciting vacation.  The HR people at her company sort of
-nodded and smiled when she explained she was leaving to work on an open source
-project, with people she had never met.  
-
-When Feyerabend arrived in Warsaw, an email from Addison Chen explicitly
-suggested that she spend a week not working and 'getting situated'.  Feyerabend
-decided to go along with this.  Her new apartment was quite large, with three
-bedrooms and two bathrooms, set back from the road in a stand of oak trees.  The
-build quality of the fixtures and furniture wasn't amazing, but it was new,
-spacious and comfortable.
 
 The next day was warm and summery, and Feyerabend decided to go to one of the
 outdoor swimming pools she had seen on the ride from the airport.  She sat on a
-towel, reading a non-grammar-related book.  It was the first time Feyerabend had
-taken a serious, unstructured break in her life.   She watched families grilling
-things and jumping in the pool together.  
+towel, reading a book that had nothing to do with grammar.  It was the first
+time Feyerabend had taken a serious, unstructured break in her life.   She
+watched families grilling and jumping in the pool.  
 
 Feyerabend wondered what it would be like meeting Addison on Monday.  It
 probably wouldn't be particularly uncomfortable: there would be so many things
-to talk about.  The abstract synatax tree, the results of the hardware tests,
-Feyerabend's whitepaper proposal for a codepoint plane.  
+to talk about.  Feyerabend's whitepaper proposal for a codepoint plane, the
+results of the hardware tests.  
 
 It might be a bit weird, but Feyerabend was experienced with meeting colleagues
 from the Internet.  She found that most people were not surprised that she was
-trans: to most people, it was sort of obvious from the picture on her website.
-The communication problems would work themselves out.
+trans: most people could tell from the picture on Feyerabend's website.  The
+communication problems would work themselves out.
 
 <hr>
 
@@ -88,7 +79,7 @@ trying to convince herself that everything was okay.
 
 <hr>
 
-Shortly after sunrise on Monday morning, a driver picked Feyerabend up from her
+Shortly after sunrise on Monday morning, a driver picked Feyerabend up at her
 apartment.  Feyerabend fell asleep in the car, and startled awake when they
 arrived.  The driver laughed, and led her into a marble building enclosed by a
 glass atrium.
@@ -97,15 +88,15 @@ Feyerabend was shown directly to her new office, a room with a bookshelf, a
 coffee table, and a set of excellent digital windows.  The driver left, and
 Feyerabend spent a few minutes organizing the things in her bag.
 
-Someone pushed open the door, and stuck only his head in.
+Someone pushed open the door, and stuck his head in.
 
 "Leah?" the person said.  He had a French accent.
 
 "Hello," said Feyerabend, standing up.  
 
 The person introduced himself, saying that he was also a researcher.  He
-awkwardly suggested that they go to a meeting room, and asked Feyerabend what
-she thought about Warsaw. 
+suggested that they go to a meeting room, and as they walked there, he asked
+Feyerabend what she thought about Warsaw. 
 
 "The people working on the project go out for dinner together, sometimes, I like
 that," he said.
@@ -278,13 +269,13 @@ she had massive respect and affection for.
 
 <hr>
 
-Feyerabend began to develop a system that allowed the qualia could be combined to
-produce novel meanings, using the qualia symbols that referred to the concept of
-morphological combination themselves.  There was no issue of creating an overly
-verbose language: the bandwidth of the CBI allowed the listener to almost
-instantly comprehend and distinguish the sequence of a large number of qualia.
-She also began to develop a set of "qualia radicals", meant to span the   
-
+Feyerabend began to develop a set of "qualia radicals", meant to span the space
+of current human experience and allow for almost limitless expansion.  The
+symbols referring to morphological combination could be used along with other
+symbols to create new meaning.  There was no issue of creating an overly verbose
+language: the bandwidth of the CBI allowed the listener to almost instantly
+comprehend a long sequence of qualia. 
+ 
 Now in the world there was the wordless voice of her thoughts, the swell and
 grind of her emotions, and this new third fast whisper.  It communicated clearly
 
@@ -337,8 +328,36 @@ Feyerabend had no idea what future might be meaningful.
 It was very clear that role would be as an important assistant of Addison Chen.
 The historicity of what they were doing.
 
+Success through smallness.
+
 <hr>
 
-The story ends without any major conflict, merely technical challenges and a
-"difficult conversation" that exposes difficult realities that the characters
-must confront.
+A bronze event.
+
+<hr>
+
+"Leah, are you okay?  You've done...so much."
+
+"So have you, Addison."
+
+"But what about *me*," said Leah, laughing through her nose.  "What about
+*you*?"
+
+Addison sat down in the folding chair next to Leah.  Leah looked up at her.
+Addison seemed to be consciously shifting a number of mental gears, and for a
+moment seemed harder, and then softer.  She longer had the demeanor of an
+effective, social dentist, but looked more liked a confused student staring at a
+problem on a whiteboard. 
+
+"We've been working together for what, five years, in various forms?  Right?"
+
+"Yeah," said Leah.
+
+"I think you and I were both blessed with vocations
+
+"You want more," said Addision. 
+
+Feyerabend felt alone when she got back to her apartment.  But, she comforted
+herself with the fact that in her old age, it would probably be possible to fall
+fully and deeply in love with a computer program.  She did deserve love, she
+knew.  She fell asleep thinking about real life.
