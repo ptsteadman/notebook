@@ -62,13 +62,15 @@ communication problems would work themselves out.
 
 <hr>
 
-Spending most of the day in the sun, wandering around the pastel and grey city,
-reminded Feyerabend of being a teenager.  Feyerabend knew that she was still
-young in the abstract sense, but her week of freedom brought back memories of a
-different period of her life, when there was much more time.  Ever since her
-early twenties, Feyerabend had been constantly aware that each day could not be
-wasted, and had generally lived accordingly.  It was only out of obedience to
-the project that she was going through with this week off.
+Yet another city, with a unique scent pattern that Feyerabend would remember,
+and probably have feelings attached to.  Spending most of the day in the sun,
+wandering around the pastel and grey city, reminded Feyerabend of being a
+teenager.  Feyerabend knew that she was still young in the abstract sense, but
+her week of freedom brought back memories of a different period of her life,
+when there was much more time.  Ever since her early twenties, Feyerabend had
+been constantly aware that each day could not be wasted, and had generally lived
+accordingly.  It was only out of obedience to the project that she was going
+through with this week off.
 
 She drank at dinner alone, and gave the cab driver a slip of paper with her
 address on it.  Back in her strange apartment, she looked at herself in the
@@ -124,7 +126,7 @@ ultrasound CBI machine, I'll be interested in your feedback on it."
 "The CBI device?  Now?" 
 
 "Sure," said the French researcher.  "Let's not waste any time.  There's some
-safety training you'll have to do, but that doesn't apply to use of the CBI."
+safety training you'll have to do before you actually use it, though."
 
 Feyerabend was very excited about the prospect of a whole year with a
 medical-grade computer-brain interface.  At university, she had worked with
@@ -346,15 +348,71 @@ whisper.
 
 <hr>
 
+It was summer again.  To celebrate finishing the first round of experiments with
+the CBI, the Warsaw project team took a trip to the ocean.  The group avoided
+the beach during the day, only making a trip to the watermelon stand in the
+middle of the afternoon.  Feyerabend ordered for the group, in Polish, while
+they stood blinking in the sun, watching waves of heat rise over thousands of
+families laying on the sand.  Feyerabend spent the rest of the day in the guest
+house, reading a book in a large wicker chair.
+
+Right before sunset, Addison invited Feyerabend for a walk down the beach.  It
+was now empty except for a group of art students taking photographs of a woman
+dressed in a colorful mermaid costume. 
 
 
+Feyerabend and Addison took off their sandals, and walked through the surf.  The
+feeling of seawater and sand rushing under Feyerabend's feet pulled at something
+in her heart.
 
-Addison had asked Feyerabend to call her 'Addy'.  They were becoming friends.
+Addision was talking about the paper they would write, describing the successful
+use of the CBI training program with outside volunteers.  These students were
+now able now receive information from the machine almost instantly, like
+Feyerabend.  
 
-The frustrations she experienced with her research were almost total: the fact
-that she was currently unable to input qualia back to the computer was a
-constant frustration, and she had trouble not becoming enraged at Eric and his
-team when the machine was down due to hardware issues.
+The paper would show that the CBI users were able to perform knowledge-worker
+tasks at rates much higher than peers who did not have access to the CBI device.
+It would be a landmark paper.
+
+"We can easily have it done by the end of the summer, I think, and present at
+the ACM conference in Montreal this fall," said Addison.
+
+Feyerabend was quiet.  It was obvious that Addison was saying this in
+celebration, not looking for feedback.  
+
+"I can't thank you enough, Leah," said Addison, after a minute.
+
+"I don't think this would have worked out so well without you."
+
+"There's a lot left to do," said Feyerabend. 
+
+The historicity of what they were doing.
+
+"Leah, are you okay?  You've done...so much."
+
+"I can't wait to talk back to it," said Feyerabend.
+
+"Soon," said Addision.  "By the end of the decade."
+
+"So have you, Addison."
+
+"But what about *me*," said Leah, laughing through her nose.  "What about
+*you*?"
+
+Addison sat down in the folding chair next to Leah.  Leah looked up at her.
+Addison seemed to be consciously shifting a number of mental gears, and for a
+moment seemed harder, and then softer.  She no longer had the demeanor of an
+effective, social dentist, but looked more liked a confused student staring at a
+problem on a whiteboard. 
+
+"We've been working together for what, five years, in various forms?  Right?"
+
+"Yeah," said Leah.
+A few weeks ago, Addison had asked Feyerabend to call her 'Addy'.  They were
+becoming friends.  Feyerabend felt different.
+
+There were a variety of different proposals that would allow the CBI to work
+untethered from an MRI.  
 
 As Feyerabend's work progressed, a sinister undertone of physical dysphoria was
 building.  In a distant way, Feyerabend missed her home, and constantly thought
@@ -365,46 +423,10 @@ Feyerabend felt that she had finally shifted from a mode of 'becoming' to a mode
 of 'being'.  At work, she was starting to lead a fairly considerable team, and
 felt competent almost al of the time.
 
-
-Went to ocean with her colleagues
-Seawater rushing quickly under her feet
-
-
-Feyerabend had no idea what future might be meaningful.
-
-It was very clear that role would be as an important assistant of Addison Chen.
-The historicity of what they were doing.
-
-Success through smallness.
-
-<hr>
-
-A bronze event.
-
-<hr>
-
-"Leah, are you okay?  You've done...so much."
-
-"So have you, Addison."
-
-"But what about *me*," said Leah, laughing through her nose.  "What about
-*you*?"
-
-Addison sat down in the folding chair next to Leah.  Leah looked up at her.
-Addison seemed to be consciously shifting a number of mental gears, and for a
-moment seemed harder, and then softer.  She longer had the demeanor of an
-effective, social dentist, but looked more liked a confused student staring at a
-problem on a whiteboard. 
-
-"We've been working together for what, five years, in various forms?  Right?"
-
-"Yeah," said Leah.
-
-"I think you and I were both blessed with vocations
-
-"You want more," said Addision.  "That's natural."
-
-Feyerabend felt alone when she got back to her apartment.  But, she comforted
+Feyerabend felt unusually alone when she got back to her room in the guest
+hosue.  She knew that she had the option of drinking and playing cards with
+colleagues downstairs, but consciously decided against it.  She comforted
 herself with the fact that in her old age, it would probably be possible to fall
 fully and deeply in love with a computer program.  She did deserve love, she
-knew.  She fell asleep thinking about real life.
+knew.  Feyerabend fell asleep listening to the sound of waves and thinking about
+Addison Chen.
