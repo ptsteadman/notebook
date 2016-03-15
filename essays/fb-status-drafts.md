@@ -121,10 +121,27 @@ Shame is a very human feeling, key to our ability to focus our efforts, but
 extremely toxic in fragile moments.  Shame tells us to stop, for better or
 worse, but it can also motivate us to fix things. ???
 
-Trolls:
+### I Feel Fated To Die A Violent Death
+
 March 2nd, 2016, the day I am no longer a bro
 New York is a bad dream that I am enjoying a lot
 
 https://www.youtube.com/watch?v=V_3rcP2Duv0
 I feel that I am fated to one day be killed by a drone.
 
+### Little Boxes
+
+I'm starting to appreciate Hollywood movies more.  For a while, I haven't
+enjoyed watching movies, because I feel like I'm watching the trailer over and
+over again for two hours.  With most movies, you can extrapolate everyting from
+the trailer.  
+
+But I'm starting to understand that Hollywood movies are a very structured form
+of expression similar to a sonnet, folk song, or Beijing opera.  I've been
+watching a lot of Tom Cruise movies, because I think they're all connected.  All
+of his movies have basically the same plot.  I think it's the story of some sort
+of immortal being, in the form of an American male, constantly rediscovering
+that he is not who he thinks he is.  These movies are like little cube puzzles
+made of wood, with a number of geometric pieces that fit together in exactly one
+way.  Watching these movies is like watching someone put together one of these
+puzzles perfectly, with no false moves.
