@@ -13,7 +13,6 @@ road, in a stand of old oak trees.   The build quality of the fixtures and
 furniture wasn't amazing, but it was spacious and comfortable, with three
 bedrooms and two bathrooms.
 
-
 For ten years, Leah Feyerabend studied grammar, at a number of different
 schools.  As her classmates went out to jobs, they always asked 
 
