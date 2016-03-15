@@ -1,6 +1,6 @@
 # Last Tango at Hyatt 48 Lex
 
-Emily seemed impressed with the hotel room.  It was a nice summer evening in
+Emily seemed impressed with the hotel room.  It was a summer evening in
 Manhattan, and the room felt like an airport lounge, with floor to ceiling
 windows and a minimalist sofa.  Emily sat on the bed, smiling at Drew. 
 
