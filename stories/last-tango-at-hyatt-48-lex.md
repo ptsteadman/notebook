@@ -51,7 +51,7 @@ before.
 "Yeah...that was okay...last night was good...yeah..I came, I needed that," she
 laughed.  Drew smiled at Emily, amused, but also anxious.  
 
-The next day was a Monday, and the last day of Drew's internship. 
+The next day was a Monday, the last day of Drew's internship. 
 
 "I feel like a hotel wife," texted Emily.  
 
