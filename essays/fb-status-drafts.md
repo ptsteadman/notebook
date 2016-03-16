@@ -61,87 +61,64 @@ A child just lost their favorite stuffed animal at a gas station, the family
 drove away, leaving it sitting in dirty slush.
 
 
-Translating things that series A tech recruiters say:
+Translating things that Series A tech recruiters say:
 
-"We've transitioned a lot of our site to React" -> "We are trying to manage the
+- "We've transitioned a lot of our site to React" -> "We are trying to manage the
 inherent complexity of our views by telling the junior developer to add a new
 framework"
 
-"We have a microservice architecture" -> "No one can agree on anything, so we
+- "We have a microservice architecture" -> "No one can agree on anything, so we
 give each developer their own ec2 box"
 
-"Data warehouse" -> "PostgreSQL database"
+- "Data warehouse" -> "PostgreSQL database"
 
-"We do don't the typical whiteboard coding interview process" -> "First, you're
+- "We do don't the typical whiteboard coding interview process" -> "First, you're
 going to spend three hours on a homework assignment, and then you will do a
 graph search coding problem on a whiteboard in person"
 
-"This is a really unique opportunity" -> "Most likely, you're going to waste
+- "This is a really unique opportunity" -> "Most likely, you're going to waste
 your time and also get screwed in terms of compensation"
 
-"We don't care how you get things done, we're really results oriented here" ->
+- "We don't care how you get things done, we're really results oriented here" ->
 "We need you to sit in our office every day, and sign a contract
 devoting the next year of your life to the company"
 
-"We offer a really good value proposition to our customers" -> "We are mostly
+- "We offer a really good value proposition to our customers" -> "We are mostly
 useless in real-world terms"
-
 
 The "show-don't-tell" school of writing teaches that you should use an
 incredibly low-bandwidth channel to communicate images, sounds, smells, and
 motions.  It's a futile attempt to increase the immediacy of prose by using the
-techniques of film and art.  But, the amount of actionable facts contained in an
-hour-long documentary is roughly equivalent to the contents of an essay that you
-could read in less than ten minutes.  The immediacy of writing lies in the
-highly concise, memorable, and sharable nature of text.
+techniques of film and art.  
 
-### Shifting From Becoming To Being
+Consider that the amount of actionable facts contained in an hour-long
+documentary is roughly equivalent to the contents of an essay that you could
+read in less than ten minutes.  The immediacy of writing lies in the highly
+concise, memorable, and sharable nature of text.
 
 In the past year I think I have undergone a shift from a mode of "becoming" to a
 mode of "being".  As a child and young adult, I focused mostly on potentials:
-who I would be when I grew up, and the memories I was creating.  Insofar as
-things happened in real life, I was mostly interested in them as auguries of a
-distant, glittering future.  The fantasy world was perhaps rightly more
-important, and I leaped into relationships when my world intersected with
-someone else's.  But in 2015, entropy started to creep into my life.  Since
-then, every month has started to "count frantically and seems a cudgel in a
-fight for happiness against time".  (Thanks Alina for that quote!)  
+who I would be when I grew up, and the memories I was creating.  Things happened
+in real life, but I was mostly interested in them as auguries of a distant,
+glittering future.  
 
-The onset of this sort of reality has been no surprise: I feel my parents and
-education prepared me well, and I am by no means caught off guard.  My friends
-and I seem to be facing the challenges of life with some grace, rigor, and
-aplomb.  The shift to "becoming" from "being" comes with many pleasures, as
-anyone who has ever successfully played their role in the American workplace
-knows.  There's an eurphoria to the working lunch, the appropriate paycheck, the
-clean apartment.  These things aren't trivial at all.
+The fantasy world was perhaps rightly more important, and I leaped into
+relationships when my fantasy world intersected with someone else's.  But in
+2015, entropy started to creep into my life.  Since then, every month has
+started to "count frantically and seems a cudgel in a fight for happiness
+against time".  (Thanks Alina for that quote!)  
 
-"Being" seems to require both humility and arbitrary confidence.  I have thought
-a lot about shame, which is both a barrier to being, and a cornerstone of being.
-Shame is a very human feeling, key to our ability to focus our efforts, but
-extremely toxic in fragile moments.  Shame tells us to stop, for better or
-worse, but it can also motivate us to fix things. ???
+The onset of this sort of reality hasn't been a surprise: I feel my parents and
+education prepared me well, and I'm not caught off guard.  My friends and I seem
+to be facing the challenges of life with some grace, rigor, and aplomb.  
 
-### I Feel Fated To Die A Violent Death
+The shift to "becoming" from "being" comes with many pleasures, as anyone who
+has ever successfully played their role in the American workplace knows.  It's
+not trivial to pull this sort of thing off, and that's probably why getting a
+working lunch can be euphoric sometimes.
 
 March 2nd, 2016, the day I am no longer a bro
 New York is a bad dream that I am enjoying a lot
 
 https://www.youtube.com/watch?v=V_3rcP2Duv0
 I feel that I am fated to one day be killed by a drone.
-
-### Little Boxes
-
-I'm starting to appreciate Hollywood movies more.  For a while, I haven't
-enjoyed watching movies, because I feel like I'm watching the trailer over and
-over again for two hours.  With most movies, you can extrapolate everyting from
-the trailer.  
-
-But I'm starting to understand that Hollywood movies are a very structured form
-of expression similar to a sonnet, folk song, or Beijing opera.  I've been
-watching a lot of Tom Cruise movies, because I think they're all connected.  All
-of his movies have basically the same plot.  I think it's the story of some sort
-of immortal being, in the form of an American male, constantly rediscovering
-that he is not who he thinks he is.  These movies are like little cube puzzles
-made of wood, with a number of geometric pieces that fit together in exactly one
-way.  Watching these movies is like watching someone put together one of these
-puzzles perfectly, with no false moves.
