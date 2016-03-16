@@ -36,7 +36,7 @@ Many people have asked me what my secret is.  My secret is that I get pumped up
 for *everything* I do.  In 2016, with a decent stack of genetics, environment,
 and consistent effort, it is possible to be happy virtually all of the time.  If
 you build your life on top of robust systems like Soylent, Adderall, TalkSpace,
-SoulCycle, ReactJS, Ketamine, GitHub, and Harvest, almost nothing can ruin your
+SoulCycle, ReactJS, K******e, GitHub, and Harvest, almost nothing can ruin your
 life, except for a few thorny edge cases.  But those are what make life
 beautiful :). 
 
