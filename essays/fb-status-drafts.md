@@ -1,3 +1,4 @@
+```
 I'm 'into' politics again for the first time since 2004.
 
 No one beyond your friends will ever like you or pay attention to you.  It is
@@ -122,3 +123,4 @@ New York is a bad dream that I am enjoying a lot
 
 https://www.youtube.com/watch?v=V_3rcP2Duv0
 I feel that I am fated to one day be killed by a drone.
+```
