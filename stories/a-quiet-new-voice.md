@@ -1,31 +1,42 @@
 # A Quiet New Voice
 
-*An upstanding young grammatist serves as the test subject of a new "direct
-semantic IO" machine.*
-
 Even though Feyerabend would be living in Poland for over a year, it felt like
-she was going on an exciting vacation. 
+she was going on an exciting vacation.  An email from Addison Chen explicity
+suggested that she spend her first week in Warsaw 'getting situated', not
+working.  Feyerabend decided to go along with this.
 
-When Feyerabend arrived in Warsaw, an email from Addison Chen explicitly
-suggested that she spend a week 'getting situated', not working.  Feyerabend
-decided to go along with this.  Her new apartment building was set back from the
-road, in a stand of old oak trees.   The build quality of the fixtures and
-furniture wasn't amazing, but it was spacious and comfortable, with three
-bedrooms and two bathrooms.
+A driver drove her to her new apartment, set back from the road in a stand of old
+oak trees.  Someone from the project had arranged it for her. 
 
-For ten years, Leah Feyerabend studied grammar, at a number of different
-schools.  As her classmates went out to jobs, they always asked 
+<hr>
 
-Leah Feyerabend had spent ten years at school, studying grammar.  When her
-classmates had gone out to jobs, they'd always 
+The next day was warm and summery, and Feyerabend decided to go to one of the
+outdoor swimming pools she had noticed.  She sat on a towel, reading a book that
+had nothing to do with work.  The grass was a bristly dark green. 
 
-This was probably be the best moment of her life, Feyerabend thought.  This was
-it, and it was really good.  This was everything paying off at once.
+Feyerabend watched families grilling and jumping in the pool, and wondered
+Feyerabend wondered what it would be like meeting people on Monday.  It probably
+wouldn't be particularly uncomfortable: Feyerabend was experieced with meeting
+colleagues from the Internet, and there would be a lot to talk about.  In
+Feyerabend's experience, most people were not surprised that she was trans: they
+could tell from the picture on her website.  
 
-Feyerabend had spent ten years at University, studying grammar.  Whenever her
-classmates had gone out to jobs, they'd always treated her with a sort of pity,
-asking passive-aggressive questions like "what applications do you see for this
-research?", etc.
+<hr>
+
+Feyerabend explored her new city, yet another city, that she'd eventually have
+feelings for.  It was pastel and grey, and reminded Feyerabend of being a
+teenager.  Feyerabend knew that she was still young in the abstract sense, but
+her week of freedom brought back memories of a different period of her life,
+when there was much more time.  Ever since her early twenties, Feyerabend had
+been constantly aware that each day could not be wasted, and had generally lived
+accordingly.  It was only out of obedience to the project that she was going
+through with this week off.
+
+For ten years, Leah Feyerabend had studied grammar, at a number of different
+schools.  When her classmates had gone out to jobs, they'd always treated
+Feyerabend with a bit of pity, and had asked passive-aggressive questions like
+"what applications do you see for this", etc.
+
 
 And now she felt validated: Addison Chen's direct semantic IO project was
 valuable, and apparently her contributions to it were also valuable.  She would
@@ -35,48 +46,12 @@ life was now filled with gold.  She had experienced irreversible steps forward
 in the past, and this was the biggest one.  She would never feel truly useless
 again, when she was having trouble falling asleep.
 
-Feyerabend cleaned up her snack, and went back to her desk.  A notification was
-waiting for her, saying that $20,000 had been deposited into her account for
-relocation costs.  Feyerabend was impressed that the organization somehow knew
-her bank account number, and was able to move money to it instantly. 
-
-<hr>
-
-
-The next day was warm and summery, and Feyerabend decided to go to one of the
-outdoor swimming pools she had seen on the ride from the airport.  She sat on a
-towel, reading a book that had nothing to do with grammar.  It was the first
-time Feyerabend had taken a serious, unstructured break in her life.   She
-watched families grilling and jumping in the pool.  
-
-Feyerabend wondered what it would be like meeting Addison on Monday.  It
-probably wouldn't be particularly uncomfortable: there would be so many things
-to talk about.  Feyerabend's whitepaper proposal for a codepoint plane, the
-results of the hardware tests.  
-
-It might be a bit weird, but Feyerabend was experienced with meeting colleagues
-from the Internet.  She found that most people were not surprised that she was
-trans: most people could tell from the picture on Feyerabend's website.  The
-communication problems would work themselves out.
-
-<hr>
-
-Yet another city, with a unique scent pattern that Feyerabend would remember,
-and probably have feelings attached to.  Spending most of the day in the sun,
-wandering around the pastel and grey city, reminded Feyerabend of being a
-teenager.  Feyerabend knew that she was still young in the abstract sense, but
-her week of freedom brought back memories of a different period of her life,
-when there was much more time.  Ever since her early twenties, Feyerabend had
-been constantly aware that each day could not be wasted, and had generally lived
-accordingly.  It was only out of obedience to the project that she was going
-through with this week off.
+This was probably be the best moment of her life, Feyerabend thought.  This was
+it, and it was really good.  This was everything paying off at once.
 
 She drank at dinner alone, and gave the cab driver a slip of paper with her
 address on it.  Back in her strange apartment, she looked at herself in the
 mirror and quieted old dysphoric feelings. 
-
-A sense of baseless anxiety, like she had taken some sort of speedy drug and was
-trying to convince herself that everything was okay.
 
 <hr>
 
