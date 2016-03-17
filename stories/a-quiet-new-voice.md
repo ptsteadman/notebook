@@ -1,52 +1,59 @@
 # A Quiet New Voice
 
+<!-- need to make it flow -->
+
 Even though Feyerabend would be living in Poland for over a year, it felt like
-she was going on an exciting vacation.  An email from Addison Chen explicity
-suggested that she spend her first week in Warsaw 'getting situated', not
-working.  Feyerabend decided to go along with this.
+she was going on an exciting vacation.  An email from Addison Chen had
+explicitly suggested that she spend her first week in Warsaw 'getting situated',
+not working.  Feyerabend decided to go along with this.
 
-A driver drove her to her new apartment, set back from the road in a stand of
-old oak trees.  Someone from the project had arranged it for her. 
-
-<hr>
-
-The next day was warm and summery, and Feyerabend decided to go to one of the
-outdoor swimming pools she had noticed.  She sat on a towel, reading a book that
-had nothing to do with work.  The grass was a bristly dark green. 
-
-Feyerabend watched families grilling and jumping in the pool, and wondered
-Feyerabend wondered what it would be like meeting people on Monday.  It probably
-wouldn't be particularly uncomfortable: Feyerabend was experieced with meeting
-colleagues from the Internet, and there would be a lot to talk about.  In
-Feyerabend's experience, most people were not surprised that she was trans: they
-could tell from the picture on her website.  
+A driver drove her from the airport to her new apartment, set back from the road
+in a stand of old oak trees.  
 
 <hr>
 
-Feyerabend explored her new city, yet another city that she'd eventually have
-feelings for.  It was pastel and grey, and reminded Feyerabend of being a
-teenager.  Feyerabend knew that she was still young in the abstract sense, but
-her week of freedom brought back memories of a different period of her life,
-when there was much more time.  Ever since her early twenties, Feyerabend had
-been constantly aware that each day could not be wasted, and had generally lived
-accordingly.  It was only out of obedience to the project that she was going
-through with this week off.
+The next day was warm and summery, and Feyerabend decided to go to the nearby
+outdoor swimming park.  She sat on a towel in the bristly green grass, reading a
+book that had nothing to do with work.  
 
-For ten years, Leah Feyerabend had studied grammar, at a number of different
-schools.  When her classmates had gone out to jobs, they'd always treated
-Feyerabend with a bit of pity, and had asked passive-aggressive questions like
-"what applications do you see for this", etc.
+Feyerabend watched families grilling and jumping in the pool, and thought about
+meeting people at the lab on Monday.  It probably wouldn't be particularly
+uncomfortable: Feyerabend was used to meeting colleagues from the Internet, and
+there would be a lot to talk about.  In Feyerabend's experience, most people
+were not surprised that she was trans: they could tell from the picture on her
+personal website.  
 
-And now she felt validated: recieving Addison's email inviting her to work in  Addison Chen's direct semantic IO project was
-valuable, and apparently her contributions to it were also valuable.  She would
-contribute new understanding to the world.  Feyerabend felt more certain of this
-than anything else in the world, and this meant that a deep dark hole in her
-life was now filled with gold.  She had experienced irreversible steps forward
-in the past, and this was the biggest one.  She would never feel truly useless
-again, when she was having trouble falling asleep.
+<!-- more -->
 
-This was probably be the best moment of her life, Feyerabend thought.  This was
-it, and it was really good.  This was everything paying off at once.
+<hr>
+
+Feyerabend explored her new city, yet another city.  It was pastel and grey, and
+somehow reminded Feyerabend of being a teenager.  
+
+Feyerabend knew that she was still young in the abstract sense, but her week of
+free time brought back memories of a different period of her life.  At some
+point Feyerabend had become continuously aware that each day could not be
+wasted, and had generally lived accordingly.  It was only out of obedience to
+the project that she was going through with this week off.
+
+For ten years, Leah Feyerabend had studied formal grammar at a number of
+different universities.  When her classmates went out to jobs, they always
+treated Feyerabend with a bit of pity, asking passive-aggressive questions like
+"what applications do you see for this", etc.  
+
+After Feyerabend got her first post-graduate degree, she started working at a
+bank.  She received Addision's invitation to work in Poland a few months later,
+and and quit her job.  It was the best moment of her life.  It was ten years of
+discipline and paying off in one moment, validation of her dry, obscure focus.
+
+Addison Chen's direct semantic IO project was valuable, and apparently her
+contributions to it werelalso valuable.  She would contribute new understanding
+to the world.  Feyerabend felt more certain of this than anything else in the
+world, and this meant that a deep dark hole in her life was now filled with
+gold.  She had experienced irreversible steps forward in the past, and this was
+the biggest one.  She would never feel truly useless again, when she was having
+trouble falling asleep.
+
 
 She drank at dinner alone, and gave the cab driver a slip of paper with her
 address on it.  Back in her strange apartment, she looked at herself in the
@@ -56,21 +63,20 @@ mirror and quieted old dysphoric feelings.
 
 Shortly after sunrise on Monday morning, a driver picked Feyerabend up at her
 apartment.  Feyerabend fell asleep in the car, and startled awake when they
-arrived.  The driver laughed, and led her into a marble building enclosed by a
-glass atrium.
+arrived.  She was led into a marble building enclosed by a glass atrium, and
+shown directly to her new office.
 
-Feyerabend was shown directly to her new office, a room with a bookshelf, a
-coffee table, and a set of excellent digital windows.  The driver left, and
-Feyerabend spent a few minutes organizing the things in her bag.
+It was a room with a bookshelf, a coffee table, and a set of excellent digital
+windows.  Feyerabend spent a few minutes organizing the things in her bag.
 
-Someone pushed open the door, and stuck his head in.
+Someone pushed open the door, and stuck their head in.
 
 "Leah?" the person said.  He had a French accent.
 
 "Hello," said Feyerabend, standing up.  
 
 The person introduced himself, saying that he was also a researcher.  He
-suggested that they go to a meeting room, and as they walked there, he asked
+suggested that they go to a meeting room, and on the way there, he asked
 Feyerabend what she thought about Warsaw. 
 
 "The people working on the project go out for dinner together, sometimes, I like
@@ -78,21 +84,21 @@ that," he said.
 
 Talk shifted quickly to their work.  The researcher said that he mostly worked
 on the project's hardware, but that he had read through all of Feyerabend's
-RFCs, and thought they were all very well-considered. 
+proposals, and thought they were all very well-considered. 
 
 "Do you have any insight into whether I'll be involved with the hardware aspect
-of the project or not?" asked Feyerabend.
+of the project?" asked Feyerabend.
 
 "Well, you'll be working with the hardware almost constantly.  That's the main
-reason why the organization decided to fund your residency here."
+reason why the organization decided to fund your time here."
 
 "It's not an area I have much expertise in," said Feyerabend, somewhat
 excitedly.  The researcher smiled.
 
 "We've developed a fairly straightforward user interface for the focused
-ultrasound CBI machine, I'll be interested in your feedback on it."
+ultrasound CBI, I'll be interested in your feedback on it."
 
-"Looking forward to providing it," said Feyerabend.
+"Definitely, yeah," said Feyerabend.
 
 "Why don't we go take a look at it?"
 
@@ -101,35 +107,35 @@ ultrasound CBI machine, I'll be interested in your feedback on it."
 "Sure," said the French researcher.  "Let's not waste any time.  There's some
 safety training you'll have to do before you actually use it, though."
 
-Feyerabend was very excited about the prospect of a whole year with a
-medical-grade computer-brain interface.  At university, she had worked with
-transcranial magnetic stimulation machines, and an Internet friend had once
-shown her a focused ultrasound effector designed for use on rats, but recent
-tests with the project's focused ultrasound device had suggested spatial and
-temporaral resolutions orders of magnitude higher than legacy devices.
-Feyerabend's proposals depended on the reality of this hardware.
-
 On the way to see the machine, the French researcher showed her the break room,
 containing only a refrigerator and a coffee machine. 
 
-The focused ultrasound room contained a hacked-open MRI sled, stripped of its
-white medical plastic. The focused ultrasound transducers were mounted on the
-inside of the MRI tube, with copper wires leading to a server room.
+Feyerabend was very excited to spend a whole year with a medical-grade
+computer-brain interface.  At university, she had worked with transcranial
+magnetic stimulation devices, and an Internet friend had once shown her a
+focused ultrasound effector designed for use on rats, but recent tests with the
+project's focused ultrasound device had suggested spatial and temporaral
+resolutions orders of magnitude higher than legacy devices.
 
-"Here it is!" said the French researcher.  "We have a few others, but this is
-the latest iteration."
+"Here it is!" said the French researcher, opening an unmarked door.  "We have a
+few others, but this is the latest iteration."
 
-The researcher gave her a tour of the machine's components.  There were few
-surprises.  As he was finishing up, a middle-aged woman came into the room,
-saying "Hello!" loudly to announce herself.
+The room contained a hacked-open MRI sled, stripped of its white medical
+plastic. The focused ultrasound transducers were mounted on the inside of the
+MRI tube, with copper wires leading to a server room.
+
+The researcher gave her a tour of the machine's components, and Feyerabend
+struggled to not complete his sentences.  As he was finishing up, a middle-aged
+woman came into the room, saying "Hello!" loudly to announce herself.
 
 "Leah, meet Addison," said the French researcher.
 
 "Wow," said Feyerabend, shaking Addison's hand lightly.  "Great to meet to you
-in person, finally."  Feyerabend dimly recognized that Addison was attractive,
-something she had not expected.  Feyerabend took chemical sterilization
-medication, drugs that she had initially purchased from the darknet, but now had
-a prescription for.
+in person, finally."  
+
+Feyerabend dimly recognized that Addison was attractive, something she had not
+expected.  (...)  Feyerabend took chemical sterilization medication, drugs that
+she had initially purchased from the darknet, but now had a prescription for.
 
 It was quickly obvious why the distributed autonomous organization that governed
 the project had decided to allocate so many resources to Addison: she had the
@@ -137,20 +143,19 @@ almost garrulous enthusiasm required to effectively herd neuroscientists,
 electrical engineers, and programmers.  As Addision outlined the plan for the
 next few weeks, Feyerabend was reminded of a busy but sociable dentist.
 
-Tomorrow morning, Feyerabend could start testing the CBI machine, and would have
-a week to simply experiment with it, under the supervision of Addison herself.
+Tomorrow morning, Feyerabend would start testing the CBI machine, and would have
+a week to simply play around with it, under the supervision of Addison herself.
 Then, they could devise a research plan.
 
 <hr>
 
 That evening, Feyerabend treated herself to a celebratory meal at a restaurant
-near her apartment.  She tried to think back to the last time she had been truly
-unhappy.  Work seemed so unbelievably perfect.  As she waited for her food to
-come, Feyerabend used her phone to sign up for things: fitness classes, a few
-expat meetup groups, a recurring vacation week, and automated bill payments.  It
-was hard to imagine being unhappy ever again.  Humanity had progressed to a
-point where nothing could ruin Feyerabend's life, except for a few thorny edge
-cases. 
+near her apartment.  Work seemed so unbelievably perfect.  She tried to think
+back to the last time she had been truly unhappy.  As she waited for her food,
+Feyerabend used her phone to sign up for things: fitness classes, a few expat
+meetup groups, a recurring vacation week, and automated bill payments.  It was
+hard to imagine being unhappy ever again.  Humanity had progressed to a point
+where nothing could ruin Feyerabend's life, except for a few thorny edge cases. 
 
 At home, Feyerabend had a beer, and fell asleep.
 
@@ -324,28 +329,27 @@ whisper.
 It was summer again.  To celebrate finishing the first round of experiments with
 the CBI, the Warsaw project team took a trip to the ocean.  The group avoided
 the beach during the day, only making a trip to the watermelon stand in the
-middle of the afternoon.  Feyerabend ordered for the group, in Polish, while
-they stood blinking in the sun, watching waves of heat rise over thousands of
-families laying on the sand.  Feyerabend spent the rest of the day in the guest
-house, reading a book in a large wicker chair.
+middle of the afternoon.  Feyerabend ordered for the group while they stood
+blinking in the sun, watching waves of heat rising over thousands of families on
+the sand.  Feyerabend spent the rest of the day on the ground floor of the guest
+house, reading a book in a wicker chair.
 
 Right before sunset, Addison invited Feyerabend for a walk down the beach.  It
-was now empty except for a group of art students taking photographs of a woman
-dressed in a colorful mermaid costume. 
+was now empty except for a group of art students photographing a woman dressed
+in mermaid costume. 
 
+Feyerabend and Addison took off their sandals, and walked through the surf.
+Feyerabend's heart was affected by the feeling of seawater rushing under her
+feet.
 
-Feyerabend and Addison took off their sandals, and walked through the surf.  The
-feeling of seawater and sand rushing under Feyerabend's feet pulled at something
-in her heart.
-
-Addision was talking about the paper they would write, describing the successful
-use of the CBI training program with outside volunteers.  These students were
-now able now receive information from the machine almost instantly, like
+Addision was talking about the paper they would soon write, describing the
+successful use of the training program with outside volunteers.  These students
+were now able now receive information from the machine almost instantly, like
 Feyerabend.  
 
 The paper would show that the CBI users were able to perform knowledge-worker
-tasks at rates much higher than peers who did not have access to the CBI device.
-It would be a landmark paper.
+tasks much faster than peers who did not have access to the CBI device.  It
+would be a landmark paper.
 
 "We can easily have it done by the end of the summer, I think, and present at
 the ACM conference in Montreal this fall," said Addison.
@@ -353,13 +357,10 @@ the ACM conference in Montreal this fall," said Addison.
 Feyerabend was quiet.  It was obvious that Addison was saying this in
 celebration, not looking for feedback.  
 
-"I can't thank you enough, Leah," said Addison, after a minute.
-
-"I don't think this would have worked out so well without you."
+"I can't thank you enough, Leah," said Addison, after a minute.  "I don't think
+this would have worked out so well without you."
 
 "There's a lot left to do," said Feyerabend. 
-
-The historicity of what they were doing.
 
 "Leah, are you okay?  You've done...so much."
 
