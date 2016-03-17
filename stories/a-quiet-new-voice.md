@@ -5,8 +5,8 @@ she was going on an exciting vacation.  An email from Addison Chen explicity
 suggested that she spend her first week in Warsaw 'getting situated', not
 working.  Feyerabend decided to go along with this.
 
-A driver drove her to her new apartment, set back from the road in a stand of old
-oak trees.  Someone from the project had arranged it for her. 
+A driver drove her to her new apartment, set back from the road in a stand of
+old oak trees.  Someone from the project had arranged it for her. 
 
 <hr>
 
@@ -23,7 +23,7 @@ could tell from the picture on her website.
 
 <hr>
 
-Feyerabend explored her new city, yet another city, that she'd eventually have
+Feyerabend explored her new city, yet another city that she'd eventually have
 feelings for.  It was pastel and grey, and reminded Feyerabend of being a
 teenager.  Feyerabend knew that she was still young in the abstract sense, but
 her week of freedom brought back memories of a different period of her life,
@@ -37,8 +37,7 @@ schools.  When her classmates had gone out to jobs, they'd always treated
 Feyerabend with a bit of pity, and had asked passive-aggressive questions like
 "what applications do you see for this", etc.
 
-
-And now she felt validated: Addison Chen's direct semantic IO project was
+And now she felt validated: recieving Addison's email inviting her to work in  Addison Chen's direct semantic IO project was
 valuable, and apparently her contributions to it were also valuable.  She would
 contribute new understanding to the world.  Feyerabend felt more certain of this
 than anything else in the world, and this meant that a deep dark hole in her
