@@ -8,6 +8,9 @@ she was going on an exciting vacation.  An email from Addison Chen had
 explicitly suggested that she spend her first week in Warsaw 'getting situated',
 not working.  Feyerabend decided to go along with this.
 
+
+what the project is
+
 A driver drove her from the airport to her new apartment, set back from the road
 in a stand of old oak trees.  
 
@@ -15,7 +18,7 @@ in a stand of old oak trees.
 
 The next day was warm and summery, and Feyerabend decided to go to a nearby
 outdoor swimming park.  She sat on a towel in the bristly green grass, reading a
-novel she had bought in the airport.  
+novel from the airport.  
 
 Feyerabend watched families grilling and jumping in the pool, and thought ahead
 to meeting people at the lab on Monday.  It probably wouldn't be particularly
@@ -24,7 +27,6 @@ there would be a lot to talk about.  In Feyerabend's experience, most people
 were not surprised that she was trans: they could tell from the picture on her
 personal website.  
 
-<!-- more -->
 
 <hr>
 
@@ -33,25 +35,25 @@ somehow reminded Feyerabend of being a teenager.
 
 Feyerabend knew that she was still young in the abstract sense, but her week of
 free time brought back memories.  At some point in her early twenties,
-Feyerabend had become continuously aware that each day could not be wasted, and
+Feyerabend had become constantly aware that each day could not be wasted, and
 had generally lived accordingly.  For ten years, Leah Feyerabend had studied
-formal grammar at a number of different universities.  When her classmates went
-out to jobs, they always treated Feyerabend with a bit of pity, asking questions
-like "what type of applications do you see for your work", etc.  
+formal grammar at a number of different universities, reading hundreds of pages
+every day.  When Feyerabend's classmates went out to jobs, they always treated
+her with a bit of pity, asking questions like "what type of applications do you
+see for your work", etc.  
 
-After Feyerabend got her first post-graduate degree, she started working at a
-bank.  She received Addision's invitation to work in Poland a few months later,
-and and quit her job.  It was the best moment of her life.  It was ten years of
-discipline and paying off in one moment, validation of her dry, obscure focus.
+Feyerabend daydreamed, thinking back to the unexpected email from Addison,
+inviting Feyerabend to come work full-time on the direct semantic IO project in
+Warsaw.  Feyerabend had quit her machine learning job a few minutes later, just
+weeks after starting. 
 
-Addison Chen's direct semantic IO project was valuable, and apparently her
-contributions to it werelalso valuable.  She would contribute new understanding
-to the world.  Feyerabend felt more certain of this than anything else in the
-world, and this meant that a deep dark hole in her life was now filled with
-gold.  She had experienced irreversible steps forward in the past, and this was
-the biggest one.  She would never feel truly useless again, when she was having
-trouble falling asleep.
+It was the best moment of her life.  It was ten years of discipline and paying
+off in one moment, validation of her dry, obscure focus.
 
+At that moment, Feyerabend knew that she would truly useless again, when she was
+having trouble falling asleep.  The semantic IO project was valuable, and she
+had made valuable contributions.  She would continue to contribute new
+understanding to the world, until she retired.
 
 She drank at dinner alone, and gave the cab driver a slip of paper with her
 address on it.  Back in her strange apartment, she looked at herself in the
@@ -60,9 +62,9 @@ mirror and quieted old dysphoric feelings.
 <hr>
 
 Shortly after sunrise on Monday morning, a driver picked Feyerabend up at her
-apartment.  Feyerabend fell asleep in the car, and startled awake when they
-arrived.  She was led into a marble building enclosed by a glass atrium, and
-shown directly to her new office.
+apartment.  Feyerabend fell asleep in the car, startling awake on arrival.  She
+was led into a marble building in a glass atrium, and shown directly to her new
+office.
 
 It was a room with a bookshelf, a coffee table, and a set of excellent digital
 windows.  Feyerabend spent a few minutes organizing the things in her bag.
@@ -73,28 +75,24 @@ Someone pushed open the door, and stuck their head in.
 
 "Hello," said Feyerabend, standing up.  
 
-The person introduced himself, saying that he was also a researcher.  He
-suggested that they go to a meeting room, and on the way there, he asked
-Feyerabend what she thought about Warsaw. 
+The person introduced himself as a researcher, and suggested they go to a
+meeting room.
 
-"The people working on the project go out for dinner together, sometimes, I like
-that," he said.
-
-Talk shifted quickly to their work.  The researcher said that he mostly worked
-on the project's hardware, but that he had read through all of Feyerabend's
-proposals, and thought they were all very well-considered. 
+Talk shifted quickly to their work.  The researcher mostly worked on the
+project's hardware, but told Feyerabend that he had read through all of
+proposals, and thought they were very well-considered. 
 
 "Do you have any insight into whether I'll be involved with the hardware aspect
 of the project?" asked Feyerabend.
 
-"Well, you'll be working with the hardware almost constantly.  That's the main
-reason why the organization decided to fund your time here."
+"Well, you'll be working with the hardware almost constantly, that's why you're
+here."
 
 "It's not an area I have much expertise in," said Feyerabend, somewhat
-excitedly.  The researcher smiled.
+excitedly. 
 
-"We've developed a fairly straightforward user interface for the focused
-ultrasound CBI, I'll be interested in your feedback on it."
+"We've developed a fairly straightforward user interface for the CBI, I'll be
+interested in your feedback on it."
 
 "Definitely, yeah," said Feyerabend.
 
@@ -111,9 +109,10 @@ containing only a refrigerator and a coffee machine.
 Feyerabend was very excited to spend a whole year with a medical-grade
 computer-brain interface.  At university, she had worked with transcranial
 magnetic stimulation devices, and an Internet friend had once shown her a
-focused ultrasound effector designed for use on rats, but recent tests with the
-project's focused ultrasound device had suggested spatial and temporaral
-resolutions orders of magnitude higher than legacy devices.
+focused ultrasound effector designed for use on rats, but the project's hardware
+offered a whole new realm of opportunities.  Recent tests with the project's
+focused ultrasound device had suggested spatial and temporaral resolutions
+orders of magnitude higher than the legacy devices Feyerabend had worked with.
 
 "Here it is!" said the French researcher, opening an unmarked door.  "We have a
 few others, but this is the latest iteration."
