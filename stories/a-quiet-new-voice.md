@@ -38,21 +38,20 @@ free time brought back memories.  At some point in her early twenties,
 Feyerabend had become constantly aware that each day could not be wasted, and
 had generally lived accordingly.  For ten years, Leah Feyerabend had studied
 formal grammar at a number of different universities, reading hundreds of pages
-every day.  When Feyerabend's classmates went out to jobs, they always treated
-her with a bit of pity, asking questions like "what type of applications do you
-see for your work", etc.  
+a day.  When Feyerabend's classmates went out to jobs, they always treated her
+with a bit of pity, asking questions like "what type of applications do you see
+for your work", or passive-aggressively invited her to parties.  
 
-Feyerabend daydreamed, thinking back to the unexpected email from Addison,
-inviting Feyerabend to come work full-time on the direct semantic IO project in
-Warsaw.  Feyerabend had quit her machine learning job a few minutes later, just
-weeks after starting. 
+Feyerabend thought back to the unexpected email from Addison, inviting her to
+come work full-time on the direct semantic IO project in Warsaw.  Feyerabend had
+quit her machine learning job a few minutes later, just weeks after starting. 
 
 It was the best moment of her life.  It was ten years of discipline and paying
 off in one moment, validation of her dry, obscure focus.
 
-At that moment, Feyerabend knew that she would truly useless again, when she was
-having trouble falling asleep.  The semantic IO project was valuable, and she
-had made valuable contributions.  She would continue to contribute new
+At that moment, Feyerabend had known that she would feel useless again, when she
+was having trouble falling asleep.  The semantic IO project was valuable, and
+she had made valuable contributions.  She would continue to contribute new
 understanding to the world, until she retired.
 
 She drank at dinner alone, and gave the cab driver a slip of paper with her
