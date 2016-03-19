@@ -124,3 +124,8 @@ New York is a bad dream that I am enjoying a lot
 
 https://www.youtube.com/watch?v=V_3rcP2Duv0
 I feel that it is my fate to one day be killed by a drone.
+
+In high school, someone once told me that I was good-looking until I opened my
+mouth.
+
+Profound annoyance: "why is this my life", "this is so unnecessary"
