@@ -31,16 +31,16 @@ personal website.
 <hr>
 
 Feyerabend explored her new city, yet another city.  It was pastel and grey, and
-somehow reminded Feyerabend of being a teenager.  
+somehow reminded her of being a teenager.  
 
-Feyerabend knew that she was still young in the abstract sense, but her week of
+Feyerabend knew that she was still young in the abstract sense, but the week of
 free time brought back memories.  At some point in her early twenties,
 Feyerabend had become constantly aware that each day could not be wasted, and
 had generally lived accordingly.  For ten years, Leah Feyerabend had studied
-formal grammar at a number of different universities, reading hundreds of pages
-a day.  When Feyerabend's classmates went out to jobs, they always treated her
-with a bit of pity, asking questions like "what type of applications do you see
-for your work", or passive-aggressively invited her to parties.  
+formal grammar at a few different universities, reading hundreds of pages a day.
+When Feyerabend's classmates went out to jobs, they always treated her with a
+bit of pity, asking questions like "what type of applications do you see for
+your work".  
 
 Feyerabend thought back to the unexpected email from Addison, inviting her to
 come work full-time on the direct semantic IO project in Warsaw.  Feyerabend had
@@ -49,10 +49,10 @@ quit her machine learning job a few minutes later, just weeks after starting.
 It was the best moment of her life.  It was ten years of discipline and paying
 off in one moment, validation of her dry, obscure focus.
 
-At that moment, Feyerabend had known that she would feel useless again, when she
-was having trouble falling asleep.  The semantic IO project was valuable, and
-she had made valuable contributions.  She would continue to contribute new
-understanding to the world, until she retired.
+At that moment, Feyerabend had known that she would never feel truly useless
+again.  The semantic IO project was valuable, and she had made valuable
+contributions.  She would continue to contribute new understanding to the world,
+until she retired.
 
 She drank at dinner alone, and gave the cab driver a slip of paper with her
 address on it.  Back in her strange apartment, she looked at herself in the
