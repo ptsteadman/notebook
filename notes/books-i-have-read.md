@@ -1,5 +1,4 @@
-# Books I Have Read
-- "CSS Secrets" by Lea Verou
+# Things I Have Read
 - "The Bull From The Sea" by Mary Renault
 - "The Savage Detectives" by Roberto Bolano
 - "The Third Reich" by Roberto Bolano
@@ -10,3 +9,6 @@
 - "After the Quake" by Haruki Murakami
 - "Kokoro" by Natsume Soseki
 - "Tropic of Cancer" by Henry Miller
+- "CSS Secrets" by Lea Verou
+- "mumble stories" by Marianna Hagler
+

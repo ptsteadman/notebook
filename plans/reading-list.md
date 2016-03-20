@@ -1,4 +1,3 @@
-- CSS Secrets
 - Structure and Interpretation of Computer Programs
 - The Glass Bead Game
 - The Timeless Way of Building
@@ -6,6 +5,7 @@
 - Introduction To Algorithms
 - The Foundation Pit
 - The Mythical Man-Month
+- Gone Girl
 
 
 
