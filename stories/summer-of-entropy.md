@@ -61,7 +61,43 @@ suggested that they go inside.  On the way into the dark bar, he knelt to touch
 the dachshund, which reminded him of home.
 
 David stood at the end of the bar with Elkie, waiting to get the bartender's
-attention.
+attention.  She was telling him about the last time she'd been to this meetup,
+with a tech guy she'd met on Tinder.
+
+"I was about to swipe left, but then I noticed he had like fifteen thousand
+twitter followers and was in YCombinator."  David gave her a disapproving look
+while smiling.
+
+"You should try to buy low and sell high though, right?" said David.  "Anyways,
+did you seem him again?"
+
+"No.  Too bad, he was Jewish."
+
+"Are you Jewish?" asked David.  He looked at her again: obviously she was.  In
+college, it had taken him a while to realize that the type of girls who talked
+to him at parties were of a well-known type: Jewish, from New York or Long
+Island, and almost always wealthy.  
+
+"I grew up Hasidic, but I left the faith," said Elkie.  "Are you Jewish?"
+
+"No, not really," said David.  "Hasidic?  Like Orthodox?"
+
+"Like Orthodox but a cult.  It's awful.  They're awful.  They keep getting
+worse.  Honestly, I wish the Nazis had finished the job."
+
+"Finished the job?"
+
+"They killed almost all of the Hasid tribes.  Just a few of them escaped and
+came here."
+
+"Wow.  I'm sorry,"
+
+If she knew where I worked, thought David.  But he would never say that.
+*Stupid*, he thought, as he stood up from the booth, grabbing his unnecessary
+Patagonia jacket, and *typical*.  He walked out without giving Elkie another
+glance, and walked home.
+
+<hr>
 
 
 

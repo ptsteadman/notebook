@@ -129,3 +129,6 @@ In high school, someone once told me that I was good-looking until I opened my
 mouth.
 
 Profound annoyance: "why is this my life", "this is so unnecessary"
+
+Someone who takes a long time to explain something very straightforward, but you
+apprecaite it
