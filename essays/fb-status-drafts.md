@@ -131,4 +131,12 @@ mouth.
 Profound annoyance: "why is this my life", "this is so unnecessary"
 
 Someone who takes a long time to explain something very straightforward, but you
-apprecaite it
+appreciate it
+
+When ambitious/powerful people complain about organization x, they always say
+something like "if anyone know someone at x, please put them in touch with me".
+
+We live in an awkward time where there are great, flexible, powerful tools for
+making websites, but choosing and setting up these tools is difficult.
+
+I have to win often, or I will probably be unsatisfied with my life.
