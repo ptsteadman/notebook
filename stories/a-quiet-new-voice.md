@@ -3,17 +3,14 @@
 <!-- need to make it flow -->
 <!-- needs 1/3 more -->
 
-Even though Feyerabend would be living in Poland for over a year, it felt like
-she was going on an exciting vacation.  An email from Addison Chen had
+A driver drove Feyerabend from the airport to her new apartment, set back from
+the road in a stand of old oak trees.  Feyerabend would be living in Poland for
+over a year, but it felt like she was on an exciting vacation.
+
+
+An email from Addison Chen had
 explicitly suggested that she spend her first week in Warsaw 'getting situated',
 not working.  Feyerabend decided to go along with this.
-
-
-what the project is
-
-A driver drove her from the airport to her new apartment, set back from the road
-in a stand of old oak trees.  
-
 <hr>
 
 The next day was warm and summery, and Feyerabend decided to go to a nearby
