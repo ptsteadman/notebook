@@ -25,5 +25,27 @@
     3)
   )
 
+; 1.11
 
+(define (f n) (f-iter 0 1 2 n))
+
+(define (f-iter a b c n)
+  (if (= n 2)
+    c
+    (f-iter b c (+ c (* 2 b) (* 3 a)) (- n 1))))
+
+; 1.12
+
+(define (pascal row col) 
+  (cond ((= col 0) 1)
+        ((= col row) 1)
+        (else 
+          (+
+            (pascal (- row 1) (- col 1))
+            (pascal (- row 1) col)
+            ))))
+
+(= (pascal 0 0) 1)
+(= (pascal 4 4) 1)
+(= (pascal 2 1) 2)
 

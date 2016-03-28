@@ -226,8 +226,6 @@ He ran the script to hydrate Elkie's message index, and opened it in a vim
 buffer.  The raw JSON was a pain to read, and Chris paged through a list of
 people who had messaged Elkie this morning, after the story had dropped.
 
-
-
 <hr>
 
 That evening, Chris met an old friend in front of her apartment in Brooklyn.  He
