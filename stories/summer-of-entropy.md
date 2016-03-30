@@ -1,10 +1,10 @@
 # Summer of Entropy
 
-An one-legged dachshund jumped over Chris's feet, chasing a group of sleek,
-unusual dogs with beautiful eyes.  The dogs were running in circles around the
-bar's veranda, squeezing between wooden benches and tables, their wriggling
-amusing groups of young adults perched above.   As Chris turned to watch the
-dachshund, he found himself facing a skinny, dark-haired woman.
+An one-legged dachshund jumped over Chris's feet, chasing a group of other
+sleek, unusual dogs with beautiful eyes.  The dogs were running in circles
+around the bar's veranda, wriggling between wooden tables and benches full of
+young adults.  As Chris turned to watch the dachshund, he found himself facing a
+skinny, dark-haired woman.
 
 "Hi, are you here for the tech meetup?" Chris asked, catching her eyes.
 
@@ -17,7 +17,7 @@ a statement of fact.
 "I know what you mean, Lexapro made me like that."
 
 The dogs came around again, and Chris stuck out his hand.  The dachshund stopped
-to smell it, giving it a lick.
+to give it a lick.
 
 "I raised a dog like this when I was on Lexapro," Chris said.  "When I was
 eighteen, living at home with my parents."
