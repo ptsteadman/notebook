@@ -136,7 +136,10 @@ appreciate it
 When ambitious/powerful people complain about organization x, they always say
 something like "if anyone know someone at x, please put them in touch with me".
 
-We live in an awkward time where there are great, flexible, powerful tools for
+We live in an awkward time when there are great, flexible, powerful tools for
 making websites, but choosing and setting up these tools is difficult.
 
 I have to win often, or I will probably be unsatisfied with my life.
+
+Looking for a writer to work with: I'll carefully edit your writing if you edit
+mine.  Hoping to provide and receive highly critical iterative feedback.
