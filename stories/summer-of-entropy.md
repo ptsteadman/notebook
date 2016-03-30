@@ -283,27 +283,29 @@ Chris made a face.
 bullshit," said Justine without affect.  "I know I'm not beautiful, looking at
 Korean Instagram models makes that obvious.  I accept my body, I don't love it."  
 
-Chris was taken a bit by surprise.
+Chris was taken a bit by surprise.  Someone in middle school had once told him
+that he was really handsome until he opened his mouth.
 
 "I mean, isn't beauty a pretty arbitrary thing?" he said.  
 
+"Well, yes.  But so what?  That doesn't change how it affects *your* life."
 
+Chris felt really crazy, he looked at Justine in a new light.   He recognized in
+her something he was starting to see in a lot of his peers: a rapid onset of
+entropy, a cascade of shit getting real, an unravelling of the fantasy world of
+youth.   Chris was making $120,000 a year, and he still felt like a loser half
+the time, because he had imagined so much more and it was becoming obvious that
+it wasn't going to happen.  How did Elkie feel?  Her app development 'company':
+brutal.  She had so much to learn, so much complexity to master before she could
+even start making valuable things.  
 
-
-Chris had recognized in Elkie something he was starting to see in his peers: a
-rapid onset of entropy, a cascade of shit getting real, an unravelling of the
-fantasy world of youth.   Chris felt like a loser half the time, and he was
-making $120,000 a year.  He had imagined so much more.  How did Elkie feel?  Her
-app development 'company': brutal.  She had so much to learn, so much complexity
-to master before she could even start making valuable things.  
-
-Someone in middle school had once told him that he was really handsome until he
-opened his mouth.
-
+"I don't know that I agree with you," he said.  "I would rather people be happy.
+It's all in our heads anyways.  I'm a computer person, I guess I always think
+that things can be fixed."
 
 After they finished talking, Chris started walking home.  The bar he'd met Elkie
 at was on the way, and Chris went in and sat at the bar.  He drank two draft
 beers, thinking.
 
 As waited to close out his tab, a woman who looked kind of like Kristen Dunst
-said hi and asked Chris how he was doing.
+said 'hi' and asked Chris how he was doing.
