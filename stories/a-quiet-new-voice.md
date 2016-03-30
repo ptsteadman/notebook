@@ -4,27 +4,24 @@
 <!-- needs 1/3 more -->
 
 A driver drove Feyerabend to her new apartment, set back from the road in a
-stand of old oak trees.  Feyerabend would be living in Poland for over a year,
-but it felt like she was on an exciting vacation.
+stand of old oak trees.  Feyerabend would be living in Poland for the next year,
+but it felt like she was going on an exciting vacation.  An email from Addison
+Chen had explicitly suggested that she spend her first week in Warsaw 'getting
+situated', not working.
 
 The next day was warm and summery.  Feyerabend decided to go to a nearby outdoor
-swimming park, in accordance with an email from email from Addison Chen that had
-explicitly suggested that she spend her first week in Warsaw 'getting situated',
-not working.  She sat on a towel in the bristly green grass, reading a novel
-from the airport.  
+swimming park, in accordance with the Addison's wishes.  She sat on a towel
+in the bristly green grass, reading a novel from the airport.  
 
 Feyerabend watched families grilling and jumping in the pool, and thought ahead
 to meeting people at the lab on Monday.  It probably wouldn't be particularly
 uncomfortable: Feyerabend was used to meeting colleagues from the Internet, and
 there would be a lot to talk about.  In Feyerabend's experience, most people
 were not surprised that she was trans: they could tell from the picture on her
-personal website.  
+website.  
 
-
-<hr>
-
-Feyerabend explored her new city, yet another city.  It was pastel and grey, and
-somehow reminded her of being a teenager.  
+That afternoon, Feyerabend started to explore her new city, yet another city.
+It was pastel and grey, and somehow reminded her of being a teenager.  
 
 Feyerabend knew that she was still young in the abstract sense, but the week of
 free time brought back memories.  At some point in her early twenties,
