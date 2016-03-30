@@ -163,11 +163,11 @@ If she knew where I worked, thought Chris.  He stewed for a while, suddenly
 feeling tired.  It would be dark outside soon.   
 
 Elkie was talking about her app again, and the guy was eating it up.  He invited
-her out onto the veranda.
+her outside.
 
-*Stupid*, he thought, as he stood up from the booth, grabbing his unnecessary
-Patagonia jacket, and *typical*.  He said goodbye to Stephan, and walked home
-without giving Elkie another glance.
+*Stupid*, Chris thought, as he stood up from the booth, grabbing his unnecessary
+Patagonia jacket, and *typical*.  He said goodbye to Stephan, and then walked
+home without giving Elkie another glance.
 
 <hr>
 
@@ -233,7 +233,6 @@ anti-depressants: that was a pretty typical thing to talk about, an icebreaker
 like talking about astrological signs or personality types.  The Nazi thing
 though, thought Chris.  Finish the job.
 
-
 Because the day was already fucked, Chris grepped through the recent messages of
 his ex and friends, looking for variations of his own name and actionable
 insights.   
@@ -241,9 +240,9 @@ insights.
 <hr>
 
 That evening, Chris met an old friend in front of her apartment in Bushwick.  He
-was buying some Ritalin from her, to use that weekend at Whole Foods.  He was
-planning to work on an open source project.  Things felt unusually surreal, even
-for East Williamsburg.
+was buying some Ritalin from her, to use that weekend at Whole Foods, where he
+was planning to work on an open source project.  Things felt unusually surreal,
+even for East Williamsburg.
 
 "How are you?" Justine asked, after placing the small pills in Chris's hand.
 
@@ -251,22 +250,45 @@ for East Williamsburg.
 
 "Why, what's up?"
 
-Justine sat down on her stoop, and looked at him quizzically.  She could deal
-with this, thought Chris.  She was in art school and probably heard lots of
-fucked up things.  "Someone I know killed themselves by jumping off a roof,"
-said Chris, still standing.
+Justine sat down on her stoop, and looked at Chris quizzically.  Justine could
+deal with this, thought Chris.  She was a senior in art school and probably
+dealt with a lot of fucked up things.  "Someone I know killed themselves by
+jumping off a roof," said Chris, still standing.
 
-"At a party?  I think I saw this," said Justine.  Elkie's face was on the cover
-of the papers in bodegas; Chris had noticed that they were going with the
+"At a fancy party?  I think I saw this," said Justine.  Elkie's face was on the
+cover of papers in the bodegas; Chris had noticed that they were going with the
 Hasidic angle, not the tech angle.
 
 "Yeah, you probably did.  I met her at a programming thing."
 
-"That's messed up, are you okay?"
+"That's messed up, are you okay?"  Chris felt a stab of affection for his
+well-dressed friend, who had once told him that she looked forward to one day
+rekindling their relationship in a different city, maybe Hong Kong, when they
+were older.
 
-"Yeah, I didn't know her that well.  It's just disorienting."
+"Yeah.  I didn't know her that well, it's just disorienting." 
 
 "I know.  How old was she?"
+
+"Thirty, I think." 
+
+"Oh.  Not married, right?  I think a lot of women start having problems at that
+age, like serious mental health problems."
+
+Chris made a face.  
+
+"I really hope that's not how it works," he said.  "That's too bleak."
+
+"The whole body positivity 'everyone is beautiful' thing is delusional
+bullshit," said Justine without affect.  "I know I'm not beautiful, looking at
+Korean Instagram models makes that obvious.  I accept my body, I don't love it."  
+
+Chris was taken a bit by surprise.
+
+"I mean, isn't beauty a pretty arbitrary thing?" he said.  
+
+
+
 
 Chris had recognized in Elkie something he was starting to see in his peers: a
 rapid onset of entropy, a cascade of shit getting real, an unravelling of the
@@ -275,10 +297,9 @@ making $120,000 a year.  He had imagined so much more.  How did Elkie feel?  Her
 app development 'company': brutal.  She had so much to learn, so much complexity
 to master before she could even start making valuable things.  
 
+Someone in middle school had once told him that he was really handsome until he
+opened his mouth.
 
-"Thirty, I think." 
-
-"Oh."
 
 After they finished talking, Chris started walking home.  The bar he'd met Elkie
 at was on the way, and Chris went in and sat at the bar.  He drank two draft
