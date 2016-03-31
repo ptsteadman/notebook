@@ -30,14 +30,14 @@ had generally lived accordingly.  For ten years, Leah Feyerabend had studied
 formal grammar at a few different universities, reading hundreds of pages a day.
 When Feyerabend's classmates went out to jobs, they always treated her with a
 bit of pity, asking questions like "what type of applications do you see for
-your work".  
+your work?"  
 
 Feyerabend thought back to the unexpected email from Addison, inviting her to
-come work full-time on the direct semantic IO project in Warsaw.  Feyerabend had
-quit her machine learning job a few minutes later, just weeks after starting. 
+come work full-time on direct semantic IO in Warsaw.  Feyerabend had quit her
+machine learning job a few minutes later, just weeks after starting. 
 
 It was the best moment of her life.  It was ten years of discipline and paying
-off in one moment, validation of her dry, obscure focus.
+off in one moment, a perfect validation of her dry, obscure focus.
 
 At that moment, Feyerabend had known that she would never feel truly useless
 again.  The semantic IO project was valuable, and she had made valuable
