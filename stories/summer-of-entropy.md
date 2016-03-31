@@ -1,10 +1,10 @@
 # Summer of Entropy
 
-An one-legged dachshund jumped over Chris's feet, chasing a group of other sleek
-Brooklyn dogs with beautiful eyes.  The dogs were running in circles around the
-bar's veranda, wriggling between wooden tables and benches full of young adults.
-As Chris turned to watch the dachshund, he caught the eyes of a skinny,
-dark-haired woman.
+An one-legged dachshund jumped over Chris's feet, chasing a group of other
+sleek, unusual dogs with beautiful eyes.  The dogs were running in circles
+around the bar's veranda, wriggling between wooden tables and benches full of
+young adults.  As Chris turned to watch the dachshund, he caught the eyes of a
+skinny, dark-haired woman.
 
 "Hi, are you here for the tech meetup?" Chris asked.
 
