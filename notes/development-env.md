@@ -16,6 +16,18 @@ Development environment setup links.
 
     sudo apt-get install git openssh-server tmux vim-gnome -y
 
+### SSH
+
+
+    To keep sessions from freezing, add the following to `~/.ssh/config`.
+  
+    Host *
+      ServerAliveInterval 240
+
+    Also, use `chmod 600`.
+
+    To exit a frozen ssh session, `ENTER`, `~`, `.`.
+
 ### Swap ESC/CAPS
 
 - Install `gnome-tweak-tool`.
