@@ -1,18 +1,17 @@
 # Summer of Entropy
 
-An one-legged dachshund jumped over Chris's feet, chasing a group of other
-sleek, unusual dogs with beautiful eyes.  The dogs were running in circles
-around the bar's veranda, wriggling between wooden tables and benches full of
-young adults.  Most looked fresh from work, holding draft beers in the evening
-sunlight.  As Chris turned to watch the dachshund, he caught the eyes of a
-skinny, dark-haired woman.
+An one-legged dachshund jumped over Chris's feet, chasing a group of sleek,
+unusual dogs with beautiful eyes.  The dogs were running in circles around the
+bar's veranda, wriggling between wooden tables and benches full of young adults
+in summer work clothes.  As Chris turned to watch the dachshund, he caught the
+eyes of a skinny, dark-haired woman.
 
 "Hi, are you here for the tech meetup?" Chris asked.
 
 "Yeah," she said.  She seemed happy to talk, and in just a few minutes, as it
 sometimes happens, they were talking about psychiatric drugs. 
 
-"I feel a lot more social at these things when I'm on Klonopin," the woman said,
+"I feel a lot more social at these things when I'm on Klonopin," the woman said
 loudly.
 
 The dogs came around again, and Chris stuck out his hand.  The dachshund stopped
@@ -57,8 +56,8 @@ For fifteen minutes, Chris half-heartedly participated in an earnest, clumsy
 discussion of Swift's type system, before he finally suggested that they go
 inside for another drink.  
 
-The air inside the bar was cave-like and sweet.  Elkie waited for the
-bartender's attention with Chris.  
+The air inside the bar was cave-like and sweet.  Elkie and Chris waited for the
+bartender's attention.  
 
 "The last time I was at this meetup," said Elkie, "I was with this guy from
 Tinder."
@@ -104,7 +103,7 @@ living in castle-like apartments on the Upper East Side; they both liked
 department stores, tech events, and meeting people. 
 
 Suddenly there was a burst of light: Chris realized that Elkie's umbrella was on
-fire.  He reached over to grab a carafe of water and doused the flames.
+fire.  He reached over for a carafe of water and doused the flames.
 
 "Oh my God," said Elkie, fanning herself. 
 
@@ -229,7 +228,7 @@ through the recent messages of his ex, searching for his own name.
 
 That evening, Chris met an old friend in front of her apartment in Brooklyn.  He
 was buying some Ritalin from her, to use that weekend at Whole Foods.  Things
-felt unusually surreal, even for East Williamsburg.
+felt unusually surreal.
 
 "How are you?" Justine asked, after placing the small pills in Chris's hand.
 
@@ -240,24 +239,27 @@ felt unusually surreal, even for East Williamsburg.
 Justine sat down on her stoop, looking at Chris quizzically.  
 
 Justine could deal with the Elkie thing, thought Chris.  She was a senior in art
-school.  "Someone I know killed themselves by jumping off a roof," said Chris,
-still standing.
+school.  
 
-"At a fancy party?  I think I saw this."  In a bodega earlier, Chris had seen
-Elkie's face and noticed that the papers were going with the Hasidic angle, not
-the tech angle.  
+"Someone I know killed themselves by jumping off a roof," said Chris, still
+standing.
+
+"At a fancy party?  I think I saw this."  
+
+Earlier, in a bodega, Chris had seen Elkie's face on a paper and noticed that
+they were going with the Hasidic angle, not the tech angle.  
 
 "Yeah, you probably did.  I met her at a programming thing."
 
 "That's messed up.  You okay?"  
 
-"Yeah.  I didn't know her that well, it's just disorienting." 
-
 Chris felt a stab of affection for his well-dressed friend, who had once told
-him that they  would one day rekindle their romantic relationship in a different
+him that they would one day rekindle their romantic relationship in a different
 city, maybe Hong Kong, when they were older.
 
-"I know, very disorienting.  How old was she?"
+"Yeah.  I didn't know her that well, it's just disorienting." 
+
+"I know.  How old was she?"
 
 "Thirty, I think." 
 
@@ -268,8 +270,8 @@ Chris made a face.
 
 "I really hope that's not how it works," he said.  "That's so bleak."
 
-"Yeah, pretty bleak.  But the whole 'body positivity, everyone is beautiful'
-thing is such bullshit," said Justine, without obvious affect.  
+"Yeah, pretty bleak.  The whole 'body positivity, everyone is beautiful' thing
+is such bullshit, though," said Justine.  
 
 Chris didn't say anything.  Someone in middle school had once told him that he
 was really handsome until he opened his mouth.
@@ -281,16 +283,15 @@ Chris was surprised to hear Justine saying these things.
 
 "I mean, isn't beauty a pretty arbitrary thing?" he said.  
 
-"I guess, but so what?  That doesn't change how it affects *your* life."
+"I guess, but so what?  It still matters."
 
 Chris was starting to feel really weird.  He was seeing Justine in a new,
 unpleasantly objective light.  He recognized in her something that he was
 starting to see in a lot of his peers: a rapid onset of entropy, a cascade of
 shit getting real, an unravelling of the fantasy world of youth.  Chris felt
-like a loser half the time, and he was making $120,000 a year.  He had imagined
-so much more.  How did Elkie feel?  Her app development 'company': brutal.  She
-had so much to learn, so much complexity to master before she could even start
-making valuable things.  
+like a loser half the time, and he was making $120,000 a year.  How did Elkie
+feel?  Her app development 'company': brutal.  She had so much to learn, so much
+complexity to master before she could even start making valuable things.  
 
 "I don't know that I agree with you," said Chris. "I would rather people be
 happy.  It's all in our heads anyways.  I'm a computer person, I want to fix
