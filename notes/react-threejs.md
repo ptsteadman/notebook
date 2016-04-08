@@ -1,4 +1,28 @@
-# React and Three.js Notes
+# Webpack, React and Three.js Notes
 
 `react-three-renderer` is a much better library, mostly because of the excellent
 examples.
+
+
+### Webpack Dev Server vs Build
+
+The index.html document can be loaded using `require('file?name=[name].[ext]!../index.html');`,
+and will be served at `/`, (based on the name=) query, and thus served by webpack dev server here.
+
+
+### Loading Fonts/Images/Etc With Webpack 
+
+The assets must first be loaded in the webpack config.  This looks like:
+
+```
+loaders: [
+   ...,
+  { test: /\.(ttf|otf|eot|svg|woff(2)?)$/,
+    exclude: /node_modules/,
+    loader: 'file?name=dist/fonts/[name].[ext]'
+  } 
+]
+
+```
+
+What's going on here: 

@@ -9,3 +9,6 @@ Bootstrap classes for this, and aligning text to the center
 #### Problem: List Has Bullets
 - Use `list-file-type: none;`
 
+#### Horizontal Menus
+- Use `display: inline-block;` instead of `float: left;` on the li
+
