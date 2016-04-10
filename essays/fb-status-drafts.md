@@ -149,12 +149,11 @@ mine.  Hoping to provide and receive highly critical iterative feedback.
 A couple nights ago, I couldn't sleep.  I lay awake for hours, thinking of all
 the different things I've programmed in my life: all of the different languages,
 paradigms, problems, and environments I've worked with.  It was a lot to think
-about.
+about, and I've only been programming for about three years.
 
-I've been programming for about three years.  Things have already changed a lot
-since the summer of 2013, when Yeezus dropped and I learned how to build web
-applications using NodeJS.  The world of JavaScript development is almost
-unrecognizable, for one.
+Things have already changed a lot since the summer of 2013, when Yeezus dropped
+and I learned how to build web applications using NodeJS.  The world of
+JavaScript development is almost unrecognizable, for one.
 
 Here's a list of experiences:
 
