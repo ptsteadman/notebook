@@ -146,9 +146,10 @@ mine.  Hoping to provide and receive highly critical iterative feedback.
 
 # Q2 Facebook Status Drafts
 
-A couple nights ago I couldn't sleep and lay awake thinking about all my
-different programming experiences: all the different languages, paradigms,
-problems, and environments I've worked with. 
+A couple nights ago, I couldn't sleep.  I lay awake for hours, thinking of all
+the different things I've programmed in my life: all of the different languages,
+paradigms, problems, and environments I've worked with.  It was a lot to think
+about.
 
 I've been programming for about three years.  Things have already changed a lot
 since the summer of 2013, when Yeezus dropped and I learned how to build web
@@ -177,13 +178,13 @@ elegant distracts people from how unpleasant working with Python dependencies
 is.  Is virtualenv even good?  
 
 I still love Python.  I later used Python at an summer internship (2014 in New
-York), but the most notable aspect of that summer was that I learned Vim and
-Tmux, prompted by helpful coworker.  That was the summer I got really into the
-full aesthetic of programming, the Richard Stallman stuff, beyond the world of
-'web development' that once seemed like everything.  I realized that there was
-sooo much to learn, and bought an arduino.  I finally deployed a personal
-website, and built a few cute apps using Pyramid, the Python web framework I
-decided on.
+York), but the most notable aspect of that summer was that I learned vim and
+tmux, prompted by helpful coworker.  I've continually got better with these
+tools.  That was the summer I got really into the full aesthetic of programming,
+the Richard Stallman stuff, beyond the world of 'web development' that once
+seemed like everything.  I realized that there was sooo much to learn, and
+bought an Arduino.  I finally deployed a personal website, and built a few cute
+apps using Pyramid, the Python web framework I decided on.
 
 In school I learned Java and the stuff that you typically get asked about in
 programming interviews: data structures, runtime complexity, graph search
@@ -212,7 +213,7 @@ become a great programmer.
 I was quite surprised by my classes.  I signed up for Cornell's functional
 programming class, a pretty notorious 3000-level course taught in OCaml.  I also
 signed up for a grad level database class and a deceptively difficult
-information science class (where I was exposed to iPython: an intriging tool
+information science class (where I was exposed to iPython: an intriguing tool
 still), and god knows what else.  My body had also been ruined by a summer of
 sitting at my laptop and I was doing everything I could to get be competitive in
 rowing.  I have lots of patchy memories of 'body shutting down after practice'
@@ -242,7 +243,7 @@ System and Lua scripting space for the game.
 In a scalability class, I was also exposed to PaaS for the first time in the
 form of elastic beanstalk and elastic map reduce.  I realized how necessary such
 a framework was, to avoid constant configuration difficulties.  Running
-commmands in the shell was starting to seem like a problem to be solved with
+commands in the shell was starting to seem like a problem to be solved with
 configuration management solutions, of which there are many.
 
 Then I graduated.  This past year I've been on a sort of
@@ -277,7 +278,6 @@ That summer, I started to see some 'new' ideas: microkernel architecture,
 extensive configuration and pipelines by default, and an explosion of different
 ways to do JavaScript.  For an example, I went to a talk on PostCSS.
 
-
 At the same time, I was building a rails app with my friend.  I wasn't a huge
 fan of working with Rails (a lot of stuff was a pain or just plain ugly), but it
 was extremely valuable as a history lesson that explained *why* present day web
@@ -311,11 +311,11 @@ transformations.  (Is it named after the Tower of Babel?  Apt indeed!).  The
 documentation is *the worst* and the system doesn't provide very good feedback
 when things go wrong.  It's a pain to incorporate/shim 'legacy' (lol, more like
 normal-ass) libraries that don't conform to the world of modern JavaScript.  I
-feel like normal web developers are the casulties in scorched-earth framework
+feel like normal web developers are the casualties in scorched-earth framework
 battles between organizations like Facebook and Google.  
 
 But, after a bit of pain, the developer experience of React/Webpack is good, at
-least within the paradigm.  I'm convinced hot reloading and preprocessers are
+least within the paradigm.  I'm convinced hot reloading and pre-processors are
 pretty big wins.  Still, my dad (a mechanical engineer) laughed when I showed
 him the React "getting started" page.  It doesn't make any sense to someone who
 isn't a "hipster" (the programming kind of hipster, which is still a meaningful
@@ -330,7 +330,7 @@ and more efficient, perhaps we should make them a easier to set up.  Yes, it is
 possible.  And, I'd like to be able to just edit files sitting on a server or my
 local machine and have a dynamic web app: people seem to have forgotten that
 this is even possible.  Why do you think PHP is so popular?  It's not because
-it's a beautiful langauge.  And we need to make more things like wordpress, and
+it's a beautiful language.  And we need to make more things like wordpress, and
 less things like Jekyll, even though Jekyll is great.
 
 I've also started to feel the pain of maintaining live sites and managing
@@ -364,7 +364,7 @@ Mostly, I want to become a more patient, disciplined programmer.  I think this
 is possible.  Possibly, I will also really learn 'Computer Science'.  I still
 have the vaguest idea of how a computer actually works.  I'm currently working
 through 'Structures and Interpretation of Computer Programs', and I'm really
-looking forward to the final section, where one builds a scheme interpereter
+looking forward to the final section, where one builds a scheme interpreter
 using scheme.  I imagine that after I do that, I'll feel like I have some sort
 of fundament for the work I do.  I think discipline and patience will eventually
 make me enough of an expert in the frameworks I'm using that I can make more
