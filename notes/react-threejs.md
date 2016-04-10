@@ -3,6 +3,10 @@
 `react-three-renderer` is a much better library, mostly because of the excellent
 examples.
 
+### Webpack General
+
+
+Webpack doesn't throw an error when you don't have a loader installed?
 
 ### Webpack Dev Server vs Build
 

@@ -143,3 +143,219 @@ I have to win often, or I will probably be unsatisfied with my life.
 
 Looking for a writer to work with: I'll carefully edit your writing if you edit
 mine.  Hoping to provide and receive highly critical iterative feedback.
+
+# Q2 Facebook Status Drafts
+
+A couple nights ago I couldn't sleep and lay awake thinking of all of my
+different programming experiences: all the different languages, paradigms,
+problems, and environments.  I've been programming for about three years, and
+the amount of stuff I've worked on is crazy.  
+
+Things have already changed a lot since the summer of 2013, when Yeezus dropped
+and I learned how to build web applications using NodeJS.  The world of
+JavaScript development is almost unrecognizable, for one.
+
+Here's a list of things I remembered:
+
+Learning how to program for the first time in 2011.  I was living with my
+parents in Buffalo, and learned HTML/CSS/JS/PHP using w3schools.com.  I was
+trying to get my shit together, so I wrote down the lesson I planned to do and
+crossed it out when I finished.  This all went pretty well: within about a month
+I somehow figured out how to build a "Hipster Runoff Personals" website.  Its
+coolest feature was a Craigslist-style email anonymizer.  (You could create a
+personal, and someone could respond to you via an anonymized email.  I had to
+google A LOT to figure out how to do that.  This cPanel based method of making
+websites seems pretty distant now.
+
+The next thing I remember is learning Python when I arrived at Cornell and
+joined an algorithmic trading club.  I was really keen to prove myself.  I was
+assigned the task of setting up a backtesting system, and eventually found a
+python library to build on.  I remember having a really difficult time getting
+Python set up on my windows machine, but then really enjoying the coding.   I
+still feel this way about Python: the fact that the language is so elegant
+distracts people from how unpleasant working with Python dependencies is.  I
+remember coding in the fall with my skin still cold from rowing on the lake and
+then running back up to campus. 
+
+I still love Python.  I later used Python at an internship in the summer of
+2014, but the most notable aspect of that summer was that I learned Vim and
+Tmux, prompted by helpful coworker.  That was the summer I got really into the
+full aesthetic of programming, the Richard Stallman stuff, beyond just the world
+of 'web development' that I felt was everything in the summer of 2013.  I
+realized that there was sooo much to learn, and bought an arduino.  I finally
+deployed a personal website, and built a few cute apps using Pyramid, the Python
+web framework I decided on.
+
+In school I learned Java and the stuff that you typical get asked about in
+programming interviews: data structures, runtime complexity, graph search
+algorithms, object oriented design.  I also did a lot of pretty difficult,
+complicated projects in Java, and got pretty good with it.  These projects
+typically didn't focus on the language of Java itself, but other things, like
+graphics, information retrieval, scalability, etc.  As a result, Java feels very
+comfortable and solid to me: after years of working in Eclipse on various
+projects, I feel really comfortable with Java's standard library, and solve most
+interview questions in the language of HashMaps and ArrayLists.
+
+The experience that truly 'made me a programmer' was working at Priceline in the
+summer of 2013.  My charismatic boss set me to work on a bunch of fluff projects
+for my own benefit: building stuff with AWS, NodeJS, and Backbone.  I learned
+really fast.  I started out with no idea how to be a programmer, and by the end
+of the summer I crushing it at hackathons and teaching stuff to my coworkers.
+NodeJS and AWS introduced me to the present paradigm of programming, where
+dependencies are managed by a package manager, using a development server,
+deploying to the cloud, etc.  By the end of that summer, I felt that I could
+built anything.  I spent the week before school started building a course
+document sharing website in Node/Backbone/Mongo, and basically finished it.  I
+was ready to pile on the engineering courses and become a great programmer.
+
+I was quite surprised by my classes.  I signed up for Cornell's functional
+programming class, a pretty notorious 3000-level course taught in OCaml.  I was
+also in a grad level database class, a deceptively difficult information science
+class (where I was exposed to iPython: an intriging tool still), and god knows
+what else.  My body had also been ruined by a summer of sitting at my laptop and
+I was doing everything I could to get back in shape. 
+
+I got through that semester, quite humbled.  'Computer Science' was quite a jump
+from middling web development, but I was still very into it.   In the spring, I
+dailed things back, and took the 'intermediate web development' class, which
+surprised me: it was cPanel PHP stuff, taught by a local wordpress guy.  It was
+pretty pathetic.  I barely bothered to pass, besides obsessing over our final
+project.
+
+My senior year, the main thing I learned programming-wise was C++ and graphics
+programming.  I started to learn how to use visual studio effectively, and got a
+layer of abstraction closer to the metal.  Learning about pointers and memory
+allocation was very satisfying, I felt like I was finally understanding some of
+the stuff that confused me about Python.  I also learned about the problems
+inherit with large codebases, where I'd have to make changes to ten files to add
+another entity to our game.  I learned about the limitations of object oriented
+programming when we built an Entity Component System and Lua scripting space for
+the game.
+
+I was also exposed to PaaS for the first time in the form of elastic beanstalk
+and elastic map reduce.  I realized how necessary such a framework was, to
+avoid constant configuration difficulties.  Running commmands in the shell was
+starting to seem like a problem to be solved with configuration management
+solutions, of which there are many.
+
+Then I graduated.  This past year I've been on a sort of
+tour-de-programming-paradigms.  During school, when I wanted to drop out, I
+always promised myself that after graduation I'd allow myself an "indefinite
+detox period" where I would feel free to run away from responsibilities and just
+explore things, remember who I am.  I moved to New York and started picking up
+freelance work, often at rates that seems inconceivable now.  (For example,
+building websites from scratch for $100-$200.)  
+
+I also did .NET development, which turned out to be important in my development
+as a programmer.  I learned how to really do object oriented programming, and
+encountered concepts like dependency injection, inversion of control, etc.  I
+think I started developing a better idea of what a good software library is,
+what "good code is".  I built a few experimental sites like
+beststoriesonline.com etc using Jekyll and other static site generators, and
+became intrigued by the idea of a "content as a service" as a replacement for
+the current wordpress model of non-technical-end-user editable websites.
+
+In October I started building a SaaS that I am still working on now, and think
+is great.  I learned how much using paid components as part of a project can
+accelerate it, and how to manage the complexity of a complete SaaS.  I was able
+to componentize front end code effectively using Angular directives.  I also
+really started to fall in love with C# and Visual Studio, especially when I
+started fully utilizing Visual Studio's testing framework and debugging
+capabilities.  I can do a lot of stuff in Visual Studio that I have no idea of
+how to do anywhere else.  After playing around with Mono and .NET Core, I'm
+really excited for the future of .NET.  Windows is starting to seem like this
+great OS for running Linux VMs and kernels.
+
+That summer, I started to see some new ideas: microkernel architecture,
+extensive configuration and pipelines by default, and an explosion of different
+ways to do JavaScript.  For an example, I went to a talk on PostCSS.  At the
+same time, I was building a rails app with my friend.
+
+I wasn't a huge fan of working with Rails (a lot of stuff was a pain), but it
+was extremely valuable as a history lesson that explained *why* present day web
+frameworks are the way they are.  I fundamentally agree with Rails' 'convention
+over configuration' approach.  Ultimately, a lot of the things fundamental to
+building web apps: database migrations, environments for QA, dev, etc, testing,
+an asset pipeline, form helpers for validation, MVC with view templates,... all
+of these things, are really just conventions that date back to Rails (and
+earlier, I'm sure).  If you need to be convinced that these ideas aren't
+universal, just visit the world of wordpress development (foreshadowing).
+
+What stuff am I missing, before I get to now?  Making games using GameMaker Pro
+when I was in 4th grade and getting in trouble for selling them.  The
+complicated part numbering application I developed using Microsoft Access.  (I
+wonder if that's still being used?  Chilling to think about.)  Programming these
+weird control panels for CAD machines in China, mostly for localization
+purposes.  Probably a lot of other stuff too.
+
+Okay, so what about now?  I just learned React and webpack.  A lot has already
+been said about the current non-sane status of the JavaScript community, so I
+won't bother.  React seems good.  It's useful to me: creating well-defined,
+composable components easily is a critical win.  Doing the same things in
+Angular and Backbone is much more difficult, and quite easy to fuck up in such a
+way that you make life even more difficult.  I think I know JavaScript pretty
+well, as a language, but I also feel like I'm continually re-learning it, even
+the fundamental stuff.  I feel less enamored of Webpack: it's class
+configuration over convention misery, especially when using Babel and other
+transformations.  The documentation is *the worst* and the system doesn't
+provide very good feedback when things go wrong.  It's a huge pain to
+incorporate 'legacy' (lol, read normal-ass) libraries that don't conform to the
+world of modern JavaScript.  I feel like normal web developers are the casulties
+in these scorched-earth framework battles between Facebook and Google.  But,
+after a bit of pain, the developer experience of React/Webpack is pretty good,
+at least within the paradigm.  I'm convinced hot reloading and preprocessers are
+pretty big wins.  Still, my dad (a mechanical engineer) laughed when I showed
+him the React "getting started" guide.  It doesn't really make any sense to
+someone who isn't a "hipster" (the programming kind of hipster, which is still a
+meaningful term).  Hipsters (I am one, I'm writing this in a vim split inside
+TMUX using a thinkpad running ubuntu), hipsters should be forced to spend some
+time using Visual Studio or other IDE to understand that maybe everything could
+be a lot easier.  (Seriously: I can send someone a huge Visual Studio project
+and expect that they can download Visual Studio Community, open the project, and
+press the green "Run" button, and feel almost certain that it will work.  If
+they have a Windows machine.)  If we're going to create these crazy tools to
+make web development easier and more efficient, perhaps we should make them a
+easier to set up.  Yes, it is possible.  And, I'd like to be able to just edit
+files sitting on a server or my local machine and have a dynamic web app: people
+seem to have forgotten that this is even possible.  Why do you think PHP is so
+popular?  It's not because it's a beautiful langauge.  
+
+I've also started to feel the pain of maintaining live production sites, and
+managing deployment.  I feel like continuous integration and automated
+monitoring (Slack bots for example) lessen this pain a lot.  If it's not tested,
+and it can't redeployed with one click, it's broken in my mind.
+
+As my company starts taking on bigger clients, we've been looking at different
+options for our "preferred language/framework".  I was thinking that we might
+become a NodeJS shop, become the 'thoughtbot of NodeJS'.  I've worked on a few
+Rails project to see the convention over configuration nature of the framework
+pay off.  Working with clients who used a PaaS and Rails made it super easy to
+quickly into their codebase, fix problems, add features, write tests, and get
+out.  It's hard to imagine Node projects going like that, and I'm not really
+aware that Node is actually being used successfully in 'real world' applications
+that much.  Like, Tinder is the best example I can think of, and Tinder seems to
+be a mess.
+
+It looks like Computer Lab (my company) is going to be focusing on Django
+development, hopefully with React in the frontend, and some sort of webpack-like
+developer experience.  I'm not sure how that's going to go.  Django has good
+conventions, scales well, is Python (probably my fav language besides C#), and
+the Admin interface solves a problem that I often run into during development.
+There's a lot of good examples of Django in production, and is popular in the
+industries we want to serve.  I'm anxious to figure out to what degree we can
+reliably deploy Django projects to PaaSes, and how to consistently set up
+development environments for the team.  I also wonder about the Django/React
+stack, is that going to work out?  Will webpack play nice?
+
+Mostly, I want to become a more patient, disciplined programmer.  I think this
+is possible, during my break from the tour-de-programming-paradigms.  Possibly,
+I will also really learn 'Computer Science'.  I still have the vaguest idea of
+how a computer actually works.  I'm working through Structures and
+Interpretation of Computer Programs currently, and am looking forward to the
+final section, where one builds a scheme interpereter, using scheme.  I imagine
+that after I do that, I'll feel like I have some sort of fundamentals for the
+work I do.  And, I hope to become enough of an expert in the frameworks I'm
+using that I can make more meaningful contributions.   I also want to build
+something that gets used a lot and has to grow and change.
+
+
