@@ -14,6 +14,8 @@ sometimes happens, they were talking about psychiatric drugs.
 
 "I feel a lot more social at these things when I'm on Klonopin," the woman said.
 
+"Lexapro was like that for me, I think, it helped me be social," said Chris.  
+
 The dogs came around again, and Chris stuck out his hand.  The dachshund stopped
 to give it a lick.
 
