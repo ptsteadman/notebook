@@ -1,10 +1,11 @@
 #  Summer of Entropy
 
-An one-legged dachshund jumped over Chris's feet, chasing a group of other
-sleek, beautiful dogs around the bar's veranda.  The dogs ran in circles,
-wriggling between wooden benches full of well-dressed young adults.  As Chris
-turned to watch the dachshund, he caught the eyes of a skinny, dark-haired
-woman.  
+An one-legged dachshund jumped over Chris's feet, chasing a group of sleek,
+beautiful dogs.  The dogs were running in circles around the bar's veranda,
+wriggling between wooden benches and tables full of young adults.  Most looked
+fresh from work, holding draft beers in the evening sunlight.  As Chris turned
+to watch the dogs, he caught the eyes of a skinny, dark-haired woman, and
+smiled at her.
 
 "Hi, are you here for the tech meetup?" Chris asked.
 
@@ -16,8 +17,7 @@ sometimes happens, they were talking about psychiatric drugs.
 The dogs came around again, and Chris stuck out his hand.  The dachshund stopped
 to give it a lick.
 
-"I raised a dog like this when I was on Lexapro," said Chris.  "Not a good time
-in my life."
+"I raised a dog like this once, when I was on Lexapro," said Chris. 
 
 "I did Lexapro once, the side effects were weird." 
 
@@ -49,7 +49,7 @@ Elkie turned to Chris, concern in her eyes.
 "If I show you my app, you have to promise not to steal the idea.  I've been
 working super hard on it." 
 
-Fuck, thought Chris. For fifteen minutes, he half-heartedly participated in an
+Fuck, thought Chris.  For fifteen minutes, he half-heartedly participated in an
 earnest, clumsy discussion of Swift's type system, before finally suggesting
 that they go inside for another drink.  
 
