@@ -1,9 +1,9 @@
-# A Quiet New Voice
+# Feyerabend
 
 <!-- need to make it flow -->
 <!-- needs 1/3 more -->
 
-A driver drove Feyerabend to her new apartment, set back from the road in a
+A driver brought Feyerabend to her new apartment, set back from the road in a
 stand of old oak trees.  Feyerabend would be living in Poland for the next year,
 but it felt like she was going on an exciting vacation.  An email from Addison
 Chen had explicitly suggested that she spend her first week in Warsaw 'getting
@@ -325,8 +325,7 @@ was now empty except for a group of art students photographing a woman dressed
 in mermaid costume. 
 
 Feyerabend and Addison took off their sandals, and walked through the surf.
-Feyerabend's heart was affected by the feeling of seawater rushing under her
-feet.
+Feyerabend's heart sung as seawater rushed under her feet.
 
 Addision was talking about the paper they would soon write, describing the
 successful use of the training program with outside volunteers.  These students
@@ -384,7 +383,7 @@ of 'being'.  At work, she was starting to lead a fairly considerable team, and
 felt competent almost al of the time.
 
 Feyerabend felt unusually alone when she got back to her room in the guest
-hosue.  She knew that she had the option of drinking and playing cards with
+house.  She knew that she had the option of drinking and playing cards with her
 colleagues downstairs, but consciously decided against it.  She comforted
 herself with the fact that in her old age, it would probably be possible to fall
 fully and deeply in love with a computer program.  She did deserve love, she
