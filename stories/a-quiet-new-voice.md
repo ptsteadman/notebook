@@ -3,6 +3,12 @@
 <!-- need to make it flow -->
 <!-- needs 1/3 more -->
 
+Who is Feyerabend?  She's the first stranger I've had to think about.
+
+Feyerabend's new apartment was set back from the road in a stand of old oak
+trees.  As her driver slowed the car to a crawl, looking for her number, she
+realized that she felt like she was on vacation.  She'd be living in Poland for
+the next year, working with Addison Chen 
 A driver brought Feyerabend to her new apartment, set back from the road in a
 stand of old oak trees.  Feyerabend would be living in Poland for the next year,
 but it felt like she was going on an exciting vacation.  An email from Addison
@@ -20,8 +26,9 @@ there would be a lot to talk about.  In Feyerabend's experience, most people
 were not surprised that she was trans: they could tell from the picture on her
 website.  
 
-That afternoon, Feyerabend started to explore her new city, yet another city.
-It was pastel and grey, and somehow reminded her of being a teenager.  
+Warsaw was pastel and grey, and somehow reminded Feyerabend of being a teenager.
+She knew that she was still young in the relative sense, but the week of free
+time bought back memories.
 
 Feyerabend knew that she was still young in the abstract sense, but the week of
 free time brought back memories.  At some point in her early twenties,
@@ -389,3 +396,4 @@ herself with the fact that in her old age, it would probably be possible to fall
 fully and deeply in love with a computer program.  She did deserve love, she
 knew.  Feyerabend fell asleep listening to the sound of waves and thinking about
 Addison Chen.
+

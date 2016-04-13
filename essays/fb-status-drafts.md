@@ -370,4 +370,21 @@ make me enough of an expert in the frameworks I'm using that I can make more
 meaningful contributions.   I want to program something that gets used a lot,
 and therefore has to grow and change.  Sunlight is the best disinfectant.
 
+wow I'm an adult holy fuck holy fuck
+
+being high always makes me want to admit to myself that I'm nothing special
+and not beautiful
+
+big problems
+take a view from a step higher
+unnecessary pain
+
+It seems impossible to get there
+
+you haven't thought this through enough
+I wish I knew some successful people
+
+the image of Tom Cruise appears to us as the most pure normal american man
+because he is an transcendent hyperreal alien being living secretly among us
+
 
