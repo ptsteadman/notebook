@@ -2,10 +2,10 @@
 
 An one-legged dachshund jumped over Chris's feet, chasing a group of sleek,
 beautiful dogs.  The dogs were running in circles around the bar's veranda,
-wriggling between wooden benches and tables full of young adults.  Most looked
-fresh from work, holding draft beers in the evening sunlight.  As Chris turned
-to watch the dogs, he caught the eyes of a skinny, dark-haired woman, and
-smiled at her.
+wriggling between benches and tables full of young people in work clothes.
+Puddles from an earlier rain sat on the wooden surfaces, reflecting a golden
+evening sunlight. As Chris turned to watch the dogs, he caught the eyes of a
+skinny, dark-haired woman, and smiled at her.
 
 "Hi, are you here for the tech meetup?" Chris asked.
 
