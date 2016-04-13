@@ -387,4 +387,4 @@ I wish I knew some successful people
 the image of Tom Cruise appears to us as the most pure normal american man
 because he is an transcendent hyperreal alien being living secretly among us
 
-
+I'm a small-minded man
