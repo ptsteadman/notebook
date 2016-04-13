@@ -221,7 +221,7 @@ AVL trees.
 
 But I got through that semester, quite humbled.  'Computer Science' was quite a
 jump from middling web development, but I was still very into it.   In the
-spring, I dailed things back, and took the 'intermediate web development' class,
+spring, I dialed things back, and took the 'intermediate web development' class,
 which surprised me: it was cPanel PHP stuff, taught by a local wordpress guy.
 It was pretty pathetic.  I barely bothered to pass, besides obsessing over our
 final project, which was very interesting.  I've always been preoccupied with
@@ -287,7 +287,7 @@ testing, an asset pipeline, form helpers for validation, MVC with view
 templates,... all of these things are really just conventions that date back to
 Rails (and earlier, I'm sure).  If you need to be convinced that these ideas
 aren't universal, just visit the world of wordpress development (I've been doing
-that a bit now, I think the finishing strech of my
+that a bit now, I think the finishing stretch of my
 tour-de-programming-paradigms).
 
 What am I forgetting, before I get to the stuff I'm programming now?  Making
@@ -386,5 +386,6 @@ I wish I knew some successful people
 
 the image of Tom Cruise appears to us as the most pure normal american man
 because he is an transcendent hyperreal alien being living secretly among us
+
 
 
