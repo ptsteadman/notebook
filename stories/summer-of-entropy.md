@@ -29,7 +29,7 @@ to give it a lick.
 "Yeah."
 
 Chris took another look at the woman: she was wearing an eggshell blue blouse,
-sitting carefully on the edge of the damp bench.
+and was sitting carefully on the edge of the damp bench.
 
 "What?"
 
@@ -39,15 +39,15 @@ way.  I would just have like, super orgasms," said Chris.
 "Anyways," he continued,  "Lexapro worked out really well for me."
 
 The woman introduced herself as Elkie.  Chris confirmed the spelling with her,
-E-L-K-I-E, and went to get another beer.  He politely stepped through a few
-conversations.
+E-L-K-I-E, and went to get another beer.  
 
 When he returned, someone was in his place, talking to Elkie about iOS
 development. 
 
 "I'll show you my app," Elkie said.  "I really need feedback on my app."
 
-"Of course," the guy said. 
+"Of course," the guy said.  He looked fresh from work, like everyone else,
+holding a draft beer in the evening sunlight.
 
 Elkie turned to Chris, concern in her eyes.
 
