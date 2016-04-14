@@ -20,13 +20,16 @@ to give it a lick.
 
 "I raised a dog like this once, when I was on Lexapro," said Chris. 
 
-"I did Lexapro once, the side effects were weird." 
+"I tried Lexapro, it had weird side effects."
 
 "Really?  If anything the side effects were good, for me."
 
 "Oh yeah?" she said.  "Like sexual stuff?"
 
 "Yeah."
+
+Chris took another look at the woman: she was wearing an eggshell blue blouse,
+sitting carefully on the edge of the damp bench.
 
 "What?"
 
@@ -36,10 +39,11 @@ way.  I would just have like, super orgasms," said Chris.
 "Anyways," he continued,  "Lexapro worked out really well for me."
 
 The woman introduced herself as Elkie.  Chris confirmed the spelling with her,
-E-L-K-I-E, and went to get another beer. 
+E-L-K-I-E, and went to get another beer.  He politely stepped through a few
+conversations.
 
 When he returned, someone was in his place, talking to Elkie about iOS
-development.
+development. 
 
 "I'll show you my app," Elkie said.  "I really need feedback on my app."
 
@@ -73,7 +77,7 @@ twitter followers."  Chris gave her a disapproving look, smiling.
 
 It had taken Chris a few semesters of college to realize that the girls who
 talked to him at parties were usually of a certain type: Jewish, from New York
-or Long Island, and usually wealthy. 
+or Long Island, usually wealthy. 
 
 "I grew up in a Hasidic family, but now I'm estranged," said Elkie. 
 
@@ -158,11 +162,11 @@ Patagonia jacket, and *typical*.  He said goodbye to Stephan, and walked home.
 
 <hr>
 
-Chris worked at Facebook.  He had interned the previous this summer, and now was
-a full time employee, arriving at the office later and later each morning.
+Chris worked at Facebook.  He had interned there the previous summer, and now
+was a full time employee, arriving at the office later and later each morning.
 After sitting down at his desk, he typically procrastinated by reading his
-newsfeed until he couldn't stand it anymore.  He was angry at all the little
-bits of content stealing his time, his summer. 
+newsfeed until he couldn't stand it anymore, until he was angry at all the
+little bits of content stealing his time, his summer. 
 
 "A Woman Jumped to Her Death From a Rooftop Bar, and People Kept Partying,"
 Chris read.  One of his coworkers had shared the article, saying something about
@@ -192,12 +196,13 @@ of her family.
 
 Chris went back to his computer.  
 
-He ssh'd into a virtual machine, a machine left over from the previous summer.
-Chris had accidentally discovered a way to view the chat history of any user,
-using the search index.  He was pretty sure it didn't leave any sort of audit
-log, but even if it did, Chris would probably be okay.
+He ssh'd into a virtual machine, a machine left over from the previous summer,
+when Chris had accidentally discovered a way to view the chat history of any
+user.  He was pretty sure it didn't leave any sort of audit log, but even if it
+did, Chris would probably be okay.
 
-He ran a script to hydrate Elkie's message index, and opened it in a buffer.
+He ran a script to hydrate Elkie's messages from the search index, and opened it
+in a buffer.
 
 Chris skimmed through emotional messages sent to Elkie that morning, when the
 story had dropped.
@@ -271,10 +276,11 @@ Chris was surprised to hear Justine saying these things.
 "I guess, but so what?"
 
 Chris was starting to feel really weird.  He recognized in Justine something he
-was starting to see in a lot of his peers: rapid onset of entropy, a cascade of
-shit getting real, an unravelling of the fantasy world of youth.  Chris felt
+was starting to see in a lot of his peers: a rapid onset of entropy, a cascade
+of shit getting real, an unravelling of the fantasy world of youth.  Chris felt
 like a loser half the time, and he was making $120,000 a year.  How did Elkie
-feel?  Her app development 'company': brutal. 
+feel?  Her app development 'company': brutal.  Life made a lot more sense if you
+thought about it brutally.
 
 "I don't know that I agree with you," said Chris. "I would rather people be
 happy.  It's all in our heads anyways."  
@@ -286,6 +292,7 @@ Justine laughed.  "Good fucking luck," she said.
 After they finished talking, Chris decided to walk home.  Even though it was
 dark, he quickly began to sweat.
 
-He stopped at a nice bar and drank two draft beers, thinking.  The bartender was
-very solitious.  As waited to close out his tab, a woman who looked kind of like
-Kristen Dunst said 'hi', and asked Chris how he was doing.
+Chris stopped at a nice bar and drank two draft beers, thinking.  The bar
+calmingly, inspiringly neoliberal, with a sense of weight.  As Chris waited to
+close out his tab, a woman who looked kind of like Kirsten Dunst said 'hi', and
+asked him how he was doing.
