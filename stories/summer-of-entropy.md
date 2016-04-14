@@ -9,11 +9,11 @@ smiled at her.
 "Hi, are you here for the tech meetup?" Chris asked.
 
 "Yeah," she said.  She seemed happy to talk, and in just a few minutes, as it
-sometimes happens, they were talking about psychiatric drugs.  
+sometimes happens, they were talking about psychiatric drugs.
 
 "I feel a lot more social at these things when I'm on Klonopin," the woman said.
 
-"Lexapro was like that for me, I think, it helped me be social," said Chris.  
+"Lexapro was like that for me, I think, it helped me be social," said Chris.
 
 The dogs came around again, and Chris stuck out his hand.  The dachshund stopped
 to give it a lick.
@@ -39,7 +39,7 @@ way.  I would just have like, super orgasms," said Chris.
 "Anyways," he continued,  "Lexapro worked out really well for me."
 
 The woman introduced herself as Elkie.  Chris confirmed the spelling with her,
-E-L-K-I-E, and went to get another beer.  
+E-L-K-I-E, and went to get another beer.
 
 When he returned, someone was in his place, talking to Elkie about iOS
 development. 
@@ -56,10 +56,10 @@ working super hard on it."
 
 Fuck, thought Chris.  For fifteen minutes, he half-heartedly participated in an
 earnest, clumsy discussion of Swift's type system, before finally suggesting
-that they go inside for another drink.  
+that they go inside for another drink.
 
 The air inside the bar was cave-like and sweet.  Elkie and Chris waited for the
-bartender's attention.  
+bartender's attention.
 
 "The last time I was at this meetup," said Elkie, "I was with this guy from
 Tinder."
@@ -73,7 +73,7 @@ twitter followers."  Chris gave her a disapproving look, smiling.
 
 "He was okay, he was Jewish."
 
-"Are you Jewish?" asked Chris.  He looked at her again: obviously she was.  
+"Are you Jewish?" asked Chris.  He looked at her again: obviously she was.
 
 It had taken Chris a few semesters of college to realize that the girls who
 talked to him at parties were usually of a certain type: Jewish, from New York
@@ -129,7 +129,7 @@ of it, would never exist.
 "I see an issue," said Chris.  "What's the incentive for the gay matchmakers?
 Do they get to see the messages or something?"
 
-Elkie ignored Chris's question, intent on making her case for the app.  
+Elkie ignored Chris's question, intent on making her case for the app.
 
 "I really think it would work if the gay matchmakers got to see the chat logs,"
 said Chris.
@@ -145,7 +145,7 @@ women*.  "I don't get it."
 a man like that.  It's just my preference."
 
 After not saying anything for a few minutes, Chris scooted over to talk with
-Stephan, a talented .NET developer Chris recognized.  
+Stephan, a talented .NET developer Chris recognized.
 
 He watched Elkie out of the corner of his eye.  She was talking to a new guy, a
 guy wearing a summer suit.  She was flirting with him, too.  Probably making
@@ -182,7 +182,7 @@ Fuck.
 Chris went to send the article to a close friend, but decided against it.
 Triggering.  Chris understood what Elkie had done, the seduction of a verdant
 rooftop with waist-high barriers.  He told himself that it was important not to
-use this event as an excuse for a stupid existential crisis.  
+use this event as an excuse for a stupid existential crisis.
 
 He terminated his session, and went to the micro-kitchen for a smoothie.  It was
 cooler there.
@@ -194,7 +194,7 @@ ledge of the roof.
 People were posting Elkie's wall, praying and asking for the contact information
 of her family.
 
-Chris went back to his computer.  
+Chris went back to his computer.
 
 He ssh'd into a virtual machine, a machine left over from the previous summer,
 when Chris had accidentally discovered a way to view the chat history of any
@@ -230,19 +230,19 @@ very far away from things.
 
 "Why, what's up?"
 
-Justine sat down on her stoop, looking up at Chris quizzically.  
+Justine sat down on her stoop, looking up at Chris quizzically.
 
 "Someone I know killed themselves by jumping off a roof," said Chris, still
 standing.
 
-"At a fancy party?  I think I saw this."  
+"At a fancy party?  I think I saw this."
 
 Earlier, in a bodega, Chris had noticed that the papers were going with the
-Hasidic angle, not the tech angle.  
+Hasidic angle, not the tech angle.
 
 "Yeah, you probably did.  I met her at a programming thing."
 
-"That's messed up.  You okay?"  
+"That's messed up.  You okay?"
 
 Chris felt a stab of affection for his well-dressed friend, who had once told
 him that they would one day rekindle their romantic relationship in a different
@@ -257,21 +257,21 @@ city, maybe Hong Kong, when they were older.
 "Oh.  Not married, right?  It seems like women start having problems at that
 age, like serious mental health problems."
 
-Chris made a face.  
+Chris made a face.
 
 "I really hope that's not how it works," he said.  "That's so bleak."
 
 "Yeah, but the whole 'body positivity, everyone is beautiful' thing is such
-bullshit, right?" said Justine.  
+bullshit, right?" said Justine.
 
 Chris didn't say anything.
 
 "I look at Korean Instagram models, I know I'm not beautiful," said Justine.  "I
-accept my body, I don't love it.  I'm not deluded."  
+accept my body, I don't love it.  I'm not deluded."
 
 Chris was surprised to hear Justine saying these things.
 
-"I mean, isn't beauty a pretty arbitrary thing?" he said.  
+"I mean, isn't beauty a pretty arbitrary thing?" he said.
 
 "I guess, but so what?"
 
@@ -283,7 +283,7 @@ feel?  Her app development 'company': brutal.  Life made a lot more sense if you
 thought about it brutally.
 
 "I don't know that I agree with you," said Chris. "I would rather people be
-happy.  It's all in our heads anyways."  
+happy.  It's all in our heads anyways."
 
 "I mean," he said, "I'm a computer person. I want to fix things."
 
