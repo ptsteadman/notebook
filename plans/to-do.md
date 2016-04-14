@@ -11,11 +11,6 @@
 - Define 'Virtual Realism'.
 - Go to Ibiza.
 - All the problems in Cracking the Coding Interview.
+- Blog and case studies for computerlab.io.
+- MR_BOTS v2 on PaaS, simplified.
 
-### Done
-- ~~Cornell Novel.~~
-- ~~A 9/11 Memorial.~~
-- ~~Computer Lab website~~
-- ~~Personal website.~~
-- ~~Hexo theme~~
-- ~~Millennial BSO~~
