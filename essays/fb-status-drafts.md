@@ -401,3 +401,5 @@ You know you're hot when people try to neg you
 you know you're hot when people try to neg you in negotiations
 
 I realized that I didn't want to fuck anyone :thinking_face:
+
+my life is so crazy
