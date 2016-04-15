@@ -388,3 +388,16 @@ the image of Tom Cruise appears to us as the most pure normal american man
 because he is an transcendent hyperreal alien being living secretly among us
 
 I'm a small-minded man
+the thing about ugliness vs other qualities as a person is that you are ugly
+in  everything that you do, all the time.  being bad at sports, etc: the vast
+majority of the time, you're not doing sports, and it's irrelevant that you're 
+bad at it.  even intelligence: you don't use that a lot of the time.  the 
+Internet is a sort of refuge, but not really.  ugliness affects the psychological
+world you bring to the Internet
+
+You know you're hot when people try to neg you
+(hot as a software engineer)
+
+you know you're hot when people try to neg you in negotiations
+
+I realized that I didn't want to fuck anyone :thinking_face:
