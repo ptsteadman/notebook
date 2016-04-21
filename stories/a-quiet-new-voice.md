@@ -1,19 +1,27 @@
 # Feyerabend
 
-<!-- need to make it flow -->
-<!-- needs 1/3 more -->
+Feyerabend's driver slowed the car to a crawl, looking for her street address,
+her new home in Warsaw.  It was very late. 
 
-Who is Feyerabend?  She's the first stranger I've had to think about.
+The driver stopped in front an older building, set back in a stand of oak trees.
+He showed Feyerabend around the apartment, explaining obvious things about the
+new fixtures, mostly of medium quality.
 
-Feyerabend's new apartment was set back from the road in a stand of old oak
-trees.  As her driver slowed the car to a crawl, looking for her number, she
-realized that she felt like she was on vacation.  She'd be living in Poland for
-the next year, working with Addison Chen 
-A driver brought Feyerabend to her new apartment, set back from the road in a
-stand of old oak trees.  Feyerabend would be living in Poland for the next year,
-but it felt like she was going on an exciting vacation.  An email from Addison
-Chen had explicitly suggested that she spend her first week in Warsaw 'getting
-situated', not working.
+After the driver left, Feyerabend brought her bag into the largest bedroom.  She
+felt like she was on an exciting vacation, even though she'd be living in Poland
+for at least a year, probably longer.
+
+
+
+had Feyerabend's new apartment was set back from the road in
+a stand of old oak trees.  As her driver slowed the car to a crawl, looking for
+her number, she realized that she felt like she was on vacation.  She'd be
+living in Poland for the next year, working with Addison Chen A driver brought
+Feyerabend to her new apartment, set back from the road in a stand of old oak
+trees.  Feyerabend would be living in Poland for the next year, but it felt like
+she was going on an exciting vacation.  An email from Addison Chen had
+explicitly suggested that she spend her first week in Warsaw 'getting situated',
+not working.
 
 The next day was warm and summery.  Feyerabend decided to go to a nearby outdoor
 swimming park, in accordance with the Addison's wishes.  She sat on a towel
