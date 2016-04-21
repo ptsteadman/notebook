@@ -1,34 +1,25 @@
 # Feyerabend
 
-Feyerabend's driver slowed the car to a crawl, looking for her street address,
-her new home in Warsaw.  It was very late. 
+Feyerabend's driver slowed the car to a crawl, looking for the address of her
+new apartment.  It was very late, and Feyerabend was very conscious of the
+sounds of the hot car, the tires on the pavement, and her own small movements.
 
 The driver stopped in front an older building, set back in a stand of oak trees.
-He showed Feyerabend around the apartment, explaining obvious things about the
-new fixtures, mostly of medium quality.
+He showed Feyerabend around her apartment, explaining obvious things about the
+fixtures.
 
-After the driver left, Feyerabend brought her bag into the largest bedroom.  She
-felt like she was on an exciting vacation, even though she'd be living in Poland
-for at least a year, probably longer.
-
-
-
-had Feyerabend's new apartment was set back from the road in
-a stand of old oak trees.  As her driver slowed the car to a crawl, looking for
-her number, she realized that she felt like she was on vacation.  She'd be
-living in Poland for the next year, working with Addison Chen A driver brought
-Feyerabend to her new apartment, set back from the road in a stand of old oak
-trees.  Feyerabend would be living in Poland for the next year, but it felt like
-she was going on an exciting vacation.  An email from Addison Chen had
-explicitly suggested that she spend her first week in Warsaw 'getting situated',
-not working.
+After he left, Feyerabend brought her bag into the largest bedroom.  She felt
+like she was on an exciting vacation, but she'd be living in Poland for a whole
+year.  It was hard to imagine all that time. 
 
 The next day was warm and summery.  Feyerabend decided to go to a nearby outdoor
-swimming park, in accordance with the Addison's wishes.  She sat on a towel
-in the bristly green grass, reading a novel from the airport.  
+swimming park, in accordance with Addison Chen's wishes.  Addison had sent an
+email welcoming her that suggested that she spend her first week in Warsaw
+'getting situated', not working.  Feyerabend sat on a towel in the bristly green
+grass, reading a novel from the airport.  
 
-Feyerabend watched families grilling and jumping in the pool, and thought ahead
-to meeting people at the lab on Monday.  It probably wouldn't be particularly
+As she watched families grilling and jumping in the pool, she thought ahead to
+meeting people at the lab on Monday.  It probably wouldn't be particularly
 uncomfortable: Feyerabend was used to meeting colleagues from the Internet, and
 there would be a lot to talk about.  In Feyerabend's experience, most people
 were not surprised that she was trans: they could tell from the picture on her
@@ -36,28 +27,22 @@ website.
 
 Warsaw was pastel and grey, and somehow reminded Feyerabend of being a teenager.
 She knew that she was still young in the relative sense, but the week of free
-time bought back memories.
+time bought back memories.  She felt so deep into her life.
 
-Feyerabend knew that she was still young in the abstract sense, but the week of
-free time brought back memories.  At some point in her early twenties,
-Feyerabend had become constantly aware that each day could not be wasted, and
-had generally lived accordingly.  For ten years, Leah Feyerabend had studied
-formal grammar at a few different universities, reading hundreds of pages a day.
+For ten years, Feyerabend had studied formal grammar at a few different
+universities.  She read and thought as hard as she could, and avoided the hype.
 When Feyerabend's classmates went out to jobs, they always treated her with a
 bit of pity, asking questions like "what type of applications do you see for
-your work?"  
+your work?"  But Feyerabend was determined to not waste her life on noise and
+vanity.
 
-Feyerabend thought back to the unexpected email from Addison, inviting her to
-come work full-time on direct semantic IO in Warsaw.  Feyerabend had quit her
-machine learning job a few minutes later, just weeks after starting. 
+The moment that Feyerabend received an email from Addison Chen, thanking her for all of her
+work on the direct semantic IO project, and inviting her to come work in Warsaw,
+that was the best moment of Feyerabend's life.
 
-It was the best moment of her life.  It was ten years of discipline and paying
-off in one moment, a perfect validation of her dry, obscure focus.
-
-At that moment, Feyerabend had known that she would never feel truly useless
-again.  The semantic IO project was valuable, and she had made valuable
-contributions.  She would continue to contribute new understanding to the world,
-until she retired.
+The email from Addison Chen, invitIt was the best moment of her life.
+Feyerabend knew that she would never feel truly useless again.  The semantic IO
+project was valuable, and she had made valuable contributions. 
 
 She drank at dinner alone, and gave the cab driver a slip of paper with her
 address on it.  Back in her strange apartment, she looked at herself in the
