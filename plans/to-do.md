@@ -1,4 +1,5 @@
 ### To Do
+- Finish 'The Millennial Deep State'.
 - Write 'Feyerabend' story.
 - Write 'Summer of Entropy' story.
 - Blog / case study section for computerlab.io.
