@@ -1,33 +1,37 @@
 # Feyerabend
 
-Feyerabend's driver slowed the car to a crawl, looking for the address of her
-new apartment.  It was very late, and Feyerabend was very conscious of the
-sounds of the hot car, the tires on the pavement, and her own small movements.
+Feyerabend's driver slowed the car to a crawl, trying to find her new address in
+the dark.  Feyerabend was very conscious of the sounds of the hot car, the tires
+on the pavement, and her own small movements.
 
-The driver stopped in front an older building, set back in a stand of oak trees.
-He showed Feyerabend around her apartment, explaining obvious things about the
-fixtures.
+The driver stopped in front an academic-looking building, set back in a stand of
+oak trees.  He showed Feyerabend around her new apartment, explaining obvious
+things about the fixtures.
 
-After he left, Feyerabend brought her bag into the largest bedroom.  She felt
-like she was on an exciting vacation, but she'd be living in Poland for a whole
-year.  It was hard to imagine all that time. 
+Once Feyerabend was alone, she brought her bag into the largest bedroom.  She
+felt like she was on an exciting vacation, even though she would be living in
+this place for a year, in Warsaw.
+
+---
 
 The next day was warm and summery.  Feyerabend decided to go to a nearby outdoor
-swimming park, in accordance with Addison Chen's wishes.  Addison had sent an
-email welcoming her that suggested that she spend her first week in Warsaw
-'getting situated', not working.  Feyerabend sat on a towel in the bristly green
-grass, reading a novel from the airport.  
+swimming park.  She was supposed to spend her first week in Warsaw 'getting
+situated', not working.  An email from Addison Chen had specified this: that she
+had already done so much work for the project, and that she should try to relax.
+Feyerabend sat on a towel in the bristly green grass, reading a novel from the
+airport.  
 
 As she watched families grilling and jumping in the pool, she thought ahead to
-meeting people at the lab on Monday.  It probably wouldn't be particularly
-uncomfortable: Feyerabend was used to meeting colleagues from the Internet, and
-there would be a lot to talk about.  In Feyerabend's experience, most people
-were not surprised that she was trans: they could tell from the picture on her
-website.  
+meeting people at the lab on Monday.  It would probably be okay: Feyerabend was
+used to meeting colleagues from the Internet, and there would be a lot to talk
+about.  In Feyerabend's experience, most people were not surprised that she was
+trans: they could tell from the picture on her website.  
 
-Warsaw was pastel and grey, and somehow reminded Feyerabend of being a teenager.
-She knew that she was still young in the relative sense, but the week of free
-time bought back memories.  She felt so deep into her life.
+---
+
+Feyerabend made an effort to explore her new city, knowing that she'd quickly
+fall into a very limited routine when she started work.  Warsaw was pastel and
+grey, and somehow reminded Feyerabend of being a teenager.  
 
 For ten years, Feyerabend had studied formal grammar at a few different
 universities.  She read and thought as hard as she could, and avoided the hype.
