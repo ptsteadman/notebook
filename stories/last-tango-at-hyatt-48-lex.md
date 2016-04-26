@@ -10,7 +10,7 @@ Emily and Drew had met on the Internet.  After a few months, they decided to
 meet in New York, where Drew was working as an intern.  "It's so good to see
 you!" Emily had said, as they hugged in Penn Station.
 
-After a glass of vodka and orange juice, they got a taxi to Columbus Circle.
+After vodka and orange juice, they got a taxi to Columbus Circle.
 
 "I googled 'restaurants with best view'," said Drew.  "We're going to a place
 called *Asiate*, in the Mandarin Oriental."
