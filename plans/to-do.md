@@ -9,6 +9,7 @@
 - Make and publish Rehab Bootcamp Landing Page.
 - Finish SICP.
 - 'Pain Cave' vacuum/logging project.
+- 'Pain Cave' book outline/proposal.
 - Web interface for this repository.
 - MR_BOTS v2 on PaaS, simplified.
 - Writer's toolkit.
