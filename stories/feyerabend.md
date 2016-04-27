@@ -18,13 +18,13 @@ The next day was warm and summery.  Feyerabend decided to go to a nearby outdoor
 swimming park.  She was supposed to spend her first week in Warsaw 'getting
 situated', not working.  An email from Addison Chen insisted that she should try
 to relax, she had already done so much work for the project.  Feyerabend sat on
-a towel in the bristly green grass, reading a novel from the airport.  
+a towel in the bristly green grass, reading a novel from the airport.
 
 The afternoon passed quickly.  She watched families grilling and jumping in the
 pool, and thought ahead to meeting people at the lab on Monday.  It would
 probably be okay: Feyerabend was used to meeting colleagues from the Internet.
 In Feyerabend's experience, most people were not surprised that she was trans:
-they could tell from the picture on her website.  
+they could tell from the picture on her website.
 
 <hr>
 

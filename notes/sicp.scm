@@ -49,3 +49,11 @@
 (= (pascal 4 4) 1)
 (= (pascal 2 1) 2)
 
+; 1.16
+
+(define (expt-iter b n a)
+  (cond ((= n 0) a)
+        ((even n) (expt-iter b (- n 1) (* b a)))
+        (else (
+
+  
