@@ -2,15 +2,15 @@
 
 Feyerabend's driver slowed the car to a crawl, trying to find her new address in
 the dark.  Feyerabend was very conscious of the sounds of the hot car, the tires
-on the pavement, and her own small movements.
+on the pavement, her own small movements.
 
 The driver stopped in front an academic-looking building, set back in a stand of
 oak trees.  He showed Feyerabend around her new apartment, explaining obvious
-things about the fixtures.
+things about the fixtures in broken English.
 
 Once Feyerabend was alone, she brought her bag into the largest bedroom.  She
 felt like she was on an exciting vacation, even though she would be living in
-this place for a year, in Warsaw.
+this place for a year.
 
 <hr>
 
@@ -21,7 +21,7 @@ had already done so much work for the project, and that she should try to relax.
 Feyerabend sat on a towel in the bristly green grass, reading a novel from the
 airport.  
 
-As she watched families grilling and jumping in the pool, she thought ahead to
+She watched families grilling and jumping in the pool, and thought ahead to
 meeting people at the lab on Monday.  It would probably be okay: Feyerabend was
 used to meeting colleagues from the Internet, and there would be a lot to talk
 about.  In Feyerabend's experience, most people were not surprised that she was
@@ -30,46 +30,39 @@ trans: they could tell from the picture on her website.
 <hr>
 
 Feyerabend made an effort to explore her new city, knowing that she'd quickly
-fall into a limited routine when she started work.  Warsaw was pastel and grey,
-and somehow reminded Feyerabend of being a teenager.  
+fall into a routine when she started work.  Warsaw was pastel and grey, and the
+pace of life reminded Feyerabend of being a teenager.  
 
-Having a week of free time was weird.  Feyerabend was used to being almost
-perfectly focused, trying to learn everything she could about formal grammar.
-She had studied grammar at a number of different universities for about eight
-years.  When her classmates went out to jobs, they always treated her with a bit
-of pity, asking questions like "what type of applications do you see for your
-work?"  But deep down, Feyerabend was certain that most jobs were stupid, just
-vanity, noise.
+Feyerabend was used to being almost perfectly focused, trying to learn
+everything she could about formal grammar.  This had meant ten years at a number
+of different universities.  When her classmates went out to jobs, they always
+treated her with a bit of pity, asking questions like "what type of applications
+do you see for your work?"  But deep down, Feyerabend was certain that her
+classmates were wasting their time.
 
 When she finally left academia, she put most of her effort into independent
-research and correspondence on the Interet.  She got involved with a number of
-interesting projects.  Just a few weeks after getting a 'real job', she had
-recieved an email from Addision Chen, inviting her to work on direct semantic IO
-in Warsaw.  It was the happiest moment of Feyerabend's life, and she quit her
-new job just minutes later.
+research and correspondence on the Interet.  Just a few weeks after getting a
+'real job', she recieved an email from Addision Chen, inviting her to work on
+direct semantic IO in Warsaw.  It was the happiest moment of Feyerabend's life.
+She quit her job minutes later.
 
 It was a validation of her serious way of life, her dry, unsparing focus.  She
-knew that the semantic IO project was important, and that she had already made
-valuable contributions.  Now she would do more.  She was taking a irrevocable
-step forward, she knew she wouldn't lie awake again, wondering what she had done
-for the world.   
-
-That week, Feyerabend drank at dinner alone, and gave the cab driver a slip of
-paper with her address on it.  Back in her strange apartment, she looked at
-herself in the mirror and quieted old dysphoric feelings.  It was going to be
-okay.
+knew that the semantic IO project was important, and that she was making
+valuable contributions.  And now she was taking a irrevocable step forward.  In
+low moments, she would have the comfort of knowing that she had done something
+for the world.
 
 <hr>
 
-Early Monday morning, the same driver picked Feyerabend up at her apartment.  She
-fell asleep in the car, startling awake on arrival.  The driver laughed.  He
-waited for Feyerabend to rub the sleep from her eyes in the parking lot, and led
-her into a marble building under a glass atrium. 
+The driver was waiting outside of Feyerabend's apartment on Monday morning.  She
+fell asleep in the car, startling awake on arrival.  The driver laughed and
+waited for Feyerabend the sleep from her eyes.  
 
-After navigating through a number of progressively more drab hallways, the
-driver showed Feyerabend into her new office.  It was a room with a bookshelf, a
-coffee table, and a set of excellent digital windows.  Feyerabend spent a few
-minutes organizing things.
+Feyerabend followed the driver accross the parking lot into a glass atrium
+protecting an old marble building.  After navigating through a number of
+progressively more drab hallways, the driver showed Feyerabend into her new
+office.  It was a room with a bookshelf, a coffee table, and a set of excellent
+digital windows.  Feyerabend spent a few minutes organizing things.
 
 Someone pushed open the door, and stuck in their head.
 
@@ -78,11 +71,11 @@ Someone pushed open the door, and stuck in their head.
 "Hello," said Feyerabend, standing up.  
 
 The person introduced himself as a researcher, and suggested that they go to a
-meeting room.
+conference room.
 
-Talk shifted quickly to their work.  The researcher said that he mostly worked
-on the project's hardware.  That said, he told Feyerabend that he'd read her
-proposals, and thought they were very well-considered. 
+The researcher said that he mostly worked on the project's hardware.  That said,
+he mentioned that he had read Feyerabend's proposals, and thought they were very
+well-considered. 
 
 "Thanks," said Feyerabend.
 
@@ -92,8 +85,7 @@ of the project?" she asked.
 "Well, you'll be working with the hardware almost constantly, that's why you're
 here."
 
-"It's not an area I have much expertise in," said Feyerabend, smiling as she
-failed to hide her excitement.
+"It's not an area I have much expertise in," said Feyerabend, smiling.
 
 "We've developed a fairly straightforward user interface for the CBI, I'll be
 interested in your feedback on it."
@@ -105,24 +97,24 @@ interested in your feedback on it."
 "The CBI device?  Now?" 
 
 "Sure," said the French researcher.  "Let's not waste any time.  There's some
-safety training you'll have to do before you actually use it, though."
+safety training you'll have to do before you actually use it, but we can take a
+look."
 
-Feyerabend was very excited to spend a whole year with a medical-grade
-computer-brain interface.  She had experience with transcranial magnetic
-stimulation devices, and an Internet friend had once shown her a focused
-ultrasound effector, but the project's focused ultrasound effector opened up a
-whole new realm of possibilities. 
+Feyerabend was very excited to work with a real medical-grade computer-brain
+interface.  She had experience with transcranial magnetic stimulation devices,
+and an Internet friend had once shown her a focused ultrasound effector, but the
+project's hardware opened up a whole new realm of possibilities. 
 
 "Here it is!" said the French researcher, opening an unmarked door.  "We have a
 few others, but this is the latest iteration."
 
 The room contained a hacked-open MRI sled, stripped of the usual white medical
 plastic. The focused ultrasound transducers were mounted on the inside of the
-MRI tube, with copper wires leading to an insulated server closet.
+MRI tube, with copper wires leading to a server closet.
 
-As the researcher gave Feyerabend a tour of the machine's components, she
-struggled to not complete his sentences.  As he was finishing up, a middle-aged
-woman came into the room, saying "Hello!" loudly to announce herself.
+Feyerabend struggled to not complete the researcher's sentences as he gave her a
+quick tour of the machine's components.  As he was finishing up, a middle-aged
+woman came into the room, saying "hello!" loudly to announce herself.
 
 "Leah, meet Addison," said the French researcher.
 
@@ -130,14 +122,16 @@ woman came into the room, saying "Hello!" loudly to announce herself.
 in person, finally."  
 
 Feyerabend dimly recognized that Addison was attractive, something she had not
-expected.  Feyerabend felt weirdly starstruck.  She was surprised, she took
-chemical sterilization medication, drugs that she had initially purchased from
-the darknet, but now had a prescription for.
+expected.  She was surprised at how starstruck she felt.  She took chemical
+sterilization medication, drugs that she had initially purchased from the
+darknet, but now had a prescription for.
 
-It was quickly obvious why the organization that governed the direct semantic IO
-project allocated so many resources to Addison: she had the almost over-the-top
-enthusiasm necessary to effectively herd a diverse team of neuroscientists,
-electrical engineers, and programmers.  As Addision outlined the plan for the next few weeks, Feyerabend was reminded of a busy but sociable dentist.
+It was quickly obvious why the direct semantic IO organization allocated so many
+resources to Addison.  Feyerabend was reminded of a busy but sociable dentist:
+she had the almost over-the-top enthusiasm necessary to effectively herd a
+distributed team of neuroscientists, electrical engineers, and programmers.
+Addision quickly outlined a plan for the next few weeks, a plan that would
+onboard Feyerabend.
 
 <hr>
 
@@ -152,14 +146,14 @@ automated bill payments.  It was hard to imagine being unhappy ever again.
 <hr>
 
 Feyerabend brought a notebook to the CBI room the next morning.  Addison arrived
-moments after.
+moments later.
 
 "Ready?" said Addison.
 
 "Yup."
 
 "Okay.  I think Eric already has everything up and running.  Do you mind getting
-into the calibration position for me?"
+into the calibration pose for me?"
 
 The inside of the new MRI scanner was almost silent.  
 
@@ -175,13 +169,13 @@ Of course it did.
 
 "A qualia!" said Addison, also laughing.  "Weird, huh?"
 
-What had she just experienced?   It was totally abstract: it didn't remind her
-of anything.  
+What had she just experienced?   It was something totally abstract: it didn't
+remind her of anything.  
 
 It was just there, and distinct.  The only thing that seemed comparable, in
 terms of novelty, was when she had experienced her first orgasm around the age
 of thirteen.  But this was a much quieter, more precise feeling, without
-pleasure or anything, really.  
+pleasure or *anything*, really.  
 
 "Wow," said Feyerabend.  "Got it."
 
@@ -204,14 +198,14 @@ Feyerabend laughed gleefully.
 <hr>
 
 According to the French researcher, the focused ultrasound effector was capable
-of producing at least a million unique qualia, consistently, thousands of times
-a second.  Experiments had shown that qualia could be interpreted semantically,
-thanks to the wonders of human cortical plasticity.
+of producing at least a million different qualia, consistently, thousands of
+times a second.  Experiments had shown that qualia could be interpreted
+semantically, thanks to human cortical plasticity.
 
 At lunch in the cafeteria, Addison explained the obvious: it was Feyerabend's
 job to develop a useful set of symbol groundings for the qualia, so that they
-could be used as a direct semantic communication channel between the computer
-and brain, the first *useful* Computer Brain Interface.
+could be used as a language, a direct semantic communication channel between the
+computer and brain.  The first Computer Brain Interface language.
 
 "I'd love to tell you that this will just be a prototype, but my feeling is that
 whatever you develop, it will be widely adopted.  I think you should try to
@@ -222,50 +216,49 @@ make sense to you?"
 
 The first thing Feyerabend developed was a set of qualia that could be used to
 describe the formal structure of a language: words related to grammar, syntax,
-and morphology.  A remote team of programmers concurrently helped her develop a
-training program that taught users to associate the correct qualia with the
-concepts that Feyerabend chose.
+and morphology.  A remote team of programmers helped her develop a training
+program, a virtual assistant that taught users to associate specific qualia with
+the concepts that Feyerabend chose.
 
 Feyerabend was then able to partially describe her plans for the qualia language
-using qualia.  After using the training program, other researchers could go into
-the focused ultrasound machine and recieve a very rapid and concise outline of
-Feyerabend's language structure.
+using qualia.  After spending a few hours in the MRI tube with the training
+program, the other researchers could rapidly recieve a concise outline of
+updates to Feyerabend's language.
 
-Feyerabend limited herself to nine hour workdays.  Feyerabend spent most of her
-time inside of an MRI machine, thinking, and vocally telling the computer to
-store her ideas as qualia codepoints.  Feyerabend didn't really feel lonely,
-because she spent the day working with people that she respected. 
+Feyerabend limited herself to nine hour workdays.  She spent most of her time
+inside of the MRI machine, thinking, and vocally telling the computer to store
+her ideas as qualia codepoints.  She didn't feel lonely, because she was working
+with people that she respected.
 
 <hr>
 
-Feyerabend began to develop a set of "qualia radicals", meant to span current
-human experience and allow for almost limitless expansion.  The symbols
-referring to morphological combination could be used with other radicals to
-create new meaning.  She didn't have to worry about creating an overly verbose
-language: the bandwidth of the CBI machine allowed the listener to almost
-instantly comprehend a long sequence of qualia. 
+Feyerabend began to develop a set of "qualia radicals", meant to span the human
+experience and allow for almost limitless expansion.   She didn't have to worry
+about creating an overly verbose language: the bandwidth of the CBI machine
+allowed the listener to almost instantly comprehend a long sequence of qualia.
+The symbols referring to morphological combination could be directly used with
+other radicals to create new meaning. 
 
 <hr>
  
-After Feyerabend completed the meta-language, the project started to feel silly.
-It felt like she was developing some sort of child-like picture language, with a
-naive word for everything.
+When Feyerabend completed the meta-language around Christmas, the project
+started to feel silly.  It felt like she was developing some sort of child-like
+picture language, with a naive word for everything.
 
-Progress came to a rapid halt, as they spent hours in meetings using different
-frameworks to describe the work they needed to do on the training framework.
-yerabend started to feel fear and frustration, the first negative feelings she'd
-experienced while working on the project.  
+Progress came to a rapid halt, as they spent hours in meetings trying to
+precisely describe the work they needed to do on the training framework.
 
 One of Feyerabend's articles of faith was that there was success in smallness.
-But extending her qualia language to the real world: it would be messy.   She
+But extending the qualia language to the real world: it would be messy.  She
 felt inadequate.
 
-Addision rescued her, interrupting a meeting that had dragged on past sunset.
+Addision finally rescued her by interrupting a meeting that had dragged on past
+sunset.
 
-"Okay, let's be real here, okay?" said Addision.  "What we're about to do now is
+"Okay, let's be real here, okay?" said Addision.  "What we're trying to do is
 crazy ambitious.  But let's talk about it."
 
-"What is this program going to look like?  We need to get people to associate
+"What is this program going to look like?  We need to get people to associate 
 *things*, like, *trees*, with an arbitrary qualia.  What are we going to do?
 Show them a picture of a tree and then fire the qualia?  That's basically how it
 works now, right?"
@@ -276,53 +269,53 @@ There was a contemplative silence.
 need to map the world onto an a sixteen-bit codepoint plane.  It's going to get
 messy."
 
-Addison helped Feyerabend pick out a few of the programmers involved in the
-project, and invited them to Warsaw.  Feyerabend them up in their own room, and
-told them to build whatever they thought would work.
+Addison helped Feyerabend pick out a few programmers, and invited them to
+Warsaw.  Feyerabend them up in their own room, and told them to build whatever
+they thought would work.
 
 They did drugs, stayed up late, and played a lot in virtual reality.  But
 progress started to happen.  A number of special displays, speakers, and
 experimental inputs were mounted inside the MRI.  It looked ugly.  
 
-Feyerabend used herself as a test subject. 
+Feyerabend used herself as the test subject. 
 
-The first thing symbol they grounded was trees.  Videos, scents, images of
-trees.  Feyerabend thought back to the trees in her backyard growing up, absract
-syntax trees.  Trees.
+The first thing symbol they grounded was trees, a nod to Addison.  Videos,
+scents, images of trees.  Feyerabend thought back to the trees in her backyard
+growing up; absract syntax trees.  Trees.
 
 The ocean.  Lake.  Void.  Heaven.  Heaven was kind of corny, rendered as some
 Christian thing, incense.  More concepts.  Then the whole cycle again.
 
 <hr>
 
-It worked.  After a week with the training program, Feyerabend could perfectly
+It worked.  After a week with the training program, Feyerabend could reliably
 associate 256 qualia radicals with her own private version of each concept.
 Real world, concrete concepts.  
 
-Over the weekend, the programmers encoded qualia sequences for the book of
-Genesis, songs by Rush, every bombastic thing they could find.  On Monday
-morning, Feyerabend listened to them all, and cried.
+Over the weekend, the programmers encoded qualia sequences for every bombastic,
+primitive thing they could find: the book of Genesis, songs by Rush, poems by
+Rumi.  On Monday morning, Feyerabend listened to them all, and cried.
 
 "Guys, it's really amazing," she said.  "I heard it all in a like, a minute.
-There aren't many words yet, but it's so clear.  I wish we had more machines so
-you could try it out."
+There isn't much yet, but it's so clear.  I wish we had more machines so you
+could try it out."
 
 <hr>
 
-Feyerabend was spending more and more time in the MRI machine, alone.  Now,
-besides her thoughts and emotions, there was this third new voice, a quiet fast
-whisper, the voice of the computer. 
+Feyerabend was spending more and more time in the machine, alone.  Now, besides
+her thoughts and emotions, there was this third new voice, a quiet fast whisper,
+the voice of the computer. 
 
 <hr>
 
-It was summer again.  To celebrate finishing the first round of experiments with
-the CBI, the Warsaw project team took a trip to the ocean.  During the day, the
-team avoided the beach.  Feyerabend spent the day on the ground floor of the
-beach house, reading a book in a wicker chair.
+It was summer again.  To celebrate, the Warsaw project team took a trip to the
+ocean.  During the day, the team avoided the beach, only leaving the guest house
+to get watermelon juice at a roadside stand.  Feyerabend ordered for the team in
+Polish.  She spent most of the day on the ground floor of the house, reading a
+book in a wicker chair.
 
 Right before sunset, Addison invited Feyerabend for a walk down the beach.  It
-was now empty except for a group of art students photographing a woman dressed
-in a mermaid costume. 
+was now empty except for a group of art students photographing a friend. 
 
 Feyerabend and Addison took off their sandals, and walked through the surf.
 Feyerabend's heart sung as seawater rushed under her feet.
@@ -337,7 +330,7 @@ tasks much faster than peers who did not have access to the CBI device.
 It would be a landmark paper.
 
 "We can easily have it done by the end of the summer, I think, and present at
-the ACM conference in Montreal this fall," said Addison.
+the ACM conference this fall," said Addison.
 
 Feyerabend was quiet.  It was obvious that Addison was saying this in
 celebration, not looking for feedback.  
@@ -359,9 +352,14 @@ Right?" said Addison.
 
 "Yeah," said Leah.
 
-.what.goes.here?
+"So, just want you to know that you can talk to me about whatever you want.
+We're your support network, here."
 
-Feyerabend felt lonley when she got back to her room in the guest house.  She
+"Thanks," said Feyerabend.  She made sure to make eye contact with Addison.  
+
+"I really appreciate that," she said.
+
+Back in her room at the guest house, Feyerabend felt lonely.  She
 knew that she had the option of drinking and playing cards with her colleagues
 downstairs, but decided against it, and got in bed.  
 
