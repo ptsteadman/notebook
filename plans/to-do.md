@@ -1,6 +1,5 @@
 ### To Do
-- Blog / case study section for computerlab.io.
-- Write and publish 'Semantic Versioning For Natural Language and Artistic Works'.
+- Blog section for computerlab.io.
 - Write and publish 'Bush Did Map Reduce' piece.
 - Write and publish 'Are You An Advanced Basic?' piece.
 - Write and publish 'Quora Religion' piece.
@@ -8,6 +7,7 @@
 - Write and publish 'Summer of Entropy' story.
 - Make and publish Rehab Bootcamp Landing Page.
 - Finish SICP.
+- Case study section for computerlab.io.
 - 'Pain Cave' vacuum/logging project.
 - 'Pain Cave' book outline/proposal.
 - Web interface for this repository.
