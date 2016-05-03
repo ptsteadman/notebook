@@ -1,7 +1,7 @@
 # Feyerabend
 
-Feyerabend's driver slowed the car to a crawl, trying to find her new address in
-the dark.  Feyerabend was very conscious of the sounds of the hot vehicle, the tires
+Feyerabend's driver slowed the car to a crawl, trying to find her address in the
+dark.  Feyerabend was very conscious of the sounds of the hot vehicle, the tires
 on the pavement, her own small movements.
 
 They stopped in front an academic-looking building, set back in a stand of oak
@@ -16,51 +16,49 @@ this room for at least a year.
 
 The next day was warm and summery.  Feyerabend decided to go to a nearby outdoor
 swimming park.  She was supposed to spend her first week in Warsaw 'getting
-situated', not working.  An email from Addison Chen insisted that she should try
-to relax, she had already done so much work for the project.  Feyerabend sat on
-a towel in the bristly green grass, reading a novel from the airport.
+situated', not working.  An email from Addison Chen had insisted that she should
+try to relax.  Feyerabend sat on a towel in the bristly green grass, reading a
+novel from the airport.
 
 The afternoon passed quickly.  She watched families grilling and jumping in the
 pool, and thought ahead to meeting people at the lab on Monday.  It would
-probably be okay: Feyerabend was used to meeting colleagues from the Internet.
-In Feyerabend's experience, most people were not surprised that she was trans:
-they could tell from the picture on her website.
+probably be okay: Feyerabend was used to meeting colleagues from the Internet,
+and they would know her work.  In Feyerabend's experience, most people were not
+surprised that she was trans: they could tell from the picture on her website.
 
 <hr>
 
 Feyerabend made an effort to explore her new city, knowing that she'd quickly
-fall into a routine after the first week.  Warsaw was pastel and grey, sunny but
+get into a routine after the first week.  Warsaw was pastel and grey, sunny but
 cool.  Feyerabend felt like she was in high school, on summer vacation.  
 
 Feyerabend was used to being almost perfectly focused, trying to learn
-everything she could about formal grammar.  This had meant ten years at a number
+everything she could about formal grammar.  That had meant ten years at a number
 of different universities.  When her classmates went out to jobs, they always
 treated her with a bit of pity, asking questions like "what type of applications
-do you see for your work?"  But deep down, Feyerabend was certain that her
+do you see for your work?"  But deep down, Feyerabend knew that most of her
 classmates were wasting their time.
 
-When she finally left academia, she put most of her effort into independent
-research and Internet correspondence.  Eventually, she had to get a real job.
-But just a few weeks after starting work at a machine learning company, she
-recieved an email from Addision Chen, inviting her to work on direct semantic IO
-in Warsaw.  It was the happiest moment of Feyerabend's life.  She sent a letter
-of resignation minutes later.
+When Feyerabend finally left academia and got a job, she put most of her effort
+into independent research and correspondence.  Just a few weeks after starting
+work at a machine learning company, she recieved an email from Addision Chen,
+inviting her to work on direct semantic IO in Warsaw.  It was the happiest
+moment of Feyerabend's life.  She sent a letter of resignation minutes later.
 
 It was a validation of her serious way of life, her dry, unsparing focus.  She
 knew that the semantic IO project was important, and that she had made valuable
 contributions.  And now she was taking a irrevocable step forward.  In low
-moments, she would now know that she had done something for the world.
+moments, she would know that she had done something for the world.
 
 <hr>
 
-The driver was waiting outside of Feyerabend's apartment on Monday morning.  She
+Feyerabend's driver was waiting outside of her apartment on Monday morning.  She
 fell asleep in the car, startling awake on arrival. 
 
-Feyerabend followed the driver accross the parking lot into a glass atrium.
-After navigating through a number of progressively more drab hallways,
-Feyerabend was shown into her new office.  It was a room with a bookshelf, a
-coffee table, and a set of excellent digital windows.  Feyerabend spent a few
-minutes organizing things.
+Feyerabend was shown to her new office, a room at the end of a drab hallway in a
+building enclosed by a glass atrium.  There was a bookshelf, a coffee table, and
+a set of excellent digital windows.  Feyerabend spent a few minutes organizing
+her things.
 
 Someone pushed open the door, and stuck in their head.
 
