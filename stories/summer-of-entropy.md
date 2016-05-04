@@ -1,4 +1,4 @@
-#  Summer of Entropy
+#  KMS at Left Hand Path 
 
 An one-legged dachshund jumped over Chris's feet, chasing a group of sleek,
 beautiful dogs.  The dogs were running in circles around the bar's veranda,
