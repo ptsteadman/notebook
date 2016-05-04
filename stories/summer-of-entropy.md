@@ -1,4 +1,4 @@
-#  KMS at Left Hand Path 
+#  Left Hand Path KMS
 
 An one-legged dachshund jumped over Chris's feet, chasing a group of sleek,
 beautiful dogs.  The dogs were running in circles around the bar's veranda,
