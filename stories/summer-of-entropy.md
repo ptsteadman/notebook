@@ -1,4 +1,4 @@
-#  Left Hand Path KMS
+# Summer of KMS
 
 An one-legged dachshund jumped over Chris's feet, chasing a group of sleek,
 beautiful dogs.  The dogs were running in circles around the bar's veranda,
@@ -17,6 +17,8 @@ sometimes happens, they were talking about psychiatric drugs.
 The dogs came around again, and Chris stuck out his hand.  The dachshund stopped
 to give it a lick.
 
+<!-- concentrate: lags here -->
+
 "I raised a dog like this once, when I was on Lexapro," said Chris. 
 
 "I tried Lexapro, it had weird side effects."
@@ -26,6 +28,8 @@ to give it a lick.
 "Yeah?" she said.  "Like sexual stuff?"
 
 "Yeah."
+
+<!-- end lag -->
 
 Chris took another look at the woman.  She was wearing an eggshell blue blouse,
 sitting carefully on the edge of the damp bench.
@@ -40,24 +44,28 @@ way.  I would just have like, super orgasms," said Chris.
 The woman introduced herself as Elkie.  Chris confirmed the spelling with her,
 E-L-K-I-E, and went to get another beer.
 
+<!-- easily compressible -->
+
 When he returned, someone was in his place, talking to Elkie about iOS
 development. 
 
 "I'll show you my app," Elkie said.  "I really need feedback on my app."
 
-"Of course," the guy said.  He looked like he was fresh from work, holding a
-draft beer in the evening sunlight.
+"Of course," the guy said.  He looked fresh from work, holding a draft beer in
+the evening sunlight.
 
 Elkie turned to Chris, concern in her eyes.
 
 "If I show you my app, you have to promise not to steal the idea.  I've been
 working super hard on it." 
 
-Fuck, thought Chris.  He half-heartedly participated in an earnest, clumsy
-discussion of Swift's type system for fifteen minutes, before finally suggesting
-that they go inside for another drink.
+For fifteen minutes, Chris half-heartedly participated in an earnest, clumsy
+discussion of Swift's type system, before finally suggesting that they go inside
+for another drink.
 
-The air inside the bar was cave-like and sweet.  Elkie and Chris waited for the
+<!-- end easily compressible -->
+
+The air inside the bar was cave-like and sweet.  Chris and Elkie waited for the
 bartender's attention.
 
 "The last time I was at this meetup," said Elkie, "I was with this guy from
@@ -80,29 +88,29 @@ or Long Island, usually wealthy.
 
 "I grew up in a Hasidic family, but now I'm estranged," said Elkie. 
 
-"Woah, I'm sorry.  Losing your family is really rough." 
+"Wow, I'm sorry.  Losing your family is really rough." 
 
 "It's okay.  Are you Jewish?"
 
 "No, not really," said Chris.  "Hasidic?  Is that like Orthodox?"
 
-"Like Orthodox, but like a cult, you know, in South Williamsburg?  They're
-awful.  Honestly, I wish the Nazis had finished the job."
+"Like Orthodox, but a cult, you know, in South Williamsburg?  They're awful.
+Honestly, I wish the Nazis had finished the job."
 
-"What do you mean by finished the job," said Chris.
+"What do you mean by 'finished the job'," said Chris.
 
-"Almost all of the Hasids were killed in the Holocaust, but some of them got
-away to Brooklyn."
+"The Holocaust killed almost all of the Hasids, but some of them got away to
+Brooklyn."
 
-"Wow, Jesus.  I'm sorry," said Chris.  His skin felt cold.
+"Jesus.  I'm sorry," said Chris.  His skin felt cold.
 
 They got their mixed drinks and sat down in a large circular booth, legs
 touching.
 
 Chris felt confident.  It was summer, and he was wearing at least $1000 worth of
-clothes.  He could tell that they wanted to talk about the same things.  They
-both had exes who lived in castle-like apartments on the Upper East Side, they
-both liked department stores, tech events, and meeting people. 
+clothes.  They both wanted to talk about their exes who lived in castle-like
+apartments on the Upper East Side, they both liked department stores, tech
+events, and meeting people. 
 
 There was a burst of light.  Chris realized that Elkie's umbrella was on fire,
 and reached over for a carafe of water to douse the flames.
@@ -143,17 +151,19 @@ women*.  "I don't get it."
 "They get fucked in the ass," said Elkie.  "That grosses me out, I couldn't date
 a man like that.  It's just my preference."
 
+<!-- improve immediacy -->
+
 After listening to the banter for a few minutes, Chris scooted over to talk with
-Stephan, a talented .NET developer Chris recognized.
+Stephan, a talented .NET developer Chris had met the previous month.
 
 He watched Elkie out of the corner of his eye.  She was talking to a new guy, a
 guy wearing a summer suit.  She was flirting with him, too.  
 
-If she knew where I worked, thought Chris.  He stewed for a while, suddenly
-feeling dehydrated. 
+If she knew where I worked, thought Chris.  Elkie was talking about her app
+again, and the guy in the summer suit was eating it up.  Chris decided that he'd
+leave at eleven PM, if nothing changed.
 
-Elkie was talking about her app again.  The guy in the summer suit was eating it
-up.  Chris decided that he'd leave at eleven PM, if nothing changed.
+<!-- end improve -->
 
 At eleven, Chris stood up from the booth.  *Stupid*, he thought, grabbing his
 unnecessary Patagonia jacket, and *typical*.  He said goodbye to Stephan, and
@@ -161,17 +171,17 @@ walked home.
 
 <hr>
 
-Chris worked at Facebook.  He had interned there the previous summer, and now
-was a full time employee, arriving at the office later and later each morning.
-After Chris sat down at his desk, he typically procrastinated for a few hours by
-reading his newsfeed, until he couldn't stand it anymore.  He was angry at all
-the little bits of content stealing his time, his summer. 
+Chris worked at Facebook.  It was his first job after graduation, and he was
+arriving at the office later and later each morning.  After he sat down at his
+desk, he typically procrastinated for a few hours by reading his newsfeed, until
+he couldn't stand it anymore.  He was angry at all the little bits of content
+stealing his time, his summer. 
 
 "A Woman Jumped to Her Death From a Rooftop Bar, and People Kept Partying,"
 Chris read.  One of his coworkers had shared the article, saying something about
 tech culture.  Confusingly, there was a picture of Elkie.
 
-He remembered Elkie adding him as a friend on Facebook.  Was it a development
+Chris remembered Elkie adding him as a friend on Facebook.  Was it a development
 build issue?  He opened Elkie's Facebook profile and the article simultaneously,
 each window filling only a small part of his monitor.  More pictures of Elkie.
 
@@ -179,10 +189,9 @@ Elkie had jumped off a roof during a corporate party.  Suicide.  She was dead.
 Fuck.
 
 Chris went to send the article to a close friend, but decided against it.
-Triggering.  Chris felt like he understood what Elkie had done, the seduction of
-a verdant rooftop with waist-high barriers.  He told himself that it was
-important not to use this event as an excuse for a stupid existential crisis, or
-something.
+Triggering.  He felt like he understood what Elkie had done, the seduction of
+that rooftop.  He told himself that it was important not to use this event as an
+excuse for a stupid existential crisis or something.
 
 He terminated his session, and went to the micro-kitchen for a smoothie.  It was
 cooler there.
@@ -196,16 +205,17 @@ family.
 
 Chris went back to his computer.
 
-He ssh'd into a virtual machine.  The machine was left over from the previous
-summer, when Chris had accidentally discovered a way to view the chat history of
-any user.  He was pretty sure it didn't leave any sort of audit log, but even if
-it did, Chris would probably be okay.
+He ssh'd into a virtual machine.  The machine was left over from Chris's
+internship the previous summer, when he had accidentally discovered a way to
+view the chat history of any user.  He was pretty sure it didn't leave any sort
+of audit log.  He was feeling self-destructive anyways.
+
+<!-- audit above -->
 
 He ran a script to hydrate Elkie's messages from the search index, and opened it
 in a buffer.
 
-Chris skimmed through messages sent to Elkie that morning, when the story had
-dropped.  They were emotional.
+Chris skimmed through messages sent to Elkie that morning.  They were emotional.
 
 He slowed down to read messages from earlier that month: Elkie messaging a tech
 guy saying "I don't really know you, but is it okay if we talk?  Feeling low,"
@@ -214,9 +224,8 @@ that he was in Italy for a conference.  Elkie told him about her problems
 finding a new apartment. 
 
 Elkie hadn't seemed *that* fucked up, thought Chris.  The conversation about the
-anti-depressants: that was a pretty typical ice breaker, like talking about
-astrological signs or personality types.  The only thing that was weird was the
-Nazi thing.  
+anti-depressants: that was a pretty typical ice breaker.  The only thing that
+was weird was the Nazi thing.  
 
 Finish the job, thought Chris.
 
@@ -225,21 +234,21 @@ Finish the job, thought Chris.
 That evening, Chris met an old friend in front of her apartment in Brooklyn.  He
 was buying some Ritalin from her, to use that weekend at Whole Foods.  
 
-"How are you?" Justine asked, after placing the pills in Chris's hand.
+"How are you?" Justine asked, after placing the small pills in Chris's hand.
 
 "Uh, kind of weird," said Chris.
 
 "Why, what's up?"
 
-Justine sat down on her stoop, looking up at Chris quizzically.
+Justine sat down on her stoop, looking up at Chris.
 
 "Someone I know killed themselves by jumping off a roof," said Chris, still
 standing.
 
 "At a fancy party?  I think I saw this."
 
-Earlier, Chris had noticed that the papers were going with the Hasidic angle,
-not the tech angle.
+Earlier, Chris had noticed that the papers were talking about the Hasidic aspect
+of the story, not the tech aspect.
 
 "Yeah, you probably did.  I met her at a programming thing."
 
@@ -247,7 +256,7 @@ not the tech angle.
 
 Chris felt a stab of affection for his well-dressed friend, who had once told
 him that they would one day rekindle their romantic relationship in a different
-city, maybe Hong Kong, when they were older.
+city, like Hong Kong, when they were older.
 
 "Yeah.  I didn't know her that well, it's just...distracting." 
 
@@ -262,37 +271,41 @@ Chris made a face.
 
 "I really hope that's not how it works," he said.  "That's fucking bleak."
 
-"Yeah, but the whole 'body positivity,' thing is such bullshit, right?" said
-Justine.  "Everyone is beautiful."
+"Yeah, but the whole 'body positivity' thing is such bullshit, right?" said
+Justine.  
 
 Chris didn't say anything.
 
-"I look at Korean Instagram models, I know I'm not beautiful," said Justine.  "I
-accept my body, I don't love it.  I'm not deluded."
+"Like 'everyone is beautiful'.  I look at Korean Instagram models, I know I'm
+not 'beautiful'," continued Justine.  "I accept my body, I don't love it.  I'm
+not deluded."
 
-Chris was surprised to hear Justine saying these things.
+Chris was surprised to hear Justine talking like this.
 
 "I mean, isn't beauty a pretty arbitrary thing?" he said.
 
 "I guess, but so what?"
 
-Chris was starting to feel very far way from things.  He recognized in Justine
-something he was starting to see in a lot of his peers: a rapid onset of
-entropy, a cascade of shit getting real, an unravelling of the fantasy world of
-youth.  Chris was an adult, he realized.  He was making $120,000 a year, and he
-still felt like a loser half the time.  How did Elkie feel?  Her app development
-'company': brutal. 
+<!-- check -->
+
+Chris was starting to recognize in Justine something he was seeing in some of
+his peers: a rapid onset of entropy, a cascade of shit getting real, an
+unravelling of the fantasy world of youth.  Chris was an adult, he realized.  He
+was making $120,000 a year, and he still felt like a loser half the time.  How
+did Elkie feel?  Her app development 'company': brutal. 
+
+<!-- end check -->
 
 "I don't know that I agree with you," said Chris. "I would rather people be
 happy.  It's all in our heads anyways."
 
-"I mean," he said, "I'm a computer person. I want to fix things."
+"I mean," he said, "I'm a computer person, I want to fix things."
 
 Justine laughed.  "Good fucking luck," she said. 
 
-After they finished talking, Chris decided to walk home.  Even though it was
-dark, he quickly began to sweat.
+After Justine went back inside, Chris decided to walk home.  It was dark, but he
+quickly began to sweat.  
 
-Chris stopped at a nice bar and drank two draft beers, thinking.  The bar had a
+He stopped at a nice bar and drank two draft beers, thinking.  The bar had a
 sense of weight.  As Chris waited to close out his tab, a woman who looked kind
 of like Kirsten Dunst said 'hi', and asked him how he was doing.
