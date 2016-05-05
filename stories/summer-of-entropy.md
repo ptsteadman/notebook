@@ -269,7 +269,7 @@ Chris was surprised to hear Justine talking like this.
 
 For the first time, Chris recognized in Justine a certain flatness, a flatness
 that he was starting to see in a lot of his peers.  It was a rapid onset of
-entropy, an unravelling of the fantasy world of youth.  Shit was getting real.
+entropy, an unravelling of the fantasy world of youth.  Shit getting real.
 Chris was making $120,000 a year, and he still felt like a loser half the time.
 How did Elkie feel?  Her app development 'company': brutal.  
 
