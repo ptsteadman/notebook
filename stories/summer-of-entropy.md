@@ -15,21 +15,17 @@ sometimes happens, they were talking about psychiatric drugs.
 "Lexapro was like that for me, I think, it helped me be social," said Chris.
 
 The dogs came around again, and Chris stuck out his hand.  The dachshund stopped
-to give it a lick.
+to give it a lick.  
 
-<!-- concentrate: lags here -->
+"I raised a dog like this on Lexapro, actually," said Chris.
 
-"I raised a dog like this once, when I was on Lexapro," said Chris. 
+"Lexapro has weird side effects," she said.
 
-"I tried Lexapro, it had weird side effects."
-
-"Really?  If anything the side effects were good, for me."
+"If anything the side effects were good, for me."
 
 "Yeah?" she said.  "Like sexual stuff?"
 
 "Yeah."
-
-<!-- end lag -->
 
 Chris took another look at the woman.  She was wearing an eggshell blue blouse,
 sitting carefully on the edge of the damp bench.
@@ -44,26 +40,21 @@ way.  I would just have like, super orgasms," said Chris.
 The woman introduced herself as Elkie.  Chris confirmed the spelling with her,
 E-L-K-I-E, and went to get another beer.
 
-<!-- easily compressible -->
-
 When he returned, someone was in his place, talking to Elkie about iOS
-development. 
+development.
 
 "I'll show you my app," Elkie said.  "I really need feedback on my app."
 
-"Of course," the guy said.  He looked fresh from work, holding a draft beer in
-the evening sunlight.
+"Of course," the guy said.  He looked fresh from work.
 
 Elkie turned to Chris, concern in her eyes.
 
 "If I show you my app, you have to promise not to steal the idea.  I've been
 working super hard on it." 
 
-For fifteen minutes, Chris half-heartedly participated in an earnest, clumsy
-discussion of Swift's type system, before finally suggesting that they go inside
-for another drink.
-
-<!-- end easily compressible -->
+Fuck, thought Chris.  For fifteen minutes, he half-heartedly participated in an
+earnest, clumsy discussion of Swift's type system, before finally suggesting
+that they go inside for another drink.
 
 The air inside the bar was cave-like and sweet.  Chris and Elkie waited for the
 bartender's attention.
@@ -151,19 +142,16 @@ women*.  "I don't get it."
 "They get fucked in the ass," said Elkie.  "That grosses me out, I couldn't date
 a man like that.  It's just my preference."
 
-<!-- improve immediacy -->
-
 After listening to the banter for a few minutes, Chris scooted over to talk with
-Stephan, a talented .NET developer Chris had met the previous month.
+Stephan, a talented .NET developer Chris had met at last month's meetup.
 
 He watched Elkie out of the corner of his eye.  She was talking to a new guy, a
-guy wearing a summer suit.  She was flirting with him, too.  
+really normal looking guy wearing a suit.  She was flirting with him, too.  
 
-If she knew where I worked, thought Chris.  Elkie was talking about her app
-again, and the guy in the summer suit was eating it up.  Chris decided that he'd
-leave at eleven PM, if nothing changed.
+If she knew where I worked, thought Chris.  He decided that he'd leave at eleven
+PM, if nothing changed.
 
-<!-- end improve -->
+Elkie was talking about her app again.  The guy was eating it up. 
 
 At eleven, Chris stood up from the booth.  *Stupid*, he thought, grabbing his
 unnecessary Patagonia jacket, and *typical*.  He said goodbye to Stephan, and
@@ -171,11 +159,11 @@ walked home.
 
 <hr>
 
-Chris worked at Facebook.  It was his first job after graduation, and he was
-arriving at the office later and later each morning.  After he sat down at his
-desk, he typically procrastinated for a few hours by reading his newsfeed, until
-he couldn't stand it anymore.  He was angry at all the little bits of content
-stealing his time, his summer. 
+Chris worked at Facebook.  It was his fifth week, and he was starting to arrive
+at the office later and later each morning, just like last summer.  After he sat
+down at his desk, he typically procrastinated for a few hours by reading his
+newsfeed, until he couldn't stand it anymore.  He was angry at all the little
+bits of content stealing his time, his spirit. 
 
 "A Woman Jumped to Her Death From a Rooftop Bar, and People Kept Partying,"
 Chris read.  One of his coworkers had shared the article, saying something about
@@ -191,7 +179,7 @@ Fuck.
 Chris went to send the article to a close friend, but decided against it.
 Triggering.  He felt like he understood what Elkie had done, the seduction of
 that rooftop.  He told himself that it was important not to use this event as an
-excuse for a stupid existential crisis or something.
+excuse for a stupid existential crisis.
 
 He terminated his session, and went to the micro-kitchen for a smoothie.  It was
 cooler there.
@@ -205,12 +193,10 @@ family.
 
 Chris went back to his computer.
 
-He ssh'd into a virtual machine.  The machine was left over from Chris's
-internship the previous summer, when he had accidentally discovered a way to
-view the chat history of any user.  He was pretty sure it didn't leave any sort
-of audit log.  He was feeling self-destructive anyways.
-
-<!-- audit above -->
+He ssh'd into a virtual machine.  The machine was left over from his internship
+last summer, when he had accidentally discovered a way to view the chat history
+of any user.  He was pretty sure it didn't leave any sort of audit log.  He was
+feeling self-destructive anyways.
 
 He ran a script to hydrate Elkie's messages from the search index, and opened it
 in a buffer.
@@ -286,15 +272,13 @@ Chris was surprised to hear Justine talking like this.
 
 "I guess, but so what?"
 
-<!-- check -->
+Nothing was temporary, everything counted. 
 
-Chris was starting to recognize in Justine something he was seeing in some of
-his peers: a rapid onset of entropy, a cascade of shit getting real, an
-unravelling of the fantasy world of youth.  Chris was an adult, he realized.  He
-was making $120,000 a year, and he still felt like a loser half the time.  How
-did Elkie feel?  Her app development 'company': brutal. 
-
-<!-- end check -->
+Chris felt in Justine the thing he was starting to see in a lot of his peers: a
+rapid onset of entropy, a cascade of shit getting real, an unravelling of the
+fantasy world of youth.  Chris was an adult, he realized.  He was making
+$120,000 a year, and he still felt like a loser half the time.  How did Elkie
+feel?  Her app development 'company': brutal.  
 
 "I don't know that I agree with you," said Chris. "I would rather people be
 happy.  It's all in our heads anyways."
