@@ -404,36 +404,42 @@ I realized that I didn't want to fuck anyone :thinking_face:
 
 my life is so crazy
 
-Here's a memory that seems so surreal that I feel like I made it up:  
+
+###  When I Was a Child, I Wanted to be a Consultant
+
+Here's a memory so surreal that I feel like I made it up:  
 
 When I was an exchange student in Taipei, an American friend and I went to a
 quiet place he'd found on the Danshui river with public KTV machines and
 barbecue pits.  We were both very serious about learning Mandarin, and both
 believed that singing karaoke and visiting temples was a good way to do this.
-The riverbank was complicated by a network of cement levees and flood plains,
-with the karaoke pavillions hidden under willow trees.  It took us a while to
-find a place that seemed inviting.  
+The karaoke pavilions were hidden under willow trees on the riverbank.  The
+riverbank was broken up by a network of cement levees and flood plains, and it
+took us a while to find a place that seemed inviting.  
 
-We stood outside the pavillion watching older people sing in Taiwanese for a
-while, before venturing in and attempting to buy some snacks.
+We stood outside the pavilion listening to older people sing, before we finally
+ventured in and attempted to buy some snacks.
 
-My friend patiently asked for the laminated songbook, and spent a while
-receiving assistance in finding a song he knew.   I sang after him, singing a
-Teresa Teng song.  I felt that I was the better singer.  The 5-10 people
-lounging around the pavillion clapped politely.
+My patient friend asked for the laminated songbook, and a woman helped him find
+a song he knew.   I sang after him, singing a Teresa Teng song.  I felt like I
+was the better singer. 
 
-After, we wandered around, talking at length.  I think, for the last time in my
-life, I discussed with someone the question of "what do you want to be when you
-grow up?"  I told my friend that I wanted to "have an office where I waited for
-people to come in with problems, and then I would solve them."  He told me that
-was weird dream, and that he wouldn't like that type of job.  
+After, we wandered around, talking at length.  For the last time in my life,  I
+discussed with someone the question of "what do you want to be when you grow
+up?"  I told my friend that I wanted to "have an office where I waited for
+people to come in with problems, and then I would solve them."  
+
+My friend told me that my life dream was weird, and that he wouldn't want a job
+like that.
 
 Another surreal memory is a place in the Yamingshan mountains with an indoor
 swimming pool full of giant shrimp.  The proprietor gave each member of my host
-family a small fishing rod, and we sat down at the edge of the pool.   My host
-mother brought me a carbonated, bitter orange drink.  After putting the lure in
-the water, it usually only took a few minutes to catch a shrimp.  A little boy
-was present, and he laughed excitedly when he saw the shrimp.  They were about
+family a small fishing rod, and we sat at the edge of the pool.   My host mother
+brought me a carbonated bitter orange drink.  After putting the lure in the
+water, it generally only took a few minutes to catch a shrimp.  A little boy was
+with us, and he laughed excitedly when the shrimp were caught.  They were about
 the size of my hands.  The shrimp were then covered in chunks of salt and put
 through one of the metal conveyor belt toasters you typically see at a hotel
 breakfast.  It was really delicious.
+
+(The above added to the Computer Lab blog?)
