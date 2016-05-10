@@ -1,4 +1,6 @@
 ### Done
+- ~~Write and publish 'Summer of Entropy' story.~~
+- ~~Blog section for computerlab.io.~~
 - ~~Write and publish 'Semantic Versioning For Natural Language and Artistic Works'.~~
 - ~~Write and deliver 'Millennial Deep State' presentation.~~
 - ~~Cornell Novel.~~
