@@ -9,9 +9,7 @@
     (sum-square a b)
     (sum-squares-of-larger b c a)))
 
-; 1.7
-
-(define (good-enough? guess x)
+; 1.7 (define (good-enough? guess x)
   (< (abs (- guess x)) .001))
 
 (define (cube-root x guess)
@@ -35,7 +33,6 @@
     (f-iter b c (+ c (* 2 b) (* 3 a)) (- n 1))))
 
 ; 1.12
-
 (define (pascal row col) 
   (cond ((= col 0) 1)
         ((= col row) 1)
@@ -53,7 +50,15 @@
 
 (define (expt-iter b n a)
   (cond ((= n 0) a)
-        ((even n) (expt-iter b (- n 1) (* b a)))
-        (else (
+        ((= 0 (modulo n 2)) (expt-iter (* b b) (/ n 2) a))
+        (else (expt-iter b (- n 1) (* b a)))))
+
+(= (expt-iter 2 2 1) 4)
+(= (expt-iter 2 0 1) 1)
+(= (expt-iter 3 2 1) 9)
+(= (expt-iter 3 3 1) 27)
+(= (expt-iter 9 2 1) 81)
+(= (expt-iter 2 8 1) 256)
 
   
+; 1.17
