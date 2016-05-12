@@ -16,9 +16,9 @@ this room for at least a year.
 
 The next day was warm and summery.  Feyerabend decided to go to a nearby outdoor
 swimming park.  She was supposed to spend her first week in Warsaw 'getting
-situated', not working.  An email from Addison Chen had insisted that she should
-try to relax.  Feyerabend sat on a towel in the bristly green grass, reading a
-novel from the airport.
+situated', not working.  An email from Addison Chen had insisted on this.
+Feyerabend sat on a towel in the bristly green grass, reading a novel from the
+airport.
 
 The afternoon passed quickly.  She watched families grilling and jumping in the
 pool, and thought ahead to meeting people at the lab on Monday.  It would

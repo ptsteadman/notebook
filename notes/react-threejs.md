@@ -1,10 +1,9 @@
-# Webpack, React and Three.js Notes
+# Webpack and React  Notes
 
 `react-three-renderer` is a much better library, mostly because of the excellent
 examples.
 
 ### Webpack General
-
 
 Webpack doesn't throw an error when you don't have a loader installed?
 
@@ -12,7 +11,6 @@ Webpack doesn't throw an error when you don't have a loader installed?
 
 The index.html document can be loaded using `require('file?name=[name].[ext]!../index.html');`,
 and will be served at `/`, (based on the name=) query, and thus served by webpack dev server here.
-
 
 ### Loading Fonts/Images/Etc With Webpack 
 
@@ -30,3 +28,5 @@ loaders: [
 ```
 
 What's going on here: 
+
+### Webpack and Django
