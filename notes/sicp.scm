@@ -62,3 +62,12 @@
 
   
 ; 1.17
+
+(define (halve a) (/ a 2))
+(define (double a) (+ a a))
+
+(define (* a b)
+  (cond ((= b 0) 0) 
+        ((= (modulo b 2) 0) (double (* a (halve b))))
+    (else (+ a (* a (- b 1))))))
+
