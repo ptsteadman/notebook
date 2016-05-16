@@ -67,7 +67,17 @@
 (define (double a) (+ a a))
 
 (define (* a b)
-  (cond ((= b 0) 0) 
-        ((= (modulo b 2) 0) (double (* a (halve b))))
+  (cond 
+    ((= b 0) 0) 
+    ((= (modulo b 2) 0) (double (* a (halve b))))
     (else (+ a (* a (- b 1))))))
+
+(define (* a b c)
+  (cond
+    ((= b 0) 0)
+    ((= b 1) a)
+    ((= (modulo b 2) 0) (* (double a) (halve b) c))
+    (else (* (+ a a) (- b 1)))
+  )
+)
 
