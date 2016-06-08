@@ -23,4 +23,5 @@ estate wealth"
 A big assumption right now is that if you play a bit fast, a bit loose, things
 will work out in the end
 
-
+we're a digital consultancy focused on serving the needs of clients in the Big
+Nepotism industry
