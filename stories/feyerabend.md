@@ -9,7 +9,7 @@ trees.  The driver showed Feyerabend around her new apartment, struggling to
 explain obvious things about the fixtures.
 
 Once Feyerabend was alone, she brought her bag into the largest bedroom.  She
-felt like she was on an exciting vacation, even though she would be sleeping in
+felt like she was on an exciting vacation, even though she would be living in
 this room for at least a year.
 
 <hr>
@@ -22,43 +22,48 @@ airport.
 
 The afternoon passed quickly.  She watched families grilling and jumping in the
 pool, and thought ahead to meeting people at the lab on Monday.  It would
-probably be okay: Feyerabend was used to meeting colleagues from the Internet,
-and they would know her work.  In Feyerabend's experience, most people were not
-surprised that she was trans: they could tell from the picture on her website.
+probably be okay: Feyerabend was used to meeting colleagues from the Internet.
+In Feyerabend's experience, most people were not surprised that she was trans:
+they could tell from the picture on her website.  There would be a lot to talk
+about.
 
 <hr>
 
 Feyerabend made an effort to explore her new city, knowing that she'd quickly
-get into a routine after the first week.  Warsaw was pastel and grey, sunny but
-cool.  Feyerabend felt like she was in high school, on summer vacation.  
+get into a routine when she started work.  
 
-Feyerabend was used to being almost perfectly focused, trying to learn
-everything she could about formal grammar.  That had meant ten years at a number
-of different universities.  When her classmates went out to jobs, they always
+<!-- needs work -->
+
+Feyerabend felt like she was in high school, on summer vacation.  She was used
+to being almost perfectly focused, trying to learn everything she could about
+formal grammar, her chosen passion.  She had spent ten years of her life in
+universities, focused.  When her classmates went out to jobs, they had always
 treated her with a bit of pity, asking questions like "what type of applications
-do you see for your work?"  But deep down, Feyerabend knew that most of her
-classmates were wasting their time.
+do you see for your work?"  But Feyerabend knew that seeking real understanding
+and knowledge was her job in life.
 
 When Feyerabend finally left academia and got a job, she put most of her effort
-into independent research and correspondence.  Just a few weeks after starting
-work at a machine learning company, she recieved an email from Addision Chen,
-inviting her to work on direct semantic IO in Warsaw.  It was the happiest
-moment of Feyerabend's life.  She sent a letter of resignation minutes later.
+into independent research and correspondence.  She got involved with the direct
+semantic IO project, submitting the more RFCs than anyone else.  
+
+Just a few weeks after starting work at a machine learning company, she recieved
+an email from Addision Chen, inviting her to work on direct semantic IO in
+Warsaw.  It was the happiest moment of Feyerabend's life.  She sent a letter of
+resignation minutes later.
 
 It was a validation of her serious way of life, her dry, unsparing focus.  She
 knew that the semantic IO project was important, and that she had made valuable
-contributions.  And now she was taking a irrevocable step forward.  In low
-moments, she would know that she had done something for the world.
+contributions.  And now she was taking a irrevocable step forward.  She had done
+something for the world, and no one could take that fact away from her.
 
 <hr>
 
 Feyerabend's driver was waiting outside of her apartment on Monday morning.  She
-fell asleep in the car, startling awake on arrival. 
+fell asleep in the car, startling on arrival. 
 
 Feyerabend was shown to her new office, a room at the end of a drab hallway in a
-building enclosed by a glass atrium.  There was a bookshelf, a coffee table, and
-a set of excellent digital windows.  Feyerabend spent a few minutes organizing
-her things.
+glass atrium.  There was a bookshelf, a coffee table, and a set of excellent
+digital windows.  Feyerabend spent a few minutes organizing her things.
 
 Someone pushed open the door, and stuck in their head.
 
@@ -67,11 +72,10 @@ Someone pushed open the door, and stuck in their head.
 "Hello," said Feyerabend, standing up.  
 
 The person introduced himself as a fellow researcher, and suggested that they go
-to a conference room.
+find a conference room.
 
-The researcher said that he mostly worked on the project's hardware.  That said,
-he mentioned that he had read Feyerabend's proposals, and thought they were very
-well-considered. 
+The researcher said that he mostly worked on the project's hardware, but that he
+had read Feyerabend's proposals, and thought they were very well-considered. 
 
 "Thanks," said Feyerabend.  
 
@@ -119,17 +123,12 @@ room, saying "hello!" loudly to announce herself.
 in person, finally."  
 
 Feyerabend dimly recognized that Addison was attractive, something she had not
-expected.  She was surprised at how starstruck she felt.  Feyerabend regularly
-took chemical sterilization medication, drugs that she had initially purchased
-from the darknet, but now had a prescription for.
+expected.  She was surprised at how starstruck she felt.  
 
-It was quickly obvious why Addison was given so much latitude by the operating
-committee of the  direct semantic IO organization.  She quickly outlined a plan
-for the next few weeks, a plan that would onboard Feyerabend.  Feyerabend was
-reminded of a busy but sociable dentist: she had the almost over-the-top
-enthusiasm necessary to effectively herd a distributed team of neuroscientists,
-electrical engineers, and programmers.
-
+Addision quickly outlined a plan for the next few weeks, a plan that would
+onboard Feyerabend, and get her working effectively with the CBI.  Feyerabend
+was reminded of a busy but sociable dentist 
+ 
 <hr>
 
 That evening, Feyerabend treated herself to a celebratory meal at a restaurant
@@ -174,21 +173,19 @@ terms of novelty, was when she had experienced her first orgasm around the age
 of thirteen.  But this was a much quieter, more precise feeling, without
 pleasure or *anything*, really.  
 
-"Wow," said Feyerabend.  "Got it."
-
-"Okay," said Addison.
-
 "Okay, okay, let's call that one '0', just for fun," said Addision.  "Here comes
 '1'."
 
 Feyerabend felt an entirely different quiet little thing.
+
+"Wow," said Feyerabend.  "Got it."
 
 "And '0' again."
 
 "Got it," said Feyerabend.  There was no question of confusing the two qualia.
 
 Addison slowly transmitted a binary sequence of qualia encoding the ASCII
-characters 'HI'. 
+characters for 'HI'. 
 
 Feyerabend laughed gleefully.
 
@@ -196,13 +193,14 @@ Feyerabend laughed gleefully.
 
 According to the French researcher, the focused ultrasound effector was capable
 of producing at least a million different qualia, consistently, thousands of
-times a second.  Experiments had shown that qualia could be interpreted
-semantically, thanks to human cortical plasticity.
+times a second.  
 
-At lunch in the cafeteria, Addison explained the obvious: it was Feyerabend's
-job to develop a useful set of symbol groundings for the qualia, so that they
-could be used as a language, a direct semantic communication channel between the
-computer and brain. 
+At lunch in the cafeteria, Addison explained that Feyerabend had the authority
+to develop a useful set of symbol groundings for the qualia, so that they could
+be used as a language, a direct semantic communication channel between the
+computer and brain.  Feyerabend had proposed a number of different hypothetical
+languages of this type on the Internet, langauges not limited by human sight or
+hearing, languages of pure meaning.
 
 "I'd love to tell you that this will just be a prototype, but my feeling is that
 whatever you develop, it will be widely adopted.  I think you should try to
@@ -224,10 +222,11 @@ using qualia.  After spending a few hours in the MRI tube with the training
 program, the other researchers could rapidly recieve a concise, up-to-date
 outline of Feyerabend's language, in the form of a stream of qualia.
 
+It worked.
+
 Feyerabend limited herself to nine hour workdays.  She spent most of her time
 inside of the MRI machine, thinking, and vocally telling the computer to store
-her ideas as qualia codepoints.  She didn't feel lonely, because she was working
-with people that she respected.
+her ideas as qualia codepoints.  
 
 <hr>
 

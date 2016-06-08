@@ -1,4 +1,4 @@
-# Webpack and React  Notes
+# Webpack and React Notes
 
 `react-three-renderer` is a much better library, mostly because of the excellent
 examples.

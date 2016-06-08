@@ -10,3 +10,8 @@
 - `pip install -r requirements.txt` installs the dependencies
 
 ## Django Stuff
+
+## Random
+
+- no case statement
+- snake_case for variables and functions
