@@ -9,3 +9,4 @@
 - ~~Personal website.~~
 - ~~Hexo theme~~
 - ~~Millennial BSO~~
+- ~~MR_BOTS v2 on PaaS, simplified.~~

@@ -11,6 +11,8 @@
 
 ## Django Stuff
 
+- Django Rest Framework's default token-based auth has a lot of problems!
+
 ## Random
 
 - no case statement
