@@ -115,6 +115,10 @@ git config --global credential.helper 'cache --timeout 7200'
     curl -sSL https://get.rvm.io | bash -s stable
     rvm install ruby --latest
 
+## Python
+
+1. Use virtualenv and requirements.txt
+
 ## Development Praxis
 
 1. In the morning, drink water before checking phone

@@ -7,6 +7,7 @@ Cause of problem: ansible doesn't work with Python3, and anaconda was overriding
 Fix: remove the ansible PATH thing pointing at Python3.5
 
 ### The equivalent of npm install:
+
 - `virtualenv .venv` creates the `.venv` directory, which stores
   the python bin and the modules you install with pip
 - `. .venv/bin/activate` activates the virtualenv: now pip, python etc will
@@ -15,10 +16,16 @@ Fix: remove the ansible PATH thing pointing at Python3.5
 
 ## Django Stuff
 
+Token Based Auth:
+
 - Django Rest Framework's default token-based auth has a lot of problems!
 
 Unique constraint across fields:
     unique_together = ('field1', 'field2')
+
+django-oauth-toolkit is best.  Your front end application becomes an
+`application` in the same way you set up a Twitter 'app' or a Facebook 'app',
+via Oauth.  Pretty elegant.
 
 ## Random
 
