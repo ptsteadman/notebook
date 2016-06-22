@@ -9,3 +9,5 @@ _502 Bad Gateway_: implication is that there's an error with the configuration o
 Create another bucket `www.bucketname.com` that redirects to the top level
 bucket `bucketname.com`, and make a subdomain for that bucket.
 
+#### Generate a static key
+
