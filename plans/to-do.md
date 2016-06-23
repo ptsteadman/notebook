@@ -1,5 +1,4 @@
 ### To Do
-- Write and publish 'What I Learned From Live Tweeting ...' blog post.
 - Case study section for computerlab.io.
 - Make and publish Rehab Bootcamp Landing Page.
 - Write and publish 'Bush Did Map Reduce' piece.

@@ -1,4 +1,5 @@
 ### Done
+- ~~Write and publish 'What I Learned From Live Tweeting ...' blog post.~~
 - ~~Write and publish 'Summer of Entropy' story.~~
 - ~~Blog section for computerlab.io.~~
 - ~~Write and publish 'Semantic Versioning For Natural Language and Artistic Works'.~~
