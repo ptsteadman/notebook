@@ -1,8 +1,8 @@
 ### To Do
+- Write and publish 'The Dog Story'.
 - Case study section for computerlab.io.
 - Make and publish Rehab Bootcamp Landing Page.
 - Write and publish 'Bush Did Map Reduce' piece.
-- Write and publish 'The Perfect Story'.
 - Write and publish 'Are You An Advanced Basic?' piece.
 - Write and publish 'Quora Religion' piece.
 - Write and publish 'Feyerabend' story.
