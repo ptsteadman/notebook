@@ -1,4 +1,4 @@
-# Webpack and React Notes
+# Webpack Notes
 
 `react-three-renderer` is a much better library, mostly because of the excellent
 examples.
@@ -26,7 +26,3 @@ loaders: [
 ]
 
 ```
-
-What's going on here: 
-
-### Webpack and Django

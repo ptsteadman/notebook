@@ -2,9 +2,9 @@
 
 ## Dependency Management
 
-Problem: ansible wouldn't work because NameError 'basestring'...why?
-Cause of problem: ansible doesn't work with Python3, and anaconda was overriding PATH, even in virtualenv
-Fix: remove the ansible PATH thing pointing at Python3.5
+Problem: ansible wouldn't work because NameError 'basestring'...why?  Cause of
+problem: ansible doesn't work with Python3, and anaconda was overriding PATH,
+even in virtualenv Fix: remove the ansible PATH thing pointing at Python3.5
 
 ### The equivalent of npm install:
 
@@ -31,3 +31,6 @@ via Oauth.  Pretty elegant.
 
 - no case statement
 - snake_case for variables and functions
+- tuples are immutable (makes sense), represent structure
+- get index of tuple element: tup.index('hello')
+
