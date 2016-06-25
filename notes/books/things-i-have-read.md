@@ -11,4 +11,6 @@
 - "Tropic of Cancer" by Henry Miller
 - "CSS Secrets" by Lea Verou
 - "mumble stories" by Marianna Hagler
-
+- "The Glass Bead Game" by Hermann Hesse
+- "Seveneves" by Neal Stephenson
+- "Gone Girl" by Gillian Flynn
