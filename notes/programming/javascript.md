@@ -1,0 +1,80 @@
+# JavaScript Notes
+
+### Functions
+
+Anonymous closures `(function(){}())` require the outer parentheses because
+without the parentheses it is evaluated as a FunctionDeclaration rather than a
+FunctionExpression, and anonymous FunctionDeclarations are not allowed. 
+
+### Modules
+
+#### Non-Native Solutions
+
+Problems solved over just loading modules into global scope: ordering of module
+loading, namespace collisions, versioning, making dependcies explicit.
+
+__What is CommonJS?__  It's a 'volunteer working group that designs and
+implements JavaScript APIs for declaring modules.
+
+"A CommonJS module is essentially a reusable piece of JavaScript which exports
+specific objects, making them available for other modules to require in their
+programs. If you’ve programmed in Node.js, you’ll be very familiar with this
+format.
+
+With CommonJS, each JavaScript file stores modules in its own unique module
+context (just like wrapping it in a closure). In this scope, we use the
+module.exports object to expose modules, and require to import them."
+
+[source](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.ti2j1lji9)
+
+__Problem with CommonJS:__ modules are loaded synchronously.  Bad for
+browser/web.
+
+__What is AMD?__ Async module loading.
+
+Looks like: `define(['modules'], function(modules){});`
+
+__What is UMD?__ Boilerplate that lets you mix CommonJS and AMD.
+
+#### Native ES6 Modules
+
+Native ES6 Modules let us avoid some of the problems of CommonJS and AMD (which
+aren't 'native' to the language), and work well with React because of the the
+implied Babel step necessary for JSX.
+
+Async, and supports read-only views of modules.  (Don't really understand the
+use of the latter.)
+
+Syntax:
+
+```
+// Default exports and named exports
+import theDefault, { named1, named2 } from 'src/mylib';
+import theDefault from 'src/mylib';
+import { named1, named2 } from 'src/mylib';
+
+// Renaming: import named1 as myNamed1
+import { named1 as myNamed1, named2 } from 'src/mylib';
+
+// Importing the module as an object
+// (with one property per named export)
+import * as mylib from 'src/mylib';
+
+// Only load the module, don’t import anything
+import 'src/mylib';
+
+
+export var myVar1 = ...;
+export let myVar2 = ...;
+export const MY_CONST = ...;
+
+export function myFunc() {
+    ...
+}
+export function* myGeneratorFunc() {
+    ...
+}
+export class MyClass {
+    ...
+}
+```
