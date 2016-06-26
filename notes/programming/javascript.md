@@ -77,4 +77,5 @@ export function* myGeneratorFunc() {
 export class MyClass {
     ...
 }
-```
+``
+
