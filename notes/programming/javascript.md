@@ -77,5 +77,87 @@ export function* myGeneratorFunc() {
 export class MyClass {
     ...
 }
-``
+```
+
+### This Keyword
+
+- Implicit Binding
+- Explicit Binding
+- new Binding
+- window Binding
+
+Where is the function invoked?
+
+#### Implicit Binding
+
+Left of the dot at call time.
+
+```
+var sayNameMixin = function(obj){
+  obj.sayName = function(){
+    console.log(this.name);
+  }
+}
+
+var me = {
+  name: "Patrick",
+}
+
+var you = {
+  name: "Bob",
+}
+
+sayNameMixin(me);
+sayNameMixin(you);
+
+me.sayName(); // Patrick
+you.sayname(); // Bob
+
+```
+
+#### Explicit Binding
+
+Using call, apply, bind.
+
+Call: pass context, and then arguments individuallly
+Apply: pass context, in arguments as an array
+Bind: returns a new function that we can call later
+
+```
+var sayName = function(lang1, lang2){
+  console.log('My name is ' + this.name);
+}
+
+var me = {
+  name: "Patrick",
+}
+
+sayName.call(me); // My name is Patrick
+```
+
+#### new Binding
+
+var Animal = function(color, name, type){
+  // this = {}
+  this.color = color;
+  this.name = name;
+  this.type = type;
+}
+
+#### window Binding
+
+By default, this will default to the `window` object.
+```
+var sayAge = function(){
+  console.log(this.age);
+}
+
+window.age = 10;
+sayAge(); // 25
+
+If `use strict` is used, it will just be undefined.
+```
+
+
+
 

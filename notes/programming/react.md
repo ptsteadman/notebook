@@ -18,3 +18,9 @@ __What's a 'Pure Function'?__
 - Don't modify state outside of their scope
 
 FIRST: Focused Independent Reusable Small Testable
+
+### Context
+
+Context allows you pass data down the hierarchy without using props.
+`contextTypes` allows you to require a certain context.
+
