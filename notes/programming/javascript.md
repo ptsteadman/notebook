@@ -79,6 +79,13 @@ export class MyClass {
 }
 ```
 
+__Braces__:
+
+Braces allow you to export multiple variables `export { foo, bar }`.
+They can then be imported using `import { foo, bar } from './foobar'`.
+
+`export default` lets you import like `import React from 'react'`.
+
 ### This Keyword
 
 - Implicit Binding
@@ -157,7 +164,3 @@ sayAge(); // 25
 
 If `use strict` is used, it will just be undefined.
 ```
-
-
-
-
