@@ -2,6 +2,7 @@
 - Write and publish 'The Dog Story'.
 - Case study section for computerlab.io.
 - Make and publish Rehab Bootcamp Landing Page.
+- `django-react-boilerplate`
 - Write and publish 'Bush Did Map Reduce' piece.
 - Write and publish 'Are You An Advanced Basic?' piece.
 - Write and publish 'Quora Religion' piece.
@@ -9,7 +10,6 @@
 - Finish SICP.
 - 'Pain Cave' vacuum/logging project.
 - 'Pain Cave' book outline/proposal.
-- Web interface for this repository.
 - Writer's toolkit.
 - A zen garden.
 - Define 'Virtual Realism'.

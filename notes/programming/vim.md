@@ -27,4 +27,8 @@
 `:r!` read in the contents of a command
 `:r` read in the contents of a file
 
+### Cool Patterns
+`f <space>` `r <enter>` to break on props
+then `f <space> .` to repeat
+
 

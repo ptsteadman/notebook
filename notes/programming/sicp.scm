@@ -81,3 +81,101 @@
   )
 )
 
+
+; 1.20
+; Euclid's Algorithm for finding GCD of two positive integers
+
+(define (gcd a b)
+  (if (= b 0)
+    a
+    (gcd b (remainder a b))))
+
+; Applicative order evalation, how many remainder operations are performed?
+
+(gcd 206 40)
+(if (= 40 0) 206 (gcd 40 (remainder 206 40))) 
+(gcd 40 (remainder 206 40)) ; remainder
+(gcd 40 6) 
+(if (= 6 0) 40 (gcd 6 (remainder 40 6))) 
+(gcd 6 (remainder 40 6)) ; remainder
+(gcd 6 4)
+(if (= 4 0) 6 (gcd 4 (remainder 6 4))) 
+(gcd 4 (remainder 6 4)) ; remainder
+(gcd 4 2)
+(if (= 2 0) 4 (gcd 2 (remainder 4 2))) 
+(gcd 2 (remainder 4 2)) ; remainder
+(gcd 2 0)
+(if (= 0 0) 2 (gcd 2 (remainder 2 0)))
+2
+
+; 4 remainder operations
+
+; Normal order evaluation
+(gcd 206 40)
+(if (= 40 0) 206 (gcd 40 (modulo 206 40))) 
+(gcd 40 (modulo 206 40))
+(if (= (modulo 206 40) 0) 40 (gcd (modulo 206 40) (modulo 40 (modulo 206 40))))
+(gcd (modulo 206 40) (modulo 40 (modulo 206 40)))
+
+(if (= 40 0) 206 (gcd 40 6)) 
+(if (= 40 0) 
+  206  
+  (if (= 6 0) 40 (gcd 6 (modulo 40 6)))) ; modulo
+(if (= 40 0) 
+  206  
+  (if (= 6 0) 40 (gcd 6 4)))
+(if (= 40 0) 
+  206  
+  (if (= 6 0) 
+    40 
+    (if (= 4 0)
+      6 
+      (gcd 4 (modulo 6 4))))) ; modulo
+(if (= 40 0) 
+  206  
+  (if (= 6 0) 
+    40 
+    (if (= 4 0)
+      6 
+      (gcd 4 2)))) 
+(if (= 40 0) 
+  206  
+  (if (= 6 0) 
+    40 
+    (if (= 4 0)
+      6 
+      (if (= 2 0)
+        4 
+        (gcd 2 (modulo 4 2)))))) ; modulo
+(if (= 40 0) 
+  206  
+  (if (= 6 0) 
+    40 
+    (if (= 4 0)
+      6 
+      (if (= 2 0)
+        4 
+        (gcd 2 0))))) 
+(if (= 40 0) 
+  206  
+  (if (= 6 0) 
+    40 
+    (if (= 4 0)
+      6 
+      (if (= 2 0)
+        4 
+        (if (= 0 0)
+          2 
+          (gcd 0 (modulo 2 0))))))) ; modulo
+(if (= 40 0) 
+  206  
+  (if (= 6 0) 
+    40 
+    (if (= 4 0)
+      6 
+      (if (= 2 0)
+        4 
+        (if (= 0 0)
+          2 
+          (gcd 0 (modulo 2 0))))))) ; modulo
+; can't take (modulo 2 0).  6 operations, last one failing

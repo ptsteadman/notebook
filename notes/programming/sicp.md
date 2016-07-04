@@ -25,6 +25,8 @@ Applicative vs. Normal Order Evaluation, with applicative order (evaluate
 arguments, and then apply operator), `test` never terminates.  With normal order
 evaluation, (fully expand), it evaluates to true.
 
+The interpreter actually uses applicative order.
+
 Applicative order:
 - left arg
 - right arg
