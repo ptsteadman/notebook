@@ -1,34 +1,59 @@
 # Vim Notes
 
 ### Movement/Selection
+
 `.` repeats the last command
+
 `*` executes a search on the current word
+
 `%` goes to the next brace or paren
+
 `>aB` indents the current block
+
 `viB` visually selects the current block
+
 `vi{` visually selects inside the brace or paren
+
 `vaw` deletes whitespace after word
+
 `gv` reselects the last visual thing
+
 `gi` go to last edited location
+
 `C` to change remaining text on line
+
 `dt` `dT` delete TO something
+
 `~` toggle case
+
 `<C-I>`, `<C-O>` rewind/forward past movements
+
+`gf` go to file under cursor
 
 
 ### Buffer / Split Commands
+
 `bd` buffer delete
+
 `ls` list buffers
+
 `sb` split all buffers
+
 `Sex` open Explore in split
 
+
 ### Other
+
 `<C-N>` autocomplete
+
 `:r!` read in the contents of a command
+
 `:r` read in the contents of a file
 
 ### Cool Patterns
+
 `f <space>` `r <enter>` to break on props
+
 then `f <space> .` to repeat
 
 
