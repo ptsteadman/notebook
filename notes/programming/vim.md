@@ -110,6 +110,32 @@ prevents various other info from being printed.  Enter the password you entered
 when encrypting, and the 'armored' PGP message will be replaced by your original
 plaintext!
 
+__Using Keys__
+
+If you don't want to keep typing passwords to encrypt/decrypt files, you can use
+your PGP key.
+
+This assumes that you've already generated a keypair.
+
+In order to avoid repeatedly specifying yourself as the recipient of the
+'message', set up yourself as the 'default recipient' by adding the following to
+`~/.gnupg/gpg/conf`:
+
+```
+default-recipient <yourkeyid>
+default-recipient-self
+```
+
+`<yourkeyid>` can be found with `gpg --list-keys`, it's the eight-character
+value after the `/` in the second column.
+
+Then, everything works the same, except that you encrypt the text
+using `!gpg -ae` instead of `!gpg -ca`.  Decryption will work automatically with
+`!gpg -qd`.
+
+Keep in mind that you now need to make sure that you don't lose the private key!
+
+
 __More__
 
 Ways to improve this:
@@ -118,6 +144,3 @@ Ways to improve this:
 - use the built-in vim blowfish encryption
 - automatically encrypt/decrypt all armored PGP blocks in a file with the same
   passphrase
-- use RSA private key for encryption/decryption (would eliminate typing
-  password)
-
