@@ -118,4 +118,6 @@ Ways to improve this:
 - use the built-in vim blowfish encryption
 - automatically encrypt/decrypt all armored PGP blocks in a file with the same
   passphrase
+- use RSA private key for encryption/decryption (would eliminate typing
+  password)
 
