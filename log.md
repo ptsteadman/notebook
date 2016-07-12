@@ -1,0 +1,21 @@
+# Log
+
+### Monday, July 11th 2016
+
+Yesterday I figured out how to encrypt blocks in vim, so this is my new
+notebook.
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+jA0EBwMCyWPEfV70t91g0kwBD0FKY7aP9C8MP4LdvO2S6pzsQMLRmGUSk/BSpidT
+e+fdWq0kf77du6B4Czzdv5l4iULwpTGAHzkLwbN2u2mOX9f+4oUXHevYluWQ
+=CKnj
+-----END PGP MESSAGE-----
+
+Today I haven't done much.  I took client calls and went to the bank to deposit
+the Nectar M1 check.  I think in my head that was enough.
+
+Tomorrow I'm hoping to code outside and do some writing about that.
+
+Not a productive day.
