@@ -19,3 +19,10 @@ the Nectar M1 check.  I think in my head that was enough.
 Tomorrow I'm hoping to code outside and do some writing about that.
 
 Not a productive day.
+
+### Tuesday, July 12th 2016
+
+Already well into July.  Having trouble / feeling unwilling to work on Montage
+client work.  The 'developer experience' on that project is not as good.
+Hopefully I can get three hours in and move things along.  I really want to do
+32 hours this week to get ready for next week.
