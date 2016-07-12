@@ -44,3 +44,6 @@ Bootstrap classes for this, and aligning text to the center
 For 'blue outline', use `input:focus { outline: 0 !important }`.  Don't do it to
 all elements like buttons, it causes an accessability issue.
 
+#### Problem: Centering inline-block Elements
+
+Set `text-align: center;` on the parent.

@@ -41,6 +41,8 @@
 
 `Sex` open Explore in split
 
+`<C-w> q` close split
+
 
 ### Other
 
