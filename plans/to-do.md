@@ -1,6 +1,7 @@
 ### To Do
 - Write and publish 'The Dog Story'.
 - Case study section for computerlab.io.
+- Write and publish 'How To Write Code Outside'.
 - Make and publish Rehab Bootcamp Landing Page.
 - `django-react-boilerplate`
 - Write and publish 'Bush Did Map Reduce' piece.
