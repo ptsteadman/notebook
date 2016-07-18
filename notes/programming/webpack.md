@@ -12,6 +12,8 @@ Webpack doesn't throw an error when you don't have a loader installed?
 The index.html document can be loaded using `require('file?name=[name].[ext]!../index.html');`,
 and will be served at `/`, (based on the name=) query, and thus served by webpack dev server here.
 
+Passing the `-d` flag provides source maps.
+
 ### Loading Fonts/Images/Etc With Webpack 
 
 The assets must first be loaded in the webpack config.  This looks like:

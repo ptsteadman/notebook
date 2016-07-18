@@ -48,7 +48,7 @@ Development environment setup links.
 
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
-- Add the following `.vimrc`, and then run `:PluginInstall` in vim.
+- Add the  .vimrc to `~/` and then run `:PluginInstall` in vim.
 
 ```
 filetype off    " Required
