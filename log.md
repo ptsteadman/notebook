@@ -62,3 +62,16 @@ EpwtYbB3xqPy5G6pGyPnVVGFbhee8lHyMtGg73z5BKiYVafHUpGt9H5usNsts4v9
 Need to make presentation for the ReactCamp thing.  Wish the event was better
 organized, seems fishy.  Not exactly sure what should be prioritized today in
 terms of client work.
+
+### Monday, July 18th 2016
+
+First day at iHM went well.  Feel satisfied with their technical level and the
+coherence of the team.  Both Zachary and I seem a bit ill-adjusted to working in
+an office for eight hours straight: found myself 'looking at the clock',
+figuratively.
+
+Looking forward to lunch meeting w/ other consultancies, very exciting and
+useful.  I draw a lot of energy from people like that.  
+
+Bought two nice shirts from opening ceremony.  At bar now (not a bar I like very
+much), hopefully will get some work done on Montage.
