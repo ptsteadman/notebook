@@ -10,7 +10,11 @@ Development environment setup links.
 - Once Ubuntu VM has been created, install guest additions and enable shared
   clipboard.
 
-## Ubuntu  
+## Ubuntu/Unix
+
+### Directories
+
+Create `~/projects` and `~/vendor`.  
 
 ### Basic Aptitude
 
@@ -118,6 +122,18 @@ git config --global credential.helper 'cache --timeout 7200'
 ## Python
 
 1. Use virtualenv and requirements.txt
+
+## OSX Specific
+
+### Key Remapping:
+
+Remap keys using
+[Seil](http://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x).
+
+### Vim
+
+Install vim using brew.  Then find its location with `brew info vim`, and alias
+vim in the shell.
 
 ## Development Praxis
 
