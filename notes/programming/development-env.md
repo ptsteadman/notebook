@@ -54,35 +54,6 @@ Create `~/projects` and `~/vendor`.
 
 - Add the  .vimrc to `~/` and then run `:PluginInstall` in vim.
 
-```
-filetype off    " Required
-
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-
-Plugin 'gmarik/Vundle.vim'    " Required
-Plugin 'ctrlpvim/ctrlp.vim'
-Plugin 'jaxbot/browserlink.vim'
-Plugin 'digitaltoad/vim-jade'
-Plugin 'altercation/vim-colors-solarized'  " New line!!
-
-call vundle#end()            " required
-filetype plugin indent on
-
- " Some settings to enable the theme:
-set number        " Show line numbers
-syntax enable     " Use syntax highlighting
-set background=dark
-let g:solarized_termcolors = 256
-let g:bl_pagefiletypes = ['html', 'javascript', 'php', 'scss', 'jade']
-colorscheme solarized
-set expandtab
-set textwidth=80
-set tabstop=8
-set softtabstop=4
-set shiftwidth=2
-set autoindent
-```
 
 ### VNC Server 
 
@@ -134,6 +105,8 @@ Remap keys using
 
 Install vim using brew.  Then find its location with `brew info vim`, and alias
 vim in the shell.
+
+`set backspace=2 " make backspace work like most other apps`
 
 ## Development Praxis
 
