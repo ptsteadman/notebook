@@ -75,3 +75,17 @@ useful.  I draw a lot of energy from people like that.
 
 Bought two nice shirts from opening ceremony.  At bar now (not a bar I like very
 much), hopefully will get some work done on Montage.
+
+### Wednesday, July 20th 2016
+
+Met with Screen yesterday.  Very cool to meet a symmetric group of young people
+from Taiwan/China who are scheming and dreaming while staying aware of beauty.
+Enjoying my new clothing.  Getting well into the feel for the iHM work, still
+happy with the team we are working with.  Signing lease for new office today: it
+is extremely charming, I think it potentially has the 'quality without a name',
+at least from the outside.  Today I will see inside.
+
+Somewhat tired: last night worked on Montage.  Some bug that is based on a shaky
+third party service.  Also I am making $40 less an hour on that project.
+Hopefully Max will be able to take over the work there soon, it's a codebase he
+knows.
