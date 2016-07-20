@@ -54,6 +54,8 @@ Create `~/projects` and `~/vendor`.
 
 - Add the  .vimrc to `~/` and then run `:PluginInstall` in vim.
 
+- Create a file `~/.gitignore` with `*.swp` and `*.swo`.  Set it as the global
+  gitignore with `git config --global core.excludesfile ~/.gitignore`.
 
 ### VNC Server 
 
