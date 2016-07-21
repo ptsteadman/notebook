@@ -89,3 +89,12 @@ Somewhat tired: last night worked on Montage.  Some bug that is based on a shaky
 third party service.  Also I am making $40 less an hour on that project.
 Hopefully Max will be able to take over the work there soon, it's a codebase he
 knows.
+
+### Thursday, July 21st 2016
+
+Last day of first week at iHM.  Moving into new office tomorrow.  Last night
+went to a 'super meetup' that included Code Drink Talk Bushwick.  I met Michael
+there, he recognized Computer Lab from my name tag.  I really enjoyed talking to
+him, he told me a lot of interesting things in an engaging way.  He is 'on
+leave' from Thoughtworks.  He is the best example I've met of a developer
+working in 'civic engagement'.
