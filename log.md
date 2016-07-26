@@ -98,3 +98,14 @@ there, he recognized Computer Lab from my name tag.  I really enjoyed talking to
 him, he told me a lot of interesting things in an engaging way.  He is 'on
 leave' from Thoughtworks.  He is the best example I've met of a developer
 working in 'civic engagement'.
+
+### Monday, July 25th 2016
+
+Sort of inefficient day at iHR.  Had dinner with Zachary and Rob, talked about
+money, and felt silly and cardboard-like doing so.  Had a nice lunch with
+Zachary.  Got paid for Artdrop.  Feel guilty about Montage...should just make
+some time, push some commits, that will hold things over until Max comes back.
+Dealings with Vice on an iOS app of theirs, ... , seems unprofessional on their
+end.  Getting anything done seems to require a lot of professionalism.  I think
+I'm focusing too much on client work.  Need to spend more time planning, writing
+or doing open source.
