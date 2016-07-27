@@ -109,3 +109,25 @@ Dealings with Vice on an iOS app of theirs, ... , seems unprofessional on their
 end.  Getting anything done seems to require a lot of professionalism.  I think
 I'm focusing too much on client work.  Need to spend more time planning, writing
 or doing open source.
+
+### Tuesday, July 26th 2016
+
+Another pretty inefficient day at iHR.  Had to make more changes to past work
+based on specs that weren't communicated before build, even after asking.  The
+good thing is that it is good practice for working with forks: that requires
+another sort of flow that should become habit soon, which will help with my
+goals of getting into open source.  Learning the whole Jira/Agile flow is a
+whole other thing in itself that is also valuable.  So, the cracks in the
+process are starting to show but at least I am learning them.  
+
+Feel the need to check back into earlier goals and stuff I feel is important.
+Month one of Q3 is nearing a close and there's been decent progress, but I
+haven't necessarily been focused on making the goals happen.  And then I also
+have (a very short) list of goals outside of the goals for the company.
+Basically: writing.   I just looked at the analytics for college memoir:
+basically zero except for spikes of referral spam.  Sad!  But okay.
+
+I think the level that will feel good is finding a way to do iHM, goals, AND
+other client work.  In that order.  Obviously I want to do other client work for
+money and to make them happy, and I will use that motivation to motivate myself
+to do the goals.
