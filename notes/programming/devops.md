@@ -11,3 +11,21 @@ bucket `bucketname.com`, and make a subdomain for that bucket.
 
 #### Generate a static key
 
+#### When SSL Cert Works on Desktop but not Mobile
+
+The report from SSLabs says:
+
+  This server's certificate chain is incomplete. Grade capped to B.
+  ....
+  Chain Issues                  Incomplete
+
+Desktop browsers often have chain certificates cached from previous connections
+or download them from the URL specified in the certificate. Mobile browsers and
+other applications usually don't.
+
+Fix your chain by including the missing certificates and everything should be
+right.
+
+The CA sends two files: your cert, and a bundle representing their authority to
+grand you a cert.  They need to be bundled again, your cert first.  The md5 hash
+of the bundle you create and the private key should be the same.
