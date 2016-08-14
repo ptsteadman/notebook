@@ -131,3 +131,24 @@ I think the level that will feel good is finding a way to do iHM, goals, AND
 other client work.  In that order.  Obviously I want to do other client work for
 money and to make them happy, and I will use that motivation to motivate myself
 to do the goals.
+
+### Friday, August 5th 2016
+
+At defcon.  Excellent.  
+
+New works: columnist, comfort zone, cool, facist, publicize.
+
+The definition of privacy is the weakest link in discussions about privacy.
+
+Privacy is a cognitive artifact.
+
+Boundaries
+
+There is no intrinsic right to privacy, intellectual property.
+
+Privacy advocates are fighting a losing rear-guard action against reality.
+
+Determined by the level of abstraction at which you can see.
+
+You are known better than you know yourself.  Because you don't see yourself at
+that level of abstraction.
