@@ -152,3 +152,24 @@ Determined by the level of abstraction at which you can see.
 
 You are known better than you know yourself.  Because you don't see yourself at
 that level of abstraction.
+
+### Sunday, August 21st 2016
+
+It's been a difficult few weeks, but I think things should be better.
+
+I got bedbugs and was seeing things in a very narrow way and felt sort of
+trapped, mostly due to not having enough of a personal life.  This will
+obviously lead to annoyances.  
+
+Rob has been doing an excellent job on the Nectar backend work, would be in huge
+trouble if it were not for him.  Over the last two weeks I stopped learning very
+much as I focused on getting iHM stuff done, now I think I am reading about
+React again.  The Nectar codebase is working great, the composability of the
+work done for the previous milestone is amazing.
+
+Feel the need to be more professional, not in a superficial sense, but in a
+deeper sense: not making half-baked promises, always trying to make a good deal,
+always representing the business well.
+
+Bedbugs and sickness was also not helpful, obviously.  Should go to the dentist
+and find a new sports routine.

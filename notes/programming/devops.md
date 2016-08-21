@@ -29,3 +29,9 @@ right.
 The CA sends two files: your cert, and a bundle representing their authority to
 grand you a cert.  They need to be bundled again, your cert first.  The md5 hash
 of the bundle you create and the private key should be the same.
+
+#### Video Tag Constantly Loading
+
+Keeping devtools open with a looped video causes constant downloading.  Managed
+to burn through 600 gb of transfer bandwidth just by having my devtools open
+while developing...
