@@ -173,3 +173,11 @@ always representing the business well.
 
 Bedbugs and sickness was also not helpful, obviously.  Should go to the dentist
 and find a new sports routine.
+
+### Monday, August 22nd 2016
+
+Wrist is definitely in pain.  Not really sure what I can do there.  The only
+obvious solution is to stop using the computer.  Maybe I can do that at iHM on
+Wednesday.  Need to be responsible there.
+
+Now would be a good time to spend more time reading SICP, or writing by hand.
