@@ -31,7 +31,7 @@ Our goal isn't to bill lots of hours, it's to do really amazing stuff, stuff I
 can tell my kids about.  Doing business well is interesting as a timeless,
 beautiful thing.
 
-Have contract from iHM.  Today was better, productivity-wise, tomorrow I need to 
+Have contract from iHM.  Today was better, productivity-wise, tomorrow I need to
 
 ### Wednesday, July 13th 2016
 
@@ -71,7 +71,7 @@ an office for eight hours straight: found myself 'looking at the clock',
 figuratively.
 
 Looking forward to lunch meeting w/ other consultancies, very exciting and
-useful.  I draw a lot of energy from people like that.  
+useful.  I draw a lot of energy from people like that.
 
 Bought two nice shirts from opening ceremony.  At bar now (not a bar I like very
 much), hopefully will get some work done on Montage.
@@ -118,7 +118,7 @@ good thing is that it is good practice for working with forks: that requires
 another sort of flow that should become habit soon, which will help with my
 goals of getting into open source.  Learning the whole Jira/Agile flow is a
 whole other thing in itself that is also valuable.  So, the cracks in the
-process are starting to show but at least I am learning them.  
+process are starting to show but at least I am learning them.
 
 Feel the need to check back into earlier goals and stuff I feel is important.
 Month one of Q3 is nearing a close and there's been decent progress, but I
@@ -134,7 +134,7 @@ to do the goals.
 
 ### Friday, August 5th 2016
 
-At defcon.  Excellent.  
+At defcon.  Excellent.
 
 New works: columnist, comfort zone, cool, facist, publicize.
 
@@ -159,7 +159,7 @@ It's been a difficult few weeks, but I think things should be better.
 
 I got bedbugs and was seeing things in a very narrow way and felt sort of
 trapped, mostly due to not having enough of a personal life.  This will
-obviously lead to annoyances.  
+obviously lead to annoyances.
 
 Rob has been doing an excellent job on the Nectar backend work, would be in huge
 trouble if it were not for him.  Over the last two weeks I stopped learning very
@@ -181,3 +181,11 @@ obvious solution is to stop using the computer.  Maybe I can do that at iHM on
 Wednesday.  Need to be responsible there.
 
 Now would be a good time to spend more time reading SICP, or writing by hand.
+
+### Friday, September 2nd 2016
+
+Things are much better.  SingleSprout project went very well overall and was
+done in time.  Having more fun at iHM.  Good projects incoming.  Everybody seems
+engaged and excited.  Checks in the mail.
+
+Oh, and finally figured out a good way to yank in tmux.
