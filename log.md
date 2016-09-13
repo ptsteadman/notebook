@@ -189,3 +189,21 @@ done in time.  Having more fun at iHM.  Good projects incoming.  Everybody seems
 engaged and excited.  Checks in the mail.
 
 Oh, and finally figured out a good way to yank in tmux.
+
+### Tuesday, September 13th 2016
+
+I enjoyed reading Stephen Arnott's 'NEET Diary' last night.  This sentence was
+my favorite: "The whole idea is that being a NEET is about setting your range of
+expectations and basically defining the scope of your world."  Starting a
+company, at least the way we've been doing it, feels a lot like being a NEET.  I
+think I've experienced many of the same anxieties and pleasures.  There's
+something very creative and freeing about it, but also a sense that you are
+doing something *wrong*.  'Being a founder' is more socially acceptable way of
+being a NEET.  I remember getting lunch with Dan (who actually is a NEET) and
+talking with him about how weird it feels to not be either an employer/owner or
+employee: the assumption that a person is either an employer or an employee is
+baked into all of the accounting software we use, etc.  If one transitions to
+being an owner/employer I guess the kinship with NEETs probably evaporates
+because then the role is clear again.  But we are not there yet, and may never
+get there.  For better or worse.   For better or worse.  My current verbal tic
+is 'for better or worse'.
