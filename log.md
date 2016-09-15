@@ -207,3 +207,37 @@ being an owner/employer I guess the kinship with NEETs probably evaporates
 because then the role is clear again.  But we are not there yet, and may never
 get there.  For better or worse.   For better or worse.  My current verbal tic
 is 'for better or worse'.
+
+Finally got UltiSnips working.  It was some nonsense.  Unsure of what I should
+be working on right now exactly.
+
+### Wednesday, September 14th 2016
+
+I ran into Dina from college on the subway, she's moving to New York to work at
+Triple Canopy.  I was on my way to go paint my room in 274 Quincy.  Luckily I
+talked on the phone with Mommy before painting and she told me that it would be
+bad to use semi-gloss for the walls (I had already bought a bunch of
+semi-gloss).
+
+Excellent excellent day at iHM.  Big refactor done by other team member that I
+really like and general good atmosphere on the team.  I think things will be
+okay.  Will do some writing tonight and I am itching to do some OSS work work
+soon.
+
+### Thursday, September 15th 2016
+
+Halfway through September.  It seems like nothing much is coming of my 'three
+big plays', though something could come of those actions in the future.  I
+definitely feel the urge to bring in some new business.  Talked with Katherine,
+which reminded me that Lab has never really 'designed' anything visually,
+besides our own site.  It would be great to actually do branding/feel for
+someone.  I will find a business opportunity that will let us work with
+Katherine or another designer so that we can do a project where we originate the
+look and feel as well.  I don't think anyone currently 'in' Computer Lab has the
+ability to do that, which is a good reason to grow or find partnerships.  Doing
+that type of work is ultimately something we will want and need to do.
+
+Tired today, stayed up to about 1:30 talking with Zoe, which is no good for my
+wrists.  After staying late at iHM.  Hopefully will finish the painting today.
+Hopefully Rob is happy, can't believe the deal with Screen is still not yet
+signed.  Annoying.
