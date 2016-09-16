@@ -31,7 +31,7 @@ Our goal isn't to bill lots of hours, it's to do really amazing stuff, stuff I
 can tell my kids about.  Doing business well is interesting as a timeless,
 beautiful thing.
 
-Have contract from iHM.  Today was better, productivity-wise, tomorrow I need to 
+Have contract from iHM.  Today was better, productivity-wise, tomorrow I need to
 
 ### Wednesday, July 13th 2016
 
@@ -71,7 +71,7 @@ an office for eight hours straight: found myself 'looking at the clock',
 figuratively.
 
 Looking forward to lunch meeting w/ other consultancies, very exciting and
-useful.  I draw a lot of energy from people like that.  
+useful.  I draw a lot of energy from people like that.
 
 Bought two nice shirts from opening ceremony.  At bar now (not a bar I like very
 much), hopefully will get some work done on Montage.
@@ -118,7 +118,7 @@ good thing is that it is good practice for working with forks: that requires
 another sort of flow that should become habit soon, which will help with my
 goals of getting into open source.  Learning the whole Jira/Agile flow is a
 whole other thing in itself that is also valuable.  So, the cracks in the
-process are starting to show but at least I am learning them.  
+process are starting to show but at least I am learning them.
 
 Feel the need to check back into earlier goals and stuff I feel is important.
 Month one of Q3 is nearing a close and there's been decent progress, but I
@@ -134,7 +134,7 @@ to do the goals.
 
 ### Friday, August 5th 2016
 
-At defcon.  Excellent.  
+At defcon.  Excellent.
 
 New works: columnist, comfort zone, cool, facist, publicize.
 
@@ -159,7 +159,7 @@ It's been a difficult few weeks, but I think things should be better.
 
 I got bedbugs and was seeing things in a very narrow way and felt sort of
 trapped, mostly due to not having enough of a personal life.  This will
-obviously lead to annoyances.  
+obviously lead to annoyances.
 
 Rob has been doing an excellent job on the Nectar backend work, would be in huge
 trouble if it were not for him.  Over the last two weeks I stopped learning very
@@ -174,7 +174,76 @@ always representing the business well.
 Bedbugs and sickness was also not helpful, obviously.  Should go to the dentist
 and find a new sports routine.
 
+### Monday, August 22nd 2016
+
+Wrist is definitely in pain.  Not really sure what I can do there.  The only
+obvious solution is to stop using the computer.  Maybe I can do that at iHM on
+Wednesday.  Need to be responsible there.
+
+Now would be a good time to spend more time reading SICP, or writing by hand.
+
 ### Friday, August 26th 2016
 
 Things going better.  Should have Nectar under control by the end of the day.
 iHM maybe going better.  Body feels better.
+
+### Friday, September 2nd 2016
+
+Things are much better.  SingleSprout project went very well overall and was
+done in time.  Having more fun at iHM.  Good projects incoming.  Everybody seems
+engaged and excited.  Checks in the mail.
+
+Oh, and finally figured out a good way to yank in tmux.
+
+### Tuesday, September 13th 2016
+
+I enjoyed reading Stephen Arnott's 'NEET Diary' last night.  This sentence was
+my favorite: "The whole idea is that being a NEET is about setting your range of
+expectations and basically defining the scope of your world."  Starting a
+company, at least the way we've been doing it, feels a lot like being a NEET.  I
+think I've experienced many of the same anxieties and pleasures.  There's
+something very creative and freeing about it, but also a sense that you are
+doing something *wrong*.  'Being a founder' is more socially acceptable way of
+being a NEET.  I remember getting lunch with Dan (who actually is a NEET) and
+talking with him about how weird it feels to not be either an employer/owner or
+employee: the assumption that a person is either an employer or an employee is
+baked into all of the accounting software we use, etc.  If one transitions to
+being an owner/employer I guess the kinship with NEETs probably evaporates
+because then the role is clear again.  But we are not there yet, and may never
+get there.  For better or worse.   For better or worse.  My current verbal tic
+is 'for better or worse'.
+
+Finally got UltiSnips working.  It was some nonsense.  Unsure of what I should
+be working on right now exactly.
+
+### Wednesday, September 14th 2016
+
+I ran into Dina from college on the subway, she's moving to New York to work at
+Triple Canopy.  I was on my way to go paint my room in 274 Quincy.  Luckily I
+talked on the phone with Mommy before painting and she told me that it would be
+bad to use semi-gloss for the walls (I had already bought a bunch of
+semi-gloss).
+
+Excellent excellent day at iHM.  Big refactor done by other team member that I
+really like and general good atmosphere on the team.  I think things will be
+okay.  Will do some writing tonight and I am itching to do some OSS work work
+soon.
+
+### Thursday, September 15th 2016
+
+Halfway through September.  It seems like nothing much is coming of my 'three
+big plays', though something could come of those actions in the future.  I
+definitely feel the urge to bring in some new business.  Talked with Katherine,
+which reminded me that Lab has never really 'designed' anything visually,
+besides our own site.  It would be great to actually do branding/feel for
+someone.  I will find a business opportunity that will let us work with
+Katherine or another designer so that we can do a project where we originate the
+look and feel as well.  I don't think anyone currently 'in' Computer Lab has the
+ability to do that, which is a good reason to grow or find partnerships.  Doing
+that type of work is ultimately something we will want and need to do.
+
+Tired today, stayed up to about 1:30 talking with Zoe, which is no good for my
+wrists.  After staying late at iHM.  Hopefully will finish the painting today.
+Hopefully Rob is happy, can't believe the deal with Screen is still not yet
+signed.  Annoying.
+>>>>>>> e88fb157df8103e606857b17e3c6f9a1282d9bcb
