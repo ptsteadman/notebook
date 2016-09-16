@@ -173,3 +173,8 @@ always representing the business well.
 
 Bedbugs and sickness was also not helpful, obviously.  Should go to the dentist
 and find a new sports routine.
+
+### Friday, August 26th 2016
+
+Things going better.  Should have Nectar under control by the end of the day.
+iHM maybe going better.  Body feels better.
