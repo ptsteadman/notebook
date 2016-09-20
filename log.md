@@ -235,9 +235,37 @@ someone.  I will find a business opportunity that will let us work with
 Katherine or another designer so that we can do a project where we originate the
 look and feel as well.  I don't think anyone currently 'in' Computer Lab has the
 ability to do that, which is a good reason to grow or find partnerships.  Doing
-that type of work is ultimately something we will want and need to do.
-
 Tired today, stayed up to about 1:30 talking with Zoe, which is no good for my
 wrists.  After staying late at iHM.  Hopefully will finish the painting today.
 Hopefully Rob is happy, can't believe the deal with Screen is still not yet
 signed.  Annoying.
+
+### Monday, September 19th 2016
+
+The 5k was fun and I feel 'more like myself' after.  In the new iHR office which
+has a north view instead of a south view.  Very rainy and grey.  Good weekend,
+tired now though.  I hope FC goes well for Rob.
+
+### Tuesday, September 20th 2016
+
+Fell asleep without food after work yesterday, so I didn't do the things I
+wanted to: writing, painting, etc.  Also I didn't have any money in my account.
+Now I have $7k.  Hopefully this is the last time I 'forget to pay myself'.
+
+Today at iHM I don't have any tickets to work on.  Hopefully I will use the time
+well.
+
+Let's see, what else.  Need to write some about my personal life but I can't get
+the gpg trick working on OSX.
+
+Looking forward to doing the branding work, and also doing branding work for
+clients.  That will be satisfying and cool.  We do need to do some deep, hard
+work to define our business plan  We do need to do some deep, hard work to
+define our business plan.  It's very ad hoc at this point.  I hope
+Max/Zachary/Rob can help push things here.  I believe in the possibility of
+having a very good plan of what I want to build and then carrying it out.  We've
+been doing that so far, and I think it can continue, but with greater scope.
+The questions are: what specifically do you want?  What do you want to see in
+the world?  What does the world
+
+What now?
