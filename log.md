@@ -182,6 +182,11 @@ Wednesday.  Need to be responsible there.
 
 Now would be a good time to spend more time reading SICP, or writing by hand.
 
+### Friday, August 26th 2016
+
+Things going better.  Should have Nectar under control by the end of the day.
+iHM maybe going better.  Body feels better.
+
 ### Friday, September 2nd 2016
 
 Things are much better.  SingleSprout project went very well overall and was
@@ -239,6 +244,7 @@ Tired today, stayed up to about 1:30 talking with Zoe, which is no good for my
 wrists.  After staying late at iHM.  Hopefully will finish the painting today.
 Hopefully Rob is happy, can't believe the deal with Screen is still not yet
 signed.  Annoying.
+<<<<<<< HEAD
 
 ### Monday, September 19th 2016
 
@@ -269,3 +275,6 @@ The questions are: what specifically do you want?  What do you want to see in
 the world?  What does the world
 
 What now?
+=======
+>>>>>>> e88fb157df8103e606857b17e3c6f9a1282d9bcb
+>>>>>>> 0bf6da978b75126eca37ebad2adca4c92af5548e
