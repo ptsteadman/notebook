@@ -244,7 +244,6 @@ Tired today, stayed up to about 1:30 talking with Zoe, which is no good for my
 wrists.  After staying late at iHM.  Hopefully will finish the painting today.
 Hopefully Rob is happy, can't believe the deal with Screen is still not yet
 signed.  Annoying.
-<<<<<<< HEAD
 
 ### Monday, September 19th 2016
 
@@ -275,6 +274,25 @@ The questions are: what specifically do you want?  What do you want to see in
 the world?  What does the world
 
 What now?
-=======
->>>>>>> e88fb157df8103e606857b17e3c6f9a1282d9bcb
->>>>>>> 0bf6da978b75126eca37ebad2adca4c92af5548e
+
+### Monday, September 26th 2016
+
+This weekend was fine.  On Friday, after working out a deal for the branding
+with Hello Velocity, I went to a noise show at NYU.  Rob's girlfriend Alyssa was
+performing as part of a noise ensemble.  On Saturday I met with Mommy and her
+friend, we went to lunch, visited the Computer Lab office, and then went to the
+9/11 Memorial (my first time there).  The most notable aspect of the memorial
+for me was how you wouldn't see to the bottom of the pits that recycled the
+water in the reflecting pools, due the geometry of the pools.  Then I went to
+Snowden and a party with the iHM ops people, with Theo.  The two experiences
+blended together nicely.  Sunday I didn't do much, the only distinct thing was
+going to an art opening based on Christopher Alexander.  Feel pretty tired and
+uninterested in coding right now.  I need to finish the writeup for the NYC Wifi
+Link Kiosk hack.  Figuring that out was the most fun aspect of the weekend
+honestly.  Hacking is deeply fun.  This morning I felt a strong desire to write
+well.
+
+Got a bit too much sleep last night.  I fell asleep at 10pm, woke up, talked with
+a woman from Tinder on the phone from 2am - 3am (she had a nice voice), watched
+a YCombinator Elon Musk interview, went back to sleep.  Talking on the phone was
+pretty nice.  The net is vast and infinite.
