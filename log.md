@@ -296,3 +296,18 @@ Got a bit too much sleep last night.  I fell asleep at 10pm, woke up, talked wit
 a woman from Tinder on the phone from 2am - 3am (she had a nice voice), watched
 a YCombinator Elon Musk interview, went back to sleep.  Talking on the phone was
 pretty nice.  The net is vast and infinite.
+
+### Tuesday, September 27th 2016
+
+Presidential debate last night.  Went to my new place after, where there were
+two packages full of bedding.  I got the mattress pad around two corners of the
+bed, and fell asleep on top of it.  Woke up at 7AM.  Haven't had an easy time
+focusing / feeling motivated to code this week.  I think it's partly just
+because the tickets are pretty boring, and I'm in more of a design / business
+mood.  Hopefully the work next sprint will be more engaging.  Anyways, money is
+good.
+
+It turns out that Dina's boyfriend seems to be into literature, that's cool.
+They could both become friends.
+
+I do need to work a bit harder.
