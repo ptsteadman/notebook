@@ -311,3 +311,34 @@ It turns out that Dina's boyfriend seems to be into literature, that's cool.
 They could both become friends.
 
 I do need to work a bit harder.
+
+### Wednesday, September 28th 2016
+
+Fuck, the build is broken.  Feel uninterested.  Got a haircut and feel better
+now.  Talking about art.  I'm going to be working on the failed minimalism
+piece and the quick review for Celine this week.  Might be moving to new home
+this weekend, that'd be nice.  I hope the check comes, I want to go clothes
+shopping and work on my image.
+
+Just doing the daily TODO list is big.  I do feel more adult and confident
+lately, even though I've been feeling slow.  This morning I was thinking about
+the need, at this age, to define oneself relatively to 'other big things', the
+world.  I think I'm imagining something like that Doug Engelbart described
+himself doing when he was married and twenty-five, fresh from the army: looking
+at the problems that the world is facing, and figuring out how they could be
+solved.  At twenty-four I think I have a decent idea of my abilities,
+weaknesses, risk tolerence, degree of specialness, etc.  School, relationships,
+and some crisis have taught me enough about myself that I can see myself
+accurately in relation to different problems and opportunities in the world.
+
+I imagine this process can be accomplished pretty quickly.  It's really a matter
+of just reading, visiting, and consulting experts.  I can do it with Zachary,
+Max, Rob, and others, it doesn't have to be a lonely thing.  From a 'networked
+individualistic' perspective, what THEY choose to do has a large effect on what
+it makes sense for me to do.  Programming, writing and business are ultimately
+pretty general skills.  I think one big thing I can't neglect is my concern for
+beauty.
+
+### Thursday, September 29th 2016
+
+'Moved' into 274 Quincy last night, commmuted from there this morning.
