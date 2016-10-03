@@ -311,3 +311,18 @@ It turns out that Dina's boyfriend seems to be into literature, that's cool.
 They could both become friends.
 
 I do need to work a bit harder.
+
+### Sunday, October 2nd 2016
+
+Very quiet weekend, I only went out Friday night.  I worked pretty hard to clean
+up the new place, and started working on the Lab business plan.  The combination
+of the forward-thinking research and the nesting behavior, on these grey
+relatively stress-free days, led to a very muted hypomania.  Is it really
+hypomania at all if it's totally sustainable and healthy?  There's something a
+little sinister about it, but sinister in a seductive, adult way.  I did tweet a
+fair amount.  I feel a little bit ashamed.
+
+I think I have a plan for iHM contract renewal.  Need to calmly execute it, it's
+a perfectly good plan.  I really do feel much calmer.  It's another one of those
+times where I feel much less fucked and like I'll very soon have a loving
+girlfriend and all of the good things in the world.
