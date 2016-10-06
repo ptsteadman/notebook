@@ -7,3 +7,5 @@ branch or whatever.
 
 `git reset HEAD~` uncommits the most recent commit so that it can be broken
 apart, etc
+
+`git update-index --assume-unchanged path/to/file`

@@ -357,3 +357,33 @@ I think I have a plan for iHM contract renewal.  Need to calmly execute it, it's
 a perfectly good plan.  I really do feel much calmer.  It's another one of those
 times where I feel much less fucked and like I'll very soon have a loving
 girlfriend and all of the good things in the world.
+
+### Monday, October 3rd 2016
+
+Stressors this morning.  Talking with Garret this afternoon, should enact iHM
+plan, branding stuff this evening.  My abs feel almost non-existent and I think
+I have a paunch.
+
+### Tuesday, October 4th 2016
+
+I'm still not feeling great despite the exciting talk with Garrett, and
+reasonably good branding meeting last night.  Feel low-key anxious and body
+feels are bad.  I also need to write the Peter Burr thing.
+
+### Wednesday, October 5th 2016
+
+I'm imagining things going like this:
+
+October: iHeart, branding, Screen, Flight Club
+November: iHeart, ramp up PHCS, branding, Flight Club, Buffalo
+December: wind down iHeart, PHCS, Taipei, planning, design-intensive projects
+January: Taiwan,
+
+### Thursday, October 6th
+
+Absolutely need to do something about my body.  I'm thinking Mary is right, I
+should join Equinox.  Though I do want to be careful about getting sort of
+tranced by bougie stuff.  It wears out pretty quickly.
+
+I think I'm going to join the YMCA in Bed-Stuy.  It's like a block away from
+home.  It really is time to be that person in your head.
