@@ -9,3 +9,7 @@ branch or whatever.
 apart, etc
 
 `git update-index --assume-unchanged path/to/file`
+
+`git branch -m <new-name>` rename branch you're on
+
+`git checkout -b newbranch` to create and checkout a branch in one fell swoop

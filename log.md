@@ -387,3 +387,7 @@ tranced by bougie stuff.  It wears out pretty quickly.
 
 I think I'm going to join the YMCA in Bed-Stuy.  It's like a block away from
 home.  It really is time to be that person in your head.
+
+### Thursday, October 13th
+
+Not a super great week despite some good outcomes.  Feel really tired right now.
