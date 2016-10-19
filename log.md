@@ -391,3 +391,23 @@ home.  It really is time to be that person in your head.
 ### Thursday, October 13th
 
 Not a super great week despite some good outcomes.  Feel really tired right now.
+
+### Wednesday, October 18th
+
+Work stuff / writing stuff seems good but feel sort of depressed and also
+frustrated for obvious reasons.  Read something I wrote in the spring of 2014,
+it really bothers me.  I'm not sure it bothers me because it is bad writing, or
+because it is a really clear depiction of the way I used to be.
+
+I'm getting really close to a new type of happiness, I think.  Understanding the
+margins of safety is important, a key to control.  Having control of the time I
+waste...I've never quite done that.  I've gained control over other apsects of
+time, and I definitely don't waste time as pathologically as I did once.  But
+wasting time is a wonderful thing.  It's really beautiful and a lot of art is
+about time being wasted.  All time is wasted, no time is wasted, obviously.  The
+difference is...time that is spent trying to be something else, and time that is
+spent just being who I am.
+
+Need to figure out what's up with Yami Ichi and come up with Q4 goals.  Pretty
+excited for PHCS work.  More confused than ever about how to relate to people
+romantically.
