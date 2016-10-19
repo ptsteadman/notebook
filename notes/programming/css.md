@@ -8,6 +8,11 @@ use display: block; margin-left: auto; margin-right: auto;
 Bootstrap classes for this, and aligning text to the center
 `center-block`
 
+#### Absolute Centering of Item of Unknown Size
+
+`margin-left: 50%;`
+`transform: translateX(-50%);`
+
 #### Problem: List Has Bullets
 - Use `list-file-type: none;`
 
