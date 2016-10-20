@@ -65,5 +65,10 @@
 
 then `f <space> .` to repeat
 
+### netrw
+
+`d` to create a directory
+`D` to delete
+`%` to create a file
 
 
