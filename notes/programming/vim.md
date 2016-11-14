@@ -72,3 +72,7 @@ then `f <space> .` to repeat
 `%` to create a file
 
 
+### Commenting things out
+
+Use tpope's vim-commentary and `gc`.
+

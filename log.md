@@ -39,7 +39,7 @@ Logged about four billable hours, messing with CSS for Artdrop and building
 email functionality for Nectar.  Signed/submitted iHM contract and read more
 about contract negotiation.  Bought plane ticket to defcon.  Had dinner with
 Max/Zachary and discussed longer term plans which sort of wore me out, putting
-those things into spoken work, and makes me want to focus on work and personal
+those things into spoken word, and makes me want to focus on work and personal
 life.
 
 Max's point about wanting things to sort of run themselves / minimizing stress
@@ -411,3 +411,14 @@ spent just being who I am.
 Need to figure out what's up with Yami Ichi and come up with Q4 goals.  Pretty
 excited for PHCS work.  More confused than ever about how to relate to people
 romantically.
+
+### Thursday, October 20th
+
+I think I've become uncomfortable with certain parts of myself.  I
+intentionally try to forget them, using the classic therapist-endorsed
+self-talk: "this thought isn't helpful", etc.  But this sort of thinking makes
+me distant from myself, makes me feel boring.
+
+Anyways...
+
+Goals.  Need to finish the Peter Burr piece, and work on Yami Ichi.

@@ -159,8 +159,12 @@ var sayAge = function(){
   console.log(this.age);
 }
 
-window.age = 10;
-sayAge(); // 25
+window.age = 24;
+sayAge(); // 24
 
 If `use strict` is used, it will just be undefined.
 ```
+
+### Promises
+
+
