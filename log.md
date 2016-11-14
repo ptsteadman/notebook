@@ -422,3 +422,42 @@ me distant from myself, makes me feel boring.
 Anyways...
 
 Goals.  Need to finish the Peter Burr piece, and work on Yami Ichi.
+
+### Saturday, November 12th
+
+Trump will be president. I have been thinking about this almost constantly for the
+past four days; it seems like most other people I know are doing the same.
+
+I've been writing a lot of tweets and deleting them and thinking that the things
+I have tweeted are bad. Probably as some sort of coping mechanism for being
+caught so off guard, I am thinking that there's a need to 'revise and re-embrace
+liberalism', which I guess is a sort of contrarian view among my peers. I also
+think there's a need to shitpost more about my views: it's easy to dismiss the
+value of social media / forum posting, but clearly it probably had some impact.
+
+Going through the items on Trump's platform, and things he's said, it's very
+hard to agree with people taking the Alice Maz line of 'this is good because
+it finally helps the rural poor', or that everything is a consequence of liberal
+smugness and insularity. Obviously huge mistakes were made by the DNC, but now
+the DNC is at risk of being torn apart like we thought the RNC would be torn
+apart a few months ago when Trump won. It seems like many of the big
+beneficiaries of this will be wealthy business owners and corporations, assuming
+the tax cuts go through. It will be a short-sighted opportunity for classic
+Republicans to cash out, under the guise of helping American workers. It will
+be important to follow the relative success of tax reductions and the
+dissolution of international trade deals.  I need to read about that.
+
+What about Bernie Sanders...
+
+There are a lot of really bad worst case scenarios that I think are very real.
+It seems like a lot of the really bad violent leaders of history were
+characterized by their incompetence. Covering up incompetence and failure
+requires spectacle and shock. We have danger of getting the worst of the Bush
+policies plus a deeply fucked new layer.
+
+The whole Balajis angle...the Pepi leftist angle...they're so rhetorically
+compelling, and unfortunately you don't have much but your instinct telling you
+that they're wrong.  Maybe you should attempt to see if they're right.
+
+In other news, relationship with family seems better, and Computer Lab is okay.
+
