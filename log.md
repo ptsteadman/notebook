@@ -461,3 +461,25 @@ that they're wrong.  Maybe you should attempt to see if they're right.
 
 In other news, relationship with family seems better, and Computer Lab is okay.
 
+### Monday, November 14th
+
+Regaining focus on work. Stressed about iHM, same situation as before.
+Annoying, need to have talk about it. Should write a big check to myself today.
+Feel moderately dysphoric. Need to answer some of the questions I asked in my
+facebook post.
+
+### Tuesday, November 15th
+
+The tickets are fucked up. It's stressing me out. I could try 'not caring' by
+that it not something that I'm good at. I could try caring more about
+something else... other priorities. Ultimately I need to toughen up in this
+regard, but not get petulant and emotional. Try to fight battles that can be
+won. Present my case elegantly.
+
+### Wednesday, November 16th
+
+It all went pretty well. It is sort of a waste of my time in some sense, but I
+think we all now see the end of the tunnel.
+
+I still feel some stress about PHCS work. And we need to finish the branding
+work.
