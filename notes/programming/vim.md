@@ -65,5 +65,14 @@
 
 then `f <space> .` to repeat
 
+### netrw
 
+`d` to create a directory
+`D` to delete
+`%` to create a file
+
+
+### Commenting things out
+
+Use tpope's vim-commentary and `gc`.
 

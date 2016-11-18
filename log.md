@@ -39,7 +39,7 @@ Logged about four billable hours, messing with CSS for Artdrop and building
 email functionality for Nectar.  Signed/submitted iHM contract and read more
 about contract negotiation.  Bought plane ticket to defcon.  Had dinner with
 Max/Zachary and discussed longer term plans which sort of wore me out, putting
-those things into spoken work, and makes me want to focus on work and personal
+those things into spoken word, and makes me want to focus on work and personal
 life.
 
 Max's point about wanting things to sort of run themselves / minimizing stress
@@ -412,6 +412,17 @@ Need to figure out what's up with Yami Ichi and come up with Q4 goals.  Pretty
 excited for PHCS work.  More confused than ever about how to relate to people
 romantically.
 
+### Thursday, October 20th
+
+I think I've become uncomfortable with certain parts of myself.  I
+intentionally try to forget them, using the classic therapist-endorsed
+self-talk: "this thought isn't helpful", etc.  But this sort of thinking makes
+me distant from myself, makes me feel boring.
+
+Anyways...
+
+Goals.  Need to finish the Peter Burr piece, and work on Yami Ichi.
+
 ### Saturday, November 12th
 
 Trump will be president. I have been thinking about this almost constantly for the
@@ -450,4 +461,25 @@ that they're wrong.  Maybe you should attempt to see if they're right.
 
 In other news, relationship with family seems better, and Computer Lab is okay.
 
+### Monday, November 14th
 
+Regaining focus on work. Stressed about iHM, same situation as before.
+Annoying, need to have talk about it. Should write a big check to myself today.
+Feel moderately dysphoric. Need to answer some of the questions I asked in my
+facebook post.
+
+### Tuesday, November 15th
+
+The tickets are fucked up. It's stressing me out. I could try 'not caring' by
+that it not something that I'm good at. I could try caring more about
+something else... other priorities. Ultimately I need to toughen up in this
+regard, but not get petulant and emotional. Try to fight battles that can be
+won. Present my case elegantly.
+
+### Wednesday, November 16th
+
+It all went pretty well. It is sort of a waste of my time in some sense, but I
+think we all now see the end of the tunnel.
+
+I still feel some stress about PHCS work. And we need to finish the branding
+work.
