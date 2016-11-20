@@ -35,3 +35,5 @@ of the bundle you create and the private key should be the same.
 Keeping devtools open with a looped video causes constant downloading.  Managed
 to burn through 600 gb of transfer bandwidth just by having my devtools open
 while developing...
+
+#### Manual Update of letsencrypt Certificate

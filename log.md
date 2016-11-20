@@ -483,3 +483,8 @@ think we all now see the end of the tunnel.
 
 I still feel some stress about PHCS work. And we need to finish the branding
 work.
+
+### Sunday, November 20th
+
+Last night was pretty awful. The playbook I've been using since 2012ish seems to
+have a single big flaw. I'm looking forward to going back to Buffalo on Tuesday.
