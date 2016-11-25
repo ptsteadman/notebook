@@ -488,3 +488,26 @@ work.
 
 Last night was pretty awful. The playbook I've been using since 2012ish seems to
 have a single big flaw. I'm looking forward to going back to Buffalo on Tuesday.
+
+### Wednesay, November 23rd
+
+I'm at home in Buffalo. Pleasant, about to pick my sister and her boyfriend up
+from the airport. FC turned out to be even more of a shitshow. But I'm hoping
+it's almost over. PHCS is going well, pretty interested in data engineering
+overall, it seems like an area where there's some real opportunity.
+
+Feel good about the clothes that Alina helped me pick out. I think that now it's
+probably important to *actually* have a number of different ways of presenting
+myself. It's a product of networked individualism. There are four individuals I
+can think of now: 1) artist/writer, 2) american guy, 3) millennial CEO, 4)
+programmer. I think I need to be able to look, act, and think like a good
+example of these four types to accomplish what I want. This feels like a
+somewhat childish way of thinking, but there's a necessity and I have the
+resources.
+
+### Thursday, November 24th
+
+Nice Thanksgiving. Made some progress on Slack invite thing. That will be nice.
+Not sure how to make it clear for the user.
+
+Want to do some writing.
