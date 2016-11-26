@@ -517,3 +517,8 @@ Want to do some writing.
 Went to the Albright Knox gallery with family to see the Picasso exhibit. It was
 pretty chilling. That night I went with Rob to drive around South Buffalo, to
 see the SolarCity plant. We went to the casino. I feel pretty motivated.
+
+As I said before, I think I will try to make this a notebook dedicated to
+Computer Lab stuff, and have a separate person notebook. Using the network of
+things around me as a way to avoid thinking about my own happiness is an
+anti-pattern.
