@@ -511,3 +511,9 @@ Nice Thanksgiving. Made some progress on Slack invite thing. That will be nice.
 Not sure how to make it clear for the user.
 
 Want to do some writing.
+
+### Saturday, November 26th
+
+Went to the Albright Knox gallery with family to see the Picasso exhibit. It was
+pretty chilling. That night I went with Rob to drive around South Buffalo, to
+see the SolarCity plant. We went to the casino. I feel pretty motivated.
