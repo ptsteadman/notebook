@@ -607,3 +607,6 @@ multiple establishments.
 
 Funny moment was when I was watching 'The Secret Life of Pets' and almost teared
 up when the little dog was overhwhelmed and inspired by the New York skyline.
+
+Feeling anxious, telling myself that there is no need to feel anxious at this
+exact moment.
