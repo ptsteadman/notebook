@@ -136,7 +136,7 @@ to do the goals.
 
 At defcon.  Excellent.
 
-New works: columnist, comfort zone, cool, facist, publicize.
+New words: columnist, comfort zone, cool, facist, publicize.
 
 The definition of privacy is the weakest link in discussions about privacy.
 
@@ -499,9 +499,9 @@ overall, it seems like an area where there's some real opportunity.
 Feel good about the clothes that Alina helped me pick out. I think that now it's
 probably important to *actually* have a number of different ways of presenting
 myself. It's a product of networked individualism. There are four individuals I
-can think of now: 1) artist/writer, 2) american guy, 3) millennial CEO, 4)
-programmer. I think I need to be able to look, act, and think like a good
-example of these four types to accomplish what I want. This feels like a
+can think of now: 1) artist/writer, 2) american guy ('grey man'), 3) millennial
+CEO, 4) programmer. I think I need to be able to look, act, and think like a
+good example of these four types to accomplish what I want. This feels like a
 somewhat childish way of thinking, but there's a necessity and I have the
 resources.
 
@@ -522,3 +522,88 @@ As I said before, I think I will try to make this a notebook dedicated to
 Computer Lab stuff, and have a separate person notebook. Using the network of
 things around me as a way to avoid thinking about my own happiness is an
 anti-pattern.
+
+### Sunday, November 27th
+
+I feel a lot of opportunity.
+
+Computer Lab currently does the following things:
+
+1. Application Development: we can do full stack development. Examples: iHeart,
+   Nectar, Screen.
+
+2. Data Engineering: probably an undervalued field. Examples: Solar/PHCS.
+
+3. Branding: the only thing we've really branded is ourselves. (Maybe this means
+   that we should favor this type of project.)
+
+Other areas that we COULD do but don't currently do:
+
+4. Machine Learning / Artificial Intelligence: A natural extension of 2.
+
+5. Virtual/Augmented Reality: We are situated well for this network-wise.
+
+6. i18n: My China trip and Screen could set us up for it.
+
+7. Blockchain. Doesn't seem super promising.
+
+You could (and perhaps probably should?) apply a sort of 'cross-section' to all
+these items. Example: we could do data engineering FOR manufacturing companies. We could do
+i18n FOR art institutions.  Etc.
+
+This cross sectional approach seems pretty smart. This also lets us select the
+type of working arrangement we want.
+
+Based on the past year, I think the working arrangement we want is:
+
+1. Money. Big chunks of it.
+
+2. No long-term onsites.
+
+3. Owning the process.
+
+4. Driving real business value for sophisticated clients.
+
+5. Writing quality software, growing as programmers.
+
+6. Being able to 'stop'. (Breaks in the tracks.)
+
+7. Being weird.
+
+That's all I can think of at the moment. There are tensions between these items,
+for example, between 3 and 4.
+
+Interesting, I don't think we have any answer for the cross-section.
+
+I think for the cross-section, we need some sort of unique knowledge. What do we
+know that other people don't?
+
+I think we already have a good story on the 'supply side'. Computer Lab is
+embedded in this new Internet estate or institution or establishment. I think
+the key ideas are all explained in the 'Weird Facebook' piece. The new
+establishment is very valuable and also quite nascent.
+
+Could we SELL into that institution/estate as well? The first example of that is
+Screen.
+
+To explore what I'm talking about in more detail: I think what Computer Lab
+knows that other companies don't is that there's a whole new establishment
+arising from intersectional communities on Twitter, Facebook, Slack, LA, New
+York, etc. I think we're encountering it early because it's happening first in
+the arts.
+
+I think that the new establishment and old establishment will coexist. They both
+offer things to each other. For example, the old establishment offers capital,
+canonization, and rigorousness. The new establishment offers relevance,
+irreverence, and openness.
+
+There's a lot of opportunity to do 'arbitrage' between the old and new
+establishments. I think iHeart is a pretty good example of this. iHeart wouldn't
+be able to assemble a team like Computer Lab, which was created out of new
+establishment connections.
+
+It'd be interesting to look for examples of other times where there were
+multiple establishments.
+
+Funny moment was when I was watching 'The Secret Life of Pets' and almost teared
+up when the little dog was overhwhelmed and inspired by the New York skyline.
