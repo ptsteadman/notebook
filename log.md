@@ -610,3 +610,17 @@ up when the little dog was overhwhelmed and inspired by the New York skyline.
 
 Feeling anxious, telling myself that there is no need to feel anxious at this
 exact moment.
+
+### Monday, December 5th 2016
+
+Slogging along at iHeart. Interesting outcomes from the talks we've had with
+potential clients. Rob will likely be moving to Pittsburgh. I'm somewhat worried
+about that, but hopefully it will work out well.
+
+### Tuesday, December 6th 2016
+
+Had to sleep at the office last night because I didn't have a key to lock it up.
+Felt anxious, panicky. I think I'm disappointed in myself. I spent so much time
+thinking about my appearance. The business plan is half-assed, accounts
+recievables is a mess, I haven't built anything good open source or written
+anything.
