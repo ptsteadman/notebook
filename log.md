@@ -624,3 +624,8 @@ Felt anxious, panicky. I think I'm disappointed in myself. I spent so much time
 thinking about my appearance. The business plan is half-assed, accounts
 recievables is a mess, I haven't built anything good open source or written
 anything.
+
+### Sunday, December 18th 2016
+
+Successfully finished iHR project with good result. Main Computer Lab project
+now is writing blog posts / research, while tapping along client work.
