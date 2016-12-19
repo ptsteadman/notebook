@@ -629,3 +629,11 @@ anything.
 
 Successfully finished iHR project with good result. Main Computer Lab project
 now is writing blog posts / research, while tapping along client work.
+
+Also interested in potentially doing projects with:
+- Toby
+- Chris Novello
+- Manny
+- Mary
+- Rob
+- Francis Tseng / someone he knows
