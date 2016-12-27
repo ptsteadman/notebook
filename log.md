@@ -637,3 +637,54 @@ Also interested in potentially doing projects with:
 - Mary
 - Rob
 - Francis Tseng / someone he knows
+
+### Monday, December 26th 2016
+
+Holidays were nice. Taking my parents on tour of Battery Park, TriBeCa and Soho
+really underscored the amount of success we've had this year. Enjoyed reading
+'Good To Great' on Christmas day. Most interesting was the 'Hedgehog Concept'
+section: finding the intersection of what you can be the best at, what you love,
+and what can be your economic engine.
+
+Right now, for Computer Lab:
+
+What We Can Be the Best At:
+- online relationships and communities
+- personal/group branding via shitposting
+- aesthetics/trend forecasting and invention
+- executing quixotic projects
+
+What We Love:
+- online relationships and communities
+- aesthetics/trend forecasting and invention
+- writing code, building software
+- executing quixotic projects
+- shitposting
+
+What Drives Our Economic Engine:
+- ReactJS / JavaScript
+- informal personal network based on project referrals
+- executing projects given constraints
+- MVPs
+- enterprise / corporate projects
+
+Computer Lab can probably survive and even thrive without these three centers
+aligned. But to be really happy, profitable, and powerful, it seems necessary to
+align all three. It seems easiest to modify our economic engine, but all three
+are malleable, especially given our youth, and the companies youth. If we want
+to be the best at building software, we could go to school, woodshed (learn on
+our own), or find new people. All three centers can move.
+
+That said, it seems easier to move our economic engine. I think with better
+alignment, things will really take off.
+
+I think over the last year, we've proven that we can make the necessary
+pragmatic decisions to keep the business alive, so I'm not very worried about
+getting really sidetracked.
+
+Another item from that book: discipline. The book believes that internal
+discipline can prevent the need for bureaucracy and useless procedure. I think
+we can think more about what our 'discipline' is. I think some key areas:
+billing, goal-setting (for example our Q4 goals didn't go so well), and software
+quality.
+
