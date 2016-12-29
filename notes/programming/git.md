@@ -13,3 +13,5 @@ apart, etc
 `git branch -m <new-name>` rename branch you're on
 
 `git checkout -b newbranch` to create and checkout a branch in one fell swoop
+
+Add `*.s??` to `~/.gitignore` to globally ignore vim swap files

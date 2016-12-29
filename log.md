@@ -719,3 +719,18 @@ shaping the action.
 
 "Recognize that publics can be created by action, they don't need to exist a
 priori"
+
+### Thursday, December 29th 2016
+
+Getting back into it with Solar stuff. A little slow, I'm out of the practice of
+actually making decision and writing code from scratch. Also sort of generally
+distracted. Good to get the distracted/slow work out of the way. Back hurts.
+Will do yoga at home.
+
+Tomorrow meeting Julian with Max. Read some stuff about Agile yesterday; I think
+our relationship to Agile could be just as defining as our technology choice.
+It's an opportunity: a lot of the established consultancies have dug themselves
+deeply into Agile.
+
+Everyone seems to be on fruitful indpendent intellectual journeys during this
+downtime.
