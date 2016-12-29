@@ -688,3 +688,34 @@ we can think more about what our 'discipline' is. I think some key areas:
 billing, goal-setting (for example our Q4 goals didn't go so well), and software
 quality.
 
+I think personally, I need to take my foot off the gas. Instead of pushing
+things along I will learn from Max and try to meet new people, learn and explore
+new ideas.
+
+"Utility established as meaning generates meaninglessness"
+
+"This idea is basically the same sentiment as "it is easier to create the future
+than to predict it." The key to action is not the fact of choosing a future, but
+choosing one that would be improbably without human agency in the loop. Entropy
+makes glasses break but cannot make them. Humans can."
+
+The density of the network as the amount of potential meaning?
+
+  Hipster-craftsman version of Maker movement as ineffective reaction against the
+  victory of Laboring Man rather than something new
+
+  Lifestyle design and popularity of stoicism as retreat from action and trade as
+  a weak substitute
+
+  Weak action potential of wealth due to ideals of "private" and "property" that
+  confuse sovereignty for freedom ("fuck you money")
+
+- Rao on Hannah Arednt
+
+Fabricating the world in which the action happens is actually an active means of
+shaping the action.
+
+"Action potential"
+
+"Recognize that publics can be created by action, they don't need to exist a
+priori"
