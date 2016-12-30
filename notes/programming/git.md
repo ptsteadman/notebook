@@ -15,3 +15,4 @@ apart, etc
 `git checkout -b newbranch` to create and checkout a branch in one fell swoop
 
 Add `*.s??` to `~/.gitignore` to globally ignore vim swap files
+and then run `git config --global core.excludesfile ~/.gitignore`
