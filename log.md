@@ -734,3 +734,35 @@ deeply into Agile.
 
 Everyone seems to be on fruitful indpendent intellectual journeys during this
 downtime.
+
+### Wednesday, January 4th 2016
+
+Reasons Computer Lab may be in a crisis:
+
+- inability to follow through on quarterly goals, both trivial and critical
+- lack of software focus area / long term plan of any kind
+- disagreement re: costs
+- consistently late payment of invoices including possible non-payment
+- accepting almost 100% of inbound work, including incoherent work
+- branding / website project stalled
+- twitter account (somewhat) stalled
+- mismangement of client projects resulting in 'firefighting'/ 'taking one for the team'
+
+Reasons Computer Lab is literally fine:
+
+- lots of inbound work, mostly referrals for successful projects
+- ReactJS as a sort of focus
+- generalist personality of founders favors lack of plan/focus
+- good relationships w/ other consultancies, contractors
+- working with / meeting lots of other good engineers
+- successfully hosted event, yami ichi
+- blog posts, open source going well
+- 'twitter networking' is working, resulting in clients / subcontractors
+- successful finish of 6-month iHeart project and other smaller projects
+- market-rate pay for partners, high overall income
+- continuing dialog / learning about business models, exploration
+- labcoin / accounting systems seem to work
+- logo design successful
+- successfully created operating agreement
+- high activity / lots of good people in slack
+
