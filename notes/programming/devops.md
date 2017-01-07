@@ -37,3 +37,13 @@ to burn through 600 gb of transfer bandwidth just by having my devtools open
 while developing...
 
 #### Manual Update of letsencrypt Certificate
+
+1. `sudo service nginx stop` to stop nginx so letsencrypt can do its thing
+
+2. `cd letsencrypt; sudo ./letsencrypt-auto`
+
+3. select 'redirect to HTTPS'
+
+4. `sudo service apache2 stop`
+
+5. `sudo service nginx start`
