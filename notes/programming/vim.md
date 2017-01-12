@@ -70,6 +70,7 @@ then `f <space> .` to repeat
 `d` to create a directory
 `D` to delete
 `%` to create a file
+`:Rex` to close it
 
 
 ### Commenting things out
