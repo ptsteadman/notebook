@@ -735,7 +735,7 @@ deeply into Agile.
 Everyone seems to be on fruitful indpendent intellectual journeys during this
 downtime.
 
-### Wednesday, January 4th 2016
+### Wednesday, January 4th 2017
 
 Reasons Computer Lab may be in a crisis:
 
@@ -765,4 +765,15 @@ Reasons Computer Lab is literally fine:
 - logo design successful
 - successfully created operating agreement
 - high activity / lots of good people in slack
+
+### Friday, January 13th 2017
+
+Bad day and time for lab, due to our accounts receivable issue.
+This all seems like part of the metamorphic process of becoming a 'real
+business'. We will do a good job of it, and it'll help define us.
+
+I'm thinking about Lab as: "We build MVPs for companies in the healthcare industry."
+
+It works really well for everything except for the culture thing. But, it's also
+possible that the Healthcare industry needs more people who think like us.
 
