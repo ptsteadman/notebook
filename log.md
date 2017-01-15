@@ -766,3 +766,12 @@ Reasons Computer Lab is literally fine:
 - successfully created operating agreement
 - high activity / lots of good people in slack
 
+### Sunday, January 15th 2017
+
+I feel very awake. I will ensure bad outcomes don't occur for Computer Lab.
+There's a pretty clear solution for the accounting issues. I'm also glad to have
+figured out the estimated taxes that I need to pay quarterly. Being proactive
+about these things will let us make the correct strategic decisions.
+
+We'll do the right projects, on the right terms. We'll get the information we
+need to be able to tell which projects are good, which terms are good.
