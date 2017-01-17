@@ -777,3 +777,18 @@ I'm thinking about Lab as: "We build MVPs for companies in the healthcare indust
 It works really well for everything except for the culture thing. But, it's also
 possible that the Healthcare industry needs more people who think like us.
 
+### Sunday, January 15th 2017
+
+I feel very awake. I will ensure bad outcomes don't occur for Computer Lab.
+There's a pretty clear solution for the accounting issues. I'm also glad to have
+figured out the estimated taxes that I need to pay quarterly. Being proactive
+about these things will let us make the correct strategic decisions.
+
+We'll do the right projects, on the right terms. We'll get the information we
+need to be able to tell which projects are good, which terms are good.
+
+### Monday, January 16th 2016
+
+Good day. Lab was bustling. Today is the first day we've had an equal ratio of
+partners to contractors: three partners, three contractors. Dealt with some
+difficult systems and now I have some time to write.
