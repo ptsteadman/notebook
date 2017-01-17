@@ -5,3 +5,6 @@
 `hash -r` clears the bash command cache
 
 `alt-.` last arg
+
+You can find someone's public key on GitHub with:
+`https://developer.github.com/v3/users/keys/`
