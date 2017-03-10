@@ -6,9 +6,8 @@ her own small movements.
 
 They stopped in front an academic-looking building, set back in a stand of oak
 trees.  The driver showed Feyerabend around her new apartment, struggling to
-explain obvious things about the fixtures.
-
-Once Feyerabend was alone, she brought her bag into the largest bedroom.
+explain obvious things about the fixtures. Feyerabend felt stunned by the quiet
+when he left.
 
 <hr>
 
