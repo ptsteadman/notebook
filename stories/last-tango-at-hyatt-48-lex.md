@@ -45,9 +45,8 @@ rubbing her nose in short bursts, packing her bags for the next day.
 
 "I just feel like," Emily said, agitated, "that to you, I'm just an experience."
 
-Drew thought back to the last person, who called him a psychopath.  He was sick
-of that.  He wanted Emily to tell him exactly how he bothered her, so that he
-could change.
+Drew thought back to the last person, who called him a psychopath. He wanted
+Emily to tell him exactly how he bothered her, so that he could change.
 
 She shook her head *no*, with tears in her eyes.
 
@@ -67,7 +66,7 @@ Emily said "okay" and let him talk.  His list didn't make much sense, she
 thought.  She could tell that a part of it was quoted from his notebook.
 
 Emily lay in bed feeling confused and a bit bored.  She thought about her ex,
-Nathaniel.  He was in his thirties, and had once yelled at her for writing at
+Nathaniel.  He was in his thirties.  He once yelled at her for writing at
 his kitchen table, because it was made of unfinished wood.  She started to cry,
 breathing through her mouth.
 
