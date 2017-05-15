@@ -1,8 +1,8 @@
 # Feyerabend
 
-Feyerabend's driver slowed the car to a crawl, trying to find her address on the
-dark street.  Feyerabend was very conscious of the sounds of the hot vehicle and
-her own small movements.
+Feyerabend's driver slowed the car to a crawl, trying to find her address in the
+dark.  Feyerabend was very conscious of the sounds of the hot vehicle and her
+own small movements.
 
 They stopped in front an academic-looking building, set back in a stand of oak
 trees.  The driver showed Feyerabend around her new apartment, struggling to
@@ -13,7 +13,7 @@ when he left.
 
 The next day was warm and summery.  Feyerabend decided to go to a nearby outdoor
 swimming park.  She was supposed to spend her first week in Warsaw 'getting
-situated', not working.  Feyerabend sat on a towel in the bristly green grass,
+situated', not working.  She sat on a towel in the bristly green grass,
 reading a novel from the airport.
 
 The afternoon passed quickly.  She watched families grilling and jumping in the
