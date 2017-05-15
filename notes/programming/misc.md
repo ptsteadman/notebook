@@ -8,3 +8,11 @@
 
 You can find someone's public key on GitHub with:
 `https://developer.github.com/v3/users/keys/`
+
+`sudo service --status-all`
+
+`dpkg -l | grep foo`
+
+`sudo apt purge foo`
+
+`dig google.com`
