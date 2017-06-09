@@ -47,3 +47,8 @@ while developing...
 4. `sudo service apache2 stop`
 
 5. `sudo service nginx start`
+
+#### arp-scan
+
+`sudo apt install arp-scan`
+`sudo arp-scan -i eth0 192.168.0.0/24`
