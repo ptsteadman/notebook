@@ -16,3 +16,7 @@ You can find someone's public key on GitHub with:
 `sudo apt purge foo`
 
 `dig google.com`
+
+Use `chmod 600`...for something.
+
+To exit a frozen ssh session, `ENTER`, `~`, `.`.
