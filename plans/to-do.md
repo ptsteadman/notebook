@@ -5,7 +5,7 @@
 - `django-react-boilerplate`
 - Write and publish 'Bush Did Map Reduce' piece.
 - Write and publish 'Are You An Advanced Basic?' piece.
-- Write and publish 'Quora Religion' piece.
+- Write and publish 'Quora is the Social Network for Sociopaths' piece.
 - Write and publish 'Feyerabend' story.
 - Define 'Virtual Realism'.
 - Go to Ibiza.
