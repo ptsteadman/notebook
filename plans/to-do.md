@@ -1,19 +1,17 @@
 ### To Do
 - Write and publish 'The Dog Story'.
-- Write and publish 'How To Write Code Outside'.
 - Make and publish Rehab Bootcamp Landing Page.
-- `django-react-boilerplate`
+- Write and publish 'Peter Thiel's Favorite Book'.
+- Attempt to get my EHR and write / publish my experience.
+- Write and publish 'Failed Minimalism'.
 - Write and publish 'Bush Did Map Reduce' piece.
 - Write and publish 'Are You An Advanced Basic?' piece.
 - Write and publish 'Quora is the Social Network for Sociopaths' piece.
 - Write and publish 'Feyerabend' story.
 - Define 'Virtual Realism'.
-- Go to Ibiza.
-- Cowrite and publish 'A Critique of Vulnerability'.
-- Write and publish 'Peter Thiel's Favorite Book'.
 - Make and publish 'Debugging Iceberg' image.
-- Write and publish 'Failed Minimalism'.
-- Attempt to get my EHR and write / publish my experience.
 - Write and publish Computer Lab 'White Paper'.
 - Write and publish 'Thoughts on Cyberwarfare'.
 - Write and publish 'Comparing Different Videoconferencing Software / Mics'.
+- `django-react-boilerplate`
+- Write and publish 'How To Write Code Outside'.

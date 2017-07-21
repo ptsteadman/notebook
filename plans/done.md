@@ -11,3 +11,4 @@
 - ~~Hexo theme~~
 - ~~Millennial BSO~~
 - ~~MR_BOTS v2 on PaaS, simplified.~~
+- ~~Cowrite and publish 'A Critique of Vulnerability'.~~
