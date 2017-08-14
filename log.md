@@ -787,8 +787,13 @@ about these things will let us make the correct strategic decisions.
 We'll do the right projects, on the right terms. We'll get the information we
 need to be able to tell which projects are good, which terms are good.
 
-### Monday, January 16th 2016
+### Monday, January 16th 2017
 
 Good day. Lab was bustling. Today is the first day we've had an equal ratio of
 partners to contractors: three partners, three contractors. Dealt with some
 difficult systems and now I have some time to write.
+
+### Monday, August 14th 2017
+
+Family names are visible in the world. They're an obvious form of information
+that people seem to willfully ignore. I feel fragile.
