@@ -49,3 +49,9 @@ HTML email body or attachment. A real CSRF vulnerability in uTorrent
 (CVE-2008-6586) exploited the fact that its web console accessible at
 localhost:8080 allowed mission-critical actions to be executed as a matter of
 simple GET request:
+
+### NMAP
+sudo nmap -v -sV -O 192.168.10.2
+
+### arp-scan
+
