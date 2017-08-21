@@ -3,6 +3,7 @@
 - Attempt to get my EHR and write / publish my experience.
 - Write and publish 'Grey Man Style'.
 - Write and publish 'making the pulling down gesture to indicate fucking someone'.
+- Host CTF(s).
 - Make and publish Rehab Bootcamp Landing Page.
 - Write and publish 'Peter Thiel's Favorite Book' (review of The Sovereign Individual).
 - Write and publish 'Failed Minimalism'.
