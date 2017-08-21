@@ -1,16 +1,17 @@
 ### To Do
-- Write and publish 'The Dog Story'.
-- Make and publish Rehab Bootcamp Landing Page.
-- Write and publish 'Peter Thiel's Favorite Book'.
+- Write and publish 'How 9/11 Motived the Development of Google News and Big Data'.
 - Attempt to get my EHR and write / publish my experience.
+- Write and publish 'Grey Man Style'.
+- Write and publish 'making the pulling down gesture to indicate fucking someone'.
+- Make and publish Rehab Bootcamp Landing Page.
+- Write and publish 'Peter Thiel's Favorite Book' (review of The Sovereign Individual).
 - Write and publish 'Failed Minimalism'.
-- Write and publish 'Bush Did Map Reduce' piece.
 - Write and publish 'Are You An Advanced Basic?' piece.
 - Write and publish 'Quora is the Social Network for Sociopaths' piece.
 - Write and publish 'Feyerabend' story.
 - Define 'Virtual Realism'.
 - Make and publish 'Debugging Iceberg' image.
-- Write and publish Computer Lab 'White Paper'.
+- Develop Computer Lab healthcare ethics document.
 - Write and publish 'Thoughts on Cyberwarfare'.
 - Write and publish 'Comparing Different Videoconferencing Software / Mics'.
 - `django-react-boilerplate`

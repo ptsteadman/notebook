@@ -53,16 +53,16 @@ distributed way without explicitly managing the cost of said distribution. This
 pattern became fundamental to Web 2.0 businesses.  Many web 2.0 companies manage
 their own complexity by using abstractions to efficently offload work to
 different nodes, or process user data to generate value. For example, in 2013
-Facebook used a MapReduce cluster with over eighty powerful servers just
-to compute 'recommended friends'...
+Facebook used a MapReduce cluster with over eighty powerful servers just to
+compute 'recommended friends'...
 
 ...
 
-Reserach I'd like to do: try to contact Amit Singhal (who was recently ousted from Uber due to
-a sexual harrassment accustation at Google), Krishna Bharat, or others involved.
-Read more about MapReduce paper, the development of Hadoop at Yahoo. Determine
-whether or not MapReduce was key to Web 2.0, Big Data. Talk about what comes
-next.
+Reserach I'd like to do: try to contact Amit Singhal (who was recently ousted
+from Uber due to a sexual harrassment accustation at Google), Krishna Bharat, or
+others involved.  Read more about MapReduce paper, the development of Hadoop at
+Yahoo. Determine whether or not MapReduce was key to Web 2.0, Big Data. Talk
+about what comes next.
 
 Good primary sources exist, example: https://youtu.be/mTBShTwCnD4?t=2m
 
