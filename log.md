@@ -797,3 +797,20 @@ difficult systems and now I have some time to write.
 
 Family names are visible in the world. They're an obvious form of information
 that people seem to willfully ignore. I feel fragile.
+
+### Monday, August 21st 2017
+
+"It is as their proud product that Podhoretz presents himself, and he obviously
+hoped to retain the approval of these people, as he had done so often in the
+past, by daring to write something they were afraid to write. He believed that
+they would admire his courage, recognize the justice of his account, forgive any
+indiscretions he may have committed, and, freed at last from a stifling
+hypocrisy, embrace him and the book. Many writers have tried this kind of thing.
+It never works."
+
+
+"...there is an implicitly observed and tacitly enforced distinction between what
+counts as success and what counts as selling out. (In no profession does owning
+an apartment on West End Avenue constitute selling out.) There is a sociology of
+intellectual life. Podhoretz’s mistake was to overgeneralize from his own
+experience."
