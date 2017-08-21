@@ -1,4 +1,4 @@
-# How 9/11 Motivated Google News, MapReduce, and Big Data
+# How 9/11 Motivated Google News and Big Data
 
 Pitch: How 9/11 Motivated the Development of Google News and Big Data
 
