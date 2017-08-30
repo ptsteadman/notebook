@@ -814,3 +814,10 @@ counts as success and what counts as selling out. (In no profession does owning
 an apartment on West End Avenue constitute selling out.) There is a sociology of
 intellectual life. Podhoretz’s mistake was to overgeneralize from his own
 experience."
+
+### Tuesday, August 29th 2017
+
+Experiencing a nice income shock, despite the fact that my thoughts about lab
+are going through a reorganization. Hopefully I can put in the time necessary
+to pitch these pieces.  I am interested in 'get rich quick' schemes. Because
+you really can get rich quick.
