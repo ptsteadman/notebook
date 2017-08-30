@@ -4,10 +4,10 @@ Feyerabend's driver slowed the car to a crawl, trying to find her address in the
 dark.  Feyerabend was very conscious of the sounds of the hot vehicle and her
 own small movements.
 
-They stopped in front an academic-looking building, set back in a stand of oak
-trees.  The driver showed Feyerabend around her new apartment, struggling to
-explain obvious things about the fixtures. Feyerabend felt stunned by the quiet
-when he left.
+They stopped in front an academic-looking building, set back amid oak trees.  The
+driver showed Feyerabend around her new apartment, struggling to explain
+obvious things about the fixtures. Feyerabend felt stunned by the quiet when he
+left.
 
 <hr>
 
@@ -23,19 +23,18 @@ There would be a lot to talk about.
 
 <hr>
 
-Feyerabend felt like she was in high school, on summer vacation.  She was used
-to being almost perfectly focused, trying to learn everything she could about
-her chosen passion, formal grammar.  She had spent ten years of her life in
-universities, focused.  When her classmates went out to jobs, they had always
-treated her with a bit of pity, asking questions like "what type of applications
-do you see for your work?"
+Feyerabend was used to being almost perfectly focused, trying to learn
+everything she could about her chosen passion, formal grammar.  She had spent
+ten years of her life in universities, focused.  When her classmates went out
+to jobs, they had always treated her with a bit of pity, asking questions like
+"what type of applications do you see for your work?"
 
 When Feyerabend finally left academia and got a job, she put most of her effort
 into independent research and correspondence.  She got involved with the direct
-semantic IO project, submitting the more RFCs than anyone else.
+semantic IO project.
 
 Just a few weeks after starting work at a machine learning company, she recieved
-an email from Addision Chen, inviting her to work on direct semantic IO in
+an email from Abby Chen, inviting her to work on direct semantic IO in
 Warsaw.  It was the happiest moment of Feyerabend's life.  She sent a letter of
 resignation minutes later.
 
@@ -104,15 +103,15 @@ struggled to not complete his sentences.  As the researcher was showing
 Feyerabend the improvements he had developed, a middle-aged woman came into the
 room, saying "hello!" loudly to announce herself.
 
-"Leah, meet Addison," said the French researcher.
+"Leah, meet Abby," said the French researcher.
 
-"Wow," said Feyerabend, shaking Addison's hand lightly.  "Great to meet to you
+"Wow," said Feyerabend, shaking Abby's hand lightly.  "Great to meet to you
 in person, finally."
 
-Feyerabend recognized that Addison was attractive, something she had not
+Feyerabend recognized that Abby was attractive, something she had not
 expected.  She was surprised at how starstruck she felt.
 
-Addision quickly outlined a plan for the next few weeks, a plan that would
+Abby quickly outlined a plan for the next few weeks, a plan that would
 onboard Feyerabend, and get her working effectively with the CBI.
 
 
@@ -120,7 +119,7 @@ onboard Feyerabend, and get her working effectively with the CBI.
 
 That evening, Feyerabend treated herself to a celebratory meal at a restaurant
 near her apartment.  Work seemed so perfect.  She would have the whole next week
-to experiment with the CBI, under the supervision of Addison.
+to experiment with the CBI, under the supervision of Abby.
 
 As Feyerabend waited for her food, she used her phone to sign up for things:
 fitness classes, a few expat meetup groups, a recurring vacation week, and
@@ -128,10 +127,10 @@ automated bill payments.  It was hard to imagine ever being unhappy again.
 
 <hr>
 
-Feyerabend brought a notebook to the CBI room the next morning.  Addison arrived
+Feyerabend brought a notebook to the CBI room the next morning.  Abby arrived
 moments later.
 
-"Ready?" said Addison.
+"Ready?" said Abby.
 
 "Yup."
 
@@ -140,7 +139,7 @@ into the calibration pose for me?"
 
 The inside of the new MRI scanner was almost silent.
 
-"Okay.  Here we go," said Addison's voice, from a speaker somewhere.
+"Okay.  Here we go," said Abby's voice, from a speaker somewhere.
 Feyerabend's heart was racing.
 
 "We'll start with a test pulse...now."
@@ -150,7 +149,7 @@ Feyerabend experienced something entirely new.
 "What was that?" laughed Feyerabend, knowing exactly what it was.  So it worked!
 Of course it did.
 
-"A qualia!" said Addison, also laughing.  "Weird, right?"
+"A qualia!" said Abby, also laughing.  "Weird, right?"
 
 What had Feyerabend just experienced?   It was something totally abstract: it
 didn't remind her of anything.
@@ -160,7 +159,7 @@ terms of novelty, was when she had experienced her first orgasm around the age
 of thirteen.  But this was a much quieter, more precise feeling, without
 pleasure or *anything*, really.
 
-"Okay, okay, let's call that one '0', just for fun," said Addision.  "Here comes
+"Okay, okay, let's call that one '0', just for fun," said Abby.  "Here comes
 '1'."
 
 Feyerabend felt an entirely different quiet little thing.
@@ -171,7 +170,7 @@ Feyerabend felt an entirely different quiet little thing.
 
 "Got it," said Feyerabend.  There was no question of confusing the two qualia.
 
-Addison slowly transmitted a binary sequence of qualia encoding the ASCII
+Abby slowly transmitted a binary sequence of qualia encoding the ASCII
 characters for 'HI'.
 
 Feyerabend laughed gleefully.
@@ -182,7 +181,7 @@ According to the French researcher, the focused ultrasound effector was capable
 of producing at least a million different qualia, consistently, thousands of
 times a second.
 
-At lunch in the cafeteria, Addison explained that Feyerabend had the authority
+At lunch in the cafeteria, Abby explained that Feyerabend had the authority
 to develop a useful set of symbol groundings for the qualia, so that they could
 be used as a language, a direct semantic communication channel between the
 computer and brain.  Feyerabend had proposed a number of different hypothetical
@@ -237,10 +236,10 @@ One of Feyerabend's articles of faith was that there was success in smallness.
 Modesty and simplicity had worked well for her and the language.  But extending
 the qualia language to the real world would be messy.  She felt inadequate.
 
-Addison finally rescued her, interrupting a meeting that had dragged on past
+Abby finally rescued her, interrupting a meeting that had dragged on past
 sunset.
 
-"Okay, let's be real here, okay?" said Addison.  "What we're trying to do is
+"Okay, let's be real here, okay?" said Abby.  "What we're trying to do is
 crazy ambitious.  But let's talk about it."
 
 "What is this program going to look like?  We need to get people to associate
@@ -254,7 +253,7 @@ There was a contemplative silence.
 need to map the world onto a sixteen-bit codepoint plane.  It's going to get
 messy."
 
-Addison helped Feyerabend pick out a few programmers, and invited them to
+Abby helped Feyerabend pick out a few programmers, and invited them to
 Warsaw.  Feyerabend set them up in their own room, and told them to build
 whatever they thought would work.
 
@@ -264,7 +263,7 @@ experimental inputs were mounted inside the MRI.  It looked ugly.
 
 Feyerabend used herself as the test subject.
 
-The first thing symbol they grounded was trees, a nod to Addison.  Videos,
+The first thing symbol they grounded was trees, a nod to Abby.  Videos,
 scents, images of trees.  Feyerabend thought back to the trees in her backyard
 growing up, abstract syntax trees, catalogues of trees.  Trees.
 
@@ -303,13 +302,13 @@ wicker chair.
 
 It felt good to be on vacation.
 
-Right before sunset, Addison invited Feyerabend for a walk down the beach.  It
+Right before sunset, Abby invited Feyerabend for a walk down the beach.  It
 was now empty except for a group of art students photographing their friend.
 
-Feyerabend and Addison took off their sandals, and walked through the surf.
-Feyerabend's heart sung as seawater rushed under her feet.
+Feyerabend and Abby took off their sandals, and walked through the surf.
+Feyerabend's heart sung as seawater rushed around her feet.
 
-Addision was talking about the paper they were working on.  It described the
+Abby was talking about the paper they were working on.  It described the
 successful use of the training program with outside volunteers, who were now
 able to receive information from the machine almost instantly, like Feyerabend.
 
@@ -319,12 +318,12 @@ tasks much faster than peers who did not have access to the CBI device.
 It would be a landmark paper.
 
 "We can easily have it done by the end of the summer, I think, and present at
-the ACM conference this fall," said Addison.
+the ACM conference this fall," said Abby.
 
-Feyerabend was quiet.  It was obvious that Addison was saying this in
+Feyerabend was quiet.  It was obvious that Abby was saying this in
 celebration, not looking for feedback.
 
-"I can't thank you enough, Leah," said Addison, after a minute.
+"I can't thank you enough, Leah," said Abby, after a minute.
 
 Feyerabend remained silent.  She felt unable to speak.  She often had this
 feeling after a few hours of focused work on the computer.
@@ -333,19 +332,19 @@ feeling after a few hours of focused work on the computer.
 
 "I'm just tired," said Feyerabend.
 
-Addison stopped walking, and grabbed Feyerabend's arm.  Addison no longer had
+Abby stopped walking, and grabbed Feyerabend's arm.  Abby no longer had
 the demeanor of an effective, social dentist, but looked more liked a confused
 student staring at a problem on a whiteboard.
 
 "We've been working together for what, three years, in various forms?  Online.
-Right?" said Addison.
+Right?" said Abby.
 
 "Yeah," said Leah.
 
 "So, I just want you to know that you can talk to me about whatever you want.
 We're your support network, here."
 
-"Thanks," said Feyerabend.  She made sure to make eye contact with Addison.
+"Thanks," said Feyerabend.  She made sure to make eye contact with Abby.
 
 "I really appreciate that," Feyerabend said.
 
@@ -356,5 +355,5 @@ downstairs, but decided against it, and got in bed.
 She comforted herself with the fact that in her old age, it would probably be
 possible to fall fully and deeply in love with a computer program.  She did
 deserve love, she knew.  She fell asleep listening to the sound of waves,
-thinking about Addison Chen.
+thinking about Abby Chen.
 
