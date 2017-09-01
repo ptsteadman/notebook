@@ -50,10 +50,19 @@ be superior archives of egg distributions.  Using the `--no-binary` flag, I
 suppose, causes it to find the native apt package or something, and deal with
 the .20 version of the `.so` file. 
 
+## Pandas
+
+
+## Testing
+
+`nosetests -s -vv` to view stdout 
+`self.inpath = tempfile.TemporaryDirectory()`
+
 ## Random
 
 - no case statement
 - snake_case for variables and functions
 - tuples are immutable (makes sense), represent structure
 - get index of tuple element: tup.index('hello')
+
 
