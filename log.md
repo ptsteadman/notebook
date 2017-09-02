@@ -821,3 +821,11 @@ Experiencing a nice income shock, despite the fact that my thoughts about lab
 are going through a reorganization. Hopefully I can put in the time necessary
 to pitch these pieces.  I am interested in 'get rich quick' schemes. Because
 you really can get rich quick.
+
+### Friday, September 1st 2017
+
+Signed lease for another year in my current apartment at $570/month. The
+interest in "get rich quick" schemes is and was stupid. Reading, learning and
+writing is a much better thing to obsess about. Luckily in my time with Emily I
+have been reading a lot more. We were talking about how to externally impose
+discipline. How could I do that?
