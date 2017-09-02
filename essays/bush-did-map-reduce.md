@@ -1,5 +1,32 @@
 # How 9/11 Inspired Big Data
 
+Headline: How 9/11 Inspired Google News (and MapReduce)
+
+I explain the link between 9/11, the creation of Google News, and the development of big data
+frameworks (ex. MapReduce) eventually used by web 2.0 companies.
+
+The first two paragraphs:
+
+On the morning of September 11th, 2001, Amit Singhal, director of search quality at Google, was at a
+conference in upstate New York. As the public searched for news about the attacks on the Twin
+Towers, Amit and his colleagues realized that Google was dramatically failing to meet the nation's
+information needs. Searches for "World Trade Center" led to pages about the architecture of the
+now-destroyed towers, or the lunch menu at the Windows on the World restaurant.
+
+In 2001, Google was only able to index the internet about once a month. As a result, the index used
+to fulfill searches did not reflect the current, dramatically different state of the world.
+
+Source for the above: https://youtu.be/mTBShTwCnD4?t=2m
+
+I'd like to interview Amit, who was recently ousted from Uber due to a sexual harassment scandal.
+I've spoken with him before.
+
+Thanks,
+Patrick
+
+---
+
+
 Pitch: How 9/11 Inspired Google News
 
 Hello ----,
