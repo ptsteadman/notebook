@@ -1,6 +1,6 @@
-Pitch: Please Consider Chemically Castrating Yourself
+Pitch: Sexually Frustrated? Consider Chemically Castrating Yourself
 
-Headline: Please Consider Chemically Castrating Yourself
+Headline: Sexually Frustrated? Consider Chemically Castrating Yourself
 
 I explain why more men should consider chemically castrating themselves through
 use of FDA-approved drugs like Depo-Provera, even if they aren't sex offenders.
