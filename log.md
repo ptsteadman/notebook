@@ -829,3 +829,10 @@ interest in "get rich quick" schemes is and was stupid. Reading, learning and
 writing is a much better thing to obsess about. Luckily in my time with Emily I
 have been reading a lot more. We were talking about how to externally impose
 discipline. How could I do that?
+
+
+### Sunday, September 10th 2017
+
+"The sophisticated testing of effective and lasting memes, for example the
+birther movement, can then collect uncritical citizens like real birds in
+digital cages and move the cages into desired positions."

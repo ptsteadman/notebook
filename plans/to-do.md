@@ -1,5 +1,4 @@
 ### To Do
-- Write and publish 'How 9/11 Motived the Development of Google News and Big Data'.
 - Attempt to get my EHR and write / publish my experience.
 - Write and publish 'Grey Man Style'.
 - Write and publish 'Please Consider Chemically Castrating Yourself'
