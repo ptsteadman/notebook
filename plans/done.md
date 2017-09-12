@@ -12,3 +12,4 @@
 - ~~Millennial BSO~~
 - ~~MR_BOTS v2 on PaaS, simplified.~~
 - ~~Cowrite and publish 'A Critique of Vulnerability'.~~
+- ~~Write and publish 'How 9/11 Motived the Development of Google News and Big Data'.~~

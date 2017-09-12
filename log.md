@@ -857,3 +857,9 @@ underlying problem.
 Oh yeah, I also dreamed that the screen on this computer was broken.
 
 I should (after some research) apply to that writing program.
+
+### Sunday, September 10th 2017
+
+"The sophisticated testing of effective and lasting memes, for example the
+birther movement, can then collect uncritical citizens like real birds in
+digital cages and move the cages into desired positions."

@@ -1,4 +1,4 @@
-TOWARDS MY FIRST PRINCIPLES OF LITERATURE 
+MY FIRST PRINCIPLES OF LITERATURE
 
 -------------------------------------------------------------------------------
 
@@ -25,11 +25,11 @@ Table of Contents
 These are the concepts that I have about literature.
 1. Seductiveness
 2. Recogntion
-3 
+3
 
 
 
-A story is made up of characters.  Characters have sounds and make up words, 
+A story is made up of characters.  Characters have sounds and make up words,
 and words asdf asdf asdf.  Words needs to be seductive.
 Sometimes you have ideas.  They can help.
 
@@ -37,7 +37,7 @@ Examples of ideas that I find interesting:
 
 
 All words are strings but not all strings are words.  The difference between a
-word and a string is that a word will seduce someone, somewhere.  
+word and a string is that a word will seduce someone, somewhere.
 
 Interesting Sentence Structures:
 The Triad: {0} ... {1} ... {2}
@@ -47,7 +47,7 @@ Allows for the sort of self-qualifying statement that you like.
 Exhortations to self
 EXHORTATIONS TO SELF
 should
-should 
+should
 should
 
 conversation between two people who are exhorting themselves:
