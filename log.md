@@ -830,6 +830,33 @@ writing is a much better thing to obsess about. Luckily in my time with Emily I
 have been reading a lot more. We were talking about how to externally impose
 discipline. How could I do that?
 
+### Wednesday, September 6th 2017
+
+Typing from my new GPD Pocket computer. I think this is the beginning of really
+not using the paper notebook anymore. 
+
+### Thursday, September 7th 2017
+
+The keyboard on the GPD has weird sensitivity issues, but hopefully I can figure
+it out or replace the keyboard. Should be fine.
+
+Flying to Canada today with Emily. I hope we have a good time, and I actually
+pitch and write these things. 
+
+### Saturday, September 9th 2017
+
+Had dreams about school and violence again, similar to those that I write about
+in College Memoir. The pattern is always: responding to the feeling that I
+didn't get the chance to do my best by petty rebellion. I'm not sure if the
+underlying problem is always feeling like I didn't do my best, or the response
+of petty rebellion instead of begging. Hard to say.
+
+It's interesting how brutal and unforgiving school is. Maybe that's the
+underlying problem. 
+
+Oh yeah, I also dreamed that the screen on this computer was broken.
+
+I should (after some research) apply to that writing program.
 
 ### Sunday, September 10th 2017
 
