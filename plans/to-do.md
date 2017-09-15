@@ -4,6 +4,7 @@
 - Write and publish 'Please Consider Chemically Castrating Yourself'
 - Make and publish Rehab Bootcamp Landing Page.
 - Write and publish 'making the pulling down gesture to indicate fucking someone'.
+- Write and publish about how venture capitalism is just socially acceptable nepotism.
 - Host CTF(s).
 - Write and publish 'Peter Thiel's Favorite Book' (review of The Sovereign Individual).
 - Write and publish 'Failed Minimalism'.
