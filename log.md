@@ -863,3 +863,13 @@ I should (after some research) apply to that writing program.
 "The sophisticated testing of effective and lasting memes, for example the
 birther movement, can then collect uncritical citizens like real birds in
 digital cages and move the cages into desired positions."
+
+### Saturday, September 24th 2017
+
+I'm back in New York, with one accepted pitch. I think one thing I've realized
+is that I've been using money thoughts to distract from my frustrated desire to
+realize projects. It's easier to fantasize about accumulating money than taking
+the risks and fatigue to get projects like the ctf and the different essays
+done. It's also a way to justify compromise. Two years in, I shouldn't be
+compromising so much. Future client projects should be something I'll be proud
+of and should pay well.

@@ -26,6 +26,8 @@ Thanks,
 Patrick
 
 ---
+https://youtu.be/Kp7hkmSUOoY?t=18m00s
+https://thebaffler.com/latest/mouthbreathing-machiavellis
 
 Quotes
 
