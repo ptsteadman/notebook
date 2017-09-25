@@ -24,3 +24,5 @@ To exit a frozen ssh session, `ENTER`, `~`, `.`.
 Remove old kernels (important with encrypted drives...) `sudo apt-get autoremove --purge`
 
 Recursively binwalk files / directories: `find PxNc/ -type f -print0 | xargs -0 binwalk > binwalk.txt`
+
+`sudo ufw allow/deny 22`
