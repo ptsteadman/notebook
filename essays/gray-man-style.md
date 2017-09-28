@@ -23,19 +23,14 @@ I want to look into:
 
 1. What's a gray man?
 
-Gray man style is a school of thought developed by survivalists who want to
-conceal their skills, weapons, and goals by blending into their surroundings.
-Promoters of gray man style dismiss 'shoot-me-first' tactical gear as a form of
-virtue signaling, and instead favor multi-modal dress that will help them avoid
-attention until it is time to use force. Some 'gray man directives' include:
-avoid having a noticeable scent, wear this messenger bag instead of a backpack;
-if you're a woman: don't arch your back.
-
-The notion of the gray man was developed largely by preppers and survivalists as
-a response to a fantasy urban survival scenario. SurvivialThinkTank.com defines
-a 'gray man' as 'an individual who possesses the skills, ability and intent to
-blend into any situation or surrounding without standing out, concealing his or
-her true skills, ability, and intent from others.'
+SurvivialThinkTank.com defines a 'gray man' as 'an individual who possesses the
+skills, ability and intent to blend into any situation or surrounding without
+standing out, concealing his or her true skills, ability, and intent from
+others.' Promoters of gray man style dismiss 'shoot-me-first' tactical gear as a
+form of virtue signaling, and instead favor multi-modal dress that will help
+them avoid attention until it is time to use force. Some 'gray man directives'
+include: avoid having a noticeable scent, wear this messenger bag instead of a
+backpack; if you're a woman: don't arch your back.
 
 dorky-looking messenger bag designed for rapid drawing of firearm and armor
 plating
@@ -69,8 +64,6 @@ sex?"
 
 socially determined
 
-2. The multi-modal nature of gray man.
-
 SurvivalThinkTank expands the idea of the gray man to a context-dependent
 "directive" broken up into four phases. Each of the four phases corresponds to a
 general threat level, from present-day small town Main Street to full on road
@@ -96,41 +89,47 @@ Where does the gray man concept come from? Does it come from a three-letter
 agency, is it survivalist copypasta, or just common sense? Do people actually
 practice gray man?
 
+The notion of the gray man was developed largely by preppers and survivalists as
+a response to a fantasy urban survival scenario. 
+
 4. The fashion industry and gray man
 
 When I described the gray man concepts to my friends, most of them immediately
 said something along the lines of "so this is normcore for
-preppers/racists/republicans". Another friend said that gray man is "weaponized
-normcore". And it's true: the abstract footprint of gray man is very similar to
-the normcore idea as it was originally defined by K-HOLE[1]. (Note that this
-abstract footprint is quite different to how normcore has been implemented by
-the fashion and culture industries.) But normcore differs from gray man in one
-key respect: the motivation behind each practice. K-HOLE says that normcore is
-"a path to a more peaceful life", through the realization that "adaptability
-leads to belonging and connection". Some stated motivations behind gray man
-include "staying alive", "avoiding kinetic confrontation", and "[staving] the
-impending onslaught of self-appointed have-nots". I think many of the
-motivations for the development of the gray man idea stem from an urban survival
-fantasy scenario. For example, [2]. Dealing with the fact that survival is
-socially determined, not individualistic. They want to have their cake, and not
-have it be eaten by others.
+preppers/racists/republicans". And it's true: the abstract concept of gray man
+is very similar to the concept of normcore as it was originally defined by
+K-HOLE[1].  (Note that this abstract concept is quite different to how normcore
+has been implemented in culture.) But normcore differs from gray man in one key
+respect: the ostensible motivations behind each concept and associated practice.
+K-HOLE says that normcore is "a path to a more peaceful life", through the
+realization that "adaptability leads to belonging and connection". Some stated
+motivations behind gray man include "staying alive", "avoiding kinetic
+confrontation", and "[staving] the impending onslaught of self-appointed
+have-nots". 
 
-However, you probably know that normcore in practice has been very different
-from K-HOLE's abstract concept. Normcore has a become an immediately
-recognizable look that makes hot cool people look even hotter and cooler. I
-think that the same sort of process is starting to happen with the gray man
-concept. Apparel companies are capturing the power of the gray man idea and
-distilling it into a "look". Here's some examples:
+For example, [2]. Dealing with the fact that survival is socially determined,
+not individualistic. Survivalists live in the 'real world'.
+
+Normcore has a become an immediately recognizable look that makes cool people
+look even cooler. I think that the same sort of process is starting to happen
+with the gray man concept. Apparel companies are capturing the power of the gray
+man idea and distilling it into a "look".
 
 What's the % of clothing that is 'tactical'.
 
+Normcore in practice has come to be a way of signaling one's deep coolness. Gray
+man style in practice will be a way to signal one's deep uncoolness.
 
 5. Who can be a gray man?
 
-"supply runs" vs looting
+Writing about the gray man concept seems to usually make the assumption that the
+reader is capable of being the gray man. The two main body factors that are
+typically discussed as factors that would make it difficult to be gray area
+being unusually short or tall, or being a woman who attracts sexual attention.
+
+o "supply runs" vs looting
 Obviously, just from the name, the gray man concept is pretty fucked from a
-social justice perspective.
-"getting supplies" -> white man's looting
+social justice perspective.  "getting supplies" -> white man's looting
 
 6. The gray rescuer, the gray bloc
 
