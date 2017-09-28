@@ -873,3 +873,47 @@ the risks and fatigue to get projects like the ctf and the different essays
 done. It's also a way to justify compromise. Two years in, I shouldn't be
 compromising so much. Future client projects should be something I'll be proud
 of and should pay well.
+
+### Wednesday, September 27th 2017
+
+Very sad about the end of the year coming. I'm feeling more lost than when I was
+really focused about Computer Lab. I'm still very focused but that's because now
+it comes pretty easy to me. And that's why I've been shifting my efforts to
+writing, for a new way to keep myself focused and working, a new thing to obsess
+about. When I think about Emily and myself it reminds me of a pigeon couple. I
+imagine us bobbing our heads, half-ignoring each other as we move about my home.
+Work is the same. 
+
+The most important thing I feel is that I'm running out of time. However there
+is no plan in time towards getting what I desire, so my desires have become
+sacred. I should mentioned that I just finished reading debt. I'm flying to St.
+Louis for Strangeloop, I'll be in the airport overnight. Instead of an apparatus
+of hopelessness I experience the economy as an apparatus of speculative
+delusion. Also sort of hopeless.
+
+TODO
+1hr Gray Man DONE
+Edit Story
+1hr Lasor DONE
+1hr DG 
+
+### Thursday, September 28th 2017
+
+Feeling a little better. Last night I went out in Chicago alone. It felt good to
+drink but it's too bad the bars close at 2am. So I basically wasted $50 on an
+uber to go get two drinks in a boring part of town.
+
+Emily had a good point that maybe I'm feeling like this because I haven't had
+enough alone time. Of course now that I'm in some difficulty again I start
+writing in the notebook.
+
+I thought more about the "Ten Years Cold Window" concept. I think that, and some
+vain desires, are what I'm avoiding.
+
+Fuck, I need to make friends at this thing too.
+
+TODO
+1hr Gray Man
+1hr DG
+Plan tomorrow's talks
+
