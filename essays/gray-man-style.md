@@ -74,9 +74,10 @@ and supplies will be normal, and thus gray. It's also noted that situations can
 rapidly escalate.
 
 The idea of Gray Man Style is that in a "shit hits the fan" scenario, you don't
-want to stand out, you want to blend in. But you also want to have the weapons,
-tools, and supplies you need to survive. So, one aspect of gray man style is
-that it's intensely utilitarian.
+want to stand out, but you also want to have the weapons, tools, and supplies
+you need to survive. This begs the obvious question: why be a survivalist
+anyways, if it can be such a liability? So, one aspect of gray man style is that
+it's intensely utilitarian.
 
 Multi-modal
 
