@@ -915,5 +915,58 @@ Fuck, I need to make friends at this thing too.
 TODO
 1hr Gray Man
 1hr DG
-Plan tomorrow's talks
+Plan tomorrow's talks DONE
 
+### Friday, September 29th 2017
+
+TODO
+LASOR contract DONE
+1hr Gray Man
+
+Amazing Allison Parish talk.
+TIC: trusted internet connection
+EINSTEIN: classified IDS
+
+### Saturday, September 30th 2017
+
+TODO
+1hr Gray Man
+
+Dependent Types in Haskell
+Regular expression type includes an Occurance Map
+1. Compile-time Parsing
+GHCI: interactive compiler environment for haskell
+2. Indexed Types: type indics constrain values and guide computation
+GDAT: Generalized Algebraic Data Types
+Big Two Vanity Metrics: revenue and number of employees
+3. Double-Duty Data: type data at runtime and compile time
+Idris, Agda, Coq have dependent types
+4. Equivalence Proofs
+
+Industrial Fermentation: organization produces chemical
+100,000 gallons of fermentation: economics
+Atheoretic approach to microbial engineering (search algorithm)
+Mutating a single base pair SNP (single-nucleotide polyorphism)
+plasmid: circle of single-stranded dna
+crossover: the protein replicating the cell's dna reads the plasmid instead of
+the dna itself
+Codon -> Helix: specification of experiment -> instructions for the factory
+
+"how does it work?" "how does it stay safe" are two concerns
+"If your DSL needs its own utility scripts, consider creating a library"
+Just because you're using ASTs doesn't mean you need a DSL
+
+FEMTOCODE
+Particle Physics Programming
+
+The Protection of Information in Computer System
+"The operations we perform use the structure of the data to perform queries"
+"the flexibility must carry through to the final analysis"
+
+"If, despite the small chance of success, the profession of artist is so
+popular, it is because it offers the prospect of a labor that is apparently free
+of narrow specialization, allowing the artist, like heroes and heroines in the
+movies, to endow work and life with their own meanings."
+Julian Stallabrass
+
+ 
