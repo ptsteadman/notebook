@@ -23,14 +23,30 @@ I want to look into:
 
 1. What's a gray man?
 
-SurvivialThinkTank.com defines a 'gray man' as 'an individual who possesses the
+SurvivialThinkTank.com defines a "gray man" as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
 standing out, concealing his or her true skills, ability, and intent from
-others.' Promoters of gray man style dismiss 'shoot-me-first' tactical gear as a
-form of virtue signaling, and instead favor multi-modal dress that will help
-them avoid attention until it is time to use force. Some 'gray man directives'
-include: avoid having a noticeable scent, wear this messenger bag instead of a
-backpack; if you're a woman: don't arch your back.
+others." Promoters of gray man style dismiss overt tactical gear as a
+"shoot-me-first" signal, and instead favor multi-modal dress that will help them
+avoid attention until it's necessary to use force.
+
+For an example of 
+
+
+Some 'gray man
+directives' include: avoid having a noticeable scent, wear this messenger bag
+instead of a backpack; if you're a woman: don't arch your back.
+
+Examples
+
+SurvivalThinkTank expands the idea of the gray man to a context-dependent
+"directive" broken up into four phases. Each of the four phases corresponds to a
+general threat level, from present-day small town Main Street to full on road
+warrior situation. For SurvivalThinkTank, the key tradeoff for the gray man is
+between Stealth and Firepower/Kit. The transition from phase 0 to phase 3 is
+assumed to be inevitable, and as that as society breaks down, carrying firearms
+and supplies will be normal, and thus gray. It's also noted that situations can
+rapidly escalate.
 
 dorky-looking messenger bag designed for rapid drawing of firearm and armor
 plating
@@ -64,26 +80,13 @@ sex?"
 
 socially determined
 
-SurvivalThinkTank expands the idea of the gray man to a context-dependent
-"directive" broken up into four phases. Each of the four phases corresponds to a
-general threat level, from present-day small town Main Street to full on road
-warrior situation. For SurvivalThinkTank, the key tradeoff for the gray man is
-between Stealth and Firepower/Kit. The transition from phase 0 to phase 3 is
-assumed to be inevitable, and as that as society breaks down, carrying firearms
-and supplies will be normal, and thus gray. It's also noted that situations can
-rapidly escalate.
 
-The idea of Gray Man Style is that in a "shit hits the fan" scenario, you don't
-want to stand out, but you also want to have the weapons, tools, and supplies
-you need to survive. This begs the obvious question: why be a survivalist
+This begs the obvious question: why be a survivalist
 anyways, if it can be such a liability? So, one aspect of gray man style is that
 it's intensely utilitarian.
 
-Multi-modal
-
-Therefore gray man clothing is often 'transformable' in some way, in order to
-swtich between contexts.
-
+So, what's the difference between gray man and the practices of undercover
+agents? For example, consider this tweet thread from Chelsea Manning:   
 3. Where does gray man come from?
 
 Where does the gray man concept come from? Does it come from a three-letter
@@ -139,12 +142,8 @@ to stay?" you can easily respond with "I am looking for [my brother.]" [6]
 
 "Don't play the hero or the villain." [4]
 
-
 ---
 
-
-There’s a theory that a man’s style is just a reiteration of what he wore the
-last time he was “really getting laid” — thus the cargo shorts. 
 
 
 1. http://khole.net/issues/youth-mode/
