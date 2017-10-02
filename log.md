@@ -930,7 +930,7 @@ EINSTEIN: classified IDS
 ### Saturday, September 30th 2017
 
 TODO
-1hr Gray Man
+1hr Gray Man DONE
 
 Dependent Types in Haskell
 Regular expression type includes an Occurance Map
@@ -969,4 +969,41 @@ of narrow specialization, allowing the artist, like heroes and heroines in the
 movies, to endow work and life with their own meanings."
 Julian Stallabrass
 
- 
+### Sunday, October 1st 2017 
+
+TODO
+1hr Gray Man
+Castration research
+1hr Auth0 stuff
+Artists info
+
+Wassily Kandinsky:  On the Spiritual in Art, The Blue Rider
+
+Der Blaue Reiter lacked an artistic manifesto, but it was centered on Kandinsky
+and Marc. Paul Klee was also involved.
+
+Wassily Kandinsky, Der Blaue Reiter, 1903 The name of the movement is the title
+of a painting that Kandinsky created in 1903, but it is unclear whether it is
+the origin of the name of the movement, as Professor Klaus Lankheit learned that
+the title of the painting had been overwritten.[1] Kandinsky wrote 20 years
+later that the name is derived from Marc's enthusiasm for horses and Kandinsky's
+love of riders, combined with a shared love of the colour blue. 
+
+His work was exhibited in state-sponsored exhibit "Degenerate Art" and then
+destroyed.
+
+
+Nara Yoshitomo: the large fruit like faces
+
+Shinsui Itō: came to be known as a specialist in the bijin-ga ("picture[s] of
+beautiful women") genre
+Hasegawa Kiyoshi: the quiet bird and the little hourglass
+Joan Miro: the black lines and boubas and kikis
+the bottom of the pool at the hotel where snowden stayed in hong kong sparkles
+like the neck of a pigeon
+
+Die Brucke: the bridge
+Max Breckman: the catfish with the face of a cat
+Henry Moore: the sims sculpture
+Karl Schinkel
+Jean DeBuffet: the weird masks you made in middle school
