@@ -1029,7 +1029,8 @@ TODO
 1hr Auth0
 1hr Lasor
 Swim
-Clean
+Clean Home
+Clean Lab
 
 I am drinking too much. Need to only drink on the weekend. 
 Anti-inflammatory diet will also be good for me.
