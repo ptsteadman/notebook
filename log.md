@@ -973,9 +973,9 @@ Julian Stallabrass
 
 TODO
 1hr Gray Man
-Castration research
+Castration research DONE
 1hr Auth0 stuff
-Artists info
+Artists info DONE
 
 Wassily Kandinsky:  On the Spiritual in Art, The Blue Rider
 
@@ -992,7 +992,6 @@ love of riders, combined with a shared love of the colour blue.
 His work was exhibited in state-sponsored exhibit "Degenerate Art" and then
 destroyed.
 
-
 Nara Yoshitomo: the large fruit like faces
 
 Shinsui Itō: came to be known as a specialist in the bijin-ga ("picture[s] of
@@ -1007,3 +1006,19 @@ Max Breckman: the catfish with the face of a cat
 Henry Moore: the sims sculpture
 Karl Schinkel
 Jean DeBuffet: the weird masks you made in middle school
+
+Butler Miller (drink)
+a very clean and acoustically comfy dive bar
+
+### Monday, October 2nd 2017
+
+TODO
+1hr Gray Man
+Invoice
+1hr Auth0
+1hr LASOR
+Debt Notes
+
+Thinking about Emily.
+Met Jor. Wonder what it is about her videos.
+

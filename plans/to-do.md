@@ -1,7 +1,7 @@
 ### To Do
 - Write and publish 'Grey Man Style'.
 - Attempt to get my EHR and write / publish my experience.
-- Write and publish 'Please Consider Chemically Castrating Yourself'
+- Write and publish 'Sexually Frustrated? Please Consider Chemically Castrating Yourself'
 - Make and publish Rehab Bootcamp Landing Page.
 - Write and publish 'making the pulling down gesture to indicate fucking someone'.
 - Write and publish about how venture capitalism is just socially acceptable nepotism.

@@ -17,7 +17,7 @@ discussion of future possibilities.
 5. What has been the historical role of castrated men (eunuchs) in society?
 6. What role might voluntarily castrated men play in the future?
 
-Proposed deadline: September 23th
+Proposed deadline: October 23rd
 
 ---
 
@@ -48,4 +48,19 @@ live much longer than men with intact genitals.
 
 testosterone is an immune system suppressor
 
+https://www.reddit.com/r/casualiama/comments/1eqprc/i_am_a_man_who_had_myself_chemically_castrated/#bottom-comments
 
+
+I just thought I'd be happier knowing I wouldn't feel any desire for what I was
+missing. It's like if you missed a Spice Girls concert. Even if some people
+would foam at the mouth for it, would you really care?
+
+
+As a gay dude raised in the conservative south, I heavily considered this
+option. I am a serial realist, not a crusader. I just want to live a life as
+normal as possible, and while I support gay rights, I realize we are decades
+away from true and actual 100% equality and by the time it happens I will be
+elderly or dead. Ridding myself of my sexual urges would have taken care of
+this. Society doesn't have a particular problem with a-sexuals ya know?
+
+http://www.eunuch.org/
