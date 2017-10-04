@@ -873,3 +873,164 @@ the risks and fatigue to get projects like the ctf and the different essays
 done. It's also a way to justify compromise. Two years in, I shouldn't be
 compromising so much. Future client projects should be something I'll be proud
 of and should pay well.
+
+### Wednesday, September 27th 2017
+
+Very sad about the end of the year coming. I'm feeling more lost than when I was
+really focused about Computer Lab. I'm still very focused but that's because now
+it comes pretty easy to me. And that's why I've been shifting my efforts to
+writing, for a new way to keep myself focused and working, a new thing to obsess
+about. When I think about Emily and myself it reminds me of a pigeon couple. I
+imagine us bobbing our heads, half-ignoring each other as we move about my home.
+Work is the same. 
+
+The most important thing I feel is that I'm running out of time. However there
+is no plan in time towards getting what I desire, so my desires have become
+sacred. I should mentioned that I just finished reading debt. I'm flying to St.
+Louis for Strangeloop, I'll be in the airport overnight. Instead of an apparatus
+of hopelessness I experience the economy as an apparatus of speculative
+delusion. Also sort of hopeless.
+
+TODO
+1hr Gray Man DONE
+Edit Story
+1hr Lasor DONE
+1hr DG 
+
+### Thursday, September 28th 2017
+
+Feeling a little better. Last night I went out in Chicago alone. It felt good to
+drink but it's too bad the bars close at 2am. So I basically wasted $50 on an
+uber to go get two drinks in a boring part of town.
+
+Emily had a good point that maybe I'm feeling like this because I haven't had
+enough alone time. Of course now that I'm in some difficulty again I start
+writing in the notebook.
+
+I thought more about the "Ten Years Cold Window" concept. I think that, and some
+vain desires, are what I'm avoiding.
+
+Fuck, I need to make friends at this thing too.
+
+TODO
+1hr Gray Man
+1hr DG
+Plan tomorrow's talks DONE
+
+### Friday, September 29th 2017
+
+TODO
+LASOR contract DONE
+1hr Gray Man
+
+Amazing Allison Parish talk.
+TIC: trusted internet connection
+EINSTEIN: classified IDS
+
+### Saturday, September 30th 2017
+
+TODO
+1hr Gray Man DONE
+
+Dependent Types in Haskell
+Regular expression type includes an Occurance Map
+1. Compile-time Parsing
+GHCI: interactive compiler environment for haskell
+2. Indexed Types: type indics constrain values and guide computation
+GDAT: Generalized Algebraic Data Types
+Big Two Vanity Metrics: revenue and number of employees
+3. Double-Duty Data: type data at runtime and compile time
+Idris, Agda, Coq have dependent types
+4. Equivalence Proofs
+
+Industrial Fermentation: organization produces chemical
+100,000 gallons of fermentation: economics
+Atheoretic approach to microbial engineering (search algorithm)
+Mutating a single base pair SNP (single-nucleotide polyorphism)
+plasmid: circle of single-stranded dna
+crossover: the protein replicating the cell's dna reads the plasmid instead of
+the dna itself
+Codon -> Helix: specification of experiment -> instructions for the factory
+
+"how does it work?" "how does it stay safe" are two concerns
+"If your DSL needs its own utility scripts, consider creating a library"
+Just because you're using ASTs doesn't mean you need a DSL
+
+FEMTOCODE
+Particle Physics Programming
+
+The Protection of Information in Computer System
+"The operations we perform use the structure of the data to perform queries"
+"the flexibility must carry through to the final analysis"
+
+"If, despite the small chance of success, the profession of artist is so
+popular, it is because it offers the prospect of a labor that is apparently free
+of narrow specialization, allowing the artist, like heroes and heroines in the
+movies, to endow work and life with their own meanings."
+Julian Stallabrass
+
+### Sunday, October 1st 2017 
+
+TODO
+1hr Gray Man
+Castration research DONE
+1hr Auth0 stuff
+Artists info DONE
+
+Wassily Kandinsky:  On the Spiritual in Art, The Blue Rider
+
+Der Blaue Reiter lacked an artistic manifesto, but it was centered on Kandinsky
+and Marc. Paul Klee was also involved.
+
+Wassily Kandinsky, Der Blaue Reiter, 1903 The name of the movement is the title
+of a painting that Kandinsky created in 1903, but it is unclear whether it is
+the origin of the name of the movement, as Professor Klaus Lankheit learned that
+the title of the painting had been overwritten.[1] Kandinsky wrote 20 years
+later that the name is derived from Marc's enthusiasm for horses and Kandinsky's
+love of riders, combined with a shared love of the colour blue. 
+
+His work was exhibited in state-sponsored exhibit "Degenerate Art" and then
+destroyed.
+
+Nara Yoshitomo: the large fruit like faces
+
+Shinsui Itō: came to be known as a specialist in the bijin-ga ("picture[s] of
+beautiful women") genre
+Hasegawa Kiyoshi: the quiet bird and the little hourglass
+Joan Miro: the black lines and boubas and kikis
+the bottom of the pool at the hotel where snowden stayed in hong kong sparkles
+like the neck of a pigeon
+
+Die Brucke: the bridge
+Max Breckman: the catfish with the face of a cat
+Henry Moore: the sims sculpture
+Karl Schinkel
+Jean DeBuffet: the weird masks you made in middle school
+
+Butler Miller (drink)
+a very clean and acoustically comfy dive bar
+
+### Monday, October 2nd 2017
+
+TODO
+1hr Gray Man
+Invoice
+1hr Auth0
+1hr LASOR
+Debt Notes
+
+Thinking about Emily.
+Met Jor. Wonder what it is about her videos.
+
+### Wednesday, October 4th 2017
+
+TODO
+1hr Gray Man
+1hr Auth0
+1hr Lasor
+Swim
+Clean
+
+I am drinking too much. Need to only drink on the weekend. 
+Anti-inflammatory diet will also be good for me.
+We are all on an unique journey to understand our bodies.
