@@ -21,29 +21,27 @@ I want to look into:
 
 ---
 
-1. What's a gray man?
+1. What's the gray man concept?
 
 Gray man style is a school of thought developed by survivalists who want to
 conceal their skills, weapons, and goals by blending into their surroundings.
-Promoters of gray man style dismiss 'shoot-me-first' tactical gear as a form of
-virtue signaling, and instead favor multi-modal dress that will help them avoid
-attention until it is time to use force. Some 'gray man directives' include:
-avoid having a noticeable scent, wear this messenger bag instead of a backpack;
-if you're a woman: don't arch your back.
+Promoters of gray man style dismiss ostentatious tactical gear as a form of
+'shoot-me-first' virtue signaling, and instead favor multi-modal dress that will
+help them avoid attention until it is time to use force. Some 'gray man
+directives' include: avoid having a noticeable scent, wear a dorky-looking
+messenger specially designed for armor plating and fast firearm draws; if you're
+a woman: don't arch your back.
 
-The notion of the gray man was developed largely by preppers and survivalists as
-a response to a fantasy urban survival scenario. SurvivialThinkTank.com defines
-a 'gray man' as 'an individual who possesses the skills, ability and intent to
-blend into any situation or surrounding without standing out, concealing his or
-her true skills, ability, and intent from others.'
 
-dorky-looking messenger bag designed for rapid drawing of firearm and armor
-plating
+SurvivialThinkTank.com defines a 'gray man' as 'an individual who possesses the
+skills, ability and intent to blend into any situation or surrounding without
+standing out, concealing his or her true skills, ability, and intent from
+others.'
 
 "cost you your preps or even your life"
 
 "Be cognizant of any smells such as food, soap or gunpowder that someone would
-relate to something they’d want. Try to think about what you do, say or wear
+relate to something they'd want. Try to think about what you do, say or wear
 that may cause a connection to some kind of desire. This is especially important
 for females. When SHTF, there will be very few gentlemen and those in power will
 take what they want, without regard to repercussions. Be cognizant of innuendo
@@ -51,6 +49,7 @@ or movements such as arching your back or physical contact. They may put you in
 a situation that you may not be able to get out of."
 
 "your preps"
+
 Hi-Vis Vests Gets You Into Everything For Free
 Dismissed
 
@@ -92,9 +91,22 @@ swtich between contexts.
 
 3. Where does gray man come from?
 
-Where does the gray man concept come from? Does it come from a three-letter
-agency, is it survivalist copypasta, or just common sense? Do people actually
-practice gray man?
+Where does the gray man concept come from? Does it come from the military, is it
+survivalist copypasta, or just common sense? Do people actually practice gray
+man? 
+
+The earliest reference I could find online to the concept of the gray man is in
+a blogpost on the "Western Rifle Shooters Association" website, alongside
+numberous other articles about firearms, survival, and anti-government politics.
+This piece, authored by someone called Habcap in a Goofus and Gallant style,
+presents gray man as more of an identity than a strategy. Moreover, Habcap
+presents gray man as soething that can be practiced in a group: "[The Gray Man]
+practices with his weaponry in private, or only with his fellow Grey Men, always
+in a secluded location."
+
+Later discussions of the gray man seem to have adapted t largely by
+preppers and survivalists as a response to a fantasy urban survival scenario.
+
 
 4. The fashion industry and gray man
 
@@ -158,3 +170,5 @@ last time he was “really getting laid” — thus the cargo shorts.
 5. https://www.youtube.com/watch?v=u8Af4-gCJ_M
 
 6. https://www.trueprepper.com/becoming-gray-man-skill-constant-camouflage/
+
+7. http://westernrifleshooters.blogspot.com/2007/05/next-steps-grey-man.html
