@@ -1046,6 +1046,6 @@ Groceries DONE
 Lab at 10:30
 Respond to Vice DONE
 1hr Gray Man DONE
-1hr Walkbuy
+1hr Walkbuy DONE
 2hrs Auth0
-1hr LASOR
+1hr LASOR DONE
