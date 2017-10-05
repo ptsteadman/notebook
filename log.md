@@ -1025,13 +1025,15 @@ Met Jor. Wonder what it is about her videos.
 ### Wednesday, October 4th 2017
 
 TODO
-1hr Gray Man
-1hr Auth0
-1hr Lasor
+1hr Gray Man DONE
+1hr Auth0 DONE
+1hr Lasor DONE
 Swim
 Clean Home
-Clean Lab
+Clean Lab DONE
 
 I am drinking too much. Need to only drink on the weekend. 
 Anti-inflammatory diet will also be good for me.
 We are all on an unique journey to understand our bodies.
+
+Good day of work.
