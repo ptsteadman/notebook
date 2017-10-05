@@ -1045,7 +1045,7 @@ Swim DONE
 Groceries DONE
 Lab at 10:30
 Respond to Vice DONE
-1hr Gray Man
+1hr Gray Man DONE
 1hr Walkbuy
 2hrs Auth0
 1hr LASOR

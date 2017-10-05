@@ -24,23 +24,24 @@ I want to look into:
 SurvivialThinkTank.com defines a "gray man" as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
 standing out, concealing his or her true skills, ability, and intent from
-others." Gray man is a concept developed by survivalists who have considered the
-social realities of a deteriorating society, and decided that'd rather not
-broadcast their prepper identities. Promoters of gray man style dismiss overt
-tactical gear as a "shoot-me-first" signal, and instead favor multi-modal dress
-that will help them avoid attention until it's time to use force.
+others." Gray man is a concept developed by realist, optics-conscious
+survivalists who've decided that'd rather not broadcast their prepper
+identities. Promoters of gray man style dismiss overt tactical gear as a
+"shoot-me-first" signal, and instead favor multi-modal dress that will help them
+avoid attention until it's time to use force.
 
 You probably know what a "bug out bag" is. The New York Times recently wrote a
 piece about the state-of-the-art bug out bags available on Amazon. Many of these
 include overt military features like MOLLE panels, hydration bladders, and
-camoflauge.  From the perspective of the gray man, these are a very poor choice
-of bag. Tactical items are likely to "trigger an onlooker's Reticular Activating
-System", and make the wearer noteworthy: likely a survivalist, or at least
-likely to have supplies.  The gray man would prefer to carry his weapons and
-supplies in a dorky messenger bag like the Vertex EDC Satchel [8], designed to
-'blend into everyday life' and accomodate rapid drawing of firearms and armor
-plating. Another gray man theorist suggests using a seemingly beat-up old golf
-bag to wheel around rifles and supplies. [9]
+camoflauge.  From the perspective of the gray man, this type of bag is a very
+poor choice for a bug out bag. Tactical items are likely to "trigger an
+onlooker's Reticular Activating System (RAS)" [4] , and make the wearer
+noteworthy: as a survivalist, or at least a person likely to have supplies.  The
+gray man would prefer to carry his weapons and supplies in a dorky messenger bag
+like the Vertex EDC Satchel [8], designed to 'blend into everyday life' and
+accomodate rapid drawing of firearms and armor plating. Another gray man
+theorist suggests using a seemingly beat-up old golf bag to wheel around rifles
+and supplies. [9]
 
 SurvivalThinkTank expands the idea of the gray man to a context-dependent
 "directive" broken up into four phases. Each of the four phases corresponds to a
@@ -98,14 +99,14 @@ legal research tools. For these libertarian survivalists, being gray is in
 tension with their desire to share their political beliefs, and many
 comments on the Habcap article discuss their feelings of inner conflict.
 
-Later discussions of the gray man seem to have adapted largely by preppers and
-survivalists as a response to a fantasy urban survival scenario, and to promote
-certain survial products or tactics. In these later articles, gray man is less
-of a lifestyle ideal than a situational strategy, recycled for clickbait
-purposes. For these later adopters of survivalist practices, survivalism is less
-of a political position and more of a hobby. The tension that these later
-adopters face is a tension between wanting to share and promote their hobby and
-wanting to actually survive a SHTF scenario.
+Later discussions of the gray man concept seem to be centered on survivalist
+content farm websites as a response to a fantasy urban survival scenario, and to
+promote certain survial products or tactics. In these later articles, gray man
+is less of a lifestyle ideal than a situational strategy, recycled for clickbait
+purposes. For later adopters of survivalist practices, survivalism is less of a
+political position and more of a hobby. The tension that these later adopters
+face is a tension between wanting to share and promote their hobby and wanting
+to actually survive a SHTF scenario.
 
 What's the difference between gray man and the practices of undercover
 agents? For example, consider this tweet thread from Chelsea Manning:   
@@ -137,26 +138,22 @@ Rick Owens
 Normcore in practice has come to be a way of signaling one's deep coolness. Gray
 man style in practice will be a way to signal one's deep uncoolness.
 
-Writing about the gray man concept seems to usually make the assumption that the
-reader is innately capable of being a gray man. The two main body factors that are
-typically discussed as factors that would make it difficult to be gray area
-being unusually short or tall, or being a woman who attracts sexual attention.
+Articles about the gray man style and the grey man concept usually make the
+assumption that the reader is innately capable of being a gray man. The two main
+factors discussed as obstacles to becoming gray are: 1) being unusually short or
+tall, or 2) being a woman who attracts sexual attention. To get an idea of the
+advice given to women about how to be gray, here's an example from Gray Wolf
+Survival:
 
 "Be cognizant of any smells such as food, soap or gunpowder that someone would
-relate to something they’d want. Try to think about what you do, say or wear
+relate to something they'd want. Try to think about what you do, say or wear
 that may cause a connection to some kind of desire. This is especially important
 for females. When SHTF, there will be very few gentlemen and those in power will
 take what they want, without regard to repercussions. Be cognizant of innuendo
 or movements such as arching your back or physical contact. They may put you in
-a situation that you may not be able to get out of."
+a situation that you may not be able to get out of." [11]
 
-"Ever had a conversation with someone who you’re attracted to and have just one
-movement or sentence switch you from being somewhat detached to thinking about
-sex?"
-
-o "supply runs" vs looting
-Obviously, just from the name, the gray man concept is pretty fucked from a
-social justice perspective.  "getting supplies" -> white man's looting
+"supply runs" vs looting
 
 Hi-Vis Vests Gets You Into Everything For Free
 Dismissed
@@ -191,3 +188,5 @@ to stay?" you can easily respond with "I am looking for [my brother.]" [6]
 9. http://www.instructables.com/id/Make-a-Grey-Man-Bug-Out-Bag/
 
 10. http://shtfschool.com/basic-survival/blending-in-and-survivalist-hate/
+
+11. http://graywolfsurvival.com/79/how-to-gray-man-shtf/
