@@ -1037,3 +1037,14 @@ Anti-inflammatory diet will also be good for me.
 We are all on an unique journey to understand our bodies.
 
 Good day of work.
+
+### Thursday, October 5th 2017
+
+TODO
+Swim DONE
+Groceries DONE
+Lab at 10:30
+Respond to Vice
+1hr Gray Man
+2hrs Auth0
+2hrs LASOR
