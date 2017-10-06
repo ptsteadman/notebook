@@ -93,27 +93,32 @@ socially determined, and not just individually determined?
 I think the answer to this question, from the position of the gray man, is that
 survivalism is a political position interwined with other libertarian,
 conservative, and anti-government politics. This is clear from the context of
-the articles on gray man: most of the substantial early articles on the subject
-are surrounded by articles about second amendment law, tea party activism, and
-legal research tools. For these libertarian survivalists, being gray is in
-tension with their desire to share their political beliefs, and many
-comments on the Habcap article discuss their feelings of inner conflict.
+the early acticles establishing the gray man concept: information about second
+amendment law, tea party activism, and legal research tools. For these
+libertarian survivalists, being gray is in tension with their desire to share
+their political beliefs, and many comments on the Habcap article discuss this
+conflict.
 
 Later discussions of the gray man concept seem to be centered on survivalist
-content farm websites as a response to a fantasy urban survival scenario, and to
-promote certain survial products or tactics. In these later articles, gray man
-is less of a lifestyle ideal than a situational strategy, recycled for clickbait
-purposes. For later adopters of survivalist practices, survivalism is less of a
-political position and more of a hobby. The tension that these later adopters
-face is a tension between wanting to share and promote their hobby and wanting
-to actually survive a SHTF scenario.
+content farms as a response to a fantasy urban survival scenario, and to promote
+certain survival tactics and gear. In these later pieces, gray man is less of a
+lifestyle ideal than a situational strategy, recycled for clickbait purposes.
+For later adopters of survivalist practices, survivalism is less of a political
+position and more of a hobby. The tension that these later adopters face is
+therefore a tension between wanting to share their hobby and wanting to actually
+survive a SHTF scenario.
 
-What's the difference between gray man and the practices of undercover
-agents? For example, consider this tweet thread from Chelsea Manning:   
+Undercover agents also make tactical use of gray man, even if they don't call it
+gray man. For example, consider the man photographed in this tweet thread from
+Chelsea Manning: 
 
 https://twitter.com/xychelsea/status/880963473437585408?lang=en
 
-When I described the gray man concepts to my friends, most of them immediately
+Manning argues that the man failed to be sufficiently gray. She states that his
+heavily rubberized business casual shoes leak the fact that he's prepared for
+violence at any moment.
+
+When I described the gray man concepts to my friends, many of them immediately
 said something along the lines of "so this is normcore for
 preppers/racists/republicans". And it's true: the abstract concept of gray man
 is very similar to the concept of normcore as it was originally defined by
@@ -127,16 +132,37 @@ confrontation", and "[staving] the impending onslaught of self-appointed
 have-nots". 
 
 Normcore has a become an immediately recognizable look that makes cool people
-look even cooler. I think that the same sort of process is starting to happen
-with the gray man concept. Apparel companies are capturing the power of the gray
-man idea and distilling it into a "look".
+look even cooler. I think that the same sort of process will happen with the
+gray man concept. Apparel companies will capture the power of the gray man idea
+and distill it into a "look".
 
-What's the % of clothing that is 'tactical'.
+This might seem like a stretch, but here's some evidence.
 
-Rick Owens
+In the world of fashion, we can look to the emergence of camping chic and
+gorpcore. Camping chic was visible in the collections of Prada, Balenciaga and
+Vetements last winter, and has reemerged in Spring/Summer 2018 looks, [13, 14,
+15] along with utility or "tactical" black in the collections of Rick Owens.
+(Think large holster-like leather pouches around the thigh). Concurrently, the
+term gorpcore was coined by NYMag journalist Jason Chen, who said that it had
+the same appeal as normcore, but instead of idealizing the Mall, gorpcore
+idealizes the Woods. [12] In practice, gorpcore seems to mean that Patagonia is
+cool again. Chen notes that one could make the argument that gorpcore is rooted
+in post-election malaise, like just about everything else in contemporary
+culture. He points out that activist DeRay McKesson famously wears a blue
+Patagonia vest, because it's practical and he approves of the company's
+environmental consciousness.
 
-Normcore in practice has come to be a way of signaling one's deep coolness. Gray
-man style in practice will be a way to signal one's deep uncoolness.
+In the post-election malaise, it's also become normal for people everywhere on
+the political spectrum to talk of impending collapse. The NYT and New Yorker
+have written many tongue-in-cheek profiles of survivalists, but profiles that
+still could serve as a gateway into the culture. I personally have noticed many
+of my peers profess an interest in purchasing or learning to use weapons,
+finding a bug out location, or stockpiling supplies.
+
+I think that these trends will eventually meet somewhere, blending with
+cyberpunk and anarcho-primitivism v2. As everything blends into the mainstream,
+those in the know will begin to restrain and subvert themselves, becoming gray
+in the process. 
 
 Articles about the gray man style and the grey man concept usually make the
 assumption that the reader is innately capable of being a gray man. The two main
@@ -190,3 +216,11 @@ to stay?" you can easily respond with "I am looking for [my brother.]" [6]
 10. http://shtfschool.com/basic-survival/blending-in-and-survivalist-hate/
 
 11. http://graywolfsurvival.com/79/how-to-gray-man-shtf/
+
+12. https://www.thecut.com/2017/05/new-fashion-trends-normcore-gorpcore.html
+
+13. http://www.cliquemag.com.au/article/fashion-trend-gorpcore/
+
+14. https://www.youtube.com/watch?v=20hoz_wiUOo
+
+15. https://www.youtube.com/watch?v=ey2c0Wy3f3U

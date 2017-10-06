@@ -1058,4 +1058,4 @@ Clean DONE
 1hr Gray Man
 2hr Auth0
 1hr LASOR
-Email Alex
+Email Alex DONE
