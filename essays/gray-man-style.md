@@ -24,7 +24,7 @@ I want to look into:
 SurvivialThinkTank.com defines a "gray man" as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
 standing out, concealing his or her true skills, ability, and intent from
-others." Gray man is a concept developed by realist, optics-conscious
+others." Gray man is a concept developed by realist, socially-conscious
 survivalists who've decided that'd rather not broadcast their prepper
 identities. Promoters of gray man style dismiss overt tactical gear as a
 "shoot-me-first" signal, and instead favor multi-modal dress that will help them
@@ -180,6 +180,8 @@ or movements such as arching your back or physical contact. They may put you in
 a situation that you may not be able to get out of." [11]
 
 "supply runs" vs looting
+
+self or group sufficiency is a rabbithole
 
 Hi-Vis Vests Gets You Into Everything For Free
 Dismissed
