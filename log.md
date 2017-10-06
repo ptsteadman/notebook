@@ -1049,3 +1049,13 @@ Respond to Vice DONE
 1hr Walkbuy DONE
 2hrs Auth0
 1hr LASOR DONE
+
+### Friday, October 6th 2017
+
+TODO
+Run DONE
+Clean DONE
+1hr Gray Man
+2hr Auth0
+1hr LASOR
+Email Alex
