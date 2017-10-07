@@ -68,8 +68,8 @@ for or catalyzing the conflict.
 Selco emphasizes that being grey is a lifestyle that begins even before shit
 hits the fan. He goes so far as to recommend that parents keep supplies and
 weapons hidden from their children, so that the children don't discuss it with
-their friends, who might then tell their parents. In general, gray man
-proponents seem to believe that the attention economy would invert itself in a
+their friends. In general, gray man
+adherents seem to believe that the attention economy would invert itself in a
 SHTF scenario, and those who attract less attention would be more likely to
 survive.
 

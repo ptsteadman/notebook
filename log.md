@@ -1057,5 +1057,5 @@ Run DONE
 Clean DONE
 1hr Gray Man DONE
 2hr Auth0
-1hr LASOR
+1hr LASOR DONE
 Email Alex DONE
