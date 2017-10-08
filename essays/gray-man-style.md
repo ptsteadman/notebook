@@ -2,6 +2,8 @@ Headline: What is Gray Man Style?
 
 ---
 
+Pitch:
+
 Gray man style is a school of thought developed by survivalists who want to
 conceal their skills, weapons, and goals by blending into their surroundings.
 Promoters of gray man style dismiss 'shoot-me-first' tactical gear as a form of
