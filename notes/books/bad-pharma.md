@@ -17,7 +17,7 @@ In any sensible world, we'd expect universal contracts...
 
 FDA amendment act in 2007: fines have never been levied
 In fact, they have done worse than fail: they have given false reassurance that
-the problem has been fixed, false reassurance that the has gone away, and they
+the problem has been fixed, false reassurance that it has gone away, and they
 have led us to take our eye off the ball.
 
 an internal company management document stated: 'it would be commercially

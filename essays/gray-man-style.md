@@ -167,7 +167,7 @@ those in the know will begin to restrain and subvert themselves, becoming gray
 in the process. 
 
 Articles about the gray man style and the grey man concept usually make the
-assumption that the reader is innately capable of being a gray man. The two main
+assumption that the reader is innately capable of being a gray man. The two
 factors discussed as obstacles to becoming gray are: 1) being unusually short or
 tall, or 2) being a woman who attracts sexual attention. To get an idea of the
 advice given to women about how to be gray, here's an example from Gray Wolf

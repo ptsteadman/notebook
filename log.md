@@ -1063,8 +1063,8 @@ Email Alex DONE
 ### Saturday, October 7th 2017
 
 45min Clean DONE
-Swim DONE
-Laundry DONE
+Swim
+Laundry
 
 Fleur Jaeggy
 spending time with frederique entails becoming accomplices, disdaining all the
@@ -1072,21 +1072,3 @@ others
 a booy undone by his older sister's values
 "The importance of succeeding in life is a noose. It's nothing but a noose."
 Parents are not necessary. Few things are necessary.
-
-### Sunday, October 8th 2017
-
-Swim
-
-Concurrently, Berkshire’s superb corps of operating CEOs will focus on
-increasing earnings at the individual businesses they manage
-
-There's a stubborn tinge of vulgarity about Rodin, inseperarable from his
-strength.
-
-It was interesting when a set of feelings went so unspoken for so long that they
-drifted into the unknown.
-
-### Monday, October 9th 2017
-
-Swim
-
