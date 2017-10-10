@@ -1072,3 +1072,20 @@ others
 a booy undone by his older sister's values
 "The importance of succeeding in life is a noose. It's nothing but a noose."
 Parents are not necessary. Few things are necessary.
+
+### Monday, October 9th 2017
+
++ Swim
+- 1hr Gray Man
++ 2hr LASOR
+* 2hr Auth0
++ Invoice
+
+### Tuesday, October 10th 2017
+
+- 15min Yoga
+- 1hr Gray Man
+- 2hr Auth0
+- 1hr LASOR
+- Clean / Water
+
