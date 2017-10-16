@@ -1091,8 +1091,23 @@ Parents are not necessary. Few things are necessary.
 
 ### Wednesday, October 11th 2017
 
-- Set up Review
++ Set up Review
 - 2hrs Auth0
-- 2hrs CTF
++ 2hrs CTF
 - 1hr Gray Man
 
+### Thursday, October 12th 2017
+
++ 1.5hrs LASOR
+- 1hr Gray Man
+
+### Friday, October 13th 2017
+
+Louis Theroux
+
+### Sunday, October 15th 2017
+
++ 45mins Clean
+- 1hr Gray Man
++ Yoga
++ Bed at 1
