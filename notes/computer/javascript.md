@@ -165,6 +165,8 @@ sayAge(); // 24
 If `use strict` is used, it will just be undefined.
 ```
 
-### Promises
+### Feathers
+
+`config/default.json`
 
 

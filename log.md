@@ -1084,8 +1084,15 @@ Parents are not necessary. Few things are necessary.
 ### Tuesday, October 10th 2017
 
 - 15min Yoga
-- 1hr Gray Man
++ 1hr Gray Man
 - 2hr Auth0
 - 1hr LASOR
 - Clean / Water
+
+### Wednesday, October 11th 2017
+
+- Set up Review
+- 2hrs Auth0
+- 2hrs CTF
+- 1hr Gray Man
 
