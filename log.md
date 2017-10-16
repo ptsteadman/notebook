@@ -1089,3 +1089,18 @@ Parents are not necessary. Few things are necessary.
 - 1hr LASOR
 - Clean / Water
 
+### Thursday, October 12th 2017
+
+- 1.5hrs LASOR
+- 1hr Gray Man
+
+### Friday, October 13th 2017
+
+Louis Theroux
+
+### Sunday, October 15th 2017
+
++ 45mins Clean
+- 1hr Gray Man
++ Yoga
++ Bed at 1
