@@ -1111,3 +1111,25 @@ Louis Theroux
 - 1hr Gray Man
 + Yoga
 + Bed at 1
+
+### Monday, October 16th 2017
+
++ Coordinate
++ Invoice
++ 1hr Gray Man
++ 2hr Auth0
++ Message Robert
+
+User agent string parser
+QuickSight
+
+### Tuesday, October 17th 2017
+
++ 1hr Auth0
+- 1hr Gray Man
++ 2hr Auth0
+- 30mins LASOR
+- 30mins CTF
+- Clean/Trash
+- Swim
+
