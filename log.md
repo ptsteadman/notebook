@@ -1126,10 +1126,10 @@ QuickSight
 ### Tuesday, October 17th 2017
 
 + 1hr Auth0
-- 1hr Gray Man
++ 1hr Gray Man
 + 2hr Auth0
-- 30mins LASOR
-- 30mins CTF
-- Clean/Trash
++ 30mins LASOR
++ 30mins CTF
++ Clean/Trash
 - Swim
 
