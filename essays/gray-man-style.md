@@ -28,8 +28,7 @@ level of societal breakdown, from present-day small town America (Phase 0) to a
 full-on "road warrior" situation (Phase 3). For SurvivalThinkTank, the key
 tradeoff for the gray man is between Stealth and Firepower/Kit.
 
-![http://1.bp.blogspot.com/-bnafMWoHa14/TkGtKMEGBmI/AAAAAAAAASY/2EmCypBbNfU/s400/Slide1.gif](Gray
-man directive stage diagram.)
+![http://1.bp.blogspot.com/-bnafMWoHa14/TkGtKMEGBmI/AAAAAAAAASY/2EmCypBbNfU/s400/Slide1.gif](http://1.bp.blogspot.com/-bnafMWoHa14/TkGtKMEGBmI/AAAAAAAAASY/2EmCypBbNfU/s400/Slide1.gif)
 
 The transition from Phase 0 to Phase 3 is assumed to be inevitable, and also
 assumes that as society collapses, carrying weapons and supplies become less
