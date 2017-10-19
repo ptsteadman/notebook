@@ -1,4 +1,4 @@
-Headline: What is Gray Man Style?
+# What is Gray Man Style?
 
 SurvivialThinkTank.com defines a gray man as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
