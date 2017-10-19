@@ -189,12 +189,10 @@ Everything For Free". [26]
 
 So, while the political left might want to adopt the gray man concept and create
 a 'gray bloc' to complement the black bloc, I think the gray man concept is dead
-on arrival as a progressive tool. At best, I think the gray man could be a good
-identity for someone sick of competing in the attention economy, and would
-rather focus on the meaning economy. Finally, almost every gray man article
-mentions the importance of also being gray online by attempting to use social
-media in the most normal way possible.  Being cybergray would be a good strategy
-for someone planning to commit cyberviolence.
+on arrival as a progressive tool. At best, I think gray man could be a good
+identity for someone sick of competing in the attention economy. Finally, almost
+every gray man article mentions the importance of also being gray online. Being
+cybergray might be a good strategy for someone planning to commit cyberviolence.
 
 
 ---
