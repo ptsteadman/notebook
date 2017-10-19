@@ -3,55 +3,54 @@ Headline: What is Gray Man Style?
 SurvivialThinkTank.com defines a gray man as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
 standing out, concealing his or her true skills, ability, and intent from
-others." [3] Gray man is a concept developed by socially-conscious survivalists
-who don't want their identity to become a liability. Promoters of gray man style
-think that overt tactical gear is a "shoot-me-first" signal, and instead favor
+others." [3] Promoters of gray man are socially-conscious survivalists who think
+that overt tactical gear is a "shoot-me-first" signal, and instead favor
 multi-modal dress that will help them avoid attention until it's time to use
 force.
 
-You probably know what a "bug out bag" is. The New York Times recently wrote a
-piece about the bug out bags available on Amazon and other online vendors. [25]
-Many of these include military features like MOLLE panels, hydration bladders,
-and camouflage. From the perspective of the gray man, this type of tactical bag
-is a very poor bag to be wearing when shit hits the fan (SHTF). In the words of
-one theorist, tactical items are likely to "trigger an onlooker's Reticular
-Activating System (RAS)" [4], and make the wearer recognizable as a survivalist,
-or at least a person likely to have supplies. The gray man prefers to carry his
-weapons and supplies in a dorky messenger bag like the Vertex EDC Satchel [8],
-designed to 'blend into everyday life' and accommodate rapid drawing of firearms
-and armor plating. Another gray man theorist suggests using a seemingly beat-up
-old golf bag to wheel around rifles and supplies. [9]
+Most of the "bug out bags" for sale on Amazon include military features like
+MOLLE panels, hydration bladders, and camouflage. [25] From the perspective of
+the gray man, this type of tactical bag is a very poor thing to be carrying when
+shit hits the fan (SHTF). In the words of one theorist, tactical items are
+likely to "trigger an onlooker's Reticular Activating System (RAS)" [4], and
+make the wearer recognizable as a survivalist, or at least a person with
+supplies. The gray man prefers to carry his weapons and supplies in a dorky
+messenger bag like the Vertex EDC Satchel [8], designed to 'blend into everyday
+life' while also allowing for rapid firearm draws and armor plating. If you're
+not interested in supporting the survival industry proper, another gray man
+theorist suggests using a seemingly beat-up old golf bag to wheel around rifles
+and supplies. [9]
 
 SurvivalThinkTank expands the idea of the gray man to a context-dependent
 "directive" broken up into four phases. Each of the four phases corresponds to a
-level of societal breakdown, from present-day small town America (Phase 0) to a
-full-on "road warrior" situation (Phase 3). For SurvivalThinkTank, the key
-tradeoff for the gray man is between Stealth and Firepower/Kit.
+general level of societal breakdown, from present-day small town America (Phase
+0) to a full-on "road warrior" situation (Phase 3). For SurvivalThinkTank, the
+key tradeoff for the gray man is between Stealth and Firepower/Kit.
 
 ![http://1.bp.blogspot.com/-bnafMWoHa14/TkGtKMEGBmI/AAAAAAAAASY/2EmCypBbNfU/s400/Slide1.gif](http://1.bp.blogspot.com/-bnafMWoHa14/TkGtKMEGBmI/AAAAAAAAASY/2EmCypBbNfU/s400/Slide1.gif)
 
-The transition from Phase 0 to Phase 3 is assumed to be inevitable, and also
-assumes that as society collapses, carrying weapons and supplies become less
-unusual, and thus more acceptable to the gray man. But, because chaos often
-emerges rapidly (SurvialThinkTank tellingly uses the example of
-"racially-motivated flash mobs" [2]), gray man style is often transformable in
-some way, to enable transitions between different balances of stealth and kit in
-evolving situations.
+The article assumes that as society inevitably progresses from Phase 0 to Phase
+3, carrying weapons and supplies become less unusual, and thus more acceptable
+to the gray man. But, because chaos often emerges rapidly (SurvialThinkTank
+tellingly uses the example of "racially-motivated flash mobs" [2]), gray man
+clothing and gear is often transformable in some way, to enable transitions
+between different balances of stealth and kit in evolving situations.
 
 The gray man concept seems to have been developed in reaction to a perceived
-threat of "survivalist hate". A survival course taught by an individual known as
-Selco bases his theory of survivalist hate on his experience in the Balkan war,
-where he saw many well-prepared people attempt to help their neighbors by giving
-away supplies. Just weeks later, these generous individuals were rewarded by
-being robbed or even murdered. Selco says that the thieves justified their
-actions with the notion that well-prepared individuals were somehow guilty of
-anticipating or catalyzing the conflict. A reviewer of Selco's course simply
-asks readers to think back to high school, where those who "were prepared for
-the test were called nerds" and hated for it. [16]
+threat of "survivalist hate". A individual known as Selco bases his theory of
+survivalist hate on his experience in the Balkan war, where he saw many
+well-prepared people attempt to help their neighbors by giving away supplies.
+Just weeks later, these generous individuals were rewarded by being robbed or
+even murdered. Selco says that the thieves justified their actions with the
+notion that well-prepared individuals were somehow guilty of anticipating or
+catalyzing the conflict. A reviewer of Selco's survival course simply asks
+readers to think back to high school, where those who "were prepared for the
+test were called nerds" and hated for it. [16]
 
 Gray man adherents seem to believe that the attention economy would invert
-itself in a SHTF scenario, and those who attract less attention would be more
-likely to survive.
+itself in a SHTF scenario: those who attract less attention will be more likely
+to survive. This is echoed in military use of the gray man term, where POWs and
+trainees are encouraged to be the gray man in order to survive. [27]
 
 Selco emphasizes that being grey is a lifestyle that begins even before shit
 hits the fan. He goes so far as to recommend that parents keep supplies and
@@ -66,14 +65,14 @@ the "Western Rifle Shooters Association" blogspot, alongside posts about
 firearms and anti-government politics. This piece, authored in a Goofus and
 Gallant style, presents gray man as more of an identity than a strategy.
 Example: "The Young Grey Man is dismissed as a wimp, the Older as a doddering
-old fool." 
+old fool." [7]
 
 This quote begs the obvious question: why be a survivalist anyways, if it can be
-such a liability, requiring one to develop a pathetic persona? Wouldn't it be
+such a liability that you need to develop a pathetic alter-ego? Wouldn't it be
 better to accept the idea that survival is socially determined?
 
-The somewhat obvious reason that most survivalists don't focus on the survival
-of society as a whole is that American-style survivalism is tightly coupled with
+The obvious reason that most survivalists don't focus on the survival of society
+as a whole is that American-style survivalism is tightly coupled with
 libertarian, individualist, and anti-government politics. For these politically
 active survivalists, being gray is in tension with their desire to share and
 promote their political beliefs. Perhaps as a way to ease this tension, the
@@ -81,18 +80,17 @@ Western Rifle Shooters Association post presents gray man as something that can
 be practiced secretly with a group: "[The Gray Man] practices with his weaponry
 in private, or only with his fellow Grey Men, always in a secluded location."
 
-Later writing about the gray man concept is mostly found on survivalist content
-farms, promoted as a tactic for use in a fantasy urban survival scenario. In
-these later pieces, gray man is less of a lifestyle ideal than a situational
-strategy, recycled for clickbait purposes. For many younger survivalists,
-survivalism is less of a political position and more of a hobby. The tension
+I found later writing about the gray man concept on a number of different
+survivalist content farms. In these later pieces, gray man is less of a
+lifestyle ideal than a situational strategy for use in a fantasy urban survival
+scenario, recycled for clickbait purposes. For many younger survivalists,
+survivalism is less of a political position and more of a hobby.  The tension
 that these later adopters face is instead a tension between wanting to share
 their hobby and wanting to actually survive if SHTF.
 
 Undercover agents and military professionals also make tactical use of gray man.
-For the military, 'gray man' is taught as a survival tactic for POWs. To get an
-idea of what military gray man looks like, consider the man photographed in this
-tweet thread from Chelsea Manning: 
+To get an idea of what professional gray man looks like, consider the man
+photographed in this tweet thread from Chelsea Manning: 
 
 https://twitter.com/xychelsea/status/880963473437585408?lang=en
 
@@ -105,11 +103,11 @@ preppers/racists/republicans". And it's true: the concept of gray man is very
 similar to the concept of normcore as it was originally defined by K-HOLE in
 2013.[1] Note that this abstract concept is quite different to how normcore has
 been implemented in culture. Normcore differs from gray man in one key respect:
-the ostensible motivation behind each concept and practice. K-HOLE says that
-normcore is "a path to a more peaceful life", through the realization that
-"adaptability leads to belonging and connection". Some stated motivations behind
-gray man include "keeping your preps, "avoiding kinetic confrontation", and
-"[staving] the impending onslaught of self-appointed have-nots". 
+the motivations behind each concept and practice. K-HOLE says that normcore is
+"a path to a more peaceful life", through the realization that "adaptability
+leads to belonging and connection". Some stated motivations behind gray man
+include "keeping your preps, "avoiding kinetic confrontation", and "[staving]
+the impending onslaught of self-appointed have-nots". 
 
 Normcore has a become an immediately recognizable look that makes cool people
 look even cooler. I think that the same sort of process will happen with the
@@ -135,9 +133,9 @@ environmental consciousness.
 In the post-election malaise, it's also become normal for people everywhere on
 the political spectrum to talk of impending collapse. The NYT and New Yorker
 have written many tongue-in-cheek profiles of survivalists, but these profiles
-may still serve as gateways into the culture. Anecdotally, many of my peers have
-confided an interest in purchasing or learning to use weapons, finding a bug out
-location, or stockpiling supplies.
+may still serve as gateways into the culture. [25] Anecdotally, many of my peers
+have confided an interest in purchasing or learning to use weapons, finding a
+bug out location, or stockpiling supplies.
 
 I think that these trends will eventually meet somewhere, blending with
 cypherpunk and anarcho-primitivism. As everything sloughs into the mainstream,
@@ -145,12 +143,11 @@ those in the know will begin to restrain and subvert themselves, becoming gray.
 They will want to just barely hint at their hidden skills and intent, and be
 ready to move.
 
-Articles about the gray man style and the grey man concept usually make the
-assumption that the reader is innately capable of being a gray man. The two
-factors discussed as obstacles to becoming gray are: 1) being unusually short or
-tall, or 2) being a woman who attracts sexual attention. To get an idea of the
-advice given to women about how to be gray, here's an example from Gray Wolf
-Survival:
+Articles about gray man style usually make the assumption that the reader is
+innately capable of being a gray man. The two factors discussed as obstacles to
+becoming gray are: 1) being unusually short or tall, or 2) being a woman who
+attracts sexual attention. To get an idea of the advice given to women about how
+to be gray, here's an example from Gray Wolf Survival:
 
 "Be cognizant of any smells such as food, soap or gunpowder that someone would
 relate to something they'd want. Try to think about what you do, say or wear
@@ -164,14 +161,15 @@ One comment on a survival YouTube video points out that as a black man, "trying
 to be a gray man will be difficult in far too many places in this country." For
 minorities in America, the acts necessary to survive a disaster are often
 criminalized or demonized, most dramatically in hurricane Katrina, where black
-families wading through the water with supplies were described as 'looting'
-while a white family was described as 'finding'.[21] It went beyond media:
-police from the wealthy community of Gretna fired shots over the head of
+families wading through the water with supplies were infamously described as
+'looting' while a white family was described as 'finding'. [21] It went beyond
+media: police from the wealthy community of Gretna fired shots over the head of
 families trying to flee over a bridge into their community.  In another case,
 police killed an unarmed child and a mentally disabled man who were attempting
 to make their way over a bridge to a family friend's home, also shooting four
-others. The coverup...  Survivalists seem to ignore the fact that in actual
-disasters, they would likely not be the ones to suffer anyways.
+others. The officers were only prosecuted in 2012, after a cover-up that spanned
+years. Survivalists seem to ignore the fact that in actual disasters, they would
+likely not be the ones to suffer.
 
 Articles about being gray often include the caveat that it's best to simply stay
 at home in a disaster, and that being gray is a response to situations where one
@@ -181,20 +179,23 @@ a post-SHTF world, wouldn't an armed person with survival skills be on a "supply
 run" be a dangerous predator? In Katrina, when shit really hit the fan, many civilians
 with weapons and guns ended up being predators, not potential prey.
 
-Being a white gray man works, because it allows a white man to hide their
+Being a *white* gray man works, because it allows a white man to hide his or her
 weapons and supplies, but still be considered a victim worthy of assistance.
 
-The little advice on the internet for minority gray men seems to echo the advice
-given to black men in everyday life: try to be dismissed. One writer points to a
-Vice article where two British men discover that "Hi-Vis Vests Get You Into
+The advice on the internet for minority gray men seems to echo the advice given
+to black men in everyday life: try to be dismissed. One writer points to a Vice
+article where two British men discover that "Hi-Vis Vests Get You Into
 Everything For Free". [26]
 
-So, while the political left or humanitarians might want to adopt the gray man
-concept and create a 'gray bloc' to complement the black bloc, I think the gray
-man concept is dead on arrival as a progressive tool, at least in the American
-context. At best, I think the gray man could be a good identity for someone
-sick of competing in the attention economy, and would rather focus on the
-meaning economy.
+So, while the political left might want to adopt the gray man concept and create
+a 'gray bloc' to complement the black bloc, I think the gray man concept is dead
+on arrival as a progressive tool. At best, I think the gray man could be a good
+identity for someone sick of competing in the attention economy, and would
+rather focus on the meaning economy. Finally, almost every gray man article
+mentions the importance of also being gray online by attempting to use social
+media in the most normal way possible.  Being cybergray would be a good strategy
+for someone planning to commit cyberviolence.
+
 
 ---
 
@@ -251,3 +252,5 @@ meaning economy.
 25. https://www.nytimes.com/2017/09/23/style/how-to-survive-the-apocalypse.html
 
 26. https://www.vice.com/en_us/article/mgv4gn/chalecos-reflectantes-entrar-gratis
+
+27.  https://sealgrinderpt.com/navy-seal-workout/who-is-the-gray-man-in-navy-seal-training.html/
