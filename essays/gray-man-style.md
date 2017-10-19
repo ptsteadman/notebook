@@ -3,30 +3,33 @@ Headline: What is Gray Man Style?
 SurvivialThinkTank.com defines a "gray man" as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
 standing out, concealing his or her true skills, ability, and intent from
-others." Gray man is an archetype developed by socially-conscious survivalists
-who don't like to broadcast their prepper identities. Promoters of gray man
-style dismiss overt tactical gear as a "shoot-me-first" signal, and instead
-favor multi-modal dress that will help them avoid attention until it's time to
-use force.
+others." Gray man is an concept developed by socially-conscious survivalists who
+don't want their identity to become a liability. Promoters of gray man style
+think that overt tactical gear is a "shoot-me-first" signal, and instead favor
+multi-modal dress that will help them avoid attention until it's time to use
+force.
 
 You probably know what a "bug out bag" is. The New York Times recently wrote a
 piece about the bug out bags available on Amazon and other online vendors. [25]
-Many of these include overt military features like MOLLE panels, hydration
-bladders, and camouflage. From the perspective of the gray man, this type of
-tactical bag is a very poor bag to be wearing when shit hits the fan (SHTF). In
-the words of one theorist, tactical items are likely to "trigger an onlooker's
-Reticular Activating System (RAS)" [4], and make the wearer recognizable as a
-survivalist, or at least a person likely to have supplies. The gray man prefers
-to carry his weapons and supplies in a dorky messenger bag like the Vertex EDC
-Satchel [8], designed to 'blend into everyday life' and accommodate rapid drawing
-of firearms and armor plating. Another gray man theorist suggests using a
-seemingly beat-up old golf bag to wheel around rifles and supplies. [9]
+Many of these include military features like MOLLE panels, hydration bladders,
+and camouflage. From the perspective of the gray man, this type of tactical bag
+is a very poor bag to be wearing when shit hits the fan (SHTF). In the words of
+one theorist, tactical items are likely to "trigger an onlooker's Reticular
+Activating System (RAS)" [4], and make the wearer recognizable as a survivalist,
+or at least a person likely to have supplies. The gray man prefers to carry his
+weapons and supplies in a dorky messenger bag like the Vertex EDC Satchel [8],
+designed to 'blend into everyday life' and accommodate rapid drawing of firearms
+and armor plating. Another gray man theorist suggests using a seemingly beat-up
+old golf bag to wheel around rifles and supplies. [9]
 
 SurvivalThinkTank expands the idea of the gray man to a context-dependent
 "directive" broken up into four phases. Each of the four phases corresponds to a
 level of societal breakdown, from present-day small town America (Phase 0) to a
 full-on "road warrior" situation (Phase 3). For SurvivalThinkTank, the key
 tradeoff for the gray man is between Stealth and Firepower/Kit.
+
+![http://1.bp.blogspot.com/-bnafMWoHa14/TkGtKMEGBmI/AAAAAAAAASY/2EmCypBbNfU/s400/Slide1.gif](Gray
+man directive stage diagram.)
 
 The transition from Phase 0 to Phase 3 is assumed to be inevitable, and also
 assumes that as society collapses, carrying weapons and supplies become less
