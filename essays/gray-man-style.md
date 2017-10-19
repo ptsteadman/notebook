@@ -1,10 +1,10 @@
 Headline: What is Gray Man Style?
 
-SurvivialThinkTank.com defines a "gray man" as "an individual who possesses the
+SurvivialThinkTank.com defines a gray man as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
 standing out, concealing his or her true skills, ability, and intent from
-others." Gray man is an concept developed by socially-conscious survivalists who
-don't want their identity to become a liability. Promoters of gray man style
+others." [3] Gray man is a concept developed by socially-conscious survivalists
+who don't want their identity to become a liability. Promoters of gray man style
 think that overt tactical gear is a "shoot-me-first" signal, and instead favor
 multi-modal dress that will help them avoid attention until it's time to use
 force.
