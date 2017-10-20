@@ -1147,8 +1147,17 @@ QuickSight
 + Follow up with Blockstack
 + 3hrs Auth0
 - 1hr LASOR
-- 30mins CTF
++ 30mins CTF
 
+### Friday, October 20th 2017
+
+- 4hrs LASOR
+- Order new contacts
+- 1hr Auth0
+- 30mins CTF
+- Max's thing
+
+so much of adult life is trying to get signal from well-meaning but noisy feedback
 
 
 
