@@ -1133,3 +1133,47 @@ QuickSight
 + Clean/Trash
 - Swim
 
+### Wednesday, October 18th 2017
+
++ 2.5hrs Auth0
++ 1hr Gray Man
+- Follow up with Blockstack
++ Laundry
++ Swim
++ 30mins CTF
+
+### Thursday, October 19th 2017
+
++ Follow up with Blockstack
++ 3hrs Auth0
+- 1hr LASOR
+- 30mins CTF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
