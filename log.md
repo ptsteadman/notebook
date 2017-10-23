@@ -1151,17 +1151,23 @@ QuickSight
 
 ### Friday, October 20th 2017
 
-- 4hrs LASOR
-- Order new contacts
++ 4hrs LASOR
++ Order new contacts
 - 1hr Auth0
 - 30mins CTF
 - Max's thing
 
 so much of adult life is trying to get signal from well-meaning but noisy feedback
 
+### Sunday, October 22nd 2017
 
+- 2hrs Auth0
+- Max's thing
 
+### Monday, October 23nd 2017
 
+- Run 20mins + Lift
+- Lab at 10:30am
 
 
 
