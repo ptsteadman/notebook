@@ -1173,6 +1173,26 @@ so much of adult life is trying to get signal from well-meaning but noisy feedba
 - 1hr LASOR
 - Invoice for Walkbuy
 
+### Tuesday, October 24th 2017
+
++ 4hrs DG
++ 1hr LASOR
+* 1hr CTF
++ Clean
+
+Jor makes me warm and excited
+I bathe my flock in Evian water
+Flat flies live on me the size of crabs
+
+### Wednesday, October 25th 2017
+
+- Gym
+- Lab by 10:30
+- 1hr Gray Man
+- 2hrs Walkbuy
+- 4hrs CTF
+
+Reduce the visual information in my room
 
 
 
