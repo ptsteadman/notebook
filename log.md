@@ -1166,8 +1166,12 @@ so much of adult life is trying to get signal from well-meaning but noisy feedba
 
 ### Monday, October 23nd 2017
 
-- Run 20mins + Lift
++ Run 20mins + Lift
 - Lab at 10:30am
+- 3hrs Dedham
+- 1hr CTF
+- 1hr LASOR
+- Invoice for Walkbuy
 
 
 
