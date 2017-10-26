@@ -1,4 +1,20 @@
-# What is Gray Man Style?
+# Adopting the Gray Man Identity
+
+After the election, one of my friends posted on social media that he was going
+to buy a gun. This summer, one of his friend dragged him on Twitter, saying that
+she was pissed that he didn't actually buy the gun.
+
+While this story is cringeworthy, I'd like to argue that it's the type of
+behavior we should expect and encourage in a functioning society.
+
+It would be much worse if my friend had bought the gun, learned how to use it,
+and told no one.
+
+A identity that ..., and why it's a bad thing if Americans start
+adopting it en masse. It may however has its uses in certain subcultural
+settings as a strategy.
+
+That would be an invisible sign of shit really starting to hit the fan. 
 
 SurvivialThinkTank.com defines a gray man as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
@@ -16,10 +32,9 @@ likely to "trigger an onlooker's Reticular Activating System (RAS)" [4], and
 make the wearer recognizable as a survivalist, or at least a person with
 supplies. The gray man prefers to carry his weapons and supplies in a dorky
 messenger bag like the Vertex EDC Satchel [8], designed to 'blend into everyday
-life' while also allowing for rapid firearm draws and armor plating. If you're
-not interested in supporting the survival industry proper, another gray man
-theorist suggests using a seemingly beat-up old golf bag to wheel around rifles
-and supplies. [9]
+life' while also allowing for rapid firearm draws and armor plating. Another
+gray man theorist suggests using a seemingly beat-up old golf bag to wheel
+around rifles and supplies. [9]
 
 SurvivalThinkTank expands the idea of the gray man to a context-dependent
 "directive" broken up into four phases. Each of the four phases corresponds to a

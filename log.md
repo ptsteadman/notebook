@@ -1168,10 +1168,10 @@ so much of adult life is trying to get signal from well-meaning but noisy feedba
 
 + Run 20mins + Lift
 - Lab at 10:30am
-- 3hrs Dedham
++ 3hrs Dedham
 - 1hr CTF
-- 1hr LASOR
-- Invoice for Walkbuy
++ 1hr LASOR
++ Invoice for Walkbuy
 
 ### Tuesday, October 24th 2017
 
@@ -1189,7 +1189,7 @@ Flat flies live on me the size of crabs
 - Gym
 - Lab by 10:30
 - 1hr Gray Man
-- 2hrs Walkbuy
++ 2hrs Walkbuy
 - 4hrs CTF
 
 Reduce the visual information in my room
