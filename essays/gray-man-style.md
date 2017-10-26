@@ -1,20 +1,21 @@
 # Adopting the Gray Man Identity
 
 After the election, one of my friends posted on social media that he was going
-to buy a gun. This summer, one of his friend dragged him on Twitter, saying that
-she was pissed that he didn't actually buy the gun.
+to buy a gun. Sometime this spring, another friend responded to his tweet,
+dragging him for not actually buying the gun.
 
-While this story is cringeworthy, I'd like to argue that it's the type of
-behavior we should expect and encourage in a functioning society.
+While this might seem cringeworthy, I think it's the type of behavior we should
+expect and encourage in a functioning democracy.
 
-It would be much worse if my friend had bought the gun, learned how to use it,
-and told no one.
+It would've been much worse if my friend had bought the gun, learned how to use
+it, and told no one, blending into his milieu of creative professionals.
 
-A identity that ..., and why it's a bad thing if Americans start
-adopting it en masse. It may however has its uses in certain subcultural
-settings as a strategy.
-
-That would be an invisible sign of shit really starting to hit the fan. 
+It's fun to criticize mall ninjas, Silicon Valley survivalists, and the general
+dynamics of virtue signaling on social media, but a society where many people
+have 'gray' identities and belief systems has hidden potential for sudden chaos.
+A society of gray men who secretly harbor fatalist, apolitical visions of
+surviving in scenarios ranging from leftist cultural revolution to technocratic
+feudal distintegration is in conflict with the processes of democracy.
 
 SurvivialThinkTank.com defines a gray man as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without

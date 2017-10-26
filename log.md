@@ -1190,11 +1190,19 @@ Flat flies live on me the size of crabs
 - Lab by 10:30
 + 1hr Gray Man
 + 2hrs Walkbuy
-- 4hrs CTF
-- Clean
++ 4hrs CTF
++ Clean
 
 Reduce the visual information in my room
 
+### Thursday, October 26th 2017
+
++ Resolve Xero
+- 1hr Gray Man
+- 3hrs Dedham
+- Swim
+- 1hr LASOR
+- 30mins CTF
 
 
 
