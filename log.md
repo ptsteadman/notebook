@@ -1211,10 +1211,17 @@ Reduce the visual information in my room
 - Yoga
 - 1hr Gray Man
 - Clean
-- 2.5hrs LASOR
-- 1.5hrs DG
-- CTF Network
++ 2.5hrs LASOR
++ 1.5hrs DG
++ CTF Network
 
+### Sunday, October 29th 2017
+
+- 1hr DG
+- Gym
+- Clean
+- 3hrs DG
+- Publish copay blogpost
 
 
 
