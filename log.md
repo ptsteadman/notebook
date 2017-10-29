@@ -1158,6 +1158,8 @@ QuickSight
 - Max's thing
 
 so much of adult life is trying to get signal from well-meaning but noisy feedback
+marc bradford: geometric like GIS
+stanley whitney: big colored squares and thick lines. ovals w many lines
 
 ### Sunday, October 22nd 2017
 
