@@ -1198,12 +1198,20 @@ Reduce the visual information in my room
 ### Thursday, October 26th 2017
 
 + Resolve Xero
-- 1hr Gray Man
-- 3hrs Dedham
+* 1hr Gray Man
++ 3hrs Dedham
 - Swim
-- 1hr LASOR
-- 30mins CTF
+* 1hr LASOR
++ 30mins CTF
 
+### Friday, October 27th 2017
+
+- Yoga
+- 1hr Gray Man
+- Clean
+- 2.5hrs LASOR
+- 1.5hrs DG
+- CTF Network
 
 
 
