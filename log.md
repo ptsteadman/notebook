@@ -1217,17 +1217,48 @@ Reduce the visual information in my room
 
 ### Sunday, October 29th 2017
 
-- 1hr DG
-- Gym
++ 1hr DG
++ Gym
 - Clean
 - 3hrs DG
 - Publish copay blogpost
 
+-----BEGIN PGP MESSAGE-----
+Comment: https://keybase.io/download
+Version: Keybase Go 1.0.34 (linux)
 
+wcFMAxeUi+zldDa+ARAAHnBYRAGub0DlFgObseMgUiKqdH4KXTMJslu3cNpgHn77
+9KgmfSD3ySGU5CDh3tmkV/Iac7pdtm+UVMWYtvYNUDAxf7OrXNvwiJr6lVdP5gyb
+Rl3AnTIOBhRhqplQZs/wQiyDHSFp2FO35q5rGEaAjrZvi80SR1xw+AcQ9WH0IR94
+34jKC0wC5vr9XrY0sZ325sLeCYOOv4xTUCnWwSCfwa+cZGSM2pQzLX4WmdVRkQcu
+RxRU+0+aomhI1Sd74+gIgpgD7f2pSyDnM+2h0eQqta3UAfE7CGmqgT6P6WLPYs34
+Zz0vDmztMDcNoibCMIQUjYcrUVwt0TpOt/tXq8x8bMSoganivgIWwZHU+fmzCzwI
+UAda85eUIRxqPTYkoGIu1DNMRzdXhgf6OHPMZCWo6E3EMT5UZLo9azE/Is5VA2nF
+LIASG6LoGrdKPSVFnvtalzOKh6vj6te6jP+X3tn9FgbWN6DEoZaR1Mno7dalBUGS
+rSbb7uRwKK4UI+4rGhw0ygPnKUf8jZXoK8XBeK3hQpHaPcQyA2VDdmn3FJyR5rCL
+UqzLxncABl/fHi+QZOqWkcIk17og7Jp2scltWu4fQT2sIOwggrlSiCjdSPZhQ8Ek
+97Q2tWcZFMp8DX5lzFa6R4VcrEfekTexcIW+hWhud3KcKgOGIP8wLCDbDeT9Mg3S
+4AHk+QhBAKbyGfXeRkhan4VEj+FxaODC4OHhKengteKxLA2d4AXpHeKFTGh0R2i3
+t4fpMIrrD8MkxP1AITS8rQZgR59oTUrMAlskid3L7yTHEa/lYb37K+m03W7UBAum
+qpl6tKvYAom9D5D73eyVpVJx35b4nFfearcGtT+Ccdg4e0VPIL2nnpOFFFLjIdwq
+LG7mE78ewxL5FXsa8cFCS2Nv0J8wXUC8C/xJsiNMQbCdixUbl7MF3voNSdsNUSKX
+WTzAHY30RbuGPluqtsxz24Qgd8cvj2toFt03CxsJsazPjBMMcrGOdUisAj1IJKZc
+h2MqgDF4HujyiLkIkoTiW5c0btOba9+biCflPpj2nTBE2W+LLjxKBPxx4S4WUO1F
+KjD/dds8j3qtWaWkLL4ML1ut87iGduP7N6jNDFHwkWAzZGC4RJePQpflqX7ZvsnG
+HjgOrshR1jS5Kz0n1VniYYf/k9yIeTR2ILkHOtM+V2VlUmZAv4lLZvTYpllA6x68
+QVr0QKJq1x/e7iQiSCcO7uvPT2mkyzcr9VcEEbOghDjDW6NteU65N5hgxp6H82Z/
+tiRYBFz4IhOZv0MBEVF1+qk0oHmD8ZsvpzvuM7hG3Y3Mmz1N6T5MbKBjpqT4BZgz
+7/hpN4rCxuL3KPBzu/4asCVd//xe5kYKF4kTsgRYeKJ+eKt6cpmXfpZaLDo1F2JW
+rthEKn+w7jahLfd5noDioffoO7098dXgfueq+2N9JAOumvzsh9wH2qmpGfDhRf6/
+s443CjdAAKfcc6r69BOvkJpYby8MD3AZI6rpx6U3stWMQjnRKQg/H5umAH5s72su
+7LC2h8lBtmtYnkYykaiBIQNIIcOfki937arK1NPKJNLsr0+MHn+CnLi7/jJTSanE
+WSf7LLCwHwaqWuBp5ozfErdfl4CI33+TsUgoqJHGsiWs62hxLdEJDnvKKW0D/iCL
+yKLavuJJ89McCOb2ZXlAaljwrdtEOqlAhN9OajbgM+QrfbYpH+KbLKffyXaeXNQQ
+4Fvj5f3akiecdIHgg+Dr4ErkSsBdiGLywhF3AzUUaGOxbOLfAe0U4bz3AA==
+=4eA4
+-----END PGP MESSAGE-----
 
-
-
-
+"expires in " +  (-1 * ((new Date().getTime()) - localStorage.getItem("expires_at"))/1000) + " seconds"
 
 
 
