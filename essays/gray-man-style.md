@@ -1,4 +1,21 @@
-# What is Gray Man Style?
+# Adopting the Gray Man Identity
+
+After the election, one of my friends posted on social media that he was going
+to buy a gun. Sometime this spring, another friend responded to his tweet,
+dragging him for not actually buying the gun.
+
+While this might seem cringeworthy, I think it's the type of behavior we should
+expect and encourage in a functioning democracy.
+
+It would've been much worse if my friend had bought the gun, learned how to use
+it, and told no one, blending into his milieu of creative professionals.
+
+It's fun to criticize mall ninjas, Silicon Valley survivalists, and the general
+dynamics of virtue signaling on social media, but a society where many people
+have 'gray' identities and belief systems has hidden potential for sudden chaos.
+A society of gray men who secretly harbor fatalist, apolitical visions of
+surviving in scenarios ranging from leftist cultural revolution to technocratic
+feudal distintegration is in conflict with the processes of democracy.
 
 SurvivialThinkTank.com defines a gray man as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
@@ -16,10 +33,9 @@ likely to "trigger an onlooker's Reticular Activating System (RAS)" [4], and
 make the wearer recognizable as a survivalist, or at least a person with
 supplies. The gray man prefers to carry his weapons and supplies in a dorky
 messenger bag like the Vertex EDC Satchel [8], designed to 'blend into everyday
-life' while also allowing for rapid firearm draws and armor plating. If you're
-not interested in supporting the survival industry proper, another gray man
-theorist suggests using a seemingly beat-up old golf bag to wheel around rifles
-and supplies. [9]
+life' while also allowing for rapid firearm draws and armor plating. Another
+gray man theorist suggests using a seemingly beat-up old golf bag to wheel
+around rifles and supplies. [9]
 
 SurvivalThinkTank expands the idea of the gray man to a context-dependent
 "directive" broken up into four phases. Each of the four phases corresponds to a

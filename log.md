@@ -1151,8 +1151,8 @@ QuickSight
 
 ### Friday, October 20th 2017
 
-- 4hrs LASOR
-- Order new contacts
++ 4hrs LASOR
++ Order new contacts
 - 1hr Auth0
 - 30mins CTF
 - Max's thing
@@ -1161,10 +1161,50 @@ so much of adult life is trying to get signal from well-meaning but noisy feedba
 marc bradford: geometric like GIS
 stanley whitney: big colored squares and thick lines. ovals w many lines
 
+### Sunday, October 22nd 2017
 
+- 2hrs Auth0
+- Max's thing
 
+### Monday, October 23nd 2017
 
++ Run 20mins + Lift
+- Lab at 10:30am
++ 3hrs Dedham
+- 1hr CTF
++ 1hr LASOR
++ Invoice for Walkbuy
 
+### Tuesday, October 24th 2017
+
++ 4hrs DG
++ 1hr LASOR
+* 1hr CTF
++ Clean
+
+Jor makes me warm and excited
+I bathe my flock in Evian water
+Flat flies live on me the size of crabs
+
+### Wednesday, October 25th 2017
+
+- Gym
+- Lab by 10:30
++ 1hr Gray Man
++ 2hrs Walkbuy
++ 4hrs CTF
++ Clean
+
+Reduce the visual information in my room
+
+### Thursday, October 26th 2017
+
++ Resolve Xero
+- 1hr Gray Man
+- 3hrs Dedham
+- Swim
+- 1hr LASOR
+- 30mins CTF
 
 
 
