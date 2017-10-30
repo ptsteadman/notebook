@@ -1263,7 +1263,39 @@ yKLavuJJ89McCOb2ZXlAaljwrdtEOqlAhN9OajbgM+QrfbYpH+KbLKffyXaeXNQQ
 
 
 
+### Monday, October 30th 2017
 
++ Lab at 10:30am
+- 2hrs LASOR
+- 2hrs DG
+- Computer Diary
+- Publish Copay Thing
+- Apply to writing class!
+
+-----BEGIN PGP MESSAGE-----
+Comment: https://keybase.io/download
+Version: Keybase Go 1.0.34 (linux)
+
+wcFMAxeUi+zldDa+ARAAJpnxJI+WZClts7tnZpA9ie+xYel/dkVEooO4F4DSzA+/
+Do3kxikVSkhUx+CPL26gcF0AOAAa6V+ytWsHSxG1RNLAwICbRMy0+4ONmSiB6B8F
+0roYhWU8Ts4uqpSZFgmObCPK3SNqUWb3YmdYh10rH1k7YwmtDh5hm6Cz6kP1QjPk
+FxKabgmw8qKiIpQjyWDoTIAHtObk5vOGnCJFNwDxTnf1BGQHCMCXyppcphVWgbP0
+4t1mc77Bay50e1a2mGfVWqUmcUaw4sRnAyj5qS+9ebedtZiMhaECiHiRTnhwNX00
+ZHClS6k1EXOwVHE99jyO8OeCerWK9kAuW9RaZSVhxE99y8U8sqKHWU5xhGdaydw2
+pWsoeWnyH6tP9lxi1au00L+cVbMpOWlXacK91OPTJdTiBEMX0Z9n5DkrDr8m3d4Q
+HVcP1HNwR8+GQn7f3d1lghlYhZ01xbLQ049oAvY5uigiyy9yVWCvpy5wU5mR+1Ca
+JWQmAs3ADnG0BiLzV3g7Kl2Ddpchkq94EUw1uvsnuZTaoEGO+80py8Vrp54XvxS0
+91XQfd4pS0j4u7lgxK+aF3Eqbr2yrqmXX1Chmxy6+GrdkkRUHDJWul+DuX7nz+eo
+Q6KFLctwIUMz5PSlM5zYj6H3Xjl/6VMTI088eYeZGLLMoS4ZhAjBeoQzMrqa4pbS
+4AHkkE/OsiYA5NXbw6rA1nFMuuFheOCp4D/hgH7gk+J9qFBE4DXnugQy3c7qureA
+dueqb/0uRoArhyc/iqVHnJuXSprc6B8+iqxNly7Nj/JHmtJFZAVtWm6L68jgun3r
+7QeEBsC/4YEdIxIHVrim4ZsIHBPQPK8LdHbU1OiXWEbe492SYmcj6Iu+urpS2XdY
+vC1JiiyZohY2XCgNb+ppIG85L8wCyCHgCeawBy45yKoajG6maGay6aTnm94DLMQY
+jNxkDS7BE2arIwJa+MZ3Rs7DxTiZUZufkPjm2U8vezI/9A13AfZm21IM4MHlAf0X
+XoN2PkvSUA/4DpVqRZVwRk0aRyeGCFNtyBq+q/HgCeTiaYCXp7nvKuY0/eUr8nqA
+4IrhRE3gsOBK4FfkbUDC12NY1x/P4LlXBNGrGOJSZO114f1fAA==
+=bYBr
+-----END PGP MESSAGE-----
 
 
 
