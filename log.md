@@ -1199,10 +1199,11 @@ Reduce the visual information in my room
 
 + Resolve Xero
 - 1hr Gray Man
-- 3hrs Dedham
-- Swim
++ 3hrs Dedham
 - 1hr LASOR
 - 30mins CTF
+- Clean Lab
+- Swim
 
 
 
