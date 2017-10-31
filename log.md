@@ -1219,8 +1219,8 @@ Reduce the visual information in my room
 
 + 1hr DG
 + Gym
-- Clean
-- 3hrs DG
++ Clean
++ 3hrs DG
 - Publish copay blogpost
 
 -----BEGIN PGP MESSAGE-----
@@ -1258,7 +1258,15 @@ yKLavuJJ89McCOb2ZXlAaljwrdtEOqlAhN9OajbgM+QrfbYpH+KbLKffyXaeXNQQ
 =4eA4
 -----END PGP MESSAGE-----
 
-"expires in " +  (-1 * ((new Date().getTime()) - localStorage.getItem("expires_at"))/1000) + " seconds"
+"expires in " + (-1 * ((new Date().getTime()) - localStorage.getItem("expires_at"))/1000) + " seconds"
+
+### Monday, October 30th 2017
+
+- Lab by 10:30am
+- Invoice
+- Publish Copay Blogpost
+- 3hrs DG
+- 2hrs LASOR
 
 
 
