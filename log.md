@@ -1260,25 +1260,15 @@ yKLavuJJ89McCOb2ZXlAaljwrdtEOqlAhN9OajbgM+QrfbYpH+KbLKffyXaeXNQQ
 
 "expires in " + (-1 * ((new Date().getTime()) - localStorage.getItem("expires_at"))/1000) + " seconds"
 
-### Monday, October 30th 2017
-
-- Lab by 10:30am
-- Invoice
-- Publish Copay Blogpost
-- 3hrs DG
-- 2hrs LASOR
-
-
-
 
 ### Monday, October 30th 2017
 
 + Lab at 10:30am
-- 2hrs LASOR
-- 2hrs DG
++ 2hrs LASOR
++ 2hrs DG
 - Computer Diary
 - Publish Copay Thing
-- Apply to writing class!
++ Apply to writing class!
 
 -----BEGIN PGP MESSAGE-----
 Comment: https://keybase.io/download
