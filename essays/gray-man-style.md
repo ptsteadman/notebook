@@ -1,41 +1,43 @@
-# Adopting the Gray Man Identity
+# The Danger of Gray Men
 
-After the election, one of my friends posted on social media that he was going
-to buy a gun. Sometime this spring, another friend responded to his tweet,
-dragging him for not actually buying the gun.
+After the election, one of my friends tweeted that he was going to buy a gun.
+About six months later, another friend responded to the tweet, gently dragging
+him for not actually buying the gun.
 
-While this might seem cringeworthy, I think it's the type of behavior we should
-expect and encourage in a functioning democracy.
+While this might sound a bit cringeworthy, I think it's the type of behavior we
+should expect and encourage in a functioning democracy.
 
 It would've been much worse if my friend had bought the gun, learned how to use
-it, and told no one, blending into his milieu of creative professionals.
+it, and told no one, blending in with his creative professional peers.
 
-It's fun to criticize mall ninjas, Silicon Valley survivalists, and the general
-dynamics of virtue signaling on social media, but a society where many people
-have 'gray' identities and belief systems has hidden potential for sudden chaos.
-A society of gray men who secretly harbor fatalist, apolitical visions of
-surviving in scenarios ranging from leftist cultural revolution to technocratic
-feudal distintegration is in conflict with the processes of democracy.
+It's fun to criticize mall ninjas, Silicon Valley survivalists, and the dynamics
+of virtue signaling on social media, but a society where many people have 'gray'
+identities and belief systems is potentially on the brink of sudden chaos. It's
+hard to imagine democratic processes thriving in a society of gray men who
+secretly harbor fatalist, apolitical visions of surviving in scenarios ranging
+from leftist cultural revolution to technocratic feudal distintegration. 
 
 SurvivialThinkTank.com defines a gray man as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
 standing out, concealing his or her true skills, ability, and intent from
-others." [3] Promoters of gray man are socially-aware survivalists who think
-that overt tactical gear is a "shoot-me-first" signal, and instead favor
-multi-modal dress that will help them avoid attention until it's time to use
-force.
+others." [3] On the internet, the term is mainly used on socially-aware survival
+websites that recommend that survivalists attempt to be gray in their
+appearance, actions, and speech. 
 
-Most of the "bug out bags" for sale on Amazon include military features like
-MOLLE panels, hydration bladders, and camouflage. [25] From the perspective of
-the gray man, this type of tactical bag is a very poor thing to be carrying when
-shit hits the fan (SHTF). In the words of one theorist, tactical items are
-likely to "trigger an onlooker's Reticular Activating System (RAS)" [4], and
-make the wearer recognizable as a survivalist, or at least a person with
-supplies. The gray man prefers to carry his weapons and supplies in a dorky
-messenger bag like the Vertex EDC Satchel [8], designed to 'blend into everyday
-life' while also allowing for rapid firearm draws and armor plating. Another
-gray man theorist suggests using a seemingly beat-up old golf bag to wheel
-around rifles and supplies. [9]
+For example, on the appearance front, promoters of gray man style believe that
+overt tactical gear is a "shoot-me-first" signal, and instead favor multi-modal
+dress that will help them avoid attention until it's time to use force. A gray
+man wouldn't want to be carrying one of the bug out bags available on Amazon
+when shit hits the fan (SHTF), because most of the Amazon bags include military
+features like MOLLE panels, obvious hydration bladders, and camoflage. [25] In
+the words of one theorist, tactical features like these are likely to "trigger
+an onlooker's Reticular Activating System (RAS)" [4], and make the wearer
+recognizable as a survivalist, or at least a person with supplies. The gray man
+prefers to carry his weapons and supplies in a dorky messenger bag like the
+Vertex EDC Satchel [8], designed to 'blend into everyday life' while also
+holding armor plating and allowing for rapid firearm draws.  Another gray man
+theorist suggests using a seemingly beat-up old golf bag to wheel around rifles
+and supplies. [9]
 
 SurvivalThinkTank expands the idea of the gray man to a context-dependent
 "directive" broken up into four phases. Each of the four phases corresponds to a
