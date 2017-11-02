@@ -4,7 +4,7 @@ The day after the election, one of my friends tweeted that he was going to buy a
 About six months later, another friend responded to the tweet, gently dragging
 him for not actually buying the gun.
 
-While this might sound a bit cringeworthy, I think it's the type of behavior we
+While this behavior might make you cringe, I think it's the type of behavior we
 should expect and encourage in a functioning democracy.
 
 It would've been much worse if my friend had bought the gun, learned how to use
