@@ -1298,11 +1298,11 @@ XoN2PkvSUA/4DpVqRZVwRk0aRyeGCFNtyBq+q/HgCeTiaYCXp7nvKuY0/eUr8nqA
 
 ### Tuesday, October 31st 2017
 
-- 2hrs DG
-- Clean
++ 2hrs DG
++ Clean
 - 1hr Copays
-- Computer Diary
-- 1hr LASOR
++ Computer Diary
+* 1hr LASOR
 
 -----BEGIN PGP MESSAGE-----
 Comment: https://keybase.io/download
@@ -1334,7 +1334,11 @@ TZ/gkuD74FTkj5cIjs41ck1ecGu2G6rZ1OLajNld4R9JAA==
 =wLrR
 -----END PGP MESSAGE-----
 
+### Wednesday, November 1st 2017
 
++ 1hr DG
+- 1hr Gray Man
++ Computer Diary 
 
 
 
