@@ -1337,7 +1337,7 @@ TZ/gkuD74FTkj5cIjs41ck1ecGu2G6rZ1OLajNld4R9JAA==
 ### Wednesday, November 1st 2017
 
 + 1hr DG
-- 1hr Gray Man
++ 1hr Gray Man
 + Computer Diary 
 
 
