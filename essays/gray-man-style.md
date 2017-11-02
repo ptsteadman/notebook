@@ -1,6 +1,6 @@
 # The Danger of Gray Men
 
-After the election, one of my friends tweeted that he was going to buy a gun.
+The day after the election, one of my friends tweeted that he was going to buy a gun.
 About six months later, another friend responded to the tweet, gently dragging
 him for not actually buying the gun.
 
