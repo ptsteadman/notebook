@@ -17,10 +17,10 @@ hard to imagine democratic processes thriving in a society of gray men who
 secretly harbor fatalist, apolitical visions of surviving in scenarios ranging
 from leftist cultural revolution to technocratic feudal seperatism. 
 
-The term 'gray man' is currently mainly used by socially-aware survivalists who
+The term 'gray man' is currently used mainly by socially-aware survivalists who
 attempt to be 'gray' in their appearance, actions, and speech in order to
-increase their chances of survival if shit hits the fan (SHTF). I also think
-'gray' is an emergent but unspoken political identity, distinct from
+increase their chances of survival if shit hits the fan (SHTF). I think 'gray'
+is also an emergent but unspoken political identity, distinct from
 crypto-fascism or most other crypto-politics in the respect that gray politics
 are purely solipistic and deferred: the gray man has nothing to say about about
 the policies of the present.
