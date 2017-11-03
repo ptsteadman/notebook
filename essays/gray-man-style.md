@@ -10,6 +10,14 @@ should expect and encourage in a functioning democracy.
 It would've been much worse if my friend had bought the gun, learned how to use
 it, and told no one, blending in with his creative professional peers.
 
+The term 'gray man' is currently used by socially-aware survivalists who attempt
+to be 'gray' in their appearance, actions, and speech in order to increase their
+chances of survival if shit hits the fan (SHTF). I think 'gray' is also an
+emergent but unspoken political identity, distinct from crypto-fascism or most
+other crypto-politics in the respect that gray politics are purely solipistic
+and deferred: the gray man has nothing to say about about the policies of the
+present.
+
 It's fun to criticize mall ninjas, Silicon Valley survivalists, and the dynamics
 of virtue signaling on social media, but a society where many people have 'gray'
 identities and belief systems always has the potential for sudden chaos. It's
@@ -17,13 +25,7 @@ hard to imagine democratic processes thriving in a society of gray men who
 secretly harbor fatalist, apolitical visions of surviving in scenarios ranging
 from leftist cultural revolution to technocratic feudal seperatism. 
 
-The term 'gray man' is currently used mainly by socially-aware survivalists who
-attempt to be 'gray' in their appearance, actions, and speech in order to
-increase their chances of survival if shit hits the fan (SHTF). I think 'gray'
-is also an emergent but unspoken political identity, distinct from
-crypto-fascism or most other crypto-politics in the respect that gray politics
-are purely solipistic and deferred: the gray man has nothing to say about about
-the policies of the present.
+---
 
 SurvivialThinkTank.com defines a gray man as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
