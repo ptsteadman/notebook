@@ -12,7 +12,7 @@ it, and told no one, blending in with his creative professional peers.
 
 It's fun to criticize mall ninjas, Silicon Valley survivalists, and the dynamics
 of virtue signaling on social media, but a society where many people have 'gray'
-identities and belief systems always has hidden potential for sudden chaos. It's
+identities and belief systems always has the potential for sudden chaos. It's
 hard to imagine democratic processes thriving in a society of gray men who
 secretly harbor fatalist, apolitical visions of surviving in scenarios ranging
 from leftist cultural revolution to technocratic feudal seperatism. 
