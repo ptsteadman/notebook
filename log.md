@@ -1340,6 +1340,21 @@ TZ/gkuD74FTkj5cIjs41ck1ecGu2G6rZ1OLajNld4R9JAA==
 + 1hr Gray Man
 + Computer Diary 
 
+### Thursday, November 2nd 2017
+
+- 1hr Gray Man
++ 3hrs DG
+- Computer Diary
++ Talk to parents about healthcare
++ Clean lab
+- 1hr CTF
++ Gym
+
+### Friday, November 3rd 2017
+
+- Look into private options
+- Research HSA
+- Read FAQs
 
 
 
