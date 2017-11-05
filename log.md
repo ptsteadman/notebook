@@ -1356,7 +1356,49 @@ TZ/gkuD74FTkj5cIjs41ck1ecGu2G6rZ1OLajNld4R9JAA==
 - Research HSA
 - Read FAQs
 
+### Saturday, November 4rd 2017
+
+What do I want from my feed?
+feeling close to my friends
+unknown unknowns
+
+What should a feed do, for whom?
+same as above
+be transparent and opinionated
+for the user?
+be comprehensive
+be immutable or transparent in mutation
+
+How should it look and feel?
+outward spiral vs inward
+not overwhelming
+
+How do I deide what published material I want to read?
+my friend sends it to me
+i am searching for it
+it is in a feed
+it is 'news'
 
 
+Is a feed the right format at all?
+vs blockchain
 
+Health plans will also vary based on the networks of hospitals and other health
+care providers they offer. Some plans will require you to get all non-emergency
+care in-network, while others will provide some coverage when you receive
+out-of-network care.
 
+[Catastrophic plans] are only for adults up to age 30, and for older people who
+can’t find any other Marketplace policy that costs less than 8.05 percent of
+their income.
+
+If you went out of network because you felt it was medically necessary to
+receive care from a specific professional or facility – for example, if you felt
+your plan’s network didn’t include providers able to provide the care you need –
+or if you inadvertently got non network care while hospitalized if the
+anesthesiologist or other physicians working in the hospital don’t participate
+in your plan network – you can appeal the insurer’s decision. If there is a
+Consumer Assistance Program in your state, staff in this program can help you
+file your appeal.
+
+The “formulary” is a list of prescription drugs the plan will cover
