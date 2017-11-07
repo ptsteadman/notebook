@@ -1406,3 +1406,10 @@ Consumer Assistance Program in your state, staff in this program can help you
 file your appeal.
 
 The “formulary” is a list of prescription drugs the plan will cover
+
+### Monday, November 5th 2017
+
++ 2.5hrs LASOR
++ 2hrs DG
+- 1hr Walkbuy
+- Computer Diary
