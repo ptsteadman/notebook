@@ -1353,12 +1353,12 @@ TZ/gkuD74FTkj5cIjs41ck1ecGu2G6rZ1OLajNld4R9JAA==
 ### Friday, November 3rd 2017
 
 + 1hr Gray Man
-- 1hr CTF
-- 1hr DG
++ 1hr CTF
++ 1hr DG
 - 1hr LASOR
-- Look into private options
-- Research HSA
-- Read FAQs
++ Look into private options
++ Research HSA
++ Read FAQs
 
 ### Saturday, November 4rd 2017
 
@@ -1407,9 +1407,58 @@ file your appeal.
 
 The “formulary” is a list of prescription drugs the plan will cover
 
-### Monday, November 5th 2017
+### Monday, November 6th 2017
 
 + 2.5hrs LASOR
 + 2hrs DG
 - 1hr Walkbuy
 - Computer Diary
+
+### Tuesday, November 7th 2017
+
+- 3hrs DG
++ 2hrs Walkbuy
++ Gym
++ Laundry
++ Buy Food
+- Computer Diary
+
+Walkbuy MTG
+
+- FB review updates
+  - Unable to access other page's reviews via API
+  - Need to fix the fb app (get it out of development mode)
+  - Other options?
+
+- Visualization
+  - Any updates on UI?
+  - Trouble with sunburst visualization
+
+### Wednesday, November 8th 2017
+
+- 3hrs DG
+- Computer Diary
+- Lab By 10:30AM
+- Clean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
