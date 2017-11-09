@@ -1436,25 +1436,15 @@ Walkbuy MTG
 
 ### Wednesday, November 8th 2017
 
-- 3hrs DG
++ 3hrs DG
 - Computer Diary
-- Lab By 10:30AM
++ Lab By 10:30AM
 - Clean
 
 
+need to reconcile AuthorizationExtension libs today
 
-
-
-
-
-
-
-
-
-
-
-
-
+demo account should have a read:payer:indications:all permission
 
 
 
