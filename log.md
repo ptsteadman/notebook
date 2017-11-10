@@ -1439,13 +1439,23 @@ Walkbuy MTG
 + 3hrs DG
 - Computer Diary
 + Lab By 10:30AM
-- Clean
++ Clean
 
 
 need to reconcile AuthorizationExtension libs today
 
 demo account should have a read:payer:indications:all permission
 
+
+### Thursday, November 9th 2017
+
+- Publish Computer Diary
+- 3hrs DG
+- Clean Lab
++ Email blast
+- Call
+
+Find address of the smart contract.
 
 
 
