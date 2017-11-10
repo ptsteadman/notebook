@@ -1446,7 +1446,15 @@ need to reconcile AuthorizationExtension libs today
 
 demo account should have a read:payer:indications:all permission
 
+Convolutional Neural Networks:
 
+IMAGENET
+2011: 25%
+2012: 15.4%
+2015: 3.6%
+
+computational pathology: high degree of difficulty for both humans and machines
+glaucoma
 
 
 
