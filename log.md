@@ -1471,3 +1471,6 @@ glaucoma
 - Biz Dev
 
 Good to write about the striving for impact
+
+rough ideas for five year plan: 
+pigeon apartment, write well, lab like mckinsey + infosec
