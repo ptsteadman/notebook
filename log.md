@@ -1446,17 +1446,32 @@ need to reconcile AuthorizationExtension libs today
 
 demo account should have a read:payer:indications:all permission
 
+Convolutional Neural Networks:
 
 ### Thursday, November 9th 2017
 
-- Publish Computer Diary
-- 3hrs DG
+* Publish Computer Diary
++ 3hrs DG
 - Clean Lab
 + Email blast
-- Call
++ Call
 
 Find address of the smart contract.
 
+IMAGENET
+2011: 25%
+2012: 15.4%
+2015: 3.6%
+
+computational pathology: high degree of difficulty for both humans and machines
+glaucoma
+
+### Friday, November 10th 2017
+
++ Publish Computer Diary
+- 3hrs DG
++ Clean Lab
+- Contract etc signed
 
 
 
