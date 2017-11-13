@@ -1460,3 +1460,14 @@ glaucoma
 
 
 
+### Monday, November 13th 2017
+
+- Gym
+- Lab at 11:15AM
+- Hit up Will about Walkbuy 
+- Invoices
+- 3hrs DG 
+- 1hr writing
+- Biz Dev
+
+Good to write about the striving for impact
