@@ -1474,12 +1474,9 @@ glaucoma
 - Contract etc signed
 
 
-
-
-
 ### Monday, November 13th 2017
 
-- Gym
++ Gym
 - Lab at 11:15AM
 - Hit up Will about Walkbuy 
 - Invoices
