@@ -1478,9 +1478,9 @@ glaucoma
 
 + Gym
 - Lab at 11:15AM
-- Hit up Will about Walkbuy 
-- Invoices
-- 3hrs DG 
++ Hit up Will about Walkbuy 
++ Invoices
++ 3hrs DG 
 - 1hr writing
 - Biz Dev
 
