@@ -1471,7 +1471,7 @@ glaucoma
 + Publish Computer Diary
 - 3hrs DG
 + Clean Lab
-- Contract etc signed
++ Contract etc signed
 
 
 ### Monday, November 13th 2017
@@ -1481,10 +1481,20 @@ glaucoma
 + Hit up Will about Walkbuy 
 + Invoices
 + 3hrs DG 
-- 1hr writing
++ 1hr writing
 - Biz Dev
 
 Good to write about the striving for impact
 
 rough ideas for five year plan: 
 pigeon apartment, write well, lab like mckinsey + infosec
+if u like ny mag's sex diaries or refinery29's money dairies but u love computers u will like computer lab computer diaries
+
+### Wednesday, November 15th 2017
+
++ Gym
+- 1hr Gray Man
+- 1hr DG
++ Invoice for ERC20-Finder
+
+
