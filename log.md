@@ -1492,9 +1492,9 @@ if u like ny mag's sex diaries or refinery29's money dairies but u love computer
 
 ### Wednesday, November 15th 2017
 
-- Gym
++ Gym
 - 1hr Gray Man
 - 1hr DG
-- Invoice for ERC20-Finder
++ Invoice for ERC20-Finder
 
 
