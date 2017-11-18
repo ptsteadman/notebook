@@ -1499,7 +1499,7 @@ if u like ny mag's sex diaries or refinery29's money dairies but u love computer
 
 ### Friday, November 17th 2017
 
-- 3hrs DG
++ 3hrs DG
 - 1hr Writing
 - 1hr CTF
-- Clean Lab
++ Clean Lab
