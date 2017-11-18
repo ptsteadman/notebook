@@ -53,19 +53,20 @@ is also quite normal to secretly enjoy the pleasures of the neoliberal
 lifestyle, and not really expect them to stop, while professing a
 socially-acceptable desire for revolution.
 
-
 ---
 
 The gray man concept seems to have been developed in reaction to a perceived
-threat of "survivalist hate". A individual known as Selco bases his theory of
-survivalist hate on his experience in the Balkan war, where he saw many
-well-prepared people attempt to help their neighbors by giving away supplies.
-Just weeks later, these generous individuals were often rewarded by being robbed
-or even murdered. Selco says that the thieves justified their actions with the
-notion that well-prepared individuals were somehow guilty of anticipating or
-catalyzing the conflict. A reviewer of Selco's survival course simply asks
-readers to think back to high school, where those who "were prepared for the
-test were hated and called nerds". [16]
+threat of "survivalist hate". There was recently some backlash against against
+'super-rich' Silicon Valley preppers, but the most interesting analysis of
+survivalist hate I've found is based on an individual name Selco's experience
+during the Balkan war. He says that he saw many well-prepared people attempt to
+help their neighbors by giving away supplies. Just weeks later, these generous
+individuals were often rewarded by being robbed or even murdered. Selco says
+that the thieves justified their actions with the notion that well-prepared
+individuals were somehow guilty of anticipating or catalyzing the conflict. A
+reviewer of Selco's survival course simply asks readers to think back to high
+school, where those who "were prepared for the test were hated and called
+nerds". [16]
 
 Gray man adherents seem to believe that the attention economy would invert
 itself in a SHTF scenario: those who attract less attention will be more likely
@@ -87,9 +88,9 @@ Gallant style, presents gray man as more of an identity than a strategy.
 Example: "The Young Grey Man is dismissed as a wimp, the Older as a doddering
 old fool." [7]
 
-This quote begs the obvious question: why be a survivalist anyways, if it can be
-such a liability that you need to develop a pathetic alter-ego? Wouldn't it be
-better to accept the idea that survival is socially determined?
+This quote begs the obvious question: why be a survivalist anyways, if it's such
+a liability that you need to develop a pathetic alter-ego? Wouldn't it be better
+to accept the idea that survival is socially determined?
 
 The obvious reason that most survivalists don't focus on the survival of society
 as a whole is that American-style survivalism is tightly coupled with
@@ -99,6 +100,8 @@ promote their political beliefs. Perhaps as a way to ease this tension, the
 Western Rifle Shooters Association post presents gray man as something that can
 be practiced secretly with a group: "[The Gray Man] practices with his weaponry
 in private, or only with his fellow Grey Men, always in a secluded location."
+
+cronyism
 
 I found later writing about the gray man concept on a number of different
 survivalist content farms. In these later pieces, gray man is less of a
