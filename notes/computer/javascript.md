@@ -169,4 +169,21 @@ If `use strict` is used, it will just be undefined.
 
 `config/default.json`
 
+### String Encoding
+
+charCodeAt() gets numeric unicode code point of any character up to 0xFFFF
+
+Single character escape sequences: like `\n`, `\t`, etc
+Escape character makes special characters literal
+
+"Any character with a character code lower than 256 (i.e. any character in the extended ASCII range) can be escaped using its hex-encoded character code, prefixed with \x."
+
+Under the hood, JS uses UCS-2, so 'astral plane' characters use two 'characters'
+
+(Same characters as octal encoded characters.)
+
+Unicode whatacters are prefixed with `\u`.
+
+
+
 
