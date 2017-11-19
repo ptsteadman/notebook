@@ -1500,6 +1500,46 @@ if u like ny mag's sex diaries or refinery29's money dairies but u love computer
 ### Friday, November 17th 2017
 
 + 3hrs DG
-- 1hr Writing
++ 1hr Writing
 - 1hr CTF
 + Clean Lab
+
+### Sunday, November 19th 2017
+
++ Finish five-year plan
+- Set up CTFd
+- Gym
+- 1hr Writing
+- 2hrs 
+
+-----BEGIN PGP MESSAGE-----
+Comment: https://keybase.io/download
+Version: Keybase Go 1.0.34 (linux)
+
+wcFMAxeUi+zldDa+ARAAkQSuYC14IeD6j6fAYWpXGbH3mN4A2p/15Bo5omZUnqY8
+d/tDQv1N11BNC//pTRoX692HeIy0RAnPGMGpj/aEoBFro873k4/ulEZOlQ2Xfyiu
+xLky994XuJN4H8NOvKJr5eWAjss89WCxDWagDCdtYo2KGugj4kLNm0FD3Z0I05iJ
+6BoNL5WrelWtzUFFPh7UgvJ4GkLk96K3z38HkvKr4pQa/dtzk2mm7H6aXiP/ID0m
+e7dm5WSY3S1OY183i8mkeMg7fkU9M01BW4ACrQo7avF5w8Zk/3YUlMIBf5xqeT+N
+PWSNqkpo4hZf3F/dqU+nLgtIpHzmeLsy102zYAT/5WRbqxtlHjipa370+v5cRHjM
+0KwA+VTYO0mzixORcR+2eVUdbWXfSPwgR6y8DBHAQhltCVh/+zBd0Eh22H2uj2ir
+8dN7MNSdNODLQV09Kepv7J+gYJTIr5o19gjjIlrdbD1mLquK0HCNCzr2ujcEwen8
++3LFGq0BjK2LYqwmzllgMd5WIi5uzWWDryX3Qhx+Cvq1PnTZGP2BrgHj14J6vDUu
+BrKHlBVC3AIty8QgHIHdRCVjGlyrT1AD51msFu7r9Caczry96KQ74PN4jWyyOgGO
+ZvEr8q67UCSch2z8tbks1CzDe5ZftgJaTbJ3R35nZEO4IQONGHbtjukv2vUEdNjS
+4AHkFsLrpqkmhT4yTWHRitNdGuF/MeD74DXhtjzgdOIXy4Ug4OLpl+0eqOMRHhhv
+1URfAo9ynVkiDojKnnuiO7zezSl/i+FegpnnRv3Wuv29rsR8YrlYuL68URdcONvd
+yMpZrktCQUGQPm5hgRxG5tJsKvLjSFs8fMuMtDQ2yWaNla42F258PotBWCHRBs21
+qhvaPM+QwlorcZNMVBfUr2JQ3eq8YeZZ4otc5WKjikNgjVTKNoCmVe6aKI44DtHE
+W1SCfq51ce5CSInY/PuftCqBmJRc2cXY05QyD0vh5nI9thZGZGFt9q3+im/M2XJZ
+aizZv2zTD57alrNWwAGtwc4uve1s2v0uFsAercjsbidbVQFjYhvqFb3ELY1HWyu0
+zBovP++OCXkm2t5R3egPOTmyu5mFaWXNAjFtPEs8NdKzjDOw/eEHNr0Gn+xiuIgo
+qk1mck6mXKLol/Fp3EMARAcK/i2G7efBeYOn4EVkFWG7s0vjooEpVERNEPBmUYAl
+vYrIqx8IuuperDQ38ZWfeSFXb/pFTIVgrSud0GiImwsoq55cLDAu2zVrEssDwv+b
+vhB+njzIfkE++L1RbAIDFpjamcsu3X7kh7rZ+fhac2tT/AfFSV1QB9YlsOSHWmcQ
+0Fbpd4QXG0EuYTOMSZVuGVFn9mOK+K3SIz6J1zIyCm1fjwnnXzt6+NpTPrkQ5uvM
+18FNisM6VztkZpuIR1QJIBrGD6dTU6bgH+Y9QwyZwa045r0PRvOo9M825C1tiwlE
+RNL7O22f5UyyfpWQtDHLuVveeTdfbV3D5Vtn2YGErHgjdY1UC5FGm9Tu4Ini165j
+OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
+=Pca8
+-----END PGP MESSAGE-----
