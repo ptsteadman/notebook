@@ -1,4 +1,4 @@
-# Gray Men
+# The Gray Man
 
 A few days after the election, one of my friends tweeted that he was going to
 buy a gun. About six months later, another friend quoted the tweet, gently
@@ -16,27 +16,22 @@ SurvivialThinkTank.com defines a "gray man" as "an individual who possesses the
 skills, ability and intent to blend into any situation or surrounding without
 standing out, concealing his or her true skills, ability, and intent from
 others." [3] The term 'gray man' is currently used by survivalists who think
-that being 'gray' in their appearance, actions, and speech will increase their
-chances of survival if shit hits the fan (SHTF).
-
-/* make this at least 50% shorter */
+that being 'gray' will increase their chances of survival if shit hits the fan
+(SHTF).
 
 For example, promoters of gray man style believe that overt tactical gear is a
 "shoot-me-first" signal, and instead favor multi-modal dress that will help them
 avoid attention until it's time to use force. A gray man wouldn't want to be
 carrying one of the bug out bags available on Amazon when shit hits the fan,
-because most of the bug out bags on Amazon include military features like MOLLE
-panels, obvious hydration bladders, and camoflage. [25] In the words of one
-theorist, tactical features like these are likely to "trigger an onlooker's
-Reticular Activating System (RAS)" [4], and make the wearer recognizable as a
-survivalist, or at least a person with supplies. The gray man prefers to carry
-his weapons and supplies in a dorky messenger bag like the Vertex EDC Satchel
-[8], designed to 'blend into everyday life' while also holding armor plating and
-allowing for rapid firearm draws.
+because most of the Amazon bags include military features like MOLLE panels,
+hydration bladders, and camoflage. [25] The gray man prefers to carry his
+weapons and supplies in a dorky messenger bag like the Vertex EDC Satchel [8],
+designed to 'blend into everyday life' while not compromising on armor plating
+firearm draw speed.
 
 I think 'gray' is also an emergent but unspoken political identity, distinct
 from crypto-fascism or most other crypto-politics in the respect that gray
-politics are purely solipistic and deferred: the gray man has nothing to say
+politics are purely solipistic: the gray man has nothing to say
 about about the policies of the present.
 
 It's fun to criticize mall ninjas, Silicon Valley survivalists, and the dynamics
