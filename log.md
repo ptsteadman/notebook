@@ -1497,4 +1497,9 @@ if u like ny mag's sex diaries or refinery29's money dairies but u love computer
 - 1hr DG
 + Invoice for ERC20-Finder
 
+### Friday, November 17th 2017
 
++ 3hrs DG
+- 1hr Writing
+- 1hr CTF
++ Clean Lab
