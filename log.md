@@ -1543,3 +1543,12 @@ RNL7O22f5UyyfpWQtDHLuVveeTdfbV3D5Vtn2YGErHgjdY1UC5FGm9Tu4Ini165j
 OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 =Pca8
 -----END PGP MESSAGE-----
+
+### Wednesday, December 6th 2017
+
+- Laundry
+- Buy Underwear
+- 30mins Writing
+- 1.5hrs Blockfront
+- 1hr DG
+- Moneropages
