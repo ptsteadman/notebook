@@ -1546,9 +1546,15 @@ OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 
 ### Wednesday, December 6th 2017
 
-- Laundry
++ Laundry
 - Buy Underwear
 - 30mins Writing
 - 1.5hrs Blockfront
 - 1hr DG
-- Moneropages
++ Moneropages
+
+### Thursday, December 7th 2017
+
+- Yoga
+- 1hr Blockfront
+- 30mins Writing
