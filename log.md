@@ -1558,3 +1558,4 @@ OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 - Yoga
 - 1hr Blockfront
 - 30mins Writing
+- Monero Pages
