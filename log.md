@@ -1508,9 +1508,8 @@ if u like ny mag's sex diaries or refinery29's money dairies but u love computer
 
 + Finish five-year plan
 - Set up CTFd
-- Gym
-- 1hr Writing
-- 2hrs 
++ Gym
++ 1hr Writing
 
 -----BEGIN PGP MESSAGE-----
 Comment: https://keybase.io/download
@@ -1543,3 +1542,34 @@ RNL7O22f5UyyfpWQtDHLuVveeTdfbV3D5Vtn2YGErHgjdY1UC5FGm9Tu4Ini165j
 OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 =Pca8
 -----END PGP MESSAGE-----
+
+### Monday, November 20th 2017
+
+- Invoice / Rec
+- 2hrs DG
+- 3hrs Script Fixing
+- 1hr Writing
+
+### Monday, November 27th 2017
+
++ Blockfront Contract
++ 3hrs ICO Finder
++ Walkbuy Invoice 
++ ICO Finder Invoice
+- Toilet Paper
+- Paper Towels
+
+### Tuesday, November 28th 2017
+
+- 1hr Gray Man
+
+### Wednesday, November 29th 2017
+
++ 2hrs Blockfront
+- 3hrs Moneropages
+
+### Tuesday, December 5th 2017
+
+- Worker UIC letter
+- 2hrs Blockfront
+- 1hr Monero Pages
