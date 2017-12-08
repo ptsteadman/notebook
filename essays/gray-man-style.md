@@ -54,13 +54,14 @@ back to high school, where those who "were prepared for the test were hated and
 called nerds". [16] 
 
 Selco explicitly calls for his readers to practice being gray, and emphasizes
-that being grey is a lifestyle that begins even before shit hits the fan. He
-goes so far as to recommend that parents keep supplies and weapons hidden from
-their children, so that the children don't discuss it with their friends.
+that being grey is a lifestyle that begins before shit hits the fan. He goes so
+far as to recommend that parents keep supplies and weapons hidden from their
+children, so that the children don't discuss it with their friends.
 
 
-The emphasis on the gray man lifestyle as a reaction to a perceived threat of
-"survivalist hate" seems to have originated with the term itself.
+
+The emphasis on the gray man as a lifestyle designed with the perceived threat
+of "survivalist hate" seems to have originated with the term itself.
 
 The earliest reference I could find online to the gray man concept is a post on
 the "Western Rifle Shooters Association" blogspot, alongside posts about
