@@ -1543,3 +1543,11 @@ RNL7O22f5UyyfpWQtDHLuVveeTdfbV3D5Vtn2YGErHgjdY1UC5FGm9Tu4Ini165j
 OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 =Pca8
 -----END PGP MESSAGE-----
+
+### Tuesday, November 21st 2017
+
+"When I was 15, I asked myself what would I need to start an ISP."
+
+### Thursday, November 23rd 2017
+
+- 1hr script
