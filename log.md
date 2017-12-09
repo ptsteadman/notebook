@@ -1543,6 +1543,7 @@ OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 =Pca8
 -----END PGP MESSAGE-----
 
+<<<<<<< HEAD
 ### Monday, November 20th 2017
 
 - Invoice / Rec
@@ -1570,6 +1571,28 @@ OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 
 ### Tuesday, December 5th 2017
 
-- Worker UIC letter
-- 2hrs Blockfront
++ Worker UIC letter
++ 2hrs Blockfront
+- 1hr Monero Pages
+
+### Wednesday, December 6th 2017
+
++ Laundry
+- Buy Underwear
+- 30mins Writing
+- 1.5hrs Blockfront
+- 1hr DG
++ Moneropages
+
+### Thursday, December 7th 2017
+
+- Yoga
+- 1hr Blockfront
++ 30mins Writing
+- Monero Pages
+
+### Friday, December 8th 2017
+
++ 1.5hrs DG
++ 2hr Blockfront
 - 1hr Monero Pages
