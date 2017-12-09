@@ -1508,9 +1508,8 @@ if u like ny mag's sex diaries or refinery29's money dairies but u love computer
 
 + Finish five-year plan
 - Set up CTFd
-- Gym
-- 1hr Writing
-- 2hrs 
++ Gym
++ 1hr Writing
 
 -----BEGIN PGP MESSAGE-----
 Comment: https://keybase.io/download
@@ -1544,6 +1543,13 @@ OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 =Pca8
 -----END PGP MESSAGE-----
 
+### Monday, November 20th 2017
+
+- Invoice / Rec
+- 2hrs DG
+- 3hrs Script Fixing
+- 1hr Writing
+
 ### Tuesday, November 21st 2017
 
 "When I was 15, I asked myself what would I need to start an ISP."
@@ -1551,3 +1557,56 @@ OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 ### Thursday, November 23rd 2017
 
 - 1hr script
+
+### Monday, November 27th 2017
+
++ Blockfront Contract
++ 3hrs ICO Finder
++ Walkbuy Invoice 
++ ICO Finder Invoice
+- Toilet Paper
+- Paper Towels
+
+### Tuesday, November 28th 2017
+
+- 1hr Gray Man
+
+### Wednesday, November 29th 2017
+
++ 2hrs Blockfront
+- 3hrs Moneropages
+
+### Tuesday, December 5th 2017
+
++ Worker UIC letter
++ 2hrs Blockfront
+- 1hr Monero Pages
+
+### Wednesday, December 6th 2017
+
++ Laundry
+- Buy Underwear
+- 30mins Writing
+- 1.5hrs Blockfront
+- 1hr DG
++ Moneropages
+
+### Thursday, December 7th 2017
+
+- Yoga
+- 1hr Blockfront
++ 30mins Writing
+- Monero Pages
+
+### Friday, December 8th 2017
+
++ 1.5hrs DG
++ 2hr Blockfront
++ 1hr Monero Pages
+
+### Saturday, December 9th 2017
+
++ 1hr DG
+- 1hr Monero Pages
+- 1hr Blockfront
+- Ethereum White Paper
