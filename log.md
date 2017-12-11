@@ -1613,9 +1613,10 @@ OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 
 ### Monday, December 11th 2017
 
-- 1hr Writing
-- 2.5hrs Blockfront
++ 1hr Writing
+- 2hrs Blockfront
 - 2hrs Monero Pages
 - Ethereum White Paper
 - Gym
 - Laundry
+- Clean Lab
