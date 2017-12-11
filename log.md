@@ -1543,13 +1543,20 @@ OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 =Pca8
 -----END PGP MESSAGE-----
 
-<<<<<<< HEAD
 ### Monday, November 20th 2017
 
 - Invoice / Rec
 - 2hrs DG
 - 3hrs Script Fixing
 - 1hr Writing
+
+### Tuesday, November 21st 2017
+
+"When I was 15, I asked myself what would I need to start an ISP."
+
+### Thursday, November 23rd 2017
+
+- 1hr script
 
 ### Monday, November 27th 2017
 
@@ -1595,4 +1602,11 @@ OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 
 + 1.5hrs DG
 + 2hr Blockfront
++ 1hr Monero Pages
+
+### Saturday, December 9th 2017
+
++ 1hr DG
 - 1hr Monero Pages
+- 1hr Blockfront
+- Ethereum White Paper
