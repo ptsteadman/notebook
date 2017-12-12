@@ -26,3 +26,7 @@ Remove old kernels (important with encrypted drives...) `sudo apt-get autoremove
 Recursively binwalk files / directories: `find PxNc/ -type f -print0 | xargs -0 binwalk > binwalk.txt`
 
 `sudo ufw allow/deny 22`
+
+moving between words in terminal: `ALT-B ALT-F`
+
+Find by filename: `find / -name foo`
