@@ -52,3 +52,21 @@ all elements like buttons, it causes an accessability issue.
 #### Problem: Centering inline-block Elements
 
 Set `text-align: center;` on the parent.
+
+#### Problem: Need body to fill viewport / sticky footer
+
+```css
+
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
+}
+
+```
+
+
