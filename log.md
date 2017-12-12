@@ -1557,5 +1557,12 @@ OOBf4WVh4EfgSuA/5CosNlaD35H8T1o097timBzi6ZY/LOHW9AA=
 
 - Yoga
 - 1hr Blockfront
-- 30mins Writing
++ 30mins Writing
 - Monero Pages
+
+"We've got to do the only kind of violence that they care about, we're going to
+take away their dream of control."
+
+"Yeah, we'll make something that's so good, it changes everything."
+
+"All it takes is knowing what that is and codifying it."
