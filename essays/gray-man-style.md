@@ -151,8 +151,8 @@ at their hidden skills and intent, and be ready to move.
 Articles about gray man style usually make the assumption that the reader is
 innately capable of being a gray man. The two factors often discussed as
 obstacles to being gray are: 1) being unusually short or tall, or 2) being a
-woman who attracts sexual attention. To provide an idea of the advice given to
-women on being gray, here's an example from Gray Wolf Survival:
+woman who attracts sexual attention. Here's an example of advice given to women
+on being gray:
 
 "Be cognizant of any smells such as food, soap or gunpowder that someone would
 relate to something they'd want. Try to think about what you do, say or wear
@@ -173,29 +173,28 @@ them to escape attention and access restricted areas. [26]
 For minorities in America, the acts necessary to survive a disaster are often
 criminalized or demonized, most dramatically in hurricane Katrina, where black
 families wading through the water with supplies were infamously described as
-"looting" while a white family was described as "finding". [21] It went beyond
-media: police from the wealthy community of Gretna fired shots over the head of
-families trying to flee over a bridge from New Orleans into their community. In
-another case, police killed an unarmed child and a mentally disabled man who
-were attempting to make their way over a bridge to a family friend's home, also
-shooting four others. The officers were only prosecuted in 2012, after a
-cover-up that spanned years.
+"looting" while a white family was described as "finding". [21] Police from the
+wealthy community of Gretna fired shots over the heads of families trying to
+flee over a bridge from New Orleans into their community, a start example of how
+borders can suddenly form in a disaster. In another case, police killed an
+unarmed child and a mentally disabled man who were attempting to make their way
+over a bridge to a family friend's home. The officers were only prosecuted in
+2012, after a cover-up that spanned years.
 
 Survivalists often seem to ignore the fact that in actual disasters, they would
 probably not be the ones suffering.
 
-Articles about being gray often include the caveat that it's best to simply stay
-at home in a disaster, and that being gray is a response to situations where one
-has to "traverse areas outside your home for various reasons". [19] These
-various reasons generally include "supply runs" and "information gathering". In
-a post-SHTF world, wouldn't an armed person with survival skills on a "supply
-run" be a dangerous predator?
+Many gray man theorists note that in a disaster, it's usually best to stay at
+home. Being gray is a response to situations where one has to "traverse areas
+outside your home for various reasons". [19] These reasons generally include
+"supply runs" and "information gathering". In a post-SHTF world, wouldn't an
+armed person with survival skills on a "supply run" be a dangerous predator?
 
 Being a *white* gray man works, because it allows a white person to hoard his or
 her weapons and supplies, but still be considered a victim worthy of assistance.
-Just as affecting a folksy down-to-earthness helps people like George Bush
-and Warren Buffet retain power, affecting a dorky harmlessness while keeping
-ones assets in denaible crypto will be a powerful strategy for the 21st century.
+Just as affecting a folksy down-to-earthness helps people like George Bush and
+Warren Buffet retain power, affecting a dorky harmlessness while keeping one's
+assets hidden and deniable will be a powerful strategy for the 21st century.
 
 I think that if the left attempts to adopt the gray man concept and use it for
 progressive activism, the effort would likely backfire.
