@@ -1622,17 +1622,30 @@ take away their dream of control."
 + 1hr Writing
 + 2hrs Blockfront
 + 2hrs Monero Pages
-- Ethereum White Paper
++ Ethereum White Paper
 - Gym
 - Laundry
 + Clean Lab
 
 ### Tuesday, December 12th 2017
 
-- Laundry
++ Laundry
 - 30mins Writing
-- 2hrs Blockfront
-- 1hr DG
++ 2hrs Blockfront
++ 1hr DG
 - 2hrs Monero Pages
 - Sign up for healthcare
 - Yoga
+
+### Friday, December 15th 2017
+
++ 2.5hrs DG
+- 1hr Writing
+- 1hr Blockfront
++ Monero Pages
++ Rec
++ Donation
+
+### Saturday, December 16th 2017
+
+
