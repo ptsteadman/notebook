@@ -101,7 +101,7 @@ fact that he's an undercover agent, prepared for violence at any moment.
 ---
 
 When I talk about the gray man concept with my friends, many of them immediately
-say something along the lines of "so this is normcore for
+say something along the lines of: "so this is normcore for
 preppers/racists/republicans". And it's true: the concept of gray man is very
 similar to the concept of normcore as it was originally defined by K-HOLE in
 2013.[1]  Normcore differs from gray man in one key respect: the ostensible
@@ -120,31 +120,31 @@ companies will capture the power of the gray man idea and distill it into a
 
 This might seem like a stretch, but here's some evidence.
 
-In the world of fashion, we can look to the emergence of camping chic and
-gorpcore. Camping chic was visible in the collections of Prada, Balenciaga and
-Vetements last winter, and has reemerged in Spring/Summer 2018 looks, [13, 14,
-15] along with utility or "tactical" black in the collections of Rick Owens.
-(Think large holster-like leather pouches around the thigh).
+In fashion industry, there's the emergence of camping chic and gorpcore.
 
-Concurrently, the term gorpcore was coined by NYMag journalist Jason Chen, who
-said that it had the same appeal as normcore, but instead of idealizing the
-Mall, gorpcore idealizes the Woods. [12] In practice, gorpcore seems to mean
-that Patagonia is cool again. Chen notes that one could make the argument that
-gorpcore is rooted in post-election malaise, like just about everything else in
+__Camping chic__ was visible in the collections of Prada, Balenciaga and Vetements
+last winter, and has reemerged in Spring/Summer 2018 looks, [13, 14, 15] along
+with utility or "tactical" looks in the collections of Rick Owens.  (Think large
+holster-like leather pouches around the thigh).
+
+Concurrently, the term __gorpcore__ was coined by NYMag journalist Jason Chen.
+According to Chen, gorpcore has the same appeal of normcore, but instead of
+idealizing the Mall, gorpcore idealizes the Woods. [12] In practice, gorpcore
+seems to mean that Patagonia is cool again. Chen writes that that gorpcore is
+arguable rooted in post-election malaise, like just about everything else in
 contemporary culture. He points out that activist DeRay McKesson famously wears
 a blue Patagonia vest, because it's practical and he approves of the company's
 environmental consciousness.
 
-In the post-election malaise, it's also become normal for people everywhere on
-the political spectrum to talk of impending collapse. The NYT and New Yorker
-have written many tongue-in-cheek profiles of survivalists, but these profiles
-may still serve as gateways into the culture. [25] 
+It has become normal for people everywhere on the political spectrum to talk of
+impending collapse, now more than ever. The NYT and New Yorker have written
+tongue-in-cheek profiles of survivalists, but these profiles still serve as
+gateways into the culture. [25] 
 
-I think that these trends will eventually meet somewhere, blending with
-cypherpunk and anarcho-primitivism. As everything sloughs into the mainstream,
-those in the know will begin to restrain and subvert themselves, becoming gray.
-They will want to just barely hint at their hidden skills and intent, and be
-ready to move.
+I think that these trends will eventually meet somewhere, informed by cypherpunk
+and anarcho-primitivism. As everything sloughs into the mainstream, people will
+begin to restrain themselves, becoming gray. They will want to just barely hint
+at their hidden skills and intent, and be ready to move.
 
 ---
 
