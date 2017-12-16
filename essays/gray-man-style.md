@@ -90,7 +90,7 @@ survival scenario. For many younger survivalists, survivalism is less of a
 political position and more of a hobby.
 
 Undercover agents and military professionals also make tactical, temporary use
-of gray man. To get an idea of what professional gray man looks like, consider
+of gray man. [27] To get an idea of what professional gray man looks like, consider
 the man photographed in this tweet thread from Chelsea Manning: 
 
 https://twitter.com/xychelsea/status/880963473437585408?lang=en
@@ -196,26 +196,31 @@ Just as affecting a folksy down-to-earthness helps people like George Bush and
 Warren Buffet retain power, affecting a dorky harmlessness while keeping one's
 assets hidden and deniable will be a powerful strategy for the 21st century.
 
-I think that if the left attempts to adopt the gray man concept and use it for
-progressive activism, the effort would likely backfire.
-
-So, while the political left might want to adopt the gray man concept and create
-a 'gray bloc' to complement the black bloc, I think the gray man concept is dead
-on arrival as a progressive tool. At best, I think gray man could be a good
-identity for someone sick of competing in the attention economy.
-
 ---
+
+I think that if the left attempts to adopt the gray man concept and use it for
+progressive activism, the effort may backfire. The desire to move away from
+virtue signaling towards direct action and study groups  like
+groups. It's fun to drag the dynamics of virtue signaling on social media, but a
+society where many people have 'gray' identities and belief systems always has
+the potential for sudden chaos.  
+
+better to de-gray and reintegrate
+
+dilemma
+inherently conservative 
+problematic
+
+
+What am I talking about?
+
+anti-accelerationist
 
 Many people secretly enjoy the pleasures of the neoliberal lifestyle and don't
 really expect them to stop, while professing a socially-acceptable desire for
 revolution. The gray man might even  a future world that he secretly thinks will
 remain much like the neoliberal present.
 
-It's fun to drag mall ninjas, Silicon Valley survivalists, and the dynamics of
-virtue signaling on social media, but a society where many people have 'gray'
-identities and belief systems always has the potential for sudden chaos.  This
-is echoed in military use of the gray man term, where POWs and trainees are
-encouraged to "be the gray man". [27]
 
 ---
 
@@ -225,9 +230,6 @@ to the gray man. But, because chaos often emerges rapidly (SurvialThinkTank
 tellingly uses the example of "racially-motivated flash mobs" [2]), gray man
 clothing and gear is often transformable in some way, to enable transitions
 between different balances of stealth and kit in evolving situations.
-
-
-What are my main thoughts re: gray man as poltiical identity?
 
 ---
 
