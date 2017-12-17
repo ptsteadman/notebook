@@ -1656,3 +1656,7 @@ cleared, all that was left was an empty shell and some tinsel."
 If you're not paying for it, you are the market.
 
 ### Sunday, December 17th 2017
+
+- Read Paradise Papers
+- 1hr Writing
+- Monero Pages
