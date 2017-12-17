@@ -1640,7 +1640,7 @@ take away their dream of control."
 ### Friday, December 15th 2017
 
 + 2.5hrs DG
-- 1hr Writing
++ 1hr Writing
 - 1hr Blockfront
 + Monero Pages
 + Rec
@@ -1648,4 +1648,11 @@ take away their dream of control."
 
 ### Saturday, December 16th 2017
 
+"I remember the day the Boom ended," artist Ashely Bickerton said after the
+crash in January 1991. "It ended the day we bombed Baghdad. Everybody was
+watching television. They weren't interested in buying art. When the smoke
+cleared, all that was left was an empty shell and some tinsel."
 
+If you're not paying for it, you are the market.
+
+### Sunday, December 17th 2017
