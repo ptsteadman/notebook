@@ -1657,6 +1657,38 @@ If you're not paying for it, you are the market.
 
 ### Sunday, December 17th 2017
 
-- Read Paradise Papers
++ Read Paradise Papers
 - 1hr Writing
 - Monero Pages
+
+Xenofeminist mantra "if nature is unjust, change nature"
+
+In the absence of a radically new social, political, organisational, and
+economic vision the hegemonic powers of the right will continue to be able to
+push forward their narrow-minded imaginary, in the face of any and all evidence.
+
+any evidence to back this up?
+
+Indeed, as even Lenin wrote in the 1918 text “Left Wing” Childishness:
+
+Socialism is inconceivable without large-scale capitalist engineering based on
+the latest discoveries of modern science. It is inconceivable without planned
+state organisation which keeps tens of millions of people to the strictest
+observance of a unified standard in production and distribution. We Marxists
+have always spoken of this, and it is not worth while wasting two seconds
+talking to people who do not understand even this (anarchists and a good half of
+the Left Socialist- Revolutionaries).
+
+
+Whereas the techno-utopians argue for acceleration on the basis that it will
+automatically overcome social conflict, our position is that technology should
+be accelerated precisely because it is needed in order to win social conflicts.
+
+doubt that
+
+"At least we have done something" is the rallying cry of those who privilege
+self-esteem rather than effective action.
+
+Democracy cannot be defined simply by its means — not via voting, discussion, or
+general assemblies. Real democracy must be defined by its goal — collective
+self-mastery. 
