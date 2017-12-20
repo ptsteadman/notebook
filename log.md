@@ -1692,3 +1692,17 @@ self-esteem rather than effective action.
 Democracy cannot be defined simply by its means — not via voting, discussion, or
 general assemblies. Real democracy must be defined by its goal — collective
 self-mastery. 
+
+### Tuesday, December 19th 2017
+
++ Rec
++ Donations
++ 3hrs DG
+- 1hr Blockfront
+- 1hr Writing
++ No Kratom
++ Yoga
+
+I need to buckle down on DG.
+
+
