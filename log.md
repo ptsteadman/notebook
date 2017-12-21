@@ -1705,4 +1705,11 @@ self-mastery.
 
 I need to buckle down on DG.
 
+### Wednesday, December 20th 2017
+
++ Clean Lab
++ 2hrs DG
+- 1hr Blockfront
+- 1hr Writing
++ Artforum
 
