@@ -1713,3 +1713,14 @@ I need to buckle down on DG.
 - 1hr Writing
 + Artforum
 
+### Thursday, December 21st 2017
+
++ 2hrs DG
+- 1hr Blockfront
+- 1hr Writing
++ 1hr Monero Pages
+
+
+People who criticize Bitcoin for being deflationary seem to have missed a number
+of more important things. Policy is primarily caused by what is possible and
+effective, not by what is desirable.
