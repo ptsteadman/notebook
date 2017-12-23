@@ -1724,3 +1724,27 @@ I need to buckle down on DG.
 People who criticize Bitcoin for being deflationary seem to have missed a number
 of more important things. Policy is primarily caused by what is possible and
 effective, not by what is desirable.
+
+### Friday, December 22nd 2017
+
+- 3hrs Blockfront
+- 1hr Monero Pages
+- 1hr Writing
++ Email to Artforum
+
+Notes with Ali
+
+Article 29: Guidance
+JP Morgan Chase Chief Privacy Officer
+Big Data
+Similar companies?
+- sectoral
+- omnibus
+    - directive
+    - SMB
+    - GDPR
+TrustArc, OneTrust, law firms, accenture, nymity 
+250+ employees: Data Protection Officer
+
+SEO?
+
