@@ -1748,3 +1748,9 @@ TrustArc, OneTrust, law firms, accenture, nymity
 
 SEO?
 
+### Tuesday, December 26th 2017
+
+- Finish Pigeon Piece
++ Unpack
++ China Programs
+
