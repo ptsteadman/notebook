@@ -1754,3 +1754,24 @@ SEO?
 + Unpack
 + China Programs
 
+### Wednesday, December 27th 2017
+
+- Finish Pigeon Piece
++ Invoice
+- 1hr Blockfront
+- Monero Pages
+
+### Thursday, December 28th 2017
+
+- Finish Pigeon Piece Draft
++ Invoice
++ 2hrs Blockfront
++ Proposal
+
+### Friday, December 29th 2017
+
+- Gym
+- Pigeons @ 11:30
+- 2hrs Blockfront
+- 2hrs DG 
+- 2hrs MP
