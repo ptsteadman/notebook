@@ -1776,3 +1776,8 @@ SEO?
 + 2hrs Blockfront
 + 2hrs DG 
 + 2hrs MP
+
+### Sunday, December 31st 2017
+
+- 1hr Writing
+- Clean More
