@@ -1779,5 +1779,12 @@ SEO?
 
 ### Sunday, December 31st 2017
 
-- 1hr Writing
-- Clean More
++ 1hr Writing
++ Clean More
+
+
+### Monday, January 1st 2018
+
++ Publish pigeon piece
++ Yoga
+- Deploy blockfront
