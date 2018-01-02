@@ -1788,3 +1788,18 @@ SEO?
 + Publish pigeon piece
 + Yoga
 - Deploy blockfront
+
+### Tuesday, January 2nd 2018
+
++ 2hrs Blockfront
+- 2hrs DG
+- Yoga
+- 1hr MP
+
+Jan: for regulators
+    - certification process
+April: some sort of content
+May:
+
+Connector Database
+
