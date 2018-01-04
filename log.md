@@ -1793,7 +1793,7 @@ SEO?
 
 + 2hrs Blockfront
 - 2hrs DG
-- Yoga
++ Yoga
 - 1hr MP
 
 Jan: for regulators
@@ -1803,3 +1803,10 @@ May:
 
 Connector Database
 
+### Wednesday, January 3rd 2018
+
++ 4hrs DG
++ 1hr Blockfront
++ Blockfront Invoice
+- 1hr Monero Pages
++ Contract for GDPR
