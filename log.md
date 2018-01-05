@@ -1810,3 +1810,21 @@ Connector Database
 + Blockfront Invoice
 - 1hr Monero Pages
 + Contract for GDPR
+
+### Thursday, January 4th 2018
+
++ Respond to GDPR Email
++ 3hrs DG
++ 1hr MP
+- 1hr Blockfront
++ Clean
++ Bed at 1am
+
+### Friday, January 5th 2018
+
+- Laundry
+- Gym
+- 2.5hrs DG
+- 1hr Blockfront
+- 1hr MP 
+- Buy China Tix
