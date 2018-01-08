@@ -1822,9 +1822,19 @@ Connector Database
 
 ### Friday, January 5th 2018
 
-- Laundry
-- Gym
-- 2.5hrs DG
-- 1hr Blockfront
-- 1hr MP 
++ Laundry
++ Gym
++ 2.5hrs DG
++ 1hr Blockfront
++ 1hr MP 
 - Buy China Tix
+
+### Monday, January 8th 2018
+
+- Update SSL cert
+- 1hr Gray Man
+- Emails
+- Pigeons 11:30
+- 2.5hrs DG
+- 0.5hrs Blockfront
+- 1hr MP
