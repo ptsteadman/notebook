@@ -1833,8 +1833,8 @@ Connector Database
 
 - Update SSL cert
 - 1hr Gray Man
-- Emails
-- Pigeons 11:30
++ Emails
++ Pigeons 11:30
 - 2.5hrs DG
 - 0.5hrs Blockfront
 - 1hr MP
