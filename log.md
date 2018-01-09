@@ -1831,13 +1831,22 @@ Connector Database
 
 ### Monday, January 8th 2018
 
-- Update SSL cert
-- 1hr Gray Man
++ Update SSL cert
++ 1hr Gray Man
 + Emails
 + Pigeons 11:30
-- 2.5hrs DG
-- 0.5hrs Blockfront
-- 1hr MP
++ 2.5hrs DG
++ 0.5hrs Blockfront
++ 1hr MP
 
 at the italian place
 i feel sad about certian unfulfilled promise of lab
+
+### Tuesday, January 9th 2018
+
+- Bank Rec
+- Send out 1099s
+- 1hr DG
+- 1hr Blockfront
+- Yoga
+- 1hr Writing
