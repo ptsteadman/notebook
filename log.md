@@ -1844,9 +1844,9 @@ i feel sad about certian unfulfilled promise of lab
 
 ### Tuesday, January 9th 2018
 
-- Bank Rec
-- Send out 1099s
-- 1hr DG
++ Bank Rec
++ Send out w9s
++ 1hr DG
 - 1hr Blockfront
 - Yoga
 - 1hr Writing

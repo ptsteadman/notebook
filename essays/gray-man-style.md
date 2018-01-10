@@ -1,4 +1,4 @@
-# Gray Man Style
+# Don't Be The Gray Man
 
 A few days after the election, one of my friends tweeted that he was going to
 buy a gun. Six months later, another friend quoted the tweet, gently dragging
@@ -25,7 +25,7 @@ For example, promoters of gray man style believe that overt tactical gear is a
 "shoot-me-first" signal, and instead prefer multi-modal dress that will help
 them avoid attention until it's time to use force. A gray man wouldn't want to
 be carrying one of the "bug out bags" discussed in a recent NYT article, because
-most of the bags mentioned include obvious military features like MOLLE panels,
+the bags mentioned include obvious military features like MOLLE panels,
 hydration bladders, and camouflage. [25] The gray man prefers to carry his
 weapons and supplies in a dorky messenger bag like the Vertex EDC Satchel [8],
 designed to 'blend into everyday life' while still holding ballistic inserts and
@@ -193,41 +193,47 @@ assets hidden and deniable will be a powerful strategy for the 21st century.
 
 ---
 
-If the left attempts to adopt the gray man concept and use it for progressive
-activism, the effort may backfire. Some aspects of the left accelerationist
-project (or "l/acc") remind me of the gray man ethos. For example, here's a
-quote from the "Accelerationist Manifesto":
+Some aspects of the left accelerationist project (or "l/acc") are reminiscent of
+the gray man ethos. For example, here's a quote from the "Accelerationist
+Manifesto":
 
 "The fetishisation of openness, horizontality, and inclusion of much of today's
 'radical' left set the stage for ineffectiveness. Secrecy, verticality, and
 exclusion all have their place as well in effective political action (though
 not, of course, an exclusive one)."
 
-The understandable desire to move away from virtue signaling towards secret
+If the left attempts to adopt the gray man concept and use it for progressive
+activism, the effort may backfire.
+
+The understandable desire to move away from endless dialogue towards secret
 organizing and direct action can be regressive and destablising. It's fun to
-drag the dynamics of virtue signaling, but a society where many people have
-'gray' identities and belief systems always has the potential for sudden chaos.
-And, as noted in the previous section, chaos and disaster will most likely lead
-to disproportionate suffering among the people that leftists hope to help.
+drag the dynamics of virtue signaling on social media, but a society where many
+people have 'gray' identities and belief systems always has the potential for
+sudden chaos. And, as noted in the previous section, chaos and disaster will
+most likely lead to disproportionate suffering among the people that leftists
+hope to help.
 
-Having gray projects and beliefs makes you feel important, but in the 21st
-century, it's a mindset more appropriate for venture capitalists and mass
-shooters than activists and concerned citizens.
+Having gray projects makes you feel important, but in the 21st century, is a
+mindset more appropriate for venture capitalists and mass shooters.
 
-crypto
+When activists find themselves elevating tradecraft, realpolitic, and hoarding,
+they should ask themselves: are we acting like a resistance group, or a group of
+self-interested gray men?
 
-It's better to de-gray and reintegrate.
+---
 
+It's sad when left-leaning people start acting like gray men. When libertarian
+survivalists attempt to appear "normal" while secretly hoarding wealth and
+power, they're not really being hypocrites. They proudly invented the gray man
+concept. And when neoliberals invest in lobbyists and secret "land in New
+Zealand", they're just exercising their self-appointed rights. 
 
-
-
-anti-accelerationist
-
-Many people secretly enjoy the pleasures of the neoliberal lifestyle and don't
-really expect them to stop, while professing a socially-acceptable desire for
-revolution. The gray man might even  a future world that he secretly thinks will
-remain much like the neoliberal present.
-
+When leftists act like gray men, I think it's usually unconscious, the result of
+a split brain problem that barely rises to the level of hypocrisy. The
+disconnect between online discourse and lived experience has grown so large that
+the typical gray man situation seems inverted for some: people who talk about
+societal breakdown to appear normal, while secretly preparing for a future that
+looks a lot like the shitty present.
 
 ---
 
