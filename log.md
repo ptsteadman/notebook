@@ -1853,7 +1853,7 @@ i feel sad about certian unfulfilled promise of lab
 
 ### Wednesday, January 10th 2018
 
-- Yoga
++ Yoga
 - 1hr Blockfront
 - 2hrs DG
 - 1hr Writing
