@@ -227,7 +227,7 @@ self-interested gray men?
 ---
 
 It's sad when left-leaning people start acting like gray men. When libertarian
-survivalists try to seem "normal" while secretly hoarding wealth and
+survivalists attempt to seem "normal" while secretly hoarding wealth and
 power, they're not really being hypocrites. They proudly invented the gray man
 concept. And when neoliberals invest in lobbyists and secret "land in New
 Zealand", they're just exercising their self-appointed rights. 

@@ -1856,10 +1856,19 @@ i feel sad about certian unfulfilled promise of lab
 + Yoga
 + 1hr Blockfront
 + 2hrs DG
-- 1hr Writing
++ 1hr Writing
 - Read
-- Bed at 1am
++ Bed at 1am
 
 Crazy how it's possible to have a pretty productive day starting at 4pm after
 feeding pigeons for two hours. I think the most benefit will come from reading
 more.
+
+### Thursday, January 11th 2018
+
++ Gym
+- 3hrs DG
+- 1hr Blockfront
+- 30mins Artforum
+- Pay bills
+- 30mins Writing
