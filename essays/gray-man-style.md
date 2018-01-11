@@ -227,17 +227,15 @@ self-interested gray men?
 ---
 
 It's sad when left-leaning people start acting like gray men. When libertarian
-survivalists attempt to appear "normal" while secretly hoarding wealth and
+survivalists try to seem "normal" while secretly hoarding wealth and
 power, they're not really being hypocrites. They proudly invented the gray man
 concept. And when neoliberals invest in lobbyists and secret "land in New
 Zealand", they're just exercising their self-appointed rights. 
 
-When leftists act like gray men, I think it's usually unconscious, the result of
-a split brain problem that barely rises to the level of hypocrisy. The
-disconnect between online discourse and lived experience has grown so large that
-the typical gray man situation seems inverted for some: people who talk about
-societal breakdown to appear normal, while secretly preparing for a future that
-looks a lot like the shitty present.
+When people on the left act gray, I think it's usually unconscious, the result
+of a split brain problem that barely rises to the level of hypocrisy. Hopefully
+people will become more aware and critical of their gray man tendencies, and
+openly discuss the futures they are preparing for.
 
 ---
 
