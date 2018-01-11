@@ -1859,3 +1859,7 @@ i feel sad about certian unfulfilled promise of lab
 - 1hr Writing
 - Read
 - Bed at 1am
+
+Crazy how it's possible to have a pretty productive day starting at 4pm after
+feeding pigeons for two hours. I think the most benefit will come from reading
+more.
