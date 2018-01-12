@@ -1868,7 +1868,39 @@ more.
 
 + Gym
 - 3hrs DG
-- 1hr Blockfront
-- 30mins Artforum
-- Pay bills
++ 1hr Blockfront
++ 30mins Artforum
++ Pay bills
 - 30mins Writing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
