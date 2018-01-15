@@ -30,3 +30,17 @@ Recursively binwalk files / directories: `find PxNc/ -type f -print0 | xargs -0 
 moving between words in terminal: `ALT-B ALT-F`
 
 Find by filename: `find / -name foo`
+
+## Ubuntu Nvidia Driver Stuff
+
+- Add the `graphics-drivers` ppa. You can view current ppas with `vim
+  /etc/apt/sources.list` and `vim /etc/apt/sources.list.d`.
+
+- Purge existing drivers with `sudo apt remove nvidia*`
+
+- Install the desired version with `sudo apt install nvidia-***`
+
+- Reboot
+
+- If you get into a funky state, you can do ctrl-alt-f3 and do this from the
+  command line, no gui needed.
