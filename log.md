@@ -1878,12 +1878,13 @@ more.
 
 + Visa app
 + Respond to Ali
-- 2hrs DG
++ 2hrs DG
 - 1hr Writing
 - 1hr Artforum
 + Send out W9s
 - 1hr MP
 + (Attempt to) talk w Zachary abt Salon94
+- Leave Lab at 10
 
 
 
