@@ -226,12 +226,12 @@ It's sad when left-leaning people start acting like gray men. When libertarian
 survivalists go gray, they're not really being hypocrites: they proudly invented
 the concept.  
 
-And when grayness becomes unconscious part of the identity of left-leaning
+When grayness becomes an unconscious part of the identity of left-leaning
 people, it's even sadder. I think it's the result of a split brain problem that
 barely rises to the level of hypocrisy. Confronting the gray man concept is an
-opportunity to "de-gray" and reintegrate. People must openly discuss the futures
-they are actively preparing for, even if those futures do not align with their
-politics.
+opportunity for people to "de-gray" and reintegrate. We must openly discuss the
+futures we are actively preparing for, even if those futures do not align with
+our politics.
 
 ---
 
