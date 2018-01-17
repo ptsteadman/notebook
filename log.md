@@ -1887,9 +1887,37 @@ more.
 ### Sunday, January 14th 2018
 
 + Yoga video
-- 2hrs MP
++ 2hrs MP
 - 1hr DG
 - 30mins Writing
+
+### Monday, January 15th 2018
+
++ Visa app
++ Respond to Ali
++ 2hrs DG
+- 1hr Writing
++ 1hr Artforum
++ Send out W9s
+- 1hr MP
++ Talk w Zachary abt Salon94
+- Leave Lab at 10
+
+
+### Tuesday, January 16th 2018
+
++ Visa application
+- 2hrs DG
++ 1hr Writing
++ Start text thread
+- Yoga
++ Leave Lab before 10
++ estimated taxes
+
+### Wednesday, January 17th 2018
+
+- 2hrs Artforum
+
 
 
 
