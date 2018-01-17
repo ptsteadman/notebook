@@ -1913,11 +1913,16 @@ more.
 - Yoga
 + Leave Lab before 10
 + estimated taxes
-- Bed at 1:30AM
++ Bed at 1:30AM
 
 ### Wednesday, January 17th 2018
 
+- Send piece
+- Yoga
+- Pigeons 11:30
 - 2hrs Artforum
+- 2hrs DG
+- Money
 
 
 

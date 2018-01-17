@@ -4,8 +4,8 @@ A few days after Trump was elected, one of my friends tweeted that he was going
 to buy a gun. Six months later, another friend quoted the tweet, gently dragging
 him for not actually buying the gun.
 
-While this behavior is a bit cringeworthy, I think it's ultimately the type of
-behavior we should expect and encourage in a functioning democracy.
+While this behavior might be cringeworthy, I think it's the type of behavior we
+should expect and encourage in a functioning democracy.
 
 It would've been much worse if my friend had bought the gun, learned how to use
 it, and told no one, blending in with his creative professional peers.
@@ -224,12 +224,12 @@ self-interested gray men?
 
 It's sad when left-leaning people start acting like gray men. When libertarian
 survivalists go gray, they're not really being hypocrites: they proudly invented
-the concept. And when neoliberals invest in lobbyists and secret "land in New
-Zealand", they're just exercising their self-appointed rights. 
+the concept.  
 
-When gray becomes part of the identity of left-leaning people, it's even sadder.
-I think it's usually unconscious, the result of a split brain problem that
-barely rises to the level of hypocrisy. People must openly discuss the futures
+And when grayness becomes unconscious part of the identity of left-leaning
+people, it's even sadder. I think it's the result of a split brain problem that
+barely rises to the level of hypocrisy. Confronting the gray man concept is an
+opportunity to "de-gray" and reintegrate. People must openly discuss the futures
 they are actively preparing for, even if those futures do not align with their
 politics.
 
