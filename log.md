@@ -1907,12 +1907,13 @@ more.
 ### Tuesday, January 16th 2018
 
 + Visa application
-- 2hrs DG
+- 1hr DG
 + 1hr Writing
 + Start text thread
 - Yoga
 + Leave Lab before 10
 + estimated taxes
+- Bed at 1:30AM
 
 ### Wednesday, January 17th 2018
 
