@@ -1867,13 +1867,29 @@ more.
 ### Thursday, January 11th 2018
 
 + Gym
-- 3hrs DG
++ 3hrs DG
 + 1hr Blockfront
 + 30mins Artforum
 + Pay bills
 - 30mins Writing
 
+### Friday, January 12th 2018
 
++ 2hrs Blockfront
+- 2hrs DG
+
+### Saturday, January 13th 2018
+
++ Gym
++ Confirm glasses 
+- 2hrs DG
+
+### Sunday, January 14th 2018
+
++ Yoga video
+- 2hrs MP
+- 1hr DG
+- 30mins Writing
 
 
 
