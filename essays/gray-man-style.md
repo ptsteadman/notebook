@@ -229,8 +229,9 @@ Zealand", they're just exercising their self-appointed rights.
 
 When gray becomes part of the identity of left-leaning people, it's even sadder.
 I think it's usually unconscious, the result of a split brain problem that
-barely rises to the level of hypocrisy. People must discuss the futures they are
-actively preparing for, even if those futures do not align with their politics.
+barely rises to the level of hypocrisy. People must openly discuss the futures
+they are actively preparing for, even if those futures do not align with their
+politics.
 
 ---
 
