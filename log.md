@@ -1920,7 +1920,7 @@ more.
 + Send piece
 - Yoga
 + Pigeons 11:30
-- 2hrs Artforum
++ 2hrs Artforum
 - 2hrs DG
 + Money
 - Work on percentages
