@@ -1920,10 +1920,19 @@ more.
 + Send piece
 - Yoga
 + Pigeons 11:30
-- 2hrs Artforum
++ 2hrs Artforum
 - 2hrs DG
 + Money
 - Work on percentages
+
+### Thursday, Janaury 18th 2018
+
+- Yoga
+- 2.5hrs DG
+- 2hrs Artforum
+- Pigeons
+
+snatching victory from the jaws of snatching defeat from the jaws of victory
 
 
 
