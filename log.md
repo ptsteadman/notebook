@@ -1917,12 +1917,13 @@ more.
 
 ### Wednesday, January 17th 2018
 
-- Send piece
++ Send piece
 - Yoga
-- Pigeons 11:30
++ Pigeons 11:30
 - 2hrs Artforum
 - 2hrs DG
-- Money
++ Money
+- Work on percentages
 
 
 
