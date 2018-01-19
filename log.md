@@ -1927,10 +1927,10 @@ more.
 
 ### Thursday, Janaury 18th 2018
 
-- Yoga
-- 2.5hrs DG
++ Yoga
++ 2.5hrs DG
 - 2hrs Artforum
-- Pigeons
++ Pigeons
 
 snatching victory from the jaws of snatching defeat from the jaws of victory
 
