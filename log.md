@@ -1934,6 +1934,9 @@ more.
 
 snatching victory from the jaws of snatching defeat from the jaws of victory
 
+### Sunday, January 21st 2018
+
+- 1hr Artforum
 
 
 
