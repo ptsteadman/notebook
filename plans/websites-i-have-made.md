@@ -7,3 +7,11 @@ hexotest.computerlab.io
 cholp.com
 disorientation.net
 collegememoir.com
+pinpoints.io
+thelumbervillegeneralstore.com
+onscreentoday.com
+alderprop.com/site/pages/
+salon94design.com
+historyofthegif.com
+https://www.iheart.com/upgrade?upsellFrom=354
+https://client.singlesprout.com/

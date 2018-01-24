@@ -1936,7 +1936,92 @@ snatching victory from the jaws of snatching defeat from the jaws of victory
 
 ### Sunday, January 21st 2018
 
-- 1hr Artforum
++ 2hrs Artforum
+- 1hr Writing
+
+### Monday, January 22nd 2018
+
++ Deploy accent folding fix for iOS
++ 3hrs Login Components
++ Invoice
+- Gym
++ 30mins Writing
+
+There is a bot-like predictability to how they respond to anything, a
+predictability that induces an entire manage-and-contain culture around them.
+
+### Tuesday, January 23rd 2018
+
++ Gym
+- Lab 9:30AM
+- Deploy accent folding fix for iOS
++ 3hrs Artforum UI
+- 30mins Writing
++ Work on Pigeon Sounds
+
+### Tuesday, January 23rd 2018
+
+- Pigeons 11:30
+- Deploy accent folding fix for iOS
+- 2hrs Artforum UI
+- 2hrs DG
+- Improve pigeon noises
+- 30 mins writing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 
+
+
+
 
 
 

@@ -1,11 +1,11 @@
-# Don't Be The Gray Man
+# The Gray Man
 
 A few days after Trump was elected, one of my friends tweeted that he was going
 to buy a gun. Six months later, another friend quoted the tweet, gently dragging
 him for not actually buying the gun.
 
-While this behavior might be cringeworthy, I think it's the type of behavior we
-should expect and encourage in a functioning democracy.
+While this behavior is somewhat cringeworthy, I think it's the type of behavior
+we should expect and encourage in a functioning democracy.
 
 It would've been much worse if my friend had bought the gun, learned how to use
 it, and told no one, blending in with his creative professional peers.
@@ -77,7 +77,7 @@ determined?
 But, American-style survivalism is tightly coupled with libertarian,
 individualist, and anti-government politics. For politically active
 survivalists, being gray is in tension with their desire to share and promote
-their political beliefs.  Perhaps as a way to ease this tension, the Western
+their political beliefs. Perhaps as a way to ease this tension, the Western
 Rifle Shooters Association post presents gray man as something that can be
 practiced with a group: "[The Gray Man] practices with his weaponry in private,
 or only with his fellow Grey Men, always in a secluded location."
@@ -91,9 +91,9 @@ political identity and more of a hobby.
 
 ---
 
-Undercover agents and military professionals make similar tactical use of gray
-man. [27] To get an idea of what professional gray man looks like, consider the
-man photographed in this tweet thread from Chelsea Manning: 
+Undercover agents and military professionals also make tactical use of gray man.
+[27] To get an idea of what professional gray man looks like, consider the man
+photographed in this tweet thread from Chelsea Manning: 
 
 https://twitter.com/xychelsea/status/880963473437585408?lang=en
 
