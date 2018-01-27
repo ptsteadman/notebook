@@ -1968,6 +1968,17 @@ predictability that induces an entire manage-and-contain culture around them.
 - Improve pigeon noises
 - 30 mins writing
 
+### Friday, January 27th 2018
+
+- 1hr Gray Man
+
+On my way! to Hangzhou.
+
+I think I did a pretty good job of getting things done before leaving.
+
+Some of my obligations are likely to simply resolve themselves.
+
+I look forward to working with better people on better projects.
 
 
 
@@ -2016,9 +2027,6 @@ predictability that induces an entire manage-and-contain culture around them.
 
 
 
-
-
-- 
 
 
 
