@@ -1970,7 +1970,7 @@ predictability that induces an entire manage-and-contain culture around them.
 
 ### Friday, January 27th 2018
 
-- 1hr Gray Man
++ 1hr Gray Man
 
 On my way! to Hangzhou.
 
@@ -1980,82 +1980,19 @@ Some of my obligations are likely to simply resolve themselves.
 
 I look forward to working with better people on better projects.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Travelling
+
+As an adult I feel very little engagement with my evironment in mainland China
+(so far). I think Chongqing is pretty indifferent of me. As an adult, I think
+more in terms of plans and specific people rather than the potential of every
+strange 
+
+### Monday, January 30th 2017
+
++ 1.5hrs Review Sharif CTF
+- Edit Gray Man
++ Follow up with Ben / Ali
+- Victoria notes
 
 
 

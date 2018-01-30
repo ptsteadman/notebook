@@ -1,11 +1,11 @@
 # (Don't) Be The Gray Man 
 
 A few days after Trump was elected, one of my friends tweeted that he was going
-to buy a gun. Six months later, another friend quoted the tweet, gently dragging
-him for not actually buying the gun.
+to buy a gun. Months later, another friend quoted the tweet, gently dragging him
+for not actually buying the gun.
 
-While this behavior is a little cringeworthy, I think it's the type of behavior
-we should expect and encourage in a functioning democracy.
+While this behavior is a bit cringeworthy, I think it's the type of behavior we
+should expect and encourage in a functioning democracy.
 
 It would've been much worse if my friend had bought the gun, learned how to use
 it, and told no one, blending in with his creative professional peers.
@@ -34,7 +34,7 @@ for rapid firearm draws.
 Over the past few months, I've also come to see "gray" as an emergent (but
 unspoken) political identity. The gray man tries to seem politically normal
 while secretly harboring visions of a wide range of political scenarios, from
-leftist cultural revolution to technocratic feudal seperatism. Gray politics are
+leftist cultural revolution to technocratic feudal separatism. Gray politics are
 distinct from crypto-fascism or other crypto-politics in that gray politics
 don't require belief in any one particular system: the gray man has no agenda
 beyond his secret preparation. Even if he has nothing to say about the policy
@@ -46,9 +46,9 @@ the politics of a future world.
 Survival bloggers developed the gray man concept in reaction to a perceived
 threat of "survivalist hate".
 
-One blogger, Selco, motivates his gray man theory with an experience he had
-during the Balkan War. Selco writes that in the first few weeks of the conflict,
-he saw some of his more prepared neighbors give away supplies to those in need.
+One blogger, Selco, uses his experiences during the Balkan war to motivate his
+gray man theory. Selco writes that he saw some of his more prepared neighbors
+give away supplies to those in need during the first few weeks of the conflict.
 Just weeks later, many of these generous individuals were robbed or even
 murdered. Selco says that thieves often justified their actions with the charge
 that the well-prepared individuals were somehow guilty of anticipating or
@@ -64,11 +64,11 @@ children, so that the children don't discuss it with their neighborhood friends.
 The idea of gray man as a lifestyle seems to have originated with the term
 itself.
 
-The earliest writing about the gray man concept is a post on the "Western Rifle
-Shooters Association" blogspot, alongside posts about firearms and
-anti-government politics. This piece, authored in a Goofus and Gallant style,
-presents gray man as an identity. Example: "The Young Grey Man is dismissed as a
-wimp, the Older as a doddering old fool." [7]
+The earliest writing I could find about the gray man concept is a post on the
+"Western Rifle Shooters Association" blogspot, alongside posts about firearms
+and anti-government politics. This piece, authored in a Goofus and Gallant
+style, presents gray man as an identity. Example: "The Young Grey Man is
+dismissed as a wimp, the Older as a doddering old fool." [7]
 
 This quote begs the question: why be a survivalist if it's such a social
 liability? Wouldn't it be better to accept the idea that survival is socially
@@ -98,7 +98,7 @@ photographed in this tweet thread from Chelsea Manning:
 https://twitter.com/xychelsea/status/880963473437585408?lang=en
 
 Manning states that this man's heavily rubberized business casual shoes leak the
-fact that he's an undercover agent, prepared for violence at any moment.
+fact that he's an undercover agent, prepared for violence.
 
 ---
 
@@ -139,10 +139,10 @@ impending collapse. The NYT and New Yorker have written tongue-in-cheek profiles
 of survivalists, but these profiles will still serve as gateways into the
 culture. [25] 
 
-These trends will eventually meet somewhere with cypherpunk and
-anarcho-primitivism. As it all sloughs into the mainstream, people will begin to
-restrain themselves, going gray. They will want to just barely hint at their
-hidden skills and intent, and be ready to move.
+As these trends blend with cypherpunk and anarcho-primitivism and slough into
+the mainstream, people will begin to restrain themselves, going gray. They will
+want to just barely hint at their hidden skills and intent, and be ready to
+move.
 
 ---
 
@@ -162,13 +162,13 @@ a situation that you may not be able to get out of." [11]
 
 One comment on a survival YouTube video points out that as a black man, "trying
 to be a gray man will be difficult in far too many places in this country."
-Another commentor responds with advice that echoes advice sometimes given to
-black men in everyday life: try to be dismissed. The commentor links to a Vice
+Another commenter responds with advice that echoes advice sometimes given to
+black men in everyday life: try to be dismissed. The commenter links to a Vice
 article where two British men discover that wearing neon hi-vis vests allows
 them to escape attention and access restricted areas. [26]
 
 For minorities in America, the acts necessary to survive disaster are often
-criminalized or demonized. Many dramatic examples of this phenomenon occured
+criminalized or demonized. Many dramatic examples of this phenomenon occurred
 during hurricane Katrina, when black families wading through the water with
 supplies were infamously described as "looting" while white families were
 described as "finding". [21] Police from the wealthy community of Gretna fired
@@ -186,12 +186,16 @@ gathering". [19]
 In a post-SHTF world, wouldn't an armed person with survival skills on a "supply
 run" be a dangerous predator?
 
-Being a *white* gray man is works well, because it allows a white person to
+Being a *white* gray man is convenient, because it allows a white person to
 hoard his or her weapons and supplies, but still be considered a victim worthy
-of assistance. A wolf in sheep's clothing. Just as affecting a folksy
-down-to-earthness helps people like George Bush and Warren Buffet retain power
-and goodwill, affecting a dorky harmlessness while keeping one's assets hidden
-will be a powerful strategy for the 21st century.
+of assistance. 
+
+A wolf in sheep's clothing.
+
+Just as affecting a folksy down-to-earthness helps people like
+George Bush and Warren Buffet retain power and goodwill, affecting a dorky
+harmlessness while keeping one's assets hidden will be a powerful strategy for
+the 21st century.
 
 ---
 
@@ -207,30 +211,31 @@ If the left attempts to adopt the gray man concept and use it for progressive
 activism, the effort may backfire.
 
 Attempts to move away from endless dialogue towards secret organizing and direct
-action may have regressive and destabilizing consequences. While it's fun to
-make fun of the dynamics of virtue signaling on social media, a society where
-many people have 'gray' identities and belief systems is quietly primed for
-chaos. And, as noted in the previous section, chaos and disaster will most
-likely lead to a very regressive distribution of suffering.
+action may be destabilizing. While it's fun to make fun of the dynamics of
+virtue signaling on social media, a society where many people have 'gray'
+identities and belief systems is quietly primed for chaos. And, as noted in the
+previous section, chaos and disaster will most likely lead to a very regressive
+distribution of suffering.
 
 ---
 
-I've touched on three different "ways" to be the gray man.
+I've touched on three different ways to be the gray man.
 
 The first is _tactical use of gray man_, useful for someone who wants to stalk
 Chelsea Manning, forage for food post-SHTF, or fit in at school.
 
-The second way is _grayness as a conscious part of one's identity_, useful for
+The second way is _grayness as conscious part of one's identity_, useful for
 survivalists who want to hoard without facing the social consequences of their
 hoarding.
 
-The final way is _grayness as an unconscious part of a person's identity_,
-especially their political identity. It's not particularly unusual for someone
-to profess a political alignment (ex: socialist) that is deeply inconsistent
-with the future they're preparing for (ex: anarcho-capitalist). At some level,
-this inconsistency is normal, typical garden-variety hypocrisy. But when a
-person begins to feel like they have some sort of secret "edge" because of their
-hedging and dissembling, they are becoming the gray man.
+The final way is _grayness as an unconscious part of one's identity_, especially
+one's political identity. It's not particularly unusual for someone to profess a
+political alignment (ex: socialist) that is inconsistent with the future they're
+preparing for (ex: anarcho-capitalist). Usually, this inconsistency is the
+result of everyday expediencies and limitations, and is only experienced as
+cognitive dissonance.  But when a person begins to feel like they have some sort
+of secret "edge" because of their hedging and dissembling, they are becoming the
+gray man, even if they don't realize it.
 
 ---
 
