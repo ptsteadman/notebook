@@ -1987,13 +1987,24 @@ As an adult I feel very little engagement with my evironment in mainland China
 more in terms of plans and specific people rather than the potential of every
 strange 
 
-### Monday, January 30th 2017
+### Monday, January 30th 2018
 
 + 1.5hrs Review Sharif CTF
-- Edit Gray Man
++ Edit Gray Man
 + Follow up with Ben / Ali
 - Victoria notes
 
+
+### Tuesday, January 31st 2018
+
++ Victoria notes
++ Gray Man edits
+- 1.5hrs Artforum
++ Walmart
+- Income %s
+- Update log
++ OSCP setup
+- Yoga
 
 
 
