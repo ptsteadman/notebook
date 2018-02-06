@@ -2016,7 +2016,18 @@ strange
 
 ### Monday, February 5th 2018
 
-- 2hrs DG
++ 2hrs DG
 + Query Zachary re: income %s 
 + Hack the planet
+
+### Tuesday, February 6th 2018
+
++ Nag about invoice
++ 2hrs DG
+- Victoria contracts
+- Four metasploit videos
+- Two assembly videos
+- 2hrs hackthebox
++ Detergent
+- Salon94 invoice
 
