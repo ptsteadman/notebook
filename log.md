@@ -2024,10 +2024,10 @@ strange
 
 + Nag about invoice
 + 2hrs DG
-- Victoria contracts
++ Victoria contracts
 - Four metasploit videos
 - Two assembly videos
-- 2hrs hackthebox
++ 2hrs hackthebox
 + Detergent
-- Salon94 invoice
++ Salon94 invoice
 
