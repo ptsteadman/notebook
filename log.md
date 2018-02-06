@@ -2006,5 +2006,17 @@ strange
 + OSCP setup
 - Yoga
 
+### Sunday, February 4th 2018
 
++ Send contracts to victoria
++ 3hrs Artforum
++ Income %s
+- 1hr DG
++ Deploy new pigeon app
+
+### Monday, February 5th 2018
+
+- 2hrs DG
++ Query Zachary re: income %s 
++ Hack the planet
 

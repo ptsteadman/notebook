@@ -31,6 +31,11 @@ moving between words in terminal: `ALT-B ALT-F`
 
 Find by filename: `find / -name foo`
 
+Linux kernel version: `uname -a`
+
+Replace the content of a file that requires sudo: `sudo bash -c 'echo
+"nameserver 8.8.8.8" > /etc/resolv.conf'`
+
 ## Ubuntu Nvidia Driver Stuff
 
 - Add the `graphics-drivers` ppa. You can view current ppas with `vim
