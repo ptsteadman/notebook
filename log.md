@@ -2033,10 +2033,10 @@ strange
 
 ### Wednesday, Febrary 7th 2018
 
-- Nag about invoice cont.
++ Nag about invoice cont.
 - 1.5hrs DG
 - 1.5hrs Artforum
-- Toilet paper
++ Toilet paper
 - Finish box
-- Fix Pigeon Sounds HD logo
-- Fix Pigeon Sounds landscape
++ Fix Pigeon Sounds HD logo
++ Fix Pigeon Sounds landscape
