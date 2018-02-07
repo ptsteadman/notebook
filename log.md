@@ -2031,3 +2031,12 @@ strange
 + Detergent
 + Salon94 invoice
 
+### Wednesday, Febrary 7th 2018
+
+- Nag about invoice cont.
+- 1.5hrs DG
+- 1.5hrs Artforum
+- Toilet paper
+- Finish box
+- Fix Pigeon Sounds HD logo
+- Fix Pigeon Sounds landscape
