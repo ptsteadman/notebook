@@ -33,8 +33,11 @@ Find by filename: `find / -name foo`
 
 Linux kernel version: `uname -a`
 
-Replace the content of a file that requires sudo: `sudo bash -c 'echo
-"nameserver 8.8.8.8" > /etc/resolv.conf'`
+Replace the content of a file that requires sudo: `sudo bash -c 'echo "nameserver 8.8.8.8" > /etc/resolv.conf'`
+
+Run command as another user: `sudo -u scriptmanager /bin/bash -c 'echo "f.write(open(\"/root/root.txt\").read())" >> /scripts/test.py'`
+
+Context of line in grep: `-C` flag
 
 ## Ubuntu Nvidia Driver Stuff
 

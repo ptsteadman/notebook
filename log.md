@@ -2041,11 +2041,10 @@ strange
 + Fix Pigeon Sounds HD logo
 + Fix Pigeon Sounds landscape
 
-### Wednesday, Febrary 7th 2018
+### Thursday, Febrary 8th 2018
 
 + 1.5hrs DG
 - 3hrs Artforum
-- Finish box
++ Finish box
 - Four metasploit videos
-- Two assembly videos
-- 
++ Two assembly videos

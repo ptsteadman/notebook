@@ -54,3 +54,16 @@ To turn off ASLR:
 
 sudo su
 echo 0 > /prod/sys/kernel/randomize_va_space
+
+### Linux System Calls
+
+full list at /usr/include/asm/unistd.h
+
+i386
+How to pass args to syscall: EAX is syscall number, EBX 1st arg, ECX 2nd arg
+system calls are invoked by processes using a software interrupt: INT 0x80
+
+x86_64
+rax(rdi, rsi, rdx, r10, r8)
+syscall op
+
