@@ -2040,3 +2040,12 @@ strange
 - Finish box
 + Fix Pigeon Sounds HD logo
 + Fix Pigeon Sounds landscape
+
+### Wednesday, Febrary 7th 2018
+
++ 1.5hrs DG
+- 3hrs Artforum
+- Finish box
+- Four metasploit videos
+- Two assembly videos
+- 
