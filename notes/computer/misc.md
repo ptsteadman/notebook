@@ -39,6 +39,14 @@ Run command as another user: `sudo -u scriptmanager /bin/bash -c 'echo "f.write(
 
 Context of line in grep: `-C` flag
 
+Split text and take segment: `cut -d "/" -f 3`
+
+Sort unique: `sort -u`
+
+Bash for loop
+
+`for url in $(cat list.txt); do host $url; done`
+
 ## Ubuntu Nvidia Driver Stuff
 
 - Add the `graphics-drivers` ppa. You can view current ppas with `vim

@@ -2031,7 +2031,7 @@ strange
 + Detergent
 + Salon94 invoice
 
-### Wednesday, Febrary 7th 2018
+### Wednesday, February 7th 2018
 
 + Nag about invoice cont.
 - 1.5hrs DG
@@ -2041,10 +2041,33 @@ strange
 + Fix Pigeon Sounds HD logo
 + Fix Pigeon Sounds landscape
 
-### Thursday, Febrary 8th 2018
+### Thursday, February 8th 2018
 
 + 1.5hrs DG
 - 3hrs Artforum
 + Finish box
 - Four metasploit videos
 + Two assembly videos
+
+### Friday, February 9th 2018
+
++ 2hrs DG
+- 2hrs Artforum
++ Four metasploit videos
+- Box
++ License pigeon sounds
+
+### Saturday, February 10th 2018
+
+- Finish priority
++ CTF
+- Submit app store
+
+### Sunday, February 11th 2018
+
+Three hours of client work a day in the am this week.
+
++ Email hunzinger abt percentages
+- Submit pigeon app
++ Bash exercises
+- 1.5 hrs artforum
