@@ -2071,3 +2071,24 @@ Three hours of client work a day in the am this week.
 - Submit pigeon app
 + Bash exercises
 - 1.5 hrs artforum
+
+### Monday, February 12th 2018
+
++ 2hrs Artforum
++ 1hr DG
++ Pigeon app
++ 2hrs hacking
+
+### Tuesday, February 13th 2018
+
++ 2hrs DG
++ 1hr Artforum
++ Pigeon sound cleanup
++ Watch movie/tv
+- Push for meeting
+
+### Wednesday, February 14th 2018
+
+- Publish pigeon sounds hd!
+- Finish priorities front end
+- Read PDF
