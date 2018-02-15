@@ -2089,6 +2089,12 @@ Three hours of client work a day in the am this week.
 
 ### Wednesday, February 14th 2018
 
-- Publish pigeon sounds hd!
++ Publish pigeon sounds hd!
 - Finish priorities front end
++ Read PDF
+
+### Thursday, February 15th 2018
+
+- Finish priorities front end
+- Finalize custom tools design
 - Read PDF
