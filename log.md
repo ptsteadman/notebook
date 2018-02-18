@@ -2095,6 +2095,15 @@ Three hours of client work a day in the am this week.
 
 ### Thursday, February 15th 2018
 
-- Finish priorities front end
++ Finish priorities front end
 - Finalize custom tools design
-- Read PDF
++ Read PDF
+
+### Sunday, February 18th 2018
+
+Probably need to learn awk and sed.
+
++ Finish reading pdf
+- Enumeratation
+- Research Ningbo
+- 1hr DG

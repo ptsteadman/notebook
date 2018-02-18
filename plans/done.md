@@ -1,4 +1,5 @@
 ### Done
+- ~~Write and publish 'Grey Man Style'.~~
 - ~~Write and publish 'What I Learned From Live Tweeting ...' blog post.~~
 - ~~Write and publish 'Summer of Entropy' story.~~
 - ~~Blog section for computerlab.io.~~
