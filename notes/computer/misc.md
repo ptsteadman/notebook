@@ -43,9 +43,15 @@ Split text and take segment: `cut -d "/" -f 3`
 
 Sort unique: `sort -u`
 
-Bash for loop
+Bash for loop:
 
 `for url in $(cat list.txt); do host $url; done`
+
+Copy pwd to clipboard and use in another terminal:
+
+`pwd | xclip`
+
+`cd $(xclip -o)`
 
 ## Ubuntu Nvidia Driver Stuff
 

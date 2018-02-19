@@ -2104,6 +2104,41 @@ Three hours of client work a day in the am this week.
 Probably need to learn awk and sed.
 
 + Finish reading pdf
-- Enumeratation
-- Research Ningbo
-- 1hr DG
++ Enumeratation
++ Research Ningbo
++ 1hr DG
+
+-----BEGIN PGP MESSAGE-----
+Comment: https://keybase.io/download
+Version: Keybase Go 1.0.41 (linux)
+
+wcFMAxeUi+zldDa+ARAAD6PVYxTqTafzZDpVv7nczKgBKwzmM5XfKLIB+MLy8V5E
+lm0CJPBHpcArNBy5ewELICYnHRa1WyoxI60fMEEs2LfikrC8gCoVxQje7coj5UY+
+BQtmQEOFHjmcU3EhCcjpzUmt1BKJAZGi1DnsKo9VN6EksfJ4C0xmzY5J/UfPW2Xy
+vrm7AOAVdJZjh//UXVdxHhnvp8dqJvlrPG1xQeB6LzNbQpy0R6pvq725DXBqa5Qe
+ZzZGzQfoqXi4Mjr8Fy/oYGhEYi6BCdRPHsE2Lzp1nkhFJt7vPx9QK7U1VJPyC77z
+4LbBqwvOO2zu2S+aFofW+ezTeFqIw/OFUjCk2axlMtPnkG7wL7SNLoxCblSOvsTw
+zBrTUVArOTjz2PO+TeJG2Wcu16RIDzVuD4nKhQtWLi9vPRqqnuLWwsoCUoNwe6Wq
+4qjaUAilacjF+RGJcvlZKfaJvTXDbtm6GN/r1IHCRev6jbHGReFaWkuSIPl0Jtqb
+lNMnp05J0Gy7672eZOfXKvgxTH7IwtutTIbg1SZC15U63c3g3Pt/LFZYnWuTEGi7
+T9GiLUDwh4dNJAGlYY5MQhheFmLWIStKa5fALlVQFEA6sPHE8dYa7Hflm9rK+MVd
+FKUv339Eo8GrRlsgK5NSBhcQEvsnlhwdVOp59ZRAPDMtQ/xeOdn3BDZC+Nfj+jPS
+4AHklZR360aZncJ6lHoTt4fWL+F4z+CF4DzhRhvg8OJB1LXq4C7oQ87qDIleI0DM
+rkNr0PW2cjSLnyPBCSFJ59k9bsIbkOciDgjbQu1z+eTODdiQ/4TubCa2L2uFBr0f
+ee3OGOdLQ3Spcf8XYTdyEVL0L2OqV9d3IidFAGC/QA3nPCtX9OZA3NrxpPFrY+El
+YD4JbcjzmRLPEhtx0sYB4LEUwqRhcpn6h8Tnsq6XlOOpWbpx+pOcS+mCuJlCovo3
+Ua+zDPKAhCb2RVLhDwJ20C/fGOOMjFSf9VzCiavVJA7oW3GcYRtvMsW3W2K7vAee
+kWk8WHoFqbNggSz6cpq4h0Q01XFEES3VmZoUAl94mqCe3TaotaOK/CzvOoD//8MD
+T9oF+gDak+AW5gdLFmgaCVZIr71yrvwGig1O/fw+s51w4HeLnwhgGzVOKlAsNOhg
+LwdRFP6qj77wesuiI3fKmgqXjxPLMjnEj8vgAOUx3DxrMVQ7XO65h4skV9pg2/SX
+NOJuCh6JQEhHg6gMg+B+4/FH6csZE8Is4KPiWpVoW+Di4Qd64HngguCe5M+feXpA
+9cTQf3kqSMbAtRnixfre2uHydQA=
+=ykCH
+-----END PGP MESSAGE-----
+
+### Monday, February 19th 2018
+
+- Enumerate machines and do relevant exercises to the enumeration
++ Take potshots at easy-seeming machines
+- 2hrs DG
+- 1hr Artforum
