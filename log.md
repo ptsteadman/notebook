@@ -2159,9 +2159,16 @@ FuBa4ETkRCVtEsPqyYXPLTevlIxOGuIuGl4w4RhNAA==
 
 ### Tuesday, February 20th 2018
 
-- Do RFI and LFI exercises
-- Attempt 'phoenix' machine again
++ Do RFI and LFI exercises
++ Attempt 'phoenix' machine again
 - More enumeration
 - 1hr DG
 - 2hrs Artforum
 - SIM card
+
+### Wednesday, February 21st 2018
+
+- 3hrs Artforum
+- 30mins DG
+- Finish XSS, RFI, LFI exercises
+- Finish Phoenix
