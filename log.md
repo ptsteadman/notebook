@@ -1733,21 +1733,30 @@ effective, not by what is desirable.
 - 1hr Writing
 + Email to Artforum
 
-Notes with Ali
+-----BEGIN PGP MESSAGE-----
+Comment: https://keybase.io/download
+Version: Keybase Go 1.0.41 (darwin)
 
-Article 29: Guidance
-JP Morgan Chase Chief Privacy Officer
-Big Data
-Similar companies?
-- sectoral
-- omnibus
-    - directive
-    - SMB
-    - GDPR
-TrustArc, OneTrust, law firms, accenture, nymity 
-250+ employees: Data Protection Officer
-
-SEO?
+wcFMAxeUi+zldDa+ARAAK5fJEc0h/Zspp5AdrLUG3R4x1Gt2ByqO4MEgON9IF5/e
+Y1Mjj3TP4ZWOULx63fGQ3XDHtviqcpQVHPfgfBk8uG5SQHI5+/EsYkupAPa7Q+qU
+Imtwzqm9xXLXW/nxrYkJ8qO5e1N7rsUuq2yIm+Ne7rt2MCT9XAZOMuCmvNzb0lBc
+2JlECfJXF57iYQbSkZUPw4oyzmsVoIEGGyp/A5pbprZd2UsSVaH6PW+PekQGi64u
+aTAfbQuofQDyY+AFC6Z39UfoJd/c/+YXcFL3C2zP666iiHJk0LUEAqx7kj2BAPLI
+J8VSaAat8LsAd1VaOakedZ3kA5ptlu72barOH3ZnRQd5KPI4hUKrnJcRQfMFsHVT
+Qo3bNw5QHH1ZwKOq+4Kga4qNxZWnKR8u/Ty2OydBtzxdsCzYlPEgFruVrWxFFZjR
+ExVFEJAAzN38wSAQAknnmb+KsfUfBfNhcpKVIRD3LlkZTMFMT21tct5tql1GAfvc
+W2Ir7iYUSQXpmfE5azkVuD1MraIb4ROqirt4HnVjrJ20mbRj7NzluK2ZfKRwtXa4
+78DwBY7K8o7qkVpp6jDdiKQKwbAPZg7jfTvEv7/IdRpU22cWcXquftwfgScQSGME
+bhCdTb+cv+rkylClLkyc9uhagJCxuSxgYn4q3dWnefXIbAr3ZnXtsIg4KPpDRjTS
+4AHk6Vdn+RAfLLIxgWIxPsjdl+G3NOD+4GDhNGHgp+I4sx5b4ELohaYGyXmGFJmb
+wSTDjToO+uBjah/vgDHqTnn0HTOwPvBgtx6/MbYpiTSV6RVsX1t4HXDOKkQQnuZE
+GGgxBb3g9YmGuu0tDm0G5qUXHDIDDL4plf5cngHFsb6P70973Yh+++7w2xEFvzaZ
+M0gJYWAtzRvMQFY0Hn+N6u97V4B9HDX4J3FqRL9CHsgihinP8pcBxNxqnVlwd7MY
+avsncx3dGu103N+zEsnSgQCbBCQQ8Iq/OwRmnm821Jfi6hqifs4dti8cYwAm+2Uu
+2o4cPWcJjAYfnHi+aYoh5k1GhMDAnbKr+FopBcKc4yIk5hC3/5p7G7ZsEEuRtHCO
+7bYj0pD5BOCg4Nfgn+RkA+T8WZrazTwyMO2MakGI4j5HMXbhPoIA
+=UvQy
+-----END PGP MESSAGE-----
 
 ### Tuesday, December 26th 2017
 
@@ -2168,7 +2177,22 @@ FuBa4ETkRCVtEsPqyYXPLTevlIxOGuIuGl4w4RhNAA==
 
 ### Wednesday, February 21st 2018
 
-- 3hrs Artforum
++ 3hrs Artforum
 - 30mins DG
 - Finish XSS, RFI, LFI exercises
 - Finish Phoenix
+
+Should sign-in and register be overlays over myguide or a proper page?
+What if there's a need to redirect a user to sign in (if creds have expired,
+etc)?
+
+### Thursday, February 22nd 2018
+
+- 2.5hrs Artforum
+    - make builds using merged codebases
+    - resolve xlarge display issue
+    - prototype login
+- 30mins DG
+- Finish XSS, RFI, LFI exercises
+- Finish Phoenix
+
