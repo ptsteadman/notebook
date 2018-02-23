@@ -2189,11 +2189,20 @@ etc)?
 
 ### Thursday, February 22nd 2018
 
-- 2.5hrs Artforum
-    - make builds using merged codebases
-    - resolve xlarge display issue
-    - prototype login
++ 2.5hrs Artforum
+    + make builds using merged codebases
+    + resolve xlarge display issue
+    + prototype login
 - 30mins DG
-- Finish XSS, RFI, LFI exercises
++ Finish XSS, RFI, LFI exercises
+- Finish Phoenix
+
+### Friday, February 23nd 2018
+
+- 2hrs Artforum
+    - Indicate login
+    - Get remote myguide items
+- 1hr DG
+- Finish LFI exercise
 - Finish Phoenix
 
