@@ -2200,9 +2200,9 @@ etc)?
 ### Friday, February 23nd 2018
 
 - 2hrs Artforum
-    - Indicate login
+    + Indicate login
     - Get remote myguide items
 - 1hr DG
-- Finish LFI exercise
-- Finish Phoenix
++ Finish RFI exercise
++ Get phoenix shell 
 
