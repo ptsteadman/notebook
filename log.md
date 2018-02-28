@@ -2248,4 +2248,4 @@ unmaintainable or uncapitalizable tone.
 - 1hr Artforum
     - test new API
     - look into bug
-- Jog
++ Jog
