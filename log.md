@@ -2201,8 +2201,51 @@ etc)?
 
 - 2hrs Artforum
     + Indicate login
-    - Get remote myguide items
-- 1hr DG
+    + Get remote myguide items
++ 1hr DG
 + Finish RFI exercise
 + Get phoenix shell 
 
+### Saturday, February 24th 2018
+
+- Victoria set up on GitHub
++ Hack
+
+### Sunday, February 25th 2018
+
+- Tax paperwork
+
+### Monday, February 26th 2018
+
++ Tax paperwork
+- Finish enumeration
+- Reverse shell and ftp exercises
+
+### Tuesday, February 27th 2018
+
+It's dangerous to push too far back into your personal history. 
+You might deconstruct some of your personal myths.
+If you're prepared for this, and the illusions being deconstructed were not
+serving you, then pushing back can be good, cleansing.
+If you're vulnerable then the experience will just be another blow.
+
+What Emily said: don't ignore who a person actually is and how their brain
+actually works because you want them to be someone else.
+
+I've spent a lot of money on experiences meant to 'set the tone', usually an
+unmaintainable or uncapitalizable tone.
+
+
+### Wednesday, February 28th 2018
+
+- Reverse shell and ftp exercises
+- Finish enumeration
+- Take a shot at a machine
+- Msg Ariel
+- 1hr DG
+    - fix bug
+    - plan work, discuss with willis
+- 1hr Artforum
+    - test new API
+    - look into bug
+- Jog
