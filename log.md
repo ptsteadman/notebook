@@ -2238,14 +2238,28 @@ unmaintainable or uncapitalizable tone.
 
 ### Wednesday, February 28th 2018
 
-- Reverse shell and ftp exercises
++ Reverse shell and ftp exercises
 - Finish enumeration
 - Take a shot at a machine
-- Msg Ariel
-- 1hr DG
++ Msg Ariel
++ 1hr DG
     - fix bug
     - plan work, discuss with willis
 - 1hr Artforum
     - test new API
     - look into bug
 + Jog
+
+### Monday, March 5th 2018
+
++ 2hrs DG 
+- Writing initial APT groups thoughts
++ Respond to Ben
++ Other responses
+
+### Tuesday, March 6th 2018
+
+- 4.5hrs DG
+- 1hr Hacking
+- APT Group thoughts
+- Yoga
