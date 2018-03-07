@@ -2259,7 +2259,7 @@ unmaintainable or uncapitalizable tone.
 
 ### Tuesday, March 6th 2018
 
-- 4.5hrs DG
++ 4.5hrs DG
 - 1hr Hacking
 - APT Group thoughts
-- Yoga
++ Yoga
