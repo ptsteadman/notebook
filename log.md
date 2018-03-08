@@ -2261,5 +2261,11 @@ unmaintainable or uncapitalizable tone.
 
 + 4.5hrs DG
 - 1hr Hacking
-- APT Group thoughts
++ APT Group thoughts
 + Yoga
+
+### Wednesday, March 7th 2018
+
+- 4.5hrs DG
++ 1hr Hacking
+- 1hr APT group
