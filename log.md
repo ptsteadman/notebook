@@ -2266,6 +2266,37 @@ unmaintainable or uncapitalizable tone.
 
 ### Wednesday, March 7th 2018
 
-- 4.5hrs DG
++ 4.5hrs DG
 + 1hr Hacking
 - 1hr APT group
+
+### Thursday, March 8th 2018
+
++ 3hrs DG
+- 1hr Artforum
+- 1hr Hacking
+- 1hr APT
+
+### Friday, March 9th 2018
+
+- 2.5hrs DG
+- Personal Taxes
+
+### Saturday, March 10th 2018
+
+- Personal taxes
+- 1hr Artforum
+
+Gustavo Dias
+Su Xiaobai
+Riccardo Baruzzi
+Takesada Matsutani
+Emma Amos
+
+### Monday, March 12th 2017
+
++ Send in tax form
++ 3hrs Artforum
++ Finish DG backlog
++ Buy more OSCP time
+- 1hr APT writing
