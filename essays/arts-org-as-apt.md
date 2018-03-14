@@ -47,6 +47,8 @@ The canoncial example of TEG activity is Stuxnet...but there must be more.
 What relationship do APTs have with arts organizations? Maybe nothing. I don't
 want to force comparison between arts groups and APT groups. 
 
+less obviously nefarious...?
+
 - 'long leash' perhaps because of the elevated nature of the pursuit
 - the artworld and the hacking world are both very aspirational
 
