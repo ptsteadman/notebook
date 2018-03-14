@@ -2306,4 +2306,13 @@ Emma Amos
 + 3hrs Artforum
 + Clean lab
 + Leave lab at 10
++ 2hrs APT groups
+
+### Wednesday, March 14th 2018
+
 - 2hrs APT groups
+    - outline
+- Clean lab more
+- 2.5hrs Artforum
+- Network
+- Rec + Invoice
