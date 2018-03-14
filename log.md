@@ -2293,10 +2293,17 @@ Riccardo Baruzzi
 Takesada Matsutani
 Emma Amos
 
-### Monday, March 12th 2017
+### Monday, March 12th 2018
 
 + Send in tax form
 + 3hrs Artforum
 + Finish DG backlog
 + Buy more OSCP time
-- 1hr APT writing
++ 1hr APT writing
+
+### Tuesday, March 13th 2018
+
++ 3hrs Artforum
++ Clean lab
++ Leave lab at 10
+- 2hrs APT groups
