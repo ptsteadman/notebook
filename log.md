@@ -2310,9 +2310,27 @@ Emma Amos
 
 ### Wednesday, March 14th 2018
 
-- 2hrs APT groups
-    - outline
-- Clean lab more
++ 2hrs APT groups
+    + outline
++ Clean lab more
 - 2.5hrs Artforum
 - Network
 - Rec + Invoice
+
+### Thursday, March 15th 2018
+
++ Feed pigeons
++ 2.5hrs Artforum
+    + Email update
+    + Remove from remote MyGuide
++ Rec + Invoice
++ Take out trash
+- 2hrs APT groups
+
+### Friday, March 16th 2018
+
+- Lab at 10:00AM
+- Feed pigeons
+- 3hrs Artforum
+    - x cancel button
+    - register component
