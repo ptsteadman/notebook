@@ -2334,4 +2334,4 @@ Emma Amos
 - 3hrs Artforum
     - x cancel button
     - register component
-- 2hrs APT groups
++ 2hrs APT groups
