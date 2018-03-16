@@ -2330,7 +2330,8 @@ Emma Amos
 ### Friday, March 16th 2018
 
 - Lab at 10:00AM
-- Feed pigeons
++ Feed pigeons
 - 3hrs Artforum
     - x cancel button
     - register component
+- 2hrs APT groups
