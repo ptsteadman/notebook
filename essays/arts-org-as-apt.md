@@ -108,6 +108,8 @@ Motivation: not just about the money for attackers.
 
 Specific goals beyond simply promoting the arts of the nation.
 
+Violation!
+
 It's important to develop a theory and an awareness of the possibility of APTs
 in the art world for two reasons: 1) it's likely that after the success of
 social media APT activity, APT organizers will search for new targets and
