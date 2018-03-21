@@ -2335,3 +2335,32 @@ Emma Amos
     - x cancel button
     - register component
 + 2hrs APT groups
+
+Since 1997, my dad has worked as an engineer for a wire mesh factory in Buffalo,
+NY. His experience has served as both an inspiration and warning to me. He and
+the business have gone through a lot: A year-long strike where my mom worked as
+a scab. (The union eventually gave up). A failed attempt at developing computer
+vision back in the dot-com era. A later, more successful attempt at innovation
+where my dad developed a new machine and business line. A first trip to China in
+2006 where I tagged along, the beginning of my relationship with China. Over
+time, the factory has been able to employ more workers, many who are
+recently-arrived refugees. Though my dad has been devoted to his work, often at
+the cost of his own health, I think his efforts have often been undermined by
+glib baby boomers in suits, or the seduction of easier, more virtual money,
+which makes the factory seem drab and unappealing. Early on the morning of March
+1st, my 26th birthday, I called my dad from Shanghai to say hi. We made a bit of
+small talk (I think we are closest when we talk about work) but soon he asked me
+if I had seen the news about the steel tariff. I hadn't. I groggily read the
+news as he explained how the tariff might force him to stop importing leaded
+steel wire from Korea, and instead purchase semi-finished mesh from, guess
+where, China. The American manufacturer of leaded steel didn't want a company of
+their size as a customer. The little I know about international trade I learned
+in a university class which dogmatically emphasized again and again that tariffs
+lead to deadweight loss. But the world seems so much more complicated.  Anyway,
+today is my dad's birthday, I think he's 52. Happy birthday, and I hope you will
+be vindicated.
+
+
+the sort of casual corruption that favors
+glib promises and turnover over consistentcy and engineering. A small example:
+Microsoft 
