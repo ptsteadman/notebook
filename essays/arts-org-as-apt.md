@@ -50,6 +50,13 @@ infosec company...) Mostly as the result of fuck-ups or leaks.
 
 The canoncial example of TEG activity is Stuxnet...
 
+"
+The Obama administration makes a distinction between hacking to protect national
+security, which it calls fair play, and hacking to obtain trade secrets that
+would give an edge to corporations, which it says is illegal. China and other
+nations accuse the United States of being the biggest perpetrator of both kinds
+of espionage."
+
 ### Theory of Advanced Persistent Threats in the Arts
 
 The character of APT1, Stuxnet and many other APTs doesn't stray far from the

@@ -2335,3 +2335,8 @@ Emma Amos
     - x cancel button
     - register component
 + 2hrs APT groups
+
+### Monday, March 19th 2018
+
+- 3hrs APT groups
+- 3hrs Artforum
