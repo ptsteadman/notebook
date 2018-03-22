@@ -2338,5 +2338,12 @@ Emma Amos
 
 ### Monday, March 19th 2018
 
-- 3hrs APT groups
++ 3hrs APT groups
 - 3hrs Artforum
+
+### Thursday, March 22nd 2018
+
++ 3hrs Artforum
+- Respond to Streeter
+- 1hr Writing
+
