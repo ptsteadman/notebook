@@ -5,23 +5,22 @@ exhibition titled "In the Mood For Love: An Exhibition Featuring Chinese and
 Canadian Female Artists". Without context, the show is moderately interesting:
 it's hard to make a meaningful connection between the works of the Chinese and
 Canadian artists, but a number of the individual works are good. The academic
-chair of the exhibition, Dr. Fu Yijing, noted that the painters, photographers
-and sculptors in the show tended to avoid the "major and grandiose themes"
-favored by male artists.
+chair of the exhibition, Dr. Fu Yijing, noted that work in the show tended to
+avoid the "major and grandiose themes" favored by male artists.
 
-The background of the gallery hosting the show, however, is certainly quite
-grand. Poly Culture is a subsidiary of the China Poly Group Corporation, a state
-owned enterprise founded by the People's Liberation Army in the early nineties.
-The group includes a number of different business units, including a theater
-chain, a real estate holdings company, and the worlds third-largest auction
-house. But Poly Group originated from Poly Technologies, a defense industry
-manufacturer that annually sells tens of billions of dollars of missiles and
-other arms to foreign governments. Poly Technologies has a history of conflict
-with the United States state department, which last year blocked a transaction
-between the company and the Namibian Defense Force, citing a 2013 sanction
-applied after Poly allegedly sold weapons to Iran. In 1996, federal agents
-posing as arms smugglers working for American gangs seized 2,000 illegal AK-47s
-in Oakland and indicted eight employees of Poly Technologies.
+The story of the gallery hosting the show, however, is certainly quite grand.
+Poly Culture is a subsidiary of the China Poly Group Corporation, a state owned
+enterprise that was founded by the People's Liberation Army in the early
+nineties. The group includes a number of different business units, including a
+theater chain, a real estate holdings company, and the worlds third-largest
+auction house. But Poly Group originated from Poly Technologies, a defense
+industry manufacturer that annually sells tens of billions of dollars of
+missiles and other arms to foreign governments. Poly Technologies has a history
+of conflict with the United States state department, which last year blocked a
+transaction between the company and the Namibian Defense Force, citing a 2013
+sanction applied after Poly allegedly sold weapons to Iran. In 1996, federal
+agents posing as arms smugglers working for American gangs seized 2,000 illegal
+AK-47s in Oakland and indicted eight employees of Poly Technologies.
 
 repatriation
 
