@@ -2363,4 +2363,64 @@ be vindicated.
 
 the sort of casual corruption that favors
 glib promises and turnover over consistentcy and engineering. A small example:
-Microsoft 
+
+### Monday, March 19th 2018
+
++ 3hrs APT groups
+- 3hrs Artforum
+
+### Wednesday, March 21st 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
