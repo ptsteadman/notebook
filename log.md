@@ -2372,55 +2372,23 @@ glib promises and turnover over consistentcy and engineering. A small example:
 ### Wednesday, March 21st 2018
 
 
+### Thursday, March 22nd 2018
 
++ 3hrs Artforum
+- Respond to Streeter
++ 1hr Writing
 
+### Friday, March 23rd 2018
 
++ Respond to Streeter
++ 1hr Writing
+- 2hrs Artforum
++ 1hr Blog Post
 
+### Saturday, March 24th 2018
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
++ Laundry
++ Gym
+- Finish reading "Bad Pharma"
+- Finish reading NYR
+- Write Yangmingshan section
