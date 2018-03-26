@@ -2350,7 +2350,7 @@ Emma Amos
 ### Friday, March 23rd 2018
 
 + Respond to Streeter
-- 1hr Writing
++ 1hr Writing
 - 2hrs Artforum
 - 1hr Blog Post
 
