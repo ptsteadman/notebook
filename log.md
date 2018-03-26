@@ -2391,4 +2391,13 @@ glib promises and turnover over consistentcy and engineering. A small example:
 + Gym
 - Finish reading "Bad Pharma"
 - Finish reading NYR
-- Write Yangmingshan section
++ Write Yangmingshan section
+
+### Monday, March 25th 2018
+
+- Yoga
+- 2.5hrs Artforum
+- W2 + Personal Taxes
+- 2.5hrs essay
+    - send outline
+- Finish reading Bad Pharma 
