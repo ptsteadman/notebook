@@ -3,26 +3,32 @@
 This past holiday season, the Poly Culture Art Center in Vancouver hosted an
 exhibition titled "In the Mood For Love: An Exhibition Featuring Chinese and
 Canadian Female Artists". Without context, the show is moderately interesting:
-it's hard to make a meaningful connection between the works of the Chinese and
-Canadian artists, but a number of the individual works are good. The academic
-chair of the exhibition, Dr. Fu Yijing, noted that work in the show tended to
-avoid the "major and grandiose themes" favored by male artists.
+there's a number of compelling individual works, but it's hard to find a
+connetion between the works of the Chinese and the Canadian artists.  The
+academic chair of the exhibition, Dr. Fu Yijing, noted that work in the show
+tended to avoid the "major and grandiose themes" favored by their male peers.
 
 The story of the gallery hosting the show, however, is certainly quite grand.
 Poly Culture is a subsidiary of the China Poly Group Corporation, a state owned
 enterprise that was founded by the People's Liberation Army in the early
-nineties. The group includes a number of different business units, including a
+nineties. The group has a number of different business units, including a
 theater chain, a real estate holdings company, and the worlds third-largest
-auction house. But Poly Group originated from Poly Technologies, a defense
-industry manufacturer that annually sells tens of billions of dollars of
-missiles and other arms to foreign governments. Poly Technologies has a history
-of conflict with the United States state department, which last year blocked a
-transaction between the company and the Namibian Defense Force, citing a 2013
-sanction applied after Poly allegedly sold weapons to Iran. In 1996, federal
-agents posing as arms smugglers working for American gangs seized 2,000 illegal
-AK-47s in Oakland and indicted eight employees of Poly Technologies.
+auction house. But the oldest and most controversial business unit isn't listed
+on the the Poly Group website: Poly Technologies, a defense manufacturer that
+annually sells tens of billions of dollars of arms to foreign governments.
 
-repatriation
+There's a consistent history of conflict between Poly Technologies and the US
+government dating back to 1996, when federal agents posing as gang-sponsored
+arms smugglers seized 2,000 AK-47s and indicted eight Poly Technologies
+employees. Most recently, in 2017 the US State Department blocked a transaction
+between the company and the Namibian Defense Force, citing a 2013 sanction
+applied after Poly allegedly sold weapons to Iran.
+
+Should information about Poly Culture's background change how their "In the Mood
+for Love" exhibit is received? The simple establishment of Poly Culture Art
+Center in Vancouver caused some people to
+
+starting with repatriation
 
 
 
