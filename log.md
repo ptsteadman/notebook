@@ -2395,9 +2395,9 @@ glib promises and turnover over consistentcy and engineering. A small example:
 
 ### Monday, March 25th 2018
 
-- Yoga
-- 2.5hrs Artforum
++ Yoga
++ 2.5hrs Artforum
 - W2 + Personal Taxes
-- 2.5hrs essay
-    - send outline
++ 2.5hrs essay
+    + send outline
 - Finish reading Bad Pharma 
