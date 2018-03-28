@@ -2416,7 +2416,8 @@ glib promises and turnover over consistentcy and engineering. A small example:
 
 + Back exercises
 - 1.5hrs Artforum
-- 0.25hr Blockfront
-- 2.5hrs essay
 - Talk to Willis, Garret and Tom
+- 0.25hr Blockfront
+- Clean lab
+- 2.5hrs essay
 - Tax stuff
