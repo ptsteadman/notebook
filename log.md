@@ -2397,7 +2397,26 @@ glib promises and turnover over consistentcy and engineering. A small example:
 
 + Yoga
 + 2.5hrs Artforum
-- W2 + Personal Taxes
++ W2 + Personal Taxes
 + 2.5hrs essay
     + send outline
 - Finish reading Bad Pharma 
+
+### Tuesday, March 26th 2018
+
++ Gym
++ Salon94 Invoicing
++ 2hrs Artforum
++ 0.5hrs blog post
+* 2.5hrs essay
++ Finish reading bad pharma
+- Finish reading NYR
+
+### Wednesday, March 27th 2018
+
++ Back exercises
+- 1.5hrs Artforum
+- 0.25hr Blockfront
+- 2.5hrs essay
+- Talk to Willis, Garret and Tom
+- Tax stuff
