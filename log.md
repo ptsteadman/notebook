@@ -2415,9 +2415,34 @@ glib promises and turnover over consistentcy and engineering. A small example:
 ### Wednesday, March 27th 2018
 
 + Back exercises
-- 1.5hrs Artforum
-- Talk to Willis, Garret and Tom
-- 0.25hr Blockfront
-- Clean lab
-- 2.5hrs essay
-- Tax stuff
++ 1.5hrs Artforum
++ Talk to Willis, Garret and Tom
++ 0.25hr Blockfront
++ Clean lab
++ 2.5hrs essay
++ Tax stuff
+
+### Thursday, March 28th 2018
+
++ Email to Hi Clark
++ 1hr Essay
++ Buy Beijing tickets
++ Email to Artforum
+
+### Friday, March 29th 2018
+
++ 2.5hrs essay
++ Feed pigeons
+- 2hrs Artforum
++ 1hr essay
++ Sign operating agreement
+
+### Saturday, March 30th 2018
+
+* 2.5hrs Artforum
+- 2.5hrs Artforum
+
+Oh man you are good,
+I loved it man i really really love it, I am alone and depressed, a lot happened in life, I need a pigeon to rehabilitate me, I want to say thank you,  you are a good man sir, hats off to you,
+
+9% OCED / 18% US healthcare costs as share of GDP
