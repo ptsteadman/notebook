@@ -1511,40 +1511,43 @@ if u like ny mag's sex diaries or refinery29's money dairies but u love computer
 + Gym
 + 1hr Writing
 
-Goals Before I Turn 30
-
 -----BEGIN PGP MESSAGE-----
 Comment: https://keybase.io/download
-Version: Keybase Go 1.0.41 (darwin)
+Version: Keybase Go 1.0.45 (linux)
 
-wcFMAxeUi+zldDa+ARAAIa317JDNlm56fVdI0g64ynpgnIm3QbOn9tWwuH2xjUGw
-YRqofbzlrelOsPrZbCYA3TEISlbbseMPgRRmXoNF6jmls0O+qgJymt6apniJkysK
-WxxZXfIra0HIm9PbkVCR5tImMTpBAft7VhUgikaPno0k+SA1C4WRDa1h8bWTwvFX
-6SwFQ3ibngack5UUk01n/retHK1afzBqkl4A6/dbkE9Et4kaJNMawQhFBNfyw/a2
-zzrPsRg6itxZwXFGqFQZThVnnE/pLqlMJu5kgFXHRqDIcEoLyEQdaDQzUIdbAE5i
-sUVRPDCoD5nzTKgozyF5gUx5rgNQgRS9NeSAm7QXRbwYQ9Q8YmdJDyIXTO1zh9q1
-tvWAjqi6tap4+8f6YRYC//2aLPeqL4sGKBrTSgJxat8fnwKr5VfZrDQ4WmigxFbf
-l9VChAuAsu7tYI8mW9gOTWPB7zd5aXnKZeWv19k10Rw52UGCGLOTrMuMJYgo5vEX
-OaxtJWQJiT0RYEEOL/yC9gfH2GHT1Y6yCqUPFN46sX5CiTIyuQYMucVLWQVQqqt7
-VObT3Bio4U/HXc1uoG4XRxdB7r0L+afPsw89O5Uo3zJ+6YkOxYsZige6SJvZmjO7
-Ldh2hgq9ZKmo4A16ixasWZ3qGThzP16KrN7W7LzTJUHq6+tZjXt0m8YVzFCCXV7S
-4AHkg276g8Kj8MXPmhdYamir9uGw3eBt4HDh3fjg7eK1AGJt4Cfp85GQDaZH6AX5
-rLDxChtjhPuzZ53AZ4M+xjABJimSsA6q4HPAdfk3ecsQPmLW+NKeqQ95dtqeYcwq
-XPBVRbO89FERTOoi+VE8L7pnK/VEE7Jmjk3I1E3mD31YvgkDlq1jdhSSxefXtBVm
-aXcelAv77MMbBIFciZYYmepKVLwIXV/q7oKEJ79wB50Fuf2Glmi2DEgktonOCr7V
-UlD6FEZlDAPSsj3Bs/gMnmmqkbHzQIY6TcnBRqEvHXEpdpapyIkCg2DN5fXFcVew
-Ohr4Ril9K9dWka8mRvWkd5/sqUtnO3d+a1cKED0Wfu19mOFBkUE2Xe2TTIEuecTy
-33sqWV0F4jn0VcyxXk3hFSZMzyd5bSsXd149FH8eu1pTER4t1wgN+sFnqRqvizgp
-bX5id5NdP/FRZwzAIAv1n+DUdbk3rg+CuFF6N/h6HVH21xf+oHwQ6eBJvkZu9+FF
-rt72NPoZf6clVxXKxjYA9vVflzcmNVnFPHbtU8t2pq+QGBWOUpU+ry6Va14ZSDaL
-iXSBQ9rqxmD9B5BLO+UkCYZpsUDPVtLUmUwcQyQN/31LgwpwU1vsXq7OSBQBPPtq
-OLVVU0w/duIODH6XDw3FeY4xeeqmwGkcSor642J3DhLVw/iELSDCg31ytBs5Hr1T
-Es6R+wubYx6Rxd80qljKPajD6qWYUzzg9eaZ1q/GmS+3ZM1L6Cgo7F6kGS34e0/O
-QNsZgjAiq3s1A+bcasJL6eAh8Spjnnyao5nbdjPy4TtF7PL4eFZy0dyL4BTjBRVH
-qFgNKuXg2uJ7jVHb4KjgnuA25J2EXXxtA/qPfKoYQRfZ6Yzig5U5q+FqKQA=
-=lMwo
+wcFMAxeUi+zldDa+ARAAKGiVWmeWRNpYGf6didfYquLqYat4naJj7C38h3w3YDv0
+6KeiXtEHbKgAK/AGceKYvK4UF+hFT88C8lCmQ4fFPLqnj1rcle/Z2VOdCdiPCl4d
+PPfwUhNBq9wQdXeEeujmmgE946IsW0LwiaiOXEseZN3aiPzbOaB/6BitEX/tDQ4l
+9gjTsXRGpR+fPTpEKReIbYMqC5hHYWxqF+w7PBu0/dzQijDJ+Qbhk9xLmgXtn7SS
+5XhZRfAzFQOswo49ujmMSNbESlwOz2vGTG7i8CKYDAbc3OunPbt6BlSGUdAblG13
+dl4kQY6nX6JM+Dr43WTCPZk5QbcyxF0q59LrOy1ZCz7obn2DmbrXXBg3oDVlIc0x
+zhwhBZ9hawVw9VHqpk8K/qfVkwsPy2joIRBdaSKiF/GmckEWuPhTwuEJONTjNAPz
+ggrqDgJY2U1/Jl8AuuychnEn/HUqts2rEmPddLFaTUwELoF3nTsgHimHxdOenqlE
+KVVXeYuKIFzc2oChaHfTe2Vz0Vndqe4w+KYvLiQOaN6YfI1JoIpjiyxSDSui/u2f
+HJIE3PMq0Oz2/bdTc7VFD4zhWcy/ELEq7LtdeFXJ5xkZ3OZFH6VmrIreh9PV/9ZW
+JnrRLRcJ93NOmj0s7dVgWAfE8LMzWrvs7QeYI8Ku5OQqyCSsJ2aES9f3aZY6KnbS
+4AHkLWJQM+AcSM2/EbBJuxjLguFdkuBF4OLhUEbgVOLAzZIj4AbpXfAfxigPyiPl
+cloZsWfBZOUJquOxPUfCTpHmRUO6vcS58CYyfWUW6Q3iPaEQBiXeWHgwktErKJsA
+rBRo3Mnz/Cuk+txyGobzVcGGzXm/kRoLeAFPBN+HSk8+4NllNd3hpZnMow5ik2SO
+4bLsQhDjBewu2z4PB4m7qNfNB4X9Q6XEbmb1ImzMJesIg1rnmqmYTY+qEC1pn8eJ
+auf0NnIqdJ2+1ALu4unkBZp6QysdFQIH+nXAjDi9EFErpB2RHxMneypXiwc3szz7
+q9TN4PESTGjjvhnJUWs0A7ntPcpm5OXr3sxkRFn7IadQNYQAqyOPgW4++xl0WHrr
+OLYqC6X5gDzum5O1d7QZOMWq4lQriHn5UGDjSc8wmdlVxTFy70WeLdvYeisQlz/V
+nxPct1IMfpxMd8Q/TtMn/i3QmLIZxMyIQacVJh3YuXIihDinl0rypZJrX5brAaP6
+ujXq/EzkYSS66kB2AFqFwFLVT0NmTROA00vvfPGY7k7CmiDsyzP6FN5Xa1UZzSpn
+mBPEGx43Eiqgj5gXOAB+bb9JhD/wiDiEZFRxNr5n0uSyhVTphItk8tntwSXVJLq4
+rzs5NC/x0NdmSU9Gzf4NRgYHr/weXR/o9ynyKfROTjDc6bZ9llWAWvHOMfG9h9Tr
+czGyBPJbyDIiqXdGsVwuvpo/asPpPY/gt+in7h5Sb3EPPwQKWHPo0pdUgO+C59fR
+8cND0RbQFw8pd7JdpVwtvqjGnzl9fP8N9Yz+tA6J9jgzQBQ9AOWhG+LJXgO2FqYt
+FTtLcm6imxEfCdZR2SZo7pNE1Y12t0aCLNqUXsYN8dLyFc81A0CkyMOzwwX7Fx2j
+2hAvWUgdwTgmfV+RktKnwcVcnLYojc2md+HJ53Lv+ZU5PbY9HmM4gq5Cz3kO72GA
+vVNHwxXMbDEreXVPaTJH2nz9ByLTRMAneqBwrC4OlqB74429lFONI6iv2LVbhVyc
+gOkfdX3VpzS0KgqqSZ6hmXUNpPFq0tj47rJnIslZLOB1orpxmj7mrS/x4KnmVXDL
+Hym+VI+LpNpMLapNW5S6OJIxTIRsPU7lgIHEGOysWF6iasRwrKwABDMnA349YHed
+7kGW4MOIJFEtcssmgOBz5IIfdR/SeztvB7WI7Q3ALfngVeGgTuAq4BbgEOSsfgQF
+XXZGSlQUg5dUxwx94oSHRQnhkrYA
+=PW0Y
 -----END PGP MESSAGE-----
-
 ### Monday, November 20th 2017
 
 - Invoice / Rec
@@ -2446,3 +2449,14 @@ Oh man you are good,
 I loved it man i really really love it, I am alone and depressed, a lot happened in life, I need a pigeon to rehabilitate me, I want to say thank you,  you are a good man sir, hats off to you,
 
 9% OCED / 18% US healthcare costs as share of GDP
+
+### Monday, April 2nd 2018
+
+Suffering, the same suffering.
+
++ 30mins essay
++ Yoga
+- 2.5hrs Artforum
+- 2.5hrs essay
+    - email ppl
+- 0.5hrs blog post
