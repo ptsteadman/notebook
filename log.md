@@ -2456,7 +2456,8 @@ Suffering, the same suffering.
 
 + 30mins essay
 + Yoga
-- 2.5hrs Artforum
+- 2hrs Artforum
 - 2.5hrs essay
     - email ppl
 - 0.5hrs blog post
+- Tax stuff
