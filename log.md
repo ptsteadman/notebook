@@ -2457,9 +2457,36 @@ Suffering, the same suffering.
 + 30mins essay
 + Yoga
 + 2hrs Artforum
-- 2.5hrs essay
-    - email ppl
++ 2.5hrs essay
+    + email ppl
 - 0.5hrs blog post
-- Tax stuff
++ Tax stuff
 
 Need to get back to my hacking studies and also work on them with Rob.
+
+### Tuesday, April 3rd 2018
+
++ 1hr Artforum
+- 1hr Blogpost
+* 3hrs essay
++ Message zachary
+
+YouTube comment: "可能奶頭是粉紅色的"
+
+### Wednesday, April 4th 2018
+
++ 1.5hrs Essay
+- 1.5hrs Artforum
++ 1hr Blogpost
++ Clean lab
+
+i used to be sad on my birthdays cause i was getting older
+but then a friend of mine died
+and now im just happy to be alive lol
+
+2/ I've noticed something similar in my consulting: that management cultures inside orgs don't seem to be factoring in the new political environment correctly (or at all)
+- @vgr
+
+
+
+It has felt surreal, having same old org psych/software-eats-world/innovation convos like nothing's changed
