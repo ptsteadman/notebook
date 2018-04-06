@@ -2457,9 +2457,13 @@ Suffering, the same suffering.
 + 30mins essay
 + Yoga
 + 2hrs Artforum
-- 2.5hrs essay
-    - email ppl
-- 0.5hrs blog post
-- Tax stuff
++ 2.5hrs essay
+    + email ppl
++ 0.5hrs blog post
++ Tax stuff
 
 Need to get back to my hacking studies and also work on them with Rob.
+
+My happiness seems almost totally dependent on whether or not I do the stuff on
+my TODO list. I was unhappy last night, today I did all the things on the TODO
+list, and now I am happy.
