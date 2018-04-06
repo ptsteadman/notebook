@@ -2467,3 +2467,40 @@ Need to get back to my hacking studies and also work on them with Rob.
 My happiness seems almost totally dependent on whether or not I do the stuff on
 my TODO list. I was unhappy last night, today I did all the things on the TODO
 list, and now I am happy.
+
+### Tuesday, April 3rd 2018
+
++ 1hr Artforum
+- 1hr Blogpost
+* 3hrs essay
++ Message zachary
+
+YouTube comment: "可能奶頭是粉紅色的"
+
+### Wednesday, April 4th 2018
+
++ 1.5hrs Essay
+- 1.5hrs Artforum
++ 1hr Blogpost
++ Clean lab
+
+i used to be sad on my birthdays cause i was getting older
+but then a friend of mine died
+and now im just happy to be alive lol
+- calvin
+
+2/ I've noticed something similar in my consulting: that management cultures inside orgs don't seem to be factoring in the new political environment correctly (or at all)
+- @vgr
+
+It has felt surreal, having same old org psych/software-eats-world/innovation convos like nothing's changed
+
+### Friday, April 5th 2018
+
+- 2hrs Artforum
+- 1hr blogpost
+- Tax stuff
+- Reply to email
+- Clean lab
+- 30mins blog post
+
+- 
