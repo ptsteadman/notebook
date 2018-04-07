@@ -2496,11 +2496,9 @@ It has felt surreal, having same old org psych/software-eats-world/innovation co
 
 ### Friday, April 5th 2018
 
-- 2hrs Artforum
-- 1hr blogpost
-- Tax stuff
-- Reply to email
-- Clean lab
-- 30mins blog post
-
-- 
++ 2hrs Artforum
++ 1hr blogpost
++ Tax stuff
++ Reply to email
++ Clean lab
+- 30mins essay
