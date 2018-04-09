@@ -2494,11 +2494,30 @@ and now im just happy to be alive lol
 
 It has felt surreal, having same old org psych/software-eats-world/innovation convos like nothing's changed
 
-### Friday, April 5th 2018
+### Friday, April 6th 2018
 
 + 2hrs Artforum
 + 1hr blogpost
 + Tax stuff
 + Reply to email
 + Clean lab
++ 30mins essay
+
+### Saturday, April 7th 2018
+
+- Gym
++ Renew SSL cert
+- Writing exercise
++ Organize room
++ Laundry
+
+what will actually work
+
+### Monday, April 9th 2018
+
+- Yoga
+- 3hrs Artforum
 - 30mins essay
+- 1.5hrs blog post
+- Some hacking
+
