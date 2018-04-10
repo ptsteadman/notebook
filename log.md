@@ -2531,9 +2531,9 @@ God made me like this to show people they should treat people like us better.
 
 ### Tuesday, April 10th 2018
 
-- Back stretches
++ Back stretches
 - 3hrs Artforum
-- Clean lab
++ Clean lab
 - 30mins essay
-- 1hr blog post
++ 1hr blog post
 - Hacking
