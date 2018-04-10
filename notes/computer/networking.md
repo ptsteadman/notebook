@@ -22,9 +22,6 @@ nmap -sn -PS80 -n sun.com
 
 -n no reserve dns
 
-
-
-
-
+sudo nmap -v -sV -O 192.168.10.2
 
 

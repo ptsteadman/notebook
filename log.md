@@ -2517,12 +2517,14 @@ what will actually work
 
 + Yoga
 + 3hrs Artforum
-- 30mins essay
++ 30mins essay
 + 1.5hrs blog post
-- Some hacking
++ Some hacking
 
 I think I have money-related anxiety around finding a new (round) of clients.
 I should definitely add bizdev to my daily activities.
 staying in a marriage is sacrifice
 'my mom sacrificed a lot'
 anger is a great emotion
+
+God made me like this to show people they should treat people like us better.

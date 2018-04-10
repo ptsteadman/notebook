@@ -50,8 +50,3 @@ HTML email body or attachment. A real CSRF vulnerability in uTorrent
 localhost:8080 allowed mission-critical actions to be executed as a matter of
 simple GET request:
 
-### NMAP
-sudo nmap -v -sV -O 192.168.10.2
-
-### arp-scan
-
