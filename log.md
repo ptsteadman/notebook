@@ -2534,6 +2534,20 @@ God made me like this to show people they should treat people like us better.
 + Back stretches
 - 3hrs Artforum
 + Clean lab
-- 30mins essay
++ 30mins essay
 + 1hr blog post
-- Hacking
++ Hacking
+
+### Wednesday, April 11th 2018
+
+- Gym
+- Pharmacy
+- 2hrs Artforum
+- 1hr essay
+- Writing exercise
+
+Light day
+
+
+
+
