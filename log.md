@@ -2543,8 +2543,8 @@ God made me like this to show people they should treat people like us better.
 + Gym
 + Pharmacy
 + 2hrs Artforum
-- 1hr essay
-- Writing exercise
+* 1hr essay
++ Writing exercise
 
 Light day
 Beer was much more interesting tasting when I was a teen
