@@ -2552,6 +2552,13 @@ Yellow and tickly!
 
 I keep thinking "lifestyle brand for programmers"
 
+### Thursday, April 12th 2018
+
++ 3.5hrs Artforum
+- 1.5hrs essay 
+- Hacking
+- Tax stuff
+
 
 
 
