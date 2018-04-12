@@ -2540,13 +2540,17 @@ God made me like this to show people they should treat people like us better.
 
 ### Wednesday, April 11th 2018
 
-- Gym
-- Pharmacy
-- 2hrs Artforum
++ Gym
++ Pharmacy
++ 2hrs Artforum
 - 1hr essay
 - Writing exercise
 
 Light day
+Beer was much more interesting tasting when I was a teen
+Yellow and tickly!
+
+I keep thinking "lifestyle brand for programmers"
 
 
 
