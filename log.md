@@ -2555,10 +2555,19 @@ I keep thinking "lifestyle brand for programmers"
 ### Thursday, April 12th 2018
 
 + 3.5hrs Artforum
-- 1.5hrs essay 
++ 1.5hrs essay 
 - Hacking
-- Tax stuff
++ Tax stuff
 
+That is, the challenge facing feminism today is no longer only how to give women
+a more equal place within existing social networks and relations but how to
+enable women to partake in the creation of a future unlike the present.
 
+-- Elisabeth Grosz
 
+; she is curious but frightened when she thinks
+about this life whose every step is planned in advance and toward
+which each day irrevocably moves her
+
+would you keep programming if it paid 60k a year / 30 an hour?
 
