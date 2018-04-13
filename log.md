@@ -2556,7 +2556,7 @@ I keep thinking "lifestyle brand for programmers"
 
 + 3.5hrs Artforum
 + 1.5hrs essay 
-- Hacking
++ Hacking
 + Tax stuff
 
 That is, the challenge facing feminism today is no longer only how to give women
@@ -2571,3 +2571,11 @@ which each day irrevocably moves her
 
 would you keep programming if it paid 60k a year / 30 an hour?
 
+### Friday, April 13th 2018
+
++ Gym
+- Lab by 10:00AM
+- Feed pigeons
+- 3hrs Artforum 
+- 2hrs essay
+- Hacking
