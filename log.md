@@ -2575,7 +2575,9 @@ would you keep programming if it paid 60k a year / 30 an hour?
 
 + Gym
 - Lab by 10:00AM
-- Feed pigeons
-- 3hrs Artforum 
++ Feed pigeons
++ 3hrs Artforum 
 - 2hrs essay
 - Hacking
+
+
