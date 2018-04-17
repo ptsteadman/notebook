@@ -2580,4 +2580,13 @@ would you keep programming if it paid 60k a year / 30 an hour?
 - 2hrs essay
 - Hacking
 
+### Monday, April 16th 2018
+
+- Yoga
++ Emails
+- 3hrs Artforum
+- 2hrs Blog Post
+- Hacking
+
+
 
