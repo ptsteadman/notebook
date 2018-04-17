@@ -2600,14 +2600,23 @@ projects) and work on improving my writing.
 
 ### Tuesday, April 17th 2018
 
-- Back stretch
++ Back stretch
 - Lab by 9AM
-- 3hrs Artforum
++ 3hrs Artforum
 - Clean lab
+    - tea
+    - dust
+    - trash
+    - lint
 - Hacking
 - Feed pigeons
 - 1hr Platform Seperatism
-- Home by 8
+- Haircut
+- Leave lab by 8
+
+how to kill your bf: convince them it's really good praxis to fly to syria to fight isis
+
+-- calvin
 
 ### Wednesday, April 18th 2018
 
