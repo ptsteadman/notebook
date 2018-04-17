@@ -2581,3 +2581,5 @@ would you keep programming if it paid 60k a year / 30 an hour?
 - Hacking
 
 
+I feel like I'm really sick of arriving home late.
+That alone will hopefully help me change some habits.
