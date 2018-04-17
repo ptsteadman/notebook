@@ -2582,13 +2582,33 @@ would you keep programming if it paid 60k a year / 30 an hour?
 
 ### Monday, April 16th 2018
 
-- Yoga
++ Yoga
 + Emails
-- 3hrs Artforum
-- 2hrs Blog Post
+* 3hrs Artforum
++ 2hrs Blog Post
 - Hacking
-
-
 
 I feel like I'm really sick of arriving home late.
 That alone will hopefully help me change some habits.
+
+I think if I feel more positive about the work I'm doing each day, and how it
+will resolve some of the big concerns I have re: work, I'll have a bit more
+stamina and vim.
+
+I think that means I should do more biz dev (in order to find those good
+projects) and work on improving my writing.
+
+### Tuesday, April 17th 2018
+
+- Back stretch
+- Lab by 9AM
+- 3hrs Artforum
+- Clean lab
+- Hacking
+- Feed pigeons
+- 1hr Platform Seperatism
+- Home by 8
+
+### Wednesday, April 18th 2018
+
+- Swim
