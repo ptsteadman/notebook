@@ -2603,20 +2603,24 @@ projects) and work on improving my writing.
 + Back stretch
 - Lab by 9AM
 + 3hrs Artforum
-- Clean lab
-    - tea
-    - dust
-    - trash
-    - lint
-- Hacking
-- Feed pigeons
-- 1hr Platform Seperatism
-- Haircut
-- Leave lab by 8
++ Clean lab
+    + tea
+    + dust
+    + trash
+    + lint
++ Hacking
++ Feed pigeons
++ 1hr Platform Seperatism
++ Haircut
++ Leave lab by 8
 
 how to kill your bf: convince them it's really good praxis to fly to syria to fight isis
 
 -- calvin
+
+I think it's better to wait a week or so until before buying lab access again
+
+My elbow is fucked
 
 ### Wednesday, April 18th 2018
 
