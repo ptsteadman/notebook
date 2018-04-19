@@ -2624,4 +2624,15 @@ My elbow is fucked
 
 ### Wednesday, April 18th 2018
 
-- Swim
++ Gym
+- Look for
+- Lentil soup
++ Emails
+- Leave lab at 8
+- Hacking video
+
+### Thursday, April 19th 2018
+
+- Lab by 9:30AM
+- 3.5hrs Artforum
+- 1.5hrs Platform Sep.
