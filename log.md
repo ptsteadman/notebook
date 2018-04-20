@@ -2641,6 +2641,6 @@ My elbow is fucked
 
 + Run
 + Clean
-- 2.5hrs Artforum
++ 2.5hrs Artforum
 - 1hr JavaScript
 + Schedule interview
