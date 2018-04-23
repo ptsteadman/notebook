@@ -2647,9 +2647,20 @@ My elbow is fucked
 
 ### Sunday, April 22nd 2018
 
-- yoga
-- laundry
-- dust windowsill
-- finish new yorker
-- 1.5hrs js
-- read castrati book
++ yoga
++ laundry
++ dust windowsill
++ finish new yorker
++ 1.5hrs js
++ read castrati book
+
+### Monday, April 23rd 2018
+
+- back exercise
+- lab at 9:45
+- 3hrs artforum
+- feed pigeons
+- 2hrs js
+- bf repo adds
+- mom bday
+- reading
