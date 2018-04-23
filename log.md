@@ -2635,12 +2635,21 @@ My elbow is fucked
 
 - Lab by 9:30AM
 - 3.5hrs Artforum
-- 1.5hrs Platform Sep.
++ 1.5hrs Platform Sep.
 
 ### Friday, April 20th 2018
 
 + Run
 + Clean
 + 2.5hrs Artforum
-- 1hr JavaScript
++ 1hr JavaScript
 + Schedule interview
+
+### Sunday, April 22nd 2018
+
+- yoga
+- laundry
+- dust windowsill
+- finish new yorker
+- 1.5hrs js
+- read castrati book
