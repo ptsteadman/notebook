@@ -204,3 +204,10 @@ In JavaScript, factory functions are simply constructor functions minus the
 that annoying initial capitalized letter convention).
 
 JavaScript doesn’t need constructor functions because any function can return a new object.
+
+### Pass by Reference
+
+JavaScript is always pass by reference, but since primitive types are immutable,
+if a variable is redefined to another primitive type at another memory location.
+A reference passed earlier will still be to an older, equivalent-by-value memory
+location.
