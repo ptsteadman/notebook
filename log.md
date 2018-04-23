@@ -2658,7 +2658,7 @@ My elbow is fucked
 
 + back exercise
 + lab at 9:45
-- 3hrs artforum
++ 3hrs artforum
 + feed pigeons
 + 2hrs js
 + bf repo adds
