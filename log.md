@@ -2656,11 +2656,11 @@ My elbow is fucked
 
 ### Monday, April 23rd 2018
 
-- back exercise
-- lab at 9:45
++ back exercise
++ lab at 9:45
 - 3hrs artforum
-- feed pigeons
-- 2hrs js
-- bf repo adds
-- mom bday
++ feed pigeons
++ 2hrs js
++ bf repo adds
++ mom bday
 - reading

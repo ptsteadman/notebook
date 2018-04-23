@@ -208,6 +208,7 @@ Under the hood, JS uses UCS-2, so 'astral plane' characters use two 'characters'
 
 Unicode whatacters are prefixed with `\u`.
 
+
 ### var vs let
 
 var: 
@@ -218,30 +219,4 @@ let
 - is block scoped (ex: for loop)
 - referencing before instantiation gives reference error
 
-### Async / Await
 
-every async function you write will return a promise, and every single thing you await will ordinarily be a promise
-
-if I want to use await, I need to make sure that the function I'm in is an async function
-
-
-### Prototypes
-
-Prototypal Inheritance: instances inherit directly from other objects. Instances
-are typically instantiated via factory functions or `Object.create()`. Instances
-may be composed from many different objects, allowing for easy selective
-inheritance.
-
-
-In JavaScript, factory functions are simply constructor functions minus the
-`new` requirement, global pollution danger and awkward limitations (including
-that annoying initial capitalized letter convention).
-
-JavaScript doesn’t need constructor functions because any function can return a new object.
-
-### Pass by Reference
-
-JavaScript is always pass by reference, but since primitive types are immutable,
-if a variable is redefined to another primitive type at another memory location.
-A reference passed earlier will still be to an older, equivalent-by-value memory
-location.
