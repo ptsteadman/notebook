@@ -1,5 +1,29 @@
 # JavaScript Notes
 
+### Meta
+
+TC-39: ECMA working group
+
+Stage 0 - Strawman:
+only reviewed at a TC-39
+
+Stage 1 - Proposal:
+Champion
+Solves Problem
+API
+Concerns
+
+Stage 2 - Draft:
+Formal semantics / syntax
+
+Stage 3 - Candidate:
+spec text
+two implementations
+
+Stage 4:
+
+
+
 ### Functions
 
 Anonymous closures `(function(){}())` require the outer parentheses because
@@ -185,5 +209,14 @@ Under the hood, JS uses UCS-2, so 'astral plane' characters use two 'characters'
 Unicode whatacters are prefixed with `\u`.
 
 
+### var vs let
+
+var: 
+- is function scoped
+- referencing before instantiation gives undefined
+
+let
+- is block scoped (ex: for loop)
+- referencing before instantiation gives reference error
 
 
