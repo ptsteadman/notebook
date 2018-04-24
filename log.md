@@ -2668,9 +2668,9 @@ My elbow is fucked
 ### Tuesday, April 24th 2018
 
 + lab at 10:00
-- 3hrs artforum
-- feed pigeons
-- 2hrs js
++ 3hrs artforum
++ feed pigeons
++ 2hrs js
 - clean lab
 - yoga
 - read
