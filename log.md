@@ -2663,4 +2663,21 @@ My elbow is fucked
 + 2hrs js
 + bf repo adds
 + mom bday
-- reading
++ reading
+
+### Tuesday, April 24th 2018
+
++ lab at 10:00
+- 3hrs artforum
+- feed pigeons
+- 2hrs js
+- clean lab
+- yoga
+- read
+
+Yesterday was really productive and generally pleasant. I wonder if it was
+because of the really deep break over the weekend? Or maybe because using my
+left hand so my right elbow wasn't in a lot of pain? Either way, need to
+continue that.
+
+Having a lot of ideas inspired by the castrati book.
