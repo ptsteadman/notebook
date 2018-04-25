@@ -2672,8 +2672,8 @@ My elbow is fucked
 + feed pigeons
 + 2hrs js
 - clean lab
-- yoga
-- read
++ yoga
++ read
 
 Yesterday was really productive and generally pleasant. I wonder if it was
 because of the really deep break over the weekend? Or maybe because using my
@@ -2681,3 +2681,10 @@ left hand so my right elbow wasn't in a lot of pain? Either way, need to
 continue that.
 
 Having a lot of ideas inspired by the castrati book.
+
+### Wednesday, April 25th 2018
+
+- 2hrs JS
+- clean lab
+- 2hrs artforum
+- 30mins writing
