@@ -2684,7 +2684,26 @@ Having a lot of ideas inspired by the castrati book.
 
 ### Wednesday, April 25th 2018
 
-- 2hrs JS
-- clean lab
++ 2hrs JS
++ clean lab
 - 2hrs artforum
++ 30mins writing
+
+### Thursday, April 26th 2018
+
+- 3.5hrs artforum
+- 1hr js
+- blockfront
+- feed pigeons
 - 30mins writing
+
+I haven't felt very happy since last afternoon. At the reading I felt a familiar
+feeling, a combination of "I need to do this" and "I absolutely can't do this".
+The self-distancing is familiar from weeknights two, three years ago, they
+seemed more important then.
+
+But it's nice out today.
+
+A man talks to a dying dog
+
+My dissatisfaction is more related to a lack of care than a lack of effort
