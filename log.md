@@ -2725,14 +2725,86 @@ this is unfortunate
 
 ### Friday, April 27th 2018
 
-- gym
++ gym
 - buy stuff
     - toothpaste
     - contact solution
     - mouthwash
 - lab by 10:15am
 - 1.5hrs artforum
-- 3hrs fordays
++ 3hrs fordays
 - 30mins writing
 - 1hr js
-- meail
++ meail
+
+fordays notes
+-----BEGIN PGP MESSAGE-----
+Comment: https://keybase.io/download
+Version: Keybase Go 1.0.47 (linux)
+
+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
+=9poa
+-----END PGP MESSAGE-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
