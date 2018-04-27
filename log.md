@@ -2695,7 +2695,7 @@ Having a lot of ideas inspired by the castrati book.
 + 1hr js
 + blockfront
 + feed pigeons
-- 30mins writing
+* 30mins writing
 
 I haven't felt very happy since last afternoon. At the reading I felt a familiar
 feeling, a combination of "I need to do this" and "I absolutely can't do this".
@@ -2722,3 +2722,17 @@ things are dealt with well, coming up with and sticking with a business plan,
 communicating and getting people excited about that plan)
 
 this is unfortunate
+
+### Friday, April 27th 2018
+
+- gym
+- buy stuff
+    - toothpaste
+    - contact solution
+    - mouthwash
+- lab by 10:15am
+- 1.5hrs artforum
+- 3hrs fordays
+- 30mins writing
+- 1hr js
+- meail
