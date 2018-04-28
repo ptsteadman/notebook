@@ -219,4 +219,22 @@ let
 - is block scoped (ex: for loop)
 - referencing before instantiation gives reference error
 
+### generators
 
+state machine
+generator can only yield internally
+'calling' a generator does not execute its code
+
+```
+function* gen() {
+  console.log('hello')
+  yield 1;
+  console.log('world')
+}
+
+const it = gen();
+it.next(); // { value: 1, done: false }
+it.next();
+```
+
+for ... of is a way to iterate thru an iterator

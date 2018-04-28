@@ -2733,8 +2733,8 @@ this is unfortunate
 - lab by 10:15am
 - 1.5hrs artforum
 + 3hrs fordays
-- 30mins writing
-- 1hr js
++ 30mins writing
++ 1hr js
 + meail
 
 fordays notes
