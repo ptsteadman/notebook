@@ -238,3 +238,6 @@ it.next();
 ```
 
 for ... of is a way to iterate thru an iterator
+
+how to combine promises and generators?
+yield a promise, have the promise `next` the generator

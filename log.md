@@ -2779,32 +2779,12 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 -----END PGP MESSAGE-----
 
 
+### Monday, April 30th 2018
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
++ emails, rec
++ 2hrs artforum
++ 1hr js
++ 2hrs fordays
+- 30mins writing
++ feed pigeons
 
