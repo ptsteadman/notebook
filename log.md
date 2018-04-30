@@ -2726,10 +2726,10 @@ this is unfortunate
 ### Friday, April 27th 2018
 
 + gym
-- buy stuff
-    - toothpaste
-    - contact solution
-    - mouthwash
++ buy stuff
+    + toothpaste
+    + contact solution
+    + mouthwash
 - lab by 10:15am
 - 1.5hrs artforum
 + 3hrs fordays
