@@ -2790,9 +2790,9 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 
 ### Tuesday, April 31st 2018
 
-- 2hrs artforum
-- feed pigeons
-- 2hrs fordays
-- 1hr js
++ 2hrs artforum
++ feed pigeons
++ 2hrs fordays
++ 1hr js
 - 30mins writing
 
