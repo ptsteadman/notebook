@@ -2788,11 +2788,30 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 + 30mins writing
 + feed pigeons
 
-### Tuesday, April 31st 2018
+### Tuesday, May 1st 2018
 
 + 2hrs artforum
 + feed pigeons
 + 2hrs fordays
 + 1hr js
-- 30mins writing
++ 30mins writing
+
+### Wednesday, May 2nd 2018
+
+- lab at 10:45
+- defcon hotel
++ clean lab
++ 3.5hrs for days
+* write 1hr
+* read
+
+### Thursday, May 3rd 2018
+
++ 1hr artforum
++ 3.5hrs for days
+- write 30mins
+- read
+
+
+
 
