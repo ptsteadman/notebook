@@ -2812,6 +2812,13 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 - write 30mins
 - read
 
+### Friday, May 4th 2018
+
++ defcon hotel
++ 2hrs artforum
++ 1hr fordays
+- 1hr writing
+- read
 
 
 
