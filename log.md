@@ -2820,5 +2820,14 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 - 1hr writing
 - read
 
+### Monday, May 7th 2018
+
++ 2.5hrs for days
++ rec
++ feed pigeons
++ investigate ifs codebase
+- 1hr artforum
+- leave lab at 6
+- clean bathroom
 
 
