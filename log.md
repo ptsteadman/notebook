@@ -2826,8 +2826,15 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 + rec
 + feed pigeons
 + investigate ifs codebase
-- 1hr artforum
++ 1hr artforum
 - leave lab at 6
 - clean bathroom
 
+### Thursday, May 10th 2018
 
++ swim
++ 1.5hrs for days
++ 1hr ISF
+- ISF call
+* 30mins artforum
+- 1hr writing
