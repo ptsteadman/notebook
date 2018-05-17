@@ -2835,6 +2835,15 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 + swim
 + 1.5hrs for days
 + 1hr ISF
-- ISF call
++ ISF call
 * 30mins artforum
-- 1hr writing
++ 1hr writing
+
+### Thursday, May 17th 2018
+
++ req
+- emails
+- 2hrs for days
+- 2hrs artforum
+- mail
+- clean home
