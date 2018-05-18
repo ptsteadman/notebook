@@ -2847,4 +2847,12 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 * 2hrs artforum
 + mail
 - clean home
-- 2hrs blog post
++ 2hrs blog post
+
+### Friday, May 18th 2018
+
+- clean home
+- finish first blog post draft
+- 2hrs for days
+- 1.5hrs artforum
+- controlled bed at normal time
