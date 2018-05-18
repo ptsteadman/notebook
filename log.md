@@ -2842,8 +2842,9 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 ### Thursday, May 17th 2018
 
 + req
-- emails
-- 2hrs for days
-- 2hrs artforum
-- mail
++ emails
++ 2hrs for days
+* 2hrs artforum
++ mail
 - clean home
+- 2hrs blog post
