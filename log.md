@@ -2856,3 +2856,12 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 + 2hrs for days
 - 1.5hrs artforum
 - controlled bed at normal time
+
+### Monday, May 21st 2018
+
++ buffalo flight
++ publish def con china blog post
++ 3.5hrs for days
++ 1hr ISF
+- 85% productivity
++ leave lab at 7pm
