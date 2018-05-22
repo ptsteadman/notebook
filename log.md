@@ -2865,3 +2865,11 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 + 1hr ISF
 - 85% productivity
 + leave lab at 7pm
+
+### Tuesday, May 22nd 2018
+
++ python exercise
++ 3hrs for days
++ 0.5hrs isf
+- 1.5hrs artguide
+- swim
