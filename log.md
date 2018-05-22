@@ -2871,5 +2871,5 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 + python exercise
 + 3hrs for days
 + 0.5hrs isf
-- 1.5hrs artguide
++ 1.5hrs artguide
 - swim
