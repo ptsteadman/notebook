@@ -2872,4 +2872,13 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 + 3hrs for days
 + 0.5hrs isf
 + 1.5hrs artguide
-- swim
++ swim
+
+### Wednesday, May 23rd 2018
+
++ 3hrs for days
+- clean lab
+- appointment for physical
+- 0.5hrs isf
+- 1.5hrs artguide
++ plangrid email
