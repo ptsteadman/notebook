@@ -2851,8 +2851,34 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 
 ### Friday, May 18th 2018
 
-- clean home
-- finish first blog post draft
-- 2hrs for days
++ clean home
++ finish first blog post draft
++ 2hrs for days
 - 1.5hrs artforum
 - controlled bed at normal time
+
+### Monday, May 21st 2018
+
++ buffalo flight
++ publish def con china blog post
++ 3.5hrs for days
++ 1hr ISF
+- 85% productivity
++ leave lab at 7pm
+
+### Tuesday, May 22nd 2018
+
++ python exercise
++ 3hrs for days
++ 0.5hrs isf
++ 1.5hrs artguide
++ swim
+
+### Wednesday, May 23rd 2018
+
++ 3hrs for days
++ clean lab
+- appointment for physical
+- 0.5hrs isf
+- 1.5hrs artguide
++ plangrid email
