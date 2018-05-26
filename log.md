@@ -2882,3 +2882,12 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 - 0.5hrs isf
 - 1.5hrs artguide
 + plangrid email
+
+### Friday, May 25th 2018
+
++ 2hrs for days
++ appointment for physical
++ 1hr isf
++ 2hrs artguide
+- leave lab by 7:30
++ haircut
