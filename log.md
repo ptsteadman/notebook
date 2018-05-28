@@ -2891,3 +2891,11 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 + 2hrs artguide
 - leave lab by 7:30
 + haircut
+
+### Monday, May 28th 2018
+
+- swim
+- send questions to david
+- 2hrs for days
+- 2hrs artguide 
+- 2hrs isf
