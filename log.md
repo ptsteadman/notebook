@@ -2894,8 +2894,19 @@ rE4r0XUkF53zCgy7V8exAEJmYaFwe+5usMX1tUiPAG3aftbXV7J5Jnm7H0ig4MFw
 
 ### Monday, May 28th 2018
 
+week plans
+
+no weeknight drinking
+25 billable hours
+
 - swim
-- send questions to david
-- 2hrs for days
++ send questions to david
+* 3hrs for days
 - 2hrs artguide 
-- 2hrs isf
+- 1hrs isf
+
+### Tuesday, May 29th 2018
+
+- emails
+- 4hrs for days
+
