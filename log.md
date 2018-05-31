@@ -2916,3 +2916,12 @@ no weeknight drinking
 * 2hrs artguide
 + emails
 
+### Thursday, May 31st 2018
+
+- 1.5hrs for days
+- 2.5hrs artguide
+- 2.5hrs isf
+- leave lab at 7
+- clean
+- read
+
