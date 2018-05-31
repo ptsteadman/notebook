@@ -2907,6 +2907,12 @@ no weeknight drinking
 
 ### Tuesday, May 29th 2018
 
-- emails
-- 4hrs for days
++ emails
++ 4hrs for days
+
+### Wednesday, May 30th 2018
+
++ 4hrs for days
+* 2hrs artguide
++ emails
 
