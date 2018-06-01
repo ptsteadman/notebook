@@ -2918,10 +2918,10 @@ no weeknight drinking
 
 ### Thursday, May 31st 2018
 
-- 1.5hrs for days
-- 2.5hrs artguide
-- 2.5hrs isf
-- leave lab at 7
++ 1.5hrs for days
+* 2.5hrs artguide
+* 2.5hrs isf
+- leave lab at 7:30
 - clean
 - read
 
