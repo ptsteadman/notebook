@@ -2925,3 +2925,50 @@ no weeknight drinking
 - clean
 - read
 
+### Friday, June 1st 2018
+
++ 1hr for days
+* 3.5hrs isf
+- 0.5hrs artguide
+
+### Monday, June 2nd 2018
+
++ 1hr writing
++ 1.5hrs for days
++ 4hrs artguide
++ clean lab
+- watch video about isf stuff
+- respond to github issue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
