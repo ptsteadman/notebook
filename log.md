@@ -2931,7 +2931,12 @@ no weeknight drinking
 * 3.5hrs isf
 - 0.5hrs artguide
 
-### Monday, June 2nd 2018
+## Week of June 4th
+
+- 15hrs isf
+- blog post
+
+### Monday, June 4th 2018
 
 + 1hr writing
 + 1.5hrs for days
@@ -2940,12 +2945,32 @@ no weeknight drinking
 - watch video about isf stuff
 - respond to github issue
 
+### Tuesday, June 5th 2018
 
++ 2hrs for days
+* 4hrs isf
+- respond to github issue
++ schedule artforum
++ nag about salon94
 
+### Wednesday, June 6th 2018
 
++ 2hrs for days
++ 3hrs artguide
+* 1hr isf
+* respond to github issue
++ swim
 
+### Thursday, June 7th 2018
 
+- 1.5hrs for days
++ artguide deploy
+- 6hrs isf
+    - 3hrs deploy
+    - 3hrs elasticsearch
+- mail letter
 
+Though time ruthlessly verified some of our youthful desires and unworldly ideas I still consider these years being extraordinary time in my life. 
 
 
 
