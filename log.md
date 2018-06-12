@@ -2963,26 +2963,32 @@ no weeknight drinking
 
 ### Thursday, June 7th 2018
 
-- 1.5hrs for days
++ 1.5hrs for days
 + artguide deploy
-- 6hrs isf
+* 6hrs isf
     - 3hrs deploy
     - 3hrs elasticsearch
 - mail letter
++ leave lab at 8:30
 
 Though time ruthlessly verified some of our youthful desires and unworldly ideas I still consider these years being extraordinary time in my life. 
 
 
+- create key pair: https://docs.aws.amazon.com/cli/latest/userguide/cli-ec2-keypairs.html
 
 
+### Friday, June 8th 2018
 
+* 4.5hrs isf
++ 1.5hrs for days
 
+### Monday, June 11th 2018
 
-
-
-
-
-
++ 1.5hrs for days
+* 4hrs isf
+- 1hr writing
++ respond to emails
++ clean lab
 
 
 
