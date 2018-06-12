@@ -2990,6 +2990,13 @@ Though time ruthlessly verified some of our youthful desires and unworldly ideas
 + respond to emails
 + clean lab
 
+### Tuesday, June 12th 2018
+
++ 2hrs for days
+- 1hr writing
+- 1hr isf
++ pay estimated tax
+
 
 
 
