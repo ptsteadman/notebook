@@ -2993,9 +2993,21 @@ Though time ruthlessly verified some of our youthful desires and unworldly ideas
 ### Tuesday, June 12th 2018
 
 + 2hrs for days
-- 1hr writing
+* 1hr writing
 - 1hr isf
 + pay estimated tax
+
+### Wednesday, June 13th 2018
+
+- 2hrs for days
+- 4hrs isf
+- leave lab by 8
+- swim
+- 30mins writing
+- bed at 11:30
+
+need to prioritize things/people/projects I really like
+and say no to things/people/projects I don't 
 
 
 
