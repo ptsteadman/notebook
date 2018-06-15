@@ -2999,16 +2999,24 @@ Though time ruthlessly verified some of our youthful desires and unworldly ideas
 
 ### Wednesday, June 13th 2018
 
-- 2hrs for days
-- 4hrs isf
++ 2hrs for days
+* 4hrs isf
 - leave lab by 8
-- swim
++ swim
 - 30mins writing
 - bed at 11:30
 
 need to prioritize things/people/projects I really like
 and say no to things/people/projects I don't 
 
+### Thursday, June 14th 2018
+
++ email to sarah
++ 2hrs for days
++ 3hrs isf
++ leave lab by 8
+- 30mins writing
+- bed at 11:30
 
 
 
