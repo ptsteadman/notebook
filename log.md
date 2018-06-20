@@ -3018,8 +3018,11 @@ and say no to things/people/projects I don't
 - 30mins writing
 - bed at 11:30
 
+### Wednesday, June 20th 2018
 
-
+- 2hrs for days
+- 1.5hrs isf
+- swim
 
 
 
