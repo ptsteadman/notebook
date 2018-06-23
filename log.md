@@ -3020,12 +3020,21 @@ and say no to things/people/projects I don't
 
 ### Wednesday, June 20th 2018
 
-- 2hrs for days
++ 2hrs for days
 - 1.5hrs isf
 - swim
 
+### Friday, June 21st 2018
 
+* 2.5hrs isf
++ 30mins writing 
++ 30mins for days
 
+### Saturday, June 23rd 2018
+
+- row 3k
+- 2hrs isf
+- write 30mins
 
 
 
