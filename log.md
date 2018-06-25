@@ -3032,9 +3032,17 @@ and say no to things/people/projects I don't
 
 ### Saturday, June 23rd 2018
 
-- row 3k
-- 2hrs isf
-- write 30mins
++ row 3k
+* 2hrs isf
+* write 30mins
+
+### Monday, June 25th 2018
+
+- 3hrs isf
+- invoice isf
+- email for days
+
+please give me another chance
 
 
 
