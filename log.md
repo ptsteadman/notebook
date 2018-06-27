@@ -3038,12 +3038,18 @@ and say no to things/people/projects I don't
 
 ### Monday, June 25th 2018
 
-- 3hrs isf
+* 3hrs isf
 - invoice isf
-- email for days
++ email for days
 
 please give me another chance
 
+### Tuesday, June 26th 2018
+
++ 1.25hrs fordays
++ 3.5hrs isf
+- invoice isf
++ send in letter
 
 
 
