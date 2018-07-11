@@ -1511,43 +1511,43 @@ if u like ny mag's sex diaries or refinery29's money dairies but u love computer
 + Gym
 + 1hr Writing
 
-Goals Before I Turn 30
+Goals Before I Turn Thirty
 
 -----BEGIN PGP MESSAGE-----
-Comment: https://keybase.io/download
 Version: Keybase Go 2.3.0 (linux)
+Comment: https://keybase.io/download
 
-wcFMAxeUi+zldDa+ARAAIvrtFOlYXDdF2FRbPt4bkQIdp0eTN/H4NKx/17Ay3W1L
-JTOGNb3y5qaqihfQbHCtN7Bjk2By2dF62F04rjamozs5fnObyw/J2UWV6hcjvnYi
-pBJfgEmyZKMnky75km1n+L/I/xJWUsZlWpHTUNU1qgwi2N3MkxlbiKh9RAJUR8m0
-2wfMMsr8AHDiMv8FUFgj0xv1SQF0R0mgEXdLz6ydhck1V9Q57jPOGzd8Wt3rO/Aa
-qBOOmQWC6yvVePG8dfo9sgTx55LHiXCY+MB5gAbASOcspbVAWRi7Gj4+tjf+F4NN
-uVFT7CYaE7wOC93IwHGKNyg/c4Rzl26ejzudIs7KPrE7SXe1/2r7Rr1Rd26rGvNT
-mtgknIYUmMABZzfQ4WtAPnlTIyyXI4yksDlZ5kWtAunQLmq4sXjZA82W8z2v4/OG
-tGXdSghsAqNhOn24stNRkpWTK3kHoFfZRMgTv6WZNe+9R8KdMFvmnvS90vNVXGQx
-7WeBfiZ1X1x7iFw5xzRJ239evLO+orHKvjFEGU/W04EV0DuUEnUokmuCVFEFjI5u
-ZQ33XCSjX6lOORyiKdzau5SS7DOdL547a1pW4qwhrVDT6/uym/sId+VJZoE9m6wO
-6GS61J/1ua9f4BqsuGsWC93G2bq484qMSpg3KJpdRnbDZep0TdPv/rGaFoBYTSLS
-4AHknNPFOcpiQSK5B4Yto2w99+F6iuBe4D7htLDgGeJZgQO44BnpfsPJ2RCE75X4
-VPCqCCjjCQw68DjpvKC1QOlNKN0Ny556mhxu5I9mAoZybwbzob47Fs71oPI8Fhye
-+450+te1Y4OjizfQSyxeCoRgdoRDQS2kQASd5VueoL0gTmb1gGszH1DfJ3G4HdAo
-5W31PncfqJFDcDpeqCeEUShpkZEaIiYoOILjDtyvCmAEjSpgR9Nl2z15YwlZxoN0
-g6jAPNIbf8agyR7jwVxqMiP6kKKfPLjiO1AjK4f4DqzEMCiRCkln4B/Za2rjeIaH
-cto9U+XHh3nbiGglUrtIVtmec5MWq0BsshzkQ+jOT/J2WtiHql9lUls60HgowyNr
-E22Hg7BR0CuwbhIP0bRO7Tyzgv/6EZM8CKCatb4chK1sMcBOnvibE2IL3VtEMNHJ
-o7VlfVw6DImU2PHEhY6nUvByoJvwrFSU8yzv7YafzNzxasL+L3KNN1wf/kTYdXb4
-A9Qr726jmioRKnMiYZplBdSsUhxYDwspRu3gJT89w8ERIRpHZjgNBxjo31wdbCcD
-vPQt2KSEpa3TtsjI9YaBohRSa76Klwsx1K+eTJ5PvWPp6mF+S76XfERJyzSx4DZ/
-Pa7Q0/HOe9NTuTutPct/u/9G8Aep1fGk5XrtKy7gfW1q/kAltYSeRxzMa9W34BQr
-re9HDFKEu7P24HuRIgr8mhgwlFlwERLg0+jaPMtwWvpYcHR/EPGHdgSX78xhizWT
-1IW1F3jdmF0qql4gpFABBXRf0SELIDCHuA1+/CbkG7jukcME0sW7tVPTtAlO9P1v
-bDPrWzX0pE4fIxSwuYyWry7fp4xWfsnX9UtZt/8WQJsFaom17mpM/+tOnI2CcQ9K
-MmBcckInSCsvRO9hiq1g4+uCMuEDMNZX/3unfQnsb0FJxeF7tiAnkbK3JILnYL9p
-tLlWXIXdNouVkfh7QvLa59AkUeUkCuFqUkYNb5cD+CgWsHhDMo6JsCzvgBHQqGY2
-RbCmOzRk7YPZOM2fNg4Y/44qnqLLvWcNPEbzBmdnfWxN2nkbngo788aH4Gzl+VIy
-pNj6D325c3ZARw3p7v6S0X3CsGt9Zm7RJ2m79WHgruSj+fAIzxNG9KvgNem0IJSO
-4FvjfmDDT37A1cXgdeF1KeCy5AGD057IkLH951IjKJUx8VXiEjreUeHzxgA=
-=nQKs
+wcFMAxeUi+zldDa+ARAAog4eKDgDSk519Pq7oS1S51YhAO5GSkJ6UR71oAwyGtpY
+S9dwKiZoy61EqpBmnc7q+ne3tN2GPEzjNgOtlIroxiCFPydsiw3Iy8SHkk5n27ek
+6u18pDO2CIzyOoQJSVfHlFOdwGOUQ+/dgQwy2j3dO0Ie4FiKeRdjLkUHMipvsJlQ
+BFDDvpKYL5+0C1O0Sz+EQe+UcAsqiLkJuMSylGOlMM2kA2O9l2934IAlRMKp8Hmx
+bPYswZ48Vxmt1oftA+YFiqoQYJ260MPi8aP/ADLdpsexuvJrqcisE+yMQ9dF2Kjs
+9rjZxU+3i76Hd5DysvqEfTafz+hChuQytSlultMoKb8PgrcFTwz8I0VSDWUMsUco
+494YX57fZvNmCBe/axHYHMXIvQOt7vGW3kym1ZIqIA9cSvpQPpA4JFm8MXstfc22
+jx37880EjUZ4HpGxDItrxf8aVUqrJf3bo32E4ev3ojZ/xzeR17NEBBcaUJdEtwKn
+btfU7hrFbHU5I7GLaXz3jvnkExOMj+XSaod9qjvChPGbWud2+jq5V86GjxYaSzZX
+AbPQhejLn8ApYRue36y4yIb4WupQ7rhUWUnMCNsTGpbx/MOGNKdlT2O8XiBTvVMI
+eARXyOrSUMblnsdQ6Ao64DfQ56M0sgg1EwcdiYYMzNVBq9avgphb9sS/7EnHiH7S
+4AHkJF7+CJ1xg89NMYL2RDVhvOFTG+Dj4JjhP0Tg/+Ibfl8h4IPpK6tc3OV4Rf6l
+bBXW78jAnQh6G3qmqvUM63cFwLzOqWOaYu693/FHQfiDylIBtawIjym2qaubYWVV
+rJt8pIHT7xZfgXIf3mDNyoNKRD2f0B8Uzftc6l92Qf8IVEBLVTnBrs7Jg6mOHu1+
+0a+HdGunTg7eX4mtR6gALdu+RpI9jMidJyjoX0rA4d5Jo0NZCTXM4eWWJdkIR1rq
+aDxWAtPl02hfsK0OvIdDUKBTIrEMOOR6igycmeTtIjN8MXlXB8Oe2htQrWPWdU/h
+0/n5XQKUpTiHF2w6ZqySq4lEEcJA3gO8a9RR5Cn9OIpMAU9CzY9OevJwWYKc1rni
+sFoycfS0vdlUde1GelbRvrPXV8DDtb7K893pYf3aBae5Hwu02lTKcTkBW6EzGOYn
+WXWUxSudvBysHOXidfcamBMigyR7/P8uQsN3MWCXcxvgcGRmP46T8AjuSRg+p76/
+15vXrPDvi+VCD9sPRlnvDY6zbv7tfDMmdGxNy1HfBidVmaO/7dJILwts1oOn4O6C
+yQiZaTRVm60eVmysLG+BDRP8nfnRcazg5vriDik8tCHphTDAN0o5QhcCqPnKURiF
+8smlR4x8zuNXF9nvp1vIgzr2g5gjeKJ4NS50vVfck6rN/vf04tQO5c18p6ahPPFX
+rdD3LNZyaNHCz++e79j5G5bNLlnjciLgTujrWdm6/QsDIra0DxQEzQKeRuiWkBJz
+Qb5MIgdKGJCDb3mBR2hjJ6TF8qbZ0wB1S0tOkH3w0y2U5fLoLsXgXa3DjdFRMqou
+ylAda3gRPBt5enlcuZ5oeoHg3Addl8efAw2UNl7YHbea/eWbvhxcteTu29aEhoWI
+Q3udMEhzkApkVA+ju9AWjBK6oJC+8e4bxabpLbdfCjRAogFs0uYcoFaNEOoBWhgE
+q7ob7mChlwFaMUs5q1yWTf037u7AW5ZcPx/aJF+g29wiK9jzo2+u8UOxfAo0xiH2
+chlDKPp9tpbRxeFB+8C0W0DGCBxEMxsZdeMz8t6DBpjSqRy8oWrA/Iwu4K3lieCB
+POLCgaaP/+k8zzwxkYOBeQUj/CRooZT0R91Rh6LgCeSnN28WxeZ7LRCY4H4Q42LO
+4LbjQAnhP0jqYZfg9OH7veBh5JL36sfw28txeKEiKM4TSn/iATVd++HAkAA=
+=37WG
 -----END PGP MESSAGE-----
 
 ### Monday, November 20th 2017
@@ -3060,7 +3060,24 @@ please give me another chance
 - 4hrs isf
 - gym
 
+### Sunday, July 8th 2018
 
+* 2.5hrs ISF
+- Sum invoice info
+- Clean
+- Trash
+- 1hr writing
+- Read 30 pages
+
+### Tuesday, July 10th 2018
+
+- 1hr isf
+- sum invoice info
+- 1hr isf
+- isf invoice
+- clean lab
+- leave lab before 8
+- clean home
 
 
 
