@@ -3071,13 +3071,30 @@ please give me another chance
 
 ### Tuesday, July 10th 2018
 
-- 1hr isf
-- sum invoice info
-- 1hr isf
++ 1hr isf
++ sum invoice info
++ 1hr isf
 - isf invoice
 - clean lab
 - leave lab before 8
 - clean home
 
+### Monday, July 16th 2018
+
++ 20mins clean lab
+- 1.5hr af
+    - email
++ feed pigeons
+- 1.5hr isf
+- 1hr writing
+
+what on earth is this mental block against work about?
+
+### Tuesday, July 17th 2018
+
++ 15 mins clean lab
++ 1.5hrs artguide
++ leave lab at 9:45
+- write 1hr
 
 
