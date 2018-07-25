@@ -3109,3 +3109,18 @@ what on earth is this mental block against work about?
 - take out trash
 - plan week
 
+### Wednesday, July 25th 2018
+
+- 1.5hrs isf
+- update proposal
+- 1hr af
+- 1hr writing
+- bed at midnight
+
+### Thursday, July 26th 2018
+
+- swim
+- 1.5hrs isf
+- 1.5hr af
+- 1hr writing
+
