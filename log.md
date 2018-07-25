@@ -3097,4 +3097,15 @@ what on earth is this mental block against work about?
 + leave lab at 9:45
 - write 1hr
 
+### Saturday, July 21st 2018
+
+* 1hr writing
+* 1hr isf
+
+### Sunday, July 22nd 2018
+
+- 1.5hrs writing
+* 1.5hrs isf
+- take out trash
+- plan week
 
