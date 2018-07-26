@@ -3111,9 +3111,9 @@ what on earth is this mental block against work about?
 
 ### Wednesday, July 25th 2018
 
-- 1.5hrs isf
-- update proposal
-- 1hr af
++ 1.5hrs isf
++ update proposal
++ 1hr af
 - 1hr writing
 - bed at midnight
 
