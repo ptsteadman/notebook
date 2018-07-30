@@ -3114,13 +3114,13 @@ what on earth is this mental block against work about?
 + 1.5hrs isf
 + update proposal
 + 1hr af
-- 1hr writing
++ 1hr writing
 - bed at midnight
 
 ### Thursday, July 26th 2018
 
-- swim
++ swim
 - 1.5hrs isf
-- 1.5hr af
+- 1.5hr isf
 - 1hr writing
 
