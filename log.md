@@ -3131,6 +3131,15 @@ what on earth is this mental block against work about?
 - swim
 - respond to eric
 
+### Tuesday, July 31st 2018
+
++ gym
++ email erik
++ email garrett
++ 1.5hrs isf
+- 1hr writing
+- 1hr isf
+
 ### Wednesday, August 1st 2018
 
 + reply to sarah
@@ -3138,3 +3147,4 @@ what on earth is this mental block against work about?
 - 1.5hrs isf
 - 1hr writing
 - 1.5hrs isf
+- swim
