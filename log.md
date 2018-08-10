@@ -3148,3 +3148,12 @@ what on earth is this mental block against work about?
 - 1hr writing
 - 1.5hrs isf
 - swim
+
+### Friday, August 10th 2018
+
+- gym
+- food shopping
+- email lf
+- 1hr af
+- 2.5hrs isf
+- 1hr writing
