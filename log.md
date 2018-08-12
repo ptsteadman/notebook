@@ -3144,7 +3144,21 @@ what on earth is this mental block against work about?
 
 + reply to sarah
 - reply to henry
-- 1.5hrs isf
++ 1.5hrs isf
 - 1hr writing
 - 1.5hrs isf
-- swim
++ swim
+
+### Tuesday, August 7th 2018
+
++ respond to sarah
++ 3hrs isf
+- invoice isf
+- 0.75hrs af
++ leave lab at 7:30pm
++ 1hr writing
+
+### Thursday, August 9th 2018
+
+twitter deflecting: choosing one part of the criticism you've made and reducing
+it to its low iq version
