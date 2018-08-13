@@ -3162,3 +3162,27 @@ what on earth is this mental block against work about?
 
 twitter deflecting: choosing one part of the criticism you've made and reducing
 it to its low iq version
+
+### Friday, August 10th 2018
+
++ gym
++ food shopping
++ email lf
+- 1hr af
+* 2.5hrs isf
+- 1hr writing
+
+### Sunday, August 13th 2018
+
++ 1.5hrs isf
+- reading
+- 1hr writing
+- bed at midnight
+
+### Monday, August 14th
+
+- swim
+- 1hr af
+- 2hrs isf
+- 1hr writing
+- watch wanda
