@@ -3151,9 +3151,19 @@ what on earth is this mental block against work about?
 
 ### Friday, August 10th 2018
 
-- gym
-- food shopping
-- email lf
++ gym
++ food shopping
++ email lf
++ follow up w garrett's lead
++ msg henry
++ respond to for days email
 - 1hr af
-- 2.5hrs isf
+* 2.5hrs isf
 - 1hr writing
+
+### Saturday, August 12th 2018
+
++ fix kindle
+* 1.5hrs isf
+- 1hr writing
+
