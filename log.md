@@ -3175,14 +3175,17 @@ it to its low iq version
 ### Sunday, August 13th 2018
 
 + 1.5hrs isf
-- reading
-- 1hr writing
-- bed at midnight
+* reading
++ 1hr writing
++ bed at midnight
 
 ### Monday, August 14th
 
-- swim
-- 1hr af
-- 2hrs isf
++ swim
++ 1hr af
+* 2hrs isf
 - 1hr writing
++ leave lab before 8
 - watch wanda
+
+nasnet tensorflow implementation 
