@@ -3168,7 +3168,6 @@ it to its low iq version
 + gym
 + food shopping
 + email lf
-<<<<<<< HEAD
 + follow up w garrett's lead
 + msg henry
 + respond to for days email
@@ -3176,23 +3175,37 @@ it to its low iq version
 * 2.5hrs isf
 - 1hr writing
 
-### Saturday, August 12th 2018
+### Saturday, August 11th 2018
 
 + fix kindle
 * 1.5hrs isf
 - 1hr writing
 
-### Sunday, August 13th 2018
+### Sunday, August 12th 2018
 
 + 1.5hrs isf
 - reading
 - 1hr writing
-- bed at midnight
++ bed at midnight
 
-### Monday, August 14th
+### Monday, August 13th 2018
 
-- swim
-- 1hr af
-- 2hrs isf
++ swim
++ 1hr af
+* 2hrs isf
 - 1hr writing
-- watch wanda
+* watch wanda
++ leave lab by 8
+- bed by midnight
+
+### Tuesday, August 14th 2018
+
+- yoga class
+- finish destringing draft
+- 2hrs isf
+
+gdrive
+calendar
+foundit
+
+
