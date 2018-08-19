@@ -3168,8 +3168,6 @@ it to its low iq version
 + gym
 + food shopping
 + email lf
-<<<<<<< HEAD
-+ follow up w garrett's lead
 + msg henry
 + respond to for days email
 - 1hr af
@@ -3189,7 +3187,7 @@ it to its low iq version
 + 1hr writing
 + bed at midnight
 
-### Monday, August 14th
+### Monday, August 14th 2018
 
 + swim
 + 1hr af
@@ -3199,3 +3197,80 @@ it to its low iq version
 - watch wanda
 
 nasnet tensorflow implementation 
+
+### Tuesday, August 15th 2018
+
++ yoga
+- create af releases
+- 1.5hrs isf
+- finish godard reading
+- 30mins writing
+- leave lab by 9:15
+- bed by midnight
+
+### Wednesday, August 16th 2018
+
++ run/lift
+- lab by 10am
+- 1hr writing
+- 1hr isf
++ watch wanda
+- bed by midnight
+
+When I die I want to come back as one of your pigeons. 
+
+ She has seemed quite relaxed and comfortable today, watching the World outside, watching the Rain...pecking Seeds, Preening, stretching her Wings...
+
+Saw her starting to put a little weight on the effected Leg off and on today and she also used the edge of her padded Nest Tray ro support the effected Leg side if wishing to stand and stretch her Wings or other things.
+
+Image showing her pecking from Seed Bowl No. 2 which has regular Pigeon Mix in it while using the Padded Nest Tray to support her effected Leg side.
+
+I made the Tray that height, in case she wanted to do this, and, she figured it out fast.
+
+Seed Bowl No. 1 has all small size Seeds, and is up front so she can peck while laying down facing the room.
+
+8:20 Central time, and "peck peck peck"...dark out now so time to close the Blinds...
+
+Indeed she is..!
+
+Very Wild, very sensitive about things...very observant...now allowing me to explain an intention, reach in to change Water or Seed Bowls, of if I want to pick her up, letting me do that, so long as I explain first why and what it is to be about, with no worries or conflicts or apprehensions or fussing about being picked up or being in Hand Nest.
+
+So, we have made good progress, and she is off and on putting light pressure on the Leg when standing.or stands with her weak leg side resting on the edge of her padded Tray-Nest.
+
+Jasper like it when Babe lays down on or stands just over his Head...or, he likes to bury his Head under her.
+
+These two met only couple months ago.
+
+I was 'Rescue Rehab' of inner city Birds in Downtown Las Vegas for quite a long time.
+
+Still have a Toe in the Water since moving to So Cal.
+
+Self taught, had my own scene, triage, quarantine, pre-release, and so on...on my own Dime.
+
+Raised many hundreds of wayward or logistically orphanned infants and Babys, worked out my own methods for things, raised for release.
+
+These were Wild Urban Pigeons ( and Doves, and sometimes Sparrows ).
+
+No Show Birds till moving down here, where I have sometimes taken in sick Show Bird infants or "Peepers" or sick Show Bird Adults, from various local Show Pigeon people.
+
+So, various of my own long time non-release-ables live with me, and will move to the Mid West with me, once we find the right place.
+
+They are both "A couple of characters" who make unusual and here-to-for unique vocalizings which are more like "grumbles" than anything...although Jasper does "Moo".
+
+Both are handicapped and, are what one might call "Least likely to ever find a mate" Birds.
+
+Well, they met, both make the SAME unusual grumbley vocalizings, they liked each-other instantly, soon on, they were in love, and have been totally devoted to eachother, and very happy together ever since.
+
+So, it worked out so very well..!
+
+No...never heard of any Rich off w95...
+
+There was a compulsive hoarder ( in Las Vegas ) who pretended to be a 'rescuer', whom I used to get injured and sick Doves and Pigeons from just to try and save the occasional few I could walk out of there with, but, last I heard, they had their Home foreclosed, lost their Home and were on the skids, and became homeless and all their hoarded Birds went who knows where.
+
+### Sunday, August 19th 2018
+
+- 1hr af
+- 1.5hrs isf
+- 1hr writing
+- leave at 8pm
+- clean lab
