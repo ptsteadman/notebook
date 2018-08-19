@@ -3168,19 +3168,23 @@ it to its low iq version
 + gym
 + food shopping
 + email lf
+<<<<<<< HEAD
+=======
++ follow up w garrett's lead
+>>>>>>> 87a8b126880796bb885d77e4371ec6dfb2f30501
 + msg henry
 + respond to for days email
 - 1hr af
 * 2.5hrs isf
 - 1hr writing
 
-### Saturday, August 12th 2018
+### Saturday, August 11th 2018
 
 + fix kindle
 * 1.5hrs isf
 - 1hr writing
 
-### Sunday, August 13th 2018
+### Sunday, August 12th 2018
 
 + 1.5hrs isf
 * reading
@@ -3274,3 +3278,4 @@ There was a compulsive hoarder ( in Las Vegas ) who pretended to be a 'rescuer',
 - 1hr writing
 - leave at 8pm
 - clean lab
+
