@@ -3273,9 +3273,18 @@ There was a compulsive hoarder ( in Las Vegas ) who pretended to be a 'rescuer',
 
 ### Sunday, August 19th 2018
 
-- 1hr af
++ 1hr af
 - 1.5hrs isf
 - 1hr writing
-- leave at 8pm
-- clean lab
++ leave at 8pm
++ clean lab
+
+### Tuesday, August 21st 2018
+
++ 1hr writing
+- 2hrs isf
+- leave at 9:30PM
++ clean lab
+- trash
++ respond to athena
 
