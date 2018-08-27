@@ -3288,3 +3288,25 @@ There was a compulsive hoarder ( in Las Vegas ) who pretended to be a 'rescuer',
 - trash
 + respond to athena
 
+### Friday, August 24th 2018
+
++ 1.5hrs isf
++ deploy af
++ 1hr writing
+- bed at midnight
+
+I woke up around 6 to go to Washington Heights / Inwood where Veronika lives to
+destring pigeons. Felt awful, craved kratom. Felt mildly guilty for not doing
+more on the city health RFP. Destringed one pigeon and went back to Veronika's
+place where I ended up watching about two hours of TV.
+
+I think the fact that Vidvox is a good project is stressing me out and making me
+avoid it.. It's also hard.
+
+
+### Monday, August 27th 2018
+
+- swim
+- 1hr isf
+- 1hr writing
+
