@@ -3306,7 +3306,10 @@ avoid it.. It's also hard.
 
 ### Monday, August 27th 2018
 
-- swim
+- yoga
 - 1hr isf
 - 1hr writing
 
+- github invite
+- invision of user facing app
+- screens of training app
