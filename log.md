@@ -3313,3 +3313,18 @@ avoid it.. It's also hard.
 - github invite
 - invision of user facing app
 - screens of training app
+
+### Tuesday, August 28th 2018
+
++ gym
++ clean room
++ 1.5hrs isf
+- 1hr writing
+
+### Wednesday, August 29th 2018
+
+Damn this lifestyle. 
+
+- lab by 1:15pm
+- haircut
+
