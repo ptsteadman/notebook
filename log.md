@@ -3328,3 +3328,10 @@ Damn this lifestyle.
 - lab by 1:15pm
 - haircut
 
+### Monday, September 3rd 2018
+
+- yoga
+- look for carrier
+- 2hrs isf
+- 1hr writing
+- clean room
