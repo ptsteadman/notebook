@@ -3330,8 +3330,26 @@ Damn this lifestyle.
 
 ### Monday, September 3rd 2018
 
-- yoga
-- look for carrier
++ yoga
++ look for carrier
 - 2hrs isf
-- 1hr writing
-- clean room
++ 1hr writing
++ clean room
+
+### Tuesday, September 4th 2018
+
+- 2hrs isf
+- yoga
+- pay bills
+- clean lab
+
+### Wednesday, September 5th 2018
+
+* 1.5hrs isf
+- yoga
+- pay bills
++ clean lab
++ leave lab before 8
+
+healed my guilty relationship with meredith monk landlord people by catching
+cockroach in the trashbag
