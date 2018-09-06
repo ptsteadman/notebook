@@ -3353,3 +3353,12 @@ Damn this lifestyle.
 
 healed my guilty relationship with meredith monk landlord people by catching
 cockroach in the trashbag
+
+### Thursday, September 6th 2018
+
+- yoga
+- clean jennifer's cage
+- s94 change
+- 1hr isf
+- leave lab at 6:30
+- no substances
