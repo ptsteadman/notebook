@@ -3330,8 +3330,8 @@ Damn this lifestyle.
 
 ### Monday, September 3rd 2018
 
-- yoga
-- look for carrier
++ yoga
++ look for carrier
 - 2hrs isf
-- 1hr writing
++ 1hr writing
 - clean room
