@@ -3334,4 +3334,31 @@ Damn this lifestyle.
 + look for carrier
 - 2hrs isf
 + 1hr writing
-- clean room
++ clean room
+
+### Tuesday, September 4th 2018
+
+- 2hrs isf
+- yoga
+- pay bills
+- clean lab
+
+### Wednesday, September 5th 2018
+
+* 1.5hrs isf
+- yoga
+- pay bills
++ clean lab
++ leave lab before 8
+
+healed my guilty relationship with meredith monk landlord people by catching
+cockroach in the trashbag
+
+### Thursday, September 6th 2018
+
+- yoga
+- clean jennifer's cage
+- s94 change
+- 1hr isf
+- leave lab at 6:30
+- no substances
