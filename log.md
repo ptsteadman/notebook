@@ -3357,11 +3357,11 @@ cockroach in the trashbag
 ### Thursday, September 6th 2018
 
 + yoga
-- clean jennifer's cage
++ clean jennifer's cage
 + s94 change
 - 1hr isf
 - leave lab at 7:30
-- no substances
++ no substances
 
 very hot
 arrived at lab around 3:20
@@ -3369,3 +3369,13 @@ I want to go get good food to prevent nausea but it seems like it's too hot and
 it'd take too long to go to sunrise mart
 ended up eating chipotle
 finished the s94 thing should I also do some isf...yes
+
+### Friday, September 7th 2018
+
++ swim
+- lab by 11am
+- pay bills
+- clean lab
+- 1hr writing
+- 2hrs isf
+
