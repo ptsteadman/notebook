@@ -3374,8 +3374,13 @@ finished the s94 thing should I also do some isf...yes
 
 + swim
 - lab by 11am
-- pay bills
++ pay bills
 - clean lab
 - 1hr writing
-- 2hrs isf
+* 2hrs isf
 
+### Sunday,  September 9th 2018
+
+- gym
+- groceries
+- write 2hrs
