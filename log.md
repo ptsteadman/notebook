@@ -3379,8 +3379,18 @@ finished the s94 thing should I also do some isf...yes
 - 1hr writing
 * 2hrs isf
 
-### Sunday,  September 9th 2018
+### Sunday, September 9th 2018
 
-- gym
++ gym
 - groceries
-- write 2hrs
+* write 2hrs
+
+### Monday, September 10th 2018
+
++ yoga
+- 2hrs isf
++ send invoice
+- clean lab
+- leave lab by 7pm
+- 1hr writing
+- < 2 drinks at book fair
