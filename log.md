@@ -3402,10 +3402,16 @@ looking forward to affected kanye-like narcissism going out of style
 
 + clean room
 + lab by 12:15
-- 2hrs isf
-- vacuum lab
-- leave lab by 7pm
++ 2hrs isf
+    + finish all sort fields
+    + fix search from index page
+    - improve pagination a bit
+    - fix autocomplete from search page
++ vacuum lab
++ leave lab by 7pm
 - toilet paper + shopping
 - 1hr writing
+- swim
 
 story of O becomes more interesting as it goes
+
