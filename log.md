@@ -3381,6 +3381,9 @@ finished the s94 thing should I also do some isf...yes
 
 ### Sunday,  September 9th 2018
 
-- gym
++ gym
 - groceries
-- write 2hrs
+* write 2hrs
++ call mommy
+
+looking forward to affected kanye-like narcissism going out of style
