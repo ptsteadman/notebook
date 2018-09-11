@@ -3379,7 +3379,7 @@ finished the s94 thing should I also do some isf...yes
 - 1hr writing
 * 2hrs isf
 
-### Sunday,  September 9th 2018
+### Sunday, September 9th 2018
 
 + gym
 - groceries
@@ -3387,3 +3387,25 @@ finished the s94 thing should I also do some isf...yes
 + call mommy
 
 looking forward to affected kanye-like narcissism going out of style
+
+### Monday, September 10th 2018
+
++ yoga
++ 2hrs isf
++ send invoice
++ clean lab
+- leave lab by 7pm
++ 1hr writing
++ < 2 drinks at book fair
+
+### Tuesday, September 11th 2018
+
+- clean room
+- lab by 12:15
+- 2hrs isf
+- vacuum lab
+- leave lab by 7pm
+- toilet paper + shopping
+- 1hr writing
+
+
