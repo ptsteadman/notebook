@@ -3400,12 +3400,12 @@ looking forward to affected kanye-like narcissism going out of style
 
 ### Tuesday, September 11th 2018
 
-- clean room
-- lab by 12:15
++ clean room
++ lab by 12:15
 - 2hrs isf
 - vacuum lab
 - leave lab by 7pm
 - toilet paper + shopping
 - 1hr writing
 
-
+story of O becomes more interesting as it goes
