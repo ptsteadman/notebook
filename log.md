@@ -3409,9 +3409,17 @@ looking forward to affected kanye-like narcissism going out of style
     - fix autocomplete from search page
 + vacuum lab
 + leave lab by 7pm
-- toilet paper + shopping
-- 1hr writing
++ toilet paper + shopping
+* 1hr writing
 - swim
 
 story of O becomes more interesting as it goes
 
+### Wednesday, September 12th 2018
+
+- gym
+- clean room + jennifer's cage
+- lab by 12:15
+- 2.5hrs isf
+- leave lab by 7pm
+- more food shopping
