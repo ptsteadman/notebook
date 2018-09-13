@@ -3423,3 +3423,12 @@ story of O becomes more interesting as it goes
 + 2.5hrs isf
 - leave lab by 7pm
 + more food shopping
+
+### Thursday, September 13th 2018
+
+- swimming
+- more food shopping
+- lab by 11:15, start isf upon arrival
+- 2.5hrs isf
+- 1hr writing
+- leave lab by 7pm
