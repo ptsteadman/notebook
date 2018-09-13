@@ -3417,9 +3417,9 @@ story of O becomes more interesting as it goes
 
 ### Wednesday, September 12th 2018
 
-- gym
-- clean room + jennifer's cage
++ gym
++ clean room + jennifer's cage
 - lab by 12:15
-- 2.5hrs isf
++ 2.5hrs isf
 - leave lab by 7pm
-- more food shopping
++ more food shopping
