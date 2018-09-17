@@ -3432,3 +3432,13 @@ story of O becomes more interesting as it goes
 - 2.5hrs isf
 - 1hr writing
 - leave lab by 7pm
+
+
+
+### Monday, September 17th 2018
+
+- laundry
+- contract for garrett
+- 1hr writing
+- 2hrs isf
+- swim
