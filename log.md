@@ -3439,7 +3439,18 @@ story of O becomes more interesting as it goes
 
 - laundry
 + contract for garrett
-- 1hr writing
++ 1hr writing
 - 2hrs isf
 - swim
 + buy tickets
+
+### Tuesday, September 18th 2018
+
++ yoga
+- laundry
+- clean room
+- start work by 12:00
+- 2hrs isf
+- 0.5hrs ola
+- 1hr writing
+
