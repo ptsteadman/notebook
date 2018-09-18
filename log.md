@@ -3438,7 +3438,8 @@ story of O becomes more interesting as it goes
 ### Monday, September 17th 2018
 
 - laundry
-- contract for garrett
++ contract for garrett
 - 1hr writing
 - 2hrs isf
 - swim
++ buy tickets
