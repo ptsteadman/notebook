@@ -3547,3 +3547,19 @@ ever go for a walk and accidentally have sex
 + 0.5hrs ola
 - 1hr writing
 
+### Wednesday, September 19th 2018
+
++ 4hrs isf
+    - deploy prod site
+    - get CI/CD working
+    + merge wgoldie's work
+    + fix autocomplete
+        - there's an ordering issue, perhaps it can be fixed by disabling
+          dynamic field mapping?
+    + manage backlog
++ clean lab
+* leave lab at 7pm
+- 1hr writing
+- pay amazon bill
+- no subs
+
