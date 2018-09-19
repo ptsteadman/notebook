@@ -3426,9 +3426,102 @@ story of O becomes more interesting as it goes
 
 ### Thursday, September 13th 2018
 
-- swimming
-- more food shopping
-- lab by 11:15, start isf upon arrival
-- 2.5hrs isf
++ swimming
++ more food shopping
++ lab by 11:15, start isf upon arrival
++ 2.5hrs isf
+    + improve pagination a bit
+        + hide button if no more
+    + fix autocomplete from search page
+    + fix searchbar styling
 - 1hr writing
-- leave lab by 7pm
++ leave lab by 7pm
+
+More todo: 
+    - investigate issues with title and popularity sorting
+
+### Sunday, September 15th 2018
+
+- isf deploy
+- leave lab at 11:30
+- write 30mins
+
+
+certain really good beats embarrass me
+
+I love it when people lose interest bc it doesn't take much, just like the tiniest drop of human
+
+think i might only post memories. imagine ten years from now how confused my algorithm will be. oh yeah we dont have ten years, and algorithms are obsolete in the face of nobody literally giving a shit about identity and consumption anymore also fashion will be extinct and beauty will be disproven
+
+i'm sitting right beside you
+
+everything's okay
+
+I am afraid of art shows
+
+right now i would like nothing better than to go get wasted with a bunch of moms
+
+if I walked into a dark room and someone turned on a blacklight I would get arrested
+
+my dream is to fit my entire hand in someone's mouth. it's poss if you lose the teeth
+
+I think I love my life
+
+
+I star 67d my son bc he has me blocked. Nothing. He didn’t answer
+
+
+I need to do something so different that I can't help but change my perspective and habits, I just don't know what
+
+People are dispensable
+
+Is getting pissed on all that it’s cracked up to be frfr I never and I’m thinking it’s just like getting annoyinglybwetv for no reason since the degradation is fake
+
+- Kebrina Lott
+
+The first major hell is called Thots. The second is called Borders. The third is called Cruising. The fourth is called Mobility. The fifth is called Monogamy. The sixth is called Burning. The seventh is called Great Burning. The eighth is called Learning. The Hell of Thots contains sixteen smaller hells. The smaller hells are 500 square yojana in area. The first small hell is called Breeders. The second hell is called Baby. The third is called Baby Please. The fourth is called Hunger. The fifth is called Thirst. The sixth is called Single White Female. The seventh is called Doubles. The eighth is called The One. The ninth is called The Lifestyle. The tenth is called Personal Choices. The eleventh is called Wage. The twelfth is called War. The thirteenth is hell is Stone Washed. The fourteenth is called Connections. The fifteenth is called Collections. The sixteenth is called Restaurants.
+
+- Victoria Campbell
+Murder can be justified
+
+question u know night after u v been fucked like food and laying there w muscle memory what do u do to eraser
+
+
+Men are ridiculous and funny
+
+
+I care about cinderblocks
+
+I dream in guns
+
+
+Everything’s a hole if u really believe
+
+
+You made history salute
+
+
+Hey dumb bitch Jor Sc what is specifically not good. Trolling is just another word for I love you. And I don’t care about love. So idiot What do you want from me texting me all fucking night. You could just ask me out. I woulda said yes. You did send me your tits. But I won’t now though. You have me typing fuck. I need water. Maybe I will take garg. But tbh I don’t want him or anything. So keep pulling up in all my bullshitpost threads. I will respond until I sleep. In an hour. Do it up cunt. Also I may be slow to respond bc I’m literally only listening to music. Something you know nothing about, which is fine, just kinda lame
+
+ever fuck a girl and you get your pussy smells confused. b like wait r u me tf is your problem
+
+
+what if this isn't mental illness and just a severely broken heart
+
+
+My girlfriend is a box full of boy excrement
+
+you can cry here
+
+One day my daughter will read all my posts , comments, trolling, desperation, and know me more & love me like I love her
+
+
+I pretend the dirt on my walls is very still bugs
+
+
+the cool thing about being unwanted is you can do whatever you want
+
+my friend and I attended a meditation group this morning. we shared a big beanbag while the facilitator put on a cd. i could see her trying not to laugh esp the part about squeezing her toes in the sand. she and i have a similar backgrounds and about two weeks ago her abusive boyfriend threw her out? i can't remember the specific details but regardless she was unexpectedly homeless. it was cold so she climbed in a random car to get warm and sleep. cops pulled up and she was arrested for attempting to steal a car and breaking an entering. so this meditation exercise about imagining ourselves on a tropical beach is fucking absurd. shoulda said imagine you are unlocking the front door to your apartment. there are no abusers in sight, walk to the fridge, open it, it is full of groceries. walk into your bedroom notice on the dresser a few uncashed paychecks, face forward you see a kings size bed and remember this bed belongs to you, crawl in, feel safe and warm all over. you are sleeping now
+
+
+ever go for a walk and accidentally have sex
