@@ -3525,3 +3525,25 @@ my friend and I attended a meditation group this morning. we shared a big beanba
 
 
 ever go for a walk and accidentally have sex
+
+
+
+### Monday, September 17th 2018
+
+- laundry
++ contract for garrett
++ 1hr writing
+- 2hrs isf
+- swim
++ buy tickets
+
+### Tuesday, September 18th 2018
+
++ yoga
++ laundry
++ clean room
+- start work by 12:00
+- 2hrs isf
++ 0.5hrs ola
+- 1hr writing
+
