@@ -3447,10 +3447,10 @@ story of O becomes more interesting as it goes
 ### Tuesday, September 18th 2018
 
 + yoga
-- laundry
-- clean room
++ laundry
++ clean room
 - start work by 12:00
 - 2hrs isf
-- 0.5hrs ola
++ 0.5hrs ola
 - 1hr writing
 
