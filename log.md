@@ -3565,9 +3565,11 @@ ever go for a walk and accidentally have sex
 
 - swim
 - start work by 10:15am
-- 2hrs isf
++ 2hrs isf
     - deploy prod site
     - get CI/CD working
-- 1hr ola
+    - how to detect a change to task defs?
+    - use parameter store
++ 1hr ola
 - 1hr writing
 - go to show
