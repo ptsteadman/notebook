@@ -3550,8 +3550,6 @@ ever go for a walk and accidentally have sex
 ### Wednesday, September 19th 2018
 
 + 4hrs isf
-    - deploy prod site
-    - get CI/CD working
     + merge wgoldie's work
     + fix autocomplete
         - there's an ordering issue, perhaps it can be fixed by disabling
@@ -3560,6 +3558,16 @@ ever go for a walk and accidentally have sex
 + clean lab
 * leave lab at 7pm
 - 1hr writing
-- pay amazon bill
-- no subs
++ pay amazon bill
++ no subs
 
+### Thursday, September 20th 2018
+
+- swim
+- start work by 10:15am
+- 2hrs isf
+    - deploy prod site
+    - get CI/CD working
+- 1hr ola
+- 1hr writing
+- go to show
