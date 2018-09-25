@@ -3572,4 +3572,12 @@ ever go for a walk and accidentally have sex
     - use parameter store
 + 1hr ola
 - 1hr writing
-- go to show
++ go to show
+
+### Tuesday, September 25th 2018
+
+- yoga
+- 20mins cleaning
+- 1.5hrs isf
+- 1hr writing
+
