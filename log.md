@@ -3576,8 +3576,14 @@ ever go for a walk and accidentally have sex
 
 ### Tuesday, September 25th 2018
 
-- yoga
-- 20mins cleaning
-- 1.5hrs isf
-- 1hr writing
++ yoga
++ 20mins cleaning
+* 1.5hrs isf
+* 1hr writing
 
+### Thursday, September 27th 2018
+
++ yoga
+- 1.5hrs isf
+- 1.5hrs ola
+- clean room
