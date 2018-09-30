@@ -3590,7 +3590,16 @@ ever go for a walk and accidentally have sex
 
 ### Saturday, September 29th 2018
 
-- 1.5hrs isf
+* 1.5hrs isf
 - leave lab at 10pm
 - clean
 - go to bed at midnight
+
+### Sunday, September 30th 2018
+
+- laundry
+- gym
+- start work by 3
+- 2hrs Isf
+- 1hr writing
+- leave lab by 8
