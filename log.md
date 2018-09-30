@@ -3584,6 +3584,13 @@ ever go for a walk and accidentally have sex
 ### Thursday, September 27th 2018
 
 + yoga
+* 1.5hrs isf
++ 1.5hrs ola
++ clean room
+
+### Saturday, September 29th 2018
+
 - 1.5hrs isf
-- 1.5hrs ola
-- clean room
+- leave lab at 10pm
+- clean
+- go to bed at midnight
