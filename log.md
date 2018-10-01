@@ -3609,8 +3609,8 @@ ever go for a walk and accidentally have sex
 + clean jennifer's cage
 + clean room
 - start work by 1:15
-- 1hr writing
++ 1hr writing
 - 1.5hrs isf
-- 1.5hrs ola
-- respond to david
++ 1.5hrs ola
++ respond to david
 - respond to af
