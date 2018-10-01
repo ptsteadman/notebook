@@ -3606,8 +3606,8 @@ ever go for a walk and accidentally have sex
 
 ### Monday, October 1st 2018
 
-- clean jennifer's cage
-- clean room
++ clean jennifer's cage
++ clean room
 - start work by 1:15
 - 1hr writing
 - 1.5hrs isf
