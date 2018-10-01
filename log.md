@@ -3597,9 +3597,20 @@ ever go for a walk and accidentally have sex
 
 ### Sunday, September 30th 2018
 
-- laundry
-- gym
++ laundry
++ gym
 - start work by 3
-- 2hrs Isf
-- 1hr writing
++ 2hrs Isf
+* 1hr writing
 - leave lab by 8
+
+### Monday, October 1st 2018
+
+- clean jennifer's cage
+- clean room
+- start work by 1:15
+- 1hr writing
+- 1.5hrs isf
+- 1.5hrs ola
+- respond to david
+- respond to af
