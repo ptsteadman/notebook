@@ -3614,3 +3614,14 @@ ever go for a walk and accidentally have sex
 + 1.5hrs ola
 + respond to david
 - respond to af
+
+### Tuesdya, October 1st 2018
+
++ gym
+- 1hr writing
++ 1.5hrs ola
++ 1.5hrs isf
++ respond to af
++ leave lab by 8:30pm
+- clean
+
