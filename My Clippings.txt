@@ -1033,6 +1033,7 @@ crofflr * (crofflr.com)
 
 The financial-service industry’s interest in giving is tied to a looming generational wealth transfer -- and a desire not to see assets walk out the door. (A common DAF marketing theme is the ability to leave a legacy of giving for heirs.)
 ==========
+<<<<<<< HEAD
 How Should a Person Be? (Sheila Heti)
 - Your Highlight on page 120 | Location 1840-1842 | Added on Wednesday, October 3, 2018 11:27:50 AM
 
@@ -1079,3 +1080,4 @@ How Should a Person Be? (Sheila Heti)
 
 “Or maybe,” I said, “the truth is so diffuse that our minds cannot even hold on to it.”
 ==========
+=======

@@ -3615,13 +3615,28 @@ ever go for a walk and accidentally have sex
 + respond to david
 - respond to af
 
-### Tuesdya, October 1st 2018
+### Tuesday, October 2nd 2018
 
 + gym
-- 1hr writing
+* 1hr writing
 + 1.5hrs ola
 + 1.5hrs isf
 + respond to af
 + leave lab by 8:30pm
 - clean
 
+
+### Wednesday, October 3rd 2018
+
+- clean
+- start work by noon
+- 2hrs isf
+- 1hr ola
+- 1hr writing
+- clean
+
+"Hang up your hat, go get a day job, and always look back fondly on the part of
+your life when you had access to popularity you didn't deserve"
+
+Isn't that what a lot of people should do lol? Seems like some sort of cathartic
+thing on behalf of OP
