@@ -3640,3 +3640,13 @@ your life when you had access to popularity you didn't deserve"
 
 Isn't that what a lot of people should do lol? Seems like some sort of cathartic
 thing on behalf of OP
+
+### Friday, October 5th 2018
+
+- clean
+- start work by 1:30pm
+- leave lab by 8pm
+- 2hrs isf
+- 1hr ola
+- bank rec
+- swim
