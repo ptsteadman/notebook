@@ -3643,10 +3643,10 @@ thing on behalf of OP
 
 ### Friday, October 5th 2018
 
-- clean
-- start work by 1:30pm
-- leave lab by 8pm
+- clean 15 mins
+- swim
+- start work by 4:00pm
 - 2hrs isf
 - 1hr ola
 - bank rec
-- swim
+- leave lab by 9pm
