@@ -3643,7 +3643,7 @@ thing on behalf of OP
 
 ### Thursday, October 4th 2018
 
-- 1hr isf
++ 1hr isf
 - 30mins writing 
 - swim
 
@@ -3674,3 +3674,21 @@ bless you Edios. Please check out my page I am currently starting up my business
 and drop a sub while you are there
 
 Our sky is Close
+
+### Friday, October 5th 2018
+
+* clean 15 mins
++ swim
+- start work by 4:00pm
+- 2hrs isf
+* 1hr ola
+- bank rec
+- leave lab by 9pm
+
+### Saturday, October 6th 2018
+
+- clean lab
+- gym
+- clean room
+- 1hr writing 
+- 1.5hrs isf
