@@ -54,3 +54,7 @@ while developing...
 `sudo arp-scan -i eth0 192.168.0.0/24`
 
 #### review-deploy
+
+#### ECS
+
+For services / task to access each other, security groups must be open.

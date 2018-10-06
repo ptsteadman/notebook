@@ -3628,7 +3628,7 @@ ever go for a walk and accidentally have sex
 
 ### Wednesday, October 3rd 2018
 
-- clean
++ clean
 - start work by noon
 - 2hrs isf
 - 1hr ola
@@ -3640,3 +3640,37 @@ your life when you had access to popularity you didn't deserve"
 
 Isn't that what a lot of people should do lol? Seems like some sort of cathartic
 thing on behalf of OP
+
+### Thursday, October 4th 2018
+
+- 1hr isf
+- 30mins writing 
+- swim
+
+"The idea that no one will care about the daily life of a depressed
+twenty-seven-year-old woman whose existence takes place as much online as off is
+proved wrong every day on social media and reality TV. The danger is not that it
+wil be uninteresting but that it will be too interesting."
+
+-- Lauren Oyler re: Liveblog
+
+It was just so epic when Logan Paul said "having sociopathic tendencies isn't
+really a big deal .. it just means you're more savage"
+
+True story.THIS GAME MADE ME DECIDE ON WHAT TO DO WITH MY LIFE. Let me explain.
+I was a cop (which is quite possibly the worse job ever). Things were not
+looking up for and eventually I was forced to resign (long story). I was lost I
+had bad health a whore for a gf  zero direction and even less hope. I had
+nothing else better to do so I started playing video games and came across a
+little gem called Deus ex human revolution. As luck would have it a friend
+offered me a job in private security. I figure what the hell its good enough for
+Jensen its good enough for me. Fast forward I play more of the game and discover
+Jensen is good with computers. Again I figure good enough for him good enough
+for me. So now I am in private security doing cyber forensics and will soon my
+salary will be hitting the 6 figure mark. ALL BC OF THIS FRIGGIN GAME.
+Essentially Adam Jensen inspired me to come out of a deep depression and find
+not only my passion in life but my destiny and purpose here on planet earth. God
+bless you Edios. Please check out my page I am currently starting up my business
+and drop a sub while you are there
+
+Our sky is Close
