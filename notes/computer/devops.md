@@ -57,4 +57,8 @@ while developing...
 
 #### ECS
 
-For services / task to access each other, security groups must be open.
+For services / task to access each other, security groups must be open (you can
+allow all traffic from within the sg to access itself).
+
+Load Balancers also have security groups.
+

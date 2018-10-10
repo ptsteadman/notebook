@@ -3692,3 +3692,53 @@ Our sky is Close
 - clean room
 - 1hr writing 
 - 1.5hrs isf
+- change to bonsai form from intercom
+
+don't flatter yourself, you're not a narcassist you're just a garden-variety
+self-reflective mind
+
+
+## Week of October 8th, 2018
+
+- hit all rescuetime goals
+
+### Tuesday, October 9th 2018
+
+- 1hr writing
++ 1hr isf
++ leave lab at 9:25
++ take out lab trash
+
+I think I'm trying to sell this to myself as laziness and not a moral fallacy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
