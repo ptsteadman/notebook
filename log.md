@@ -3689,6 +3689,14 @@ Our sky is Close
 
 - clean lab
 - gym
-- clean room
++ clean room
 - 1hr writing 
 - 1.5hrs isf
+
+### Monday, Octboer 8th 2018
+
+- swim
+- 20mins clean room
+- 2hrs isf
+- 1hr ola
+- 1hr writing
