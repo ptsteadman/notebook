@@ -3695,8 +3695,74 @@ Our sky is Close
 
 ### Monday, Octboer 8th 2018
 
-- swim
-- 20mins clean room
++ swim
++ 20mins clean room
 - 2hrs isf
 - 1hr ola
 - 1hr writing
+- change to bonsai form from intercom
+
+don't flatter yourself, you're not a narcassist you're just a garden-variety
+self-reflective mind
+
+
+## Week of October 8th, 2018
+
+- hit all rescuetime goals
+
+### Tuesday, October 9th 2018
+
+- 1hr writing
++ 1hr isf
++ leave lab at 9:25
++ take out lab trash
+
+I think I'm trying to sell this to myself as laziness and not a moral fallacy
+
+### Thursday, October 11th 2018
+
+- fix s94 thing
+- 30mins isf
+- bed before 1:30
+
+### Friday, October 12th 2018
+
+- gym
+- 30mins room clean
+- take out trash
+- wash dishes
+- fix s94 thing
+- 2hrs isf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
