@@ -3711,6 +3711,12 @@ self-reflective mind
 
 I think I'm trying to sell this to myself as laziness and not a moral fallacy
 
+### Thursday, October 11th 2018
+
+- fix s94 thing
+- 30mins isf
+- bed before 1:30
+
 
 
 
