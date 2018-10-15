@@ -3734,6 +3734,28 @@ I think I'm trying to sell this to myself as laziness and not a moral fallacy
 - fix s94 thing
 - 2hrs isf
 
+## Week of October 15th, 2018
+
+- hit all rescuetime goals
+- no sleeping at lab
+
+### Monday, October 15th 2018
+
+- 3hrs isf
+- invoice isf
+- finish af estimate
+- 20mins clean lab
+- leave lab by 7pm
+- 1hr writing
+- yoga
+
+Came to lab from Alexi's at 9am.
+
+### Tuesday, October 16th 2018
+
+- remove intercom
+
+
 
 
 
