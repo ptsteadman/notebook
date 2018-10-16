@@ -3765,42 +3765,10 @@ Came to lab from Alexi's at 9am.
 
 + yoga
 - start work by 12:30
-- 30mins clean room
++ 30mins clean room
 - 2hrs isf
-- finish af estimate
++ finish af estimate
 - 1hr writing
-- remove intercom
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
++ remove intercom
+- leave lab by 8pm
 
