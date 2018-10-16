@@ -3770,9 +3770,9 @@ Came to lab from Alexi's at 9am.
 + finish af estimate
 - 1hr writing
 + remove intercom
-- leave lab by 8pm
+- leave lab by 8:30pm
 - home by 1am
-- garbage
+- garbage out
 
 ### Wednesday, October 17th 2018
 
@@ -3781,3 +3781,4 @@ Came to lab from Alexi's at 9am.
 - 1hr cleaning
 - 2hrs isf
 - 1hr writing
+- invoice isf fr
