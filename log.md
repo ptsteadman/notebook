@@ -3728,13 +3728,21 @@ I think I'm trying to sell this to myself as laziness and not a moral fallacy
 ### Friday, October 12th 2018
 
 - gym
-- 30mins room clean
-- take out trash
-- wash dishes
++ 30mins room clean
++ take out trash
++ wash dishes
 - fix s94 thing
 - 2hrs isf
 
+### Sunday, October 14th 2018
 
++ swim
++ 30 mins room clean
++ fix s94 thing
++ show
+- 1hrs isf
++ bed by 1am
++ fix cert
 
 
 
