@@ -3771,4 +3771,13 @@ Came to lab from Alexi's at 9am.
 - 1hr writing
 + remove intercom
 - leave lab by 8pm
+- home by 1am
+- garbage
 
+### Wednesday, October 17th 2018
+
+- start laundry by 10am
+- home depot
+- 1hr cleaning
+- 2hrs isf
+- 1hr writing
