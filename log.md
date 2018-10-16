@@ -3735,7 +3735,6 @@ I think I'm trying to sell this to myself as laziness and not a moral fallacy
 - 2hrs isf
 
 ### Sunday, October 14th 2018
-
 + swim
 + 30 mins room clean
 + fix s94 thing
@@ -3743,6 +3742,36 @@ I think I'm trying to sell this to myself as laziness and not a moral fallacy
 - 1hrs isf
 + bed by 1am
 + fix cert
+
+## Week of October 15th, 2018
+
+- hell week
+- hit all rescuetime goals
+- no sleeping at lab
+
+### Monday, October 15th 2018
+
++ 3hrs isf
+* invoice isf
+- finish af estimate
++ 20mins clean lab
+* leave lab by 7pm
+- 1hr writing
+- yoga
+
+Came to lab from Alexi's at 9am.
+
+### Tuesday, October 16th 2018
+
++ yoga
+- 30mins clean room
+- 2hrs isf
+- finish af estimate
+- 1hr writing
+- remove intercom
+
+
+
 
 
 
