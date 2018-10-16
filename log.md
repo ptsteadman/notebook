@@ -3764,6 +3764,7 @@ Came to lab from Alexi's at 9am.
 ### Tuesday, October 16th 2018
 
 + yoga
+- start work by 12:30
 - 30mins clean room
 - 2hrs isf
 - finish af estimate
