@@ -3748,6 +3748,8 @@ I think I'm trying to sell this to myself as laziness and not a moral fallacy
 - hell week
 - hit all rescuetime goals
 - no sleeping at lab
+- 2x yoga
+- 1x swim
 
 ### Monday, October 15th 2018
 
@@ -3766,19 +3768,29 @@ Came to lab from Alexi's at 9am.
 + yoga
 - start work by 12:30
 + 30mins clean room
-- 2hrs isf
++ 2hrs isf
 + finish af estimate
-- 1hr writing
+* 1hr writing
 + remove intercom
-- leave lab by 8:30pm
++ leave lab by 8:30pm
 - home by 1am
-- garbage out
++ garbage out
 
 ### Wednesday, October 17th 2018
 
-- start laundry by 10am
+- start laundry by 11am
 - home depot
+- build pigeon coop thing
 - 1hr cleaning
 - 2hrs isf
 - 1hr writing
 - invoice isf fr
+
+### Thursday, October 18th 2018
+
+- start work by 11am
+- 1.5hrs af
+- deploy af app
+- basic hf proposal
+- 1hr isf
+- swim
