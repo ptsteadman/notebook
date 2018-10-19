@@ -3776,15 +3776,17 @@ Came to lab from Alexi's at 9am.
 - home by 1am
 + garbage out
 
-### Wednesday, October 17th 2018
+### Wednesday + Thursday, October 17 + 18th 2018
 
 - start laundry by 11am
-- home depot
-- build pigeon coop thing
-- 1hr cleaning
-- 2hrs isf
++ laundry
++ home depot
++ build pigeon coop thing
++ 1hr cleaning
+* 2hrs isf
 - 1hr writing
 - invoice isf fr
++ bed by 1am
 
 ### Thursday, October 18th 2018
 
@@ -3794,3 +3796,13 @@ Came to lab from Alexi's at 9am.
 - basic hf proposal
 - 1hr isf
 - swim
+
+### Friday, October 19th 2018
+
+- clean 30mins 
+- swim
+- hf proposal
+- 2hrs isf
+- party
+- isf invoice
+
