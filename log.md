@@ -3747,9 +3747,9 @@ I think I'm trying to sell this to myself as laziness and not a moral fallacy
 
 - hell week
 - hit all rescuetime goals
-- no sleeping at lab
-- 2x yoga
-- 1x swim
++ no sleeping at lab
++ 2x yoga
++ 1x swim
 
 ### Monday, October 15th 2018
 
@@ -3799,10 +3799,15 @@ Came to lab from Alexi's at 9am.
 
 ### Friday, October 19th 2018
 
-- clean 30mins 
-- swim
-- hf proposal
-- 2hrs isf
-- party
++ clean 30mins 
++ swim
++ hf proposal
+* 2hrs isf
++ party
 - isf invoice
+
+### Saturday, October 20th 2018
+
+- 2hrs isf
+- 45mins cleaning
 
