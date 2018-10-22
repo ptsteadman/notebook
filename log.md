@@ -3808,6 +3808,26 @@ Came to lab from Alexi's at 9am.
 
 ### Saturday, October 20th 2018
 
-- 2hrs isf
-- 45mins cleaning
+* 2hrs isf
+    + connect web app and connector locally
+    + import data locally
+    - connect staging app + connector
+    - make pr for prod
++ 45mins cleaning
 
+### Week of October 21st 2018
+
+- 3x yoga
+- 1x swimming
+- no kratom
+- hit all rescuetime goals
+
+### Monday, October 22nd 2018
+
+- stretch
+- start work before 1pm
+- invoice isf
+- 2hrs isf
+- hf estimate
+- 1hr writing
+- clean cages
