@@ -3825,9 +3825,20 @@ Came to lab from Alexi's at 9am.
 ### Monday, October 22nd 2018
 
 - stretch
-- start work before 1pm
-- invoice isf
-- 2hrs isf
++ start work before 1pm
++ invoice isf
++ 2hrs isf
 - hf estimate
 - 1hr writing
-- clean cages
++ clean cages
+
+### Tuesday, October 23rd 2018
+
+- stretch
+- start work by 12am
+- hf estimate
+- 2.5hrs isf
+- leave lab by 6
+- yoga
+- 1hr writing
+
