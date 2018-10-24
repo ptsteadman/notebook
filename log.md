@@ -3841,3 +3841,11 @@ Came to lab from Alexi's at 9am.
 - leave lab by 8
 - swim
 - 1hr writing
+
+### Wednesday, October 24th 2018
+
+- gym
+- 20mins clean
+- start work by 1pm
+- 3hrs isf
+- 1hr writing
