@@ -3836,9 +3836,8 @@ Came to lab from Alexi's at 9am.
 
 - stretch
 - start work by 12am
-- hf estimate
-* 2.5hrs isf
-- leave lab by 6
-- yoga
++ hf estimate
++ 2.5hrs isf
+- leave lab by 8
+- swim
 - 1hr writing
-
