@@ -3854,9 +3854,9 @@ Came to lab from Alexi's at 9am.
 ### Friday, October 26th 2018
 
 - start work by 2:30
-- 15mins cleaning
-- 3hrs isf
-- 1hr af
-- leave lab by 8:45pm
-- swim
+- 1hr cleaning
++ 3hrs isf
+- leave lab by 9:00pm
 - 30mins writing
+
+https://staging.isf.video/sketches/5bd0b94c318de34d4de68f41
