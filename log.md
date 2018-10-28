@@ -3860,3 +3860,9 @@ Came to lab from Alexi's at 9am.
 - 30mins writing
 
 https://staging.isf.video/sketches/5bd0b94c318de34d4de68f41
+
+### Saturday, October 27th 2018
+
+- 1hr isf
+- 1hr clean
+- bed @ 1:30am
