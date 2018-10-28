@@ -3863,6 +3863,24 @@ https://staging.isf.video/sketches/5bd0b94c318de34d4de68f41
 
 ### Saturday, October 27th 2018
 
-- 1hr isf
-- 1hr clean
-- bed @ 1:30am
++ 1hr isf
++ 1hr clean
+* bed @ 1:30am
+
+## Week of October 28th, 2018
+
+- hit all software engineering rescuetime goals
+- hit all mobile rescuetime goals
+- 2x swimming
+- 2x yoga
+- no kratom
+
+### Sunday, October 28th 2018
+
+- swim 
+- clean cage
+- 2hrs swe
+- release frogger
+- 1hr writing
+- bed by 12:30
+- prescription
