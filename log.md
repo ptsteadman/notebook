@@ -3877,10 +3877,21 @@ https://staging.isf.video/sketches/5bd0b94c318de34d4de68f41
 
 ### Sunday, October 28th 2018
 
-- swim 
-- clean cage
-- 2hrs swe
-- release frogger
++ swim 
++ clean cage
++ 2hrs swe
++ release frogger
 - 1hr writing
-- bed by 12:30
-- prescription
++ bed by 12:30
++ prescription
+
+### Monday, October 29th 2018
+
++ yoga
+- 20mins clean
+- start work by 1:30
+- 30mins writing
+- af stuff
+- hf stuff
+- 2hrs isf
+- leave lab by 8pm
