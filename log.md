@@ -3895,7 +3895,7 @@ https://staging.isf.video/sketches/5bd0b94c318de34d4de68f41
 + hf stuff
 + garrett stuff
 + s94 stuff
-- 2hrs isf
+* 2hrs isf
 - leave lab by 8pm
 
 
@@ -3911,3 +3911,15 @@ N-EthylCallingYourGrandmotherEveryOnceandWhile
 
 Methylenedioxyweelklyworkoutschedule
 I laughed a little and got sad when I read this
+
+### Tuesday, October 30th 2018
+
+- 20mins cleaning
+- start work by 1:30
+- 2hrs isf
+- finish af stuff
+- af deploy 
+- leave lab by 8pm
+- pigeons
+- clean cage
+- put out trash
