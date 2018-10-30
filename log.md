@@ -3890,10 +3890,24 @@ https://staging.isf.video/sketches/5bd0b94c318de34d4de68f41
 + yoga
 + 20mins clean
 + start work by 1:30
-- 30mins writing
-- af stuff
-- hf stuff
-- garrett stuff
-- s94 stuff
++ 30mins writing
++ af stuff
++ hf stuff
++ garrett stuff
++ s94 stuff
 - 2hrs isf
 - leave lab by 8pm
+
+
+My vendor gave me a heads up to the new stims being developed
+
+6,8-Hrs-of-sleep
+
+5-me-Eating healthy
+
+bk-Fulfilling-Social-Life
+
+N-EthylCallingYourGrandmotherEveryOnceandWhile
+
+Methylenedioxyweelklyworkoutschedule
+I laughed a little and got sad when I read this
