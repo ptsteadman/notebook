@@ -3914,12 +3914,12 @@ I laughed a little and got sad when I read this
 
 ### Tuesday, October 30th 2018
 
-- 20mins cleaning
-- start work by 1:30
-- 2hrs isf
++ 20mins cleaning
++ start work by 1:30
++ 2hrs isf
 - finish af stuff
 - af deploy 
 - leave lab by 8pm
-- pigeons
++ pigeons
 - clean cage
 - put out trash
