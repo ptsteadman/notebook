@@ -3922,4 +3922,22 @@ I laughed a little and got sad when I read this
 - leave lab by 8pm
 + pigeons
 - clean cage
-- put out trash
++ put out trash
+
+### Wednesday, October 31st 2018
+
++ invoice isf
++ 2hrs swe
+- af estimate
++ swim
+* 1hr cleaning
++ finances
+
+### Thursday, November 1st 2018
+
+- 30 minutes cleaning
+- start work at 1:30
+- af estimate
+- af deploy
+- isf footer
+- 30mins writing
