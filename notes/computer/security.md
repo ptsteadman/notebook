@@ -50,3 +50,6 @@ HTML email body or attachment. A real CSRF vulnerability in uTorrent
 localhost:8080 allowed mission-critical actions to be executed as a matter of
 simple GET request:
 
+### GPG
+
+gpg --encrypt --sign --armor -r person@email.com -r me@me.com name_of_file

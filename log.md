@@ -3935,9 +3935,21 @@ I laughed a little and got sad when I read this
 
 ### Thursday, November 1st 2018
 
-- 30 minutes cleaning
-- start work at 1:30
++ 30 minutes cleaning
++ start work at 1:30
 - af estimate
 - af deploy
 - isf footer
 - 30mins writing
+
+### Monday, November 5th 2018
+
+- clean pigeon house
+- dishes / swiffer / room
+- start work at 12:30
+- start at 12:30
+- af estimate
+- hf contract
+- isf footer
+- isf merge
+- leave lab by 8pm
