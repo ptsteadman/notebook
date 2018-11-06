@@ -3962,10 +3962,28 @@ I laughed a little and got sad when I read this
 + clean lab
 * leave lab by 8pm
 
+I think that "gatekeeping" should be reclaimed and rehabilitated, westie-leftish
+nerd distaste towards the practice is silly and dysfunctional
+
+Making a hard choice in your teens and 20s and being insecure about it for the rest of your life is a hallmark of adulthood.
+
 ### Tuesday, November 6th 2018
 
 - am swim
+- 15mins cleaning
+- start work by 11:30
 - af deploy
+- 2hrs isf
+- 1hr ola
+- leave lab by 7:30
+- vote
+
+there's no way other countries are going to develop the same context for
+technological culture that we have, the 90s and 2000s internets arent going to
+replay in their countries until they catch up with us
+
+realizing it is probably much more effective getting into a few wechat groups
+than physically going to shenzhen to learn about the scene
 
 ### Wednesday, November 7th 2018
 
