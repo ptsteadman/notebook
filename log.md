@@ -3869,11 +3869,11 @@ https://staging.isf.video/sketches/5bd0b94c318de34d4de68f41
 
 ## Week of October 28th, 2018
 
-- hit all software engineering rescuetime goals
+* hit all software engineering rescuetime goals
 - hit all mobile rescuetime goals
-- 2x swimming
++ 2x swimming
 - 2x yoga
-- no kratom
++ no kratom
 
 ### Sunday, October 28th 2018
 
@@ -3942,14 +3942,39 @@ I laughed a little and got sad when I read this
 - isf footer
 - 30mins writing
 
+## Week of November 4th, 2018
+
+- exercise every day
+- no substances MoTuTh
+- 15hrs swe
+- 
+
 ### Monday, November 5th 2018
 
-- clean pigeon house
-- dishes / swiffer / room
-- start work at 12:30
-- start at 12:30
-- af estimate
-- hf contract
-- isf footer
++ yoga
++ clean pigeon house
++ dishes / swiffer / room
+* start work at 12:30
++ af estimate
++ hf contract
++ isf footer
 - isf merge
-- leave lab by 8pm
++ clean lab
+* leave lab by 8pm
+
+### Tuesday, November 6th 2018
+
+- am swim
+- af deploy
+
+### Wednesday, November 7th 2018
+
+- am boot camp
+
+### Thursday, November 8th 2018
+
+- am swim
+
+### Friday, November 9th 2018
+
+- yoga

@@ -53,6 +53,11 @@ Copy pwd to clipboard and use in another terminal:
 
 `cd $(xclip -o)`
 
+kill everything matching regex:
+
+pkill -9 -f foo
+
+
 ## Ubuntu Nvidia Driver Stuff
 
 - Add the `graphics-drivers` ppa. You can view current ppas with `vim
