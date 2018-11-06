@@ -3969,11 +3969,14 @@ Making a hard choice in your teens and 20s and being insecure about it for the r
 
 ### Tuesday, November 6th 2018
 
-- am swim
-- 15mins cleaning
-- start work by 11:30
++ am swim
++ 15mins cleaning
++ start work by 11:30
 - af deploy
 - 2hrs isf
+    - ensure good deploy
+    - private shaders in search results
+    - db backup
 - 1hr ola
 - leave lab by 7:30
 - vote
@@ -3984,6 +3987,8 @@ replay in their countries until they catch up with us
 
 realizing it is probably much more effective getting into a few wechat groups
 than physically going to shenzhen to learn about the scene
+
+almost every human dream becomes a nightmare if you wait long enough
 
 ### Wednesday, November 7th 2018
 
