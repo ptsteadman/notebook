@@ -3972,14 +3972,14 @@ Making a hard choice in your teens and 20s and being insecure about it for the r
 + am swim
 + 15mins cleaning
 + start work by 11:30
-- af deploy
-- 2hrs isf
++ af deploy
+* 2hrs isf
     - ensure good deploy
     - private shaders in search results
     - db backup
-- 1hr ola
-- leave lab by 7:30
-- vote
++ 1hr ola
+* leave lab by 7:30
++ vote
 
 there's no way other countries are going to develop the same context for
 technological culture that we have, the 90s and 2000s internets arent going to
