@@ -4009,4 +4009,10 @@ almost every human dream becomes a nightmare if you wait long enough
 
 ### Friday, November 9th 2018
 
-- yoga
+- 1hr cleaning
++ clean lab
++ respond to af
+* 1.5hrs isf
++ 0.5 hrs ola
+- write something
+- swim
