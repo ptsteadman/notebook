@@ -4020,7 +4020,7 @@ almost every human dream becomes a nightmare if you wait long enough
 
 - exercise every weekday
 - meet all swe rescuetime goals
-- no subs su/mo/tu/th
+- no subs mo/tu/th
 
 ### Sunday, November 11th 2018
 
@@ -4030,13 +4030,43 @@ almost every human dream becomes a nightmare if you wait long enough
 
 ### Monday, November 12th 2018
 
-- yoga
-- clean pigeon cages
++ yoga
++ clean pigeon cages
 - start work by 11:30
 - thanksgiving plans
 - 2hrs isf
 - 1hr af
 - leave lab by 7:30
+
+-----BEGIN PGP MESSAGE-----
+Comment: https://keybase.io/download
+Version: Keybase Go 2.10.0 (linux)
+
+wcFMAxeUi+zldDa+ARAAOVoyaR6DZztNcRVzyqfb+gPywNW9VghorKhPnFh9TPBI
+ptSOn205UdVPReJx4EhgAWGu261em6Py+ncr0CiLIckObcniBYqHf6eWmczCZans
+t5YmOeyHUXBo1WpjHSViTIQUfvzImxU6W8a48p24bMiuqrasgM3izt+7nYleD0H2
+q7QQNc2S5c8/FRiQ7CeHsCxcdlwPZVfWdvQZ4+VUsC/kgo6WUQhuBIDJHlB7k2G6
+C89WXWlsNcgxkO9WGNPHrf91aj3e6gsoGGKAFkf1nbHuN9sTrMnQTB+rf0jbjp+J
+SCpc+CtpRrBmJ6efQhiDIK1kjJQAmfti8zSgiS18w54w49Lo4++1YfZE9Gm+9Vvp
+ne6yP9pc/oZd7ZWubH8hrPt+1TEYbHSmwrpc1p8LXW5ESmPOFcdYwAj0r7ZqtKco
+ZdJbh/IsGd8ghdsVjsv5dz7/vv2/JCsvM3vrXwqWMzlW8j4ccNU8JmpBp7zxioJy
+My3OR4bhIRtbuhN80FkKpw8BnFNdRIIYO4ThM7PjqkhrQabBWXzhmSTmR+BVKrSq
+ntvVDKuwl9XpwII1cDiP+h+2al/5S8R/AcZgcyGOPx41eMFoq5m8BCuB5N5eEMiy
+2e1BunxxRTNlh1EiL5sXf0JtjR0tZZzKcApFs3Pf9UZ+bjGt5BtZEJIWaNRlfDXS
+4AHkn68QxYu3WzsZxCe/eD2IM+E+geBZ4IPh3QLg1eL1oLL24HXo4FA+XVDcRDsh
+YM9CkL8kwsOQjXMABMB17egS7pLOdISGa93WPdctseKaGk3YgIq0MpYJ9kMkYIkj
+9zWSfT3PxIFvVfHJL94IXzNI7Sn9x0wtqnm2EzqtIJOMlaHGma3N/HXNGOM8QvMH
+BXMYXlMEUusFzpiNHB+rpSzmD+r8ESVbvkxkcf3iIgoVG954OKa/kQol347Q/J1z
+IdY9RfmQv4Sgy91gljkeqDY3zNH9g8zlJW4IYe4zLmRc0R5TW8KeAiNSN3KAlxxG
+b7aDh6cjSouMbaiyWrXxhZoLsdARMa5RV19qlJ+DCalPHWHFBtyP5ywc9WfBxYWC
+VzFkWsHSnOBH5yh+FTNAkuC6Daozh3yC4bWO0xmQQIXJnbK6tpewKJoRKPhOM+ss
+GlkWst34PDpOf/CDhY+5dlK2okHq1HOV3o9654tH9BXRybEdNXsc59SNbHAqvwa1
+ZaIdYLLd3GUp7bhOWEcoNvXTOCY0svSgsCNYNQZD+5Li4YFIvfeZVTtp4Jflgc8J
+X1FDfTvFRUfhGKeQV7KZRCDh/uFzuSIg2++yri/gTuDY4DHkAZkaDyY+BKYZWbp9
+x3AlCuIW+PNH4SCHAA==
+=93Hj
+-----END PGP MESSAGE-----
+
 
 ### Tuesday, November 13th 2018 
 
