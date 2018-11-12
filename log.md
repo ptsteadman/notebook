@@ -3992,7 +3992,16 @@ almost every human dream becomes a nightmare if you wait long enough
 
 ### Wednesday, November 7th 2018
 
-- am boot camp
++ am gym
++ xero + verizon
++ grocery store
+- 1hr cleaning
+- write something
+* 2hrs isf
++ 1.5hrs ola
++ plan tomorrow
+- bed at 12pm
+
 
 ### Thursday, November 8th 2018
 
