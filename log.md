@@ -4015,3 +4015,29 @@ almost every human dream becomes a nightmare if you wait long enough
 + 0.5 hrs ola
 - write something
 + swim
+
+## Week of November 11th, 2018
+
+- exercise every weekday
+- meet all swe rescuetime goals
+- no subs su/mo/tu/th
+
+### Sunday, November 11th 2018
+
+- sleep before 12:30
+- write
+- no subs
+
+### Monday, November 12th 2018
+
+- yoga
+- clean pigeon cages
+- start work by 11:30
+- thanksgiving plans
+- 2hrs isf
+- 1hr af
+- leave lab by 7:30
+
+### Tuesday, November 13th 2018 
+
+- swim
