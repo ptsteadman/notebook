@@ -3944,10 +3944,9 @@ I laughed a little and got sad when I read this
 
 ## Week of November 4th, 2018
 
-- exercise every day
-- no substances MoTuTh
++ exercise every day
++ no substances MoTuTh
 - 15hrs swe
-- 
 
 ### Monday, November 5th 2018
 
