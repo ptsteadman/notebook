@@ -3995,7 +3995,7 @@ almost every human dream becomes a nightmare if you wait long enough
 + am gym
 + xero + verizon
 + grocery store
-- 1hr cleaning
+* 1hr cleaning
 - write something
 * 2hrs isf
 + 1.5hrs ola
@@ -4009,10 +4009,10 @@ almost every human dream becomes a nightmare if you wait long enough
 
 ### Friday, November 9th 2018
 
-- 1hr cleaning
+* 1hr cleaning
 + clean lab
 + respond to af
 * 1.5hrs isf
 + 0.5 hrs ola
 - write something
-- swim
++ swim
