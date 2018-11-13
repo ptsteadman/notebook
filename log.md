@@ -4033,10 +4033,10 @@ almost every human dream becomes a nightmare if you wait long enough
 + yoga
 + clean pigeon cages
 - start work by 11:30
-- thanksgiving plans
-- 2hrs isf
++ thanksgiving plans
++ 2hrs isf
 - 1hr af
-- leave lab by 7:30
+* leave lab by 7:30
 
 -----BEGIN PGP MESSAGE-----
 Comment: https://keybase.io/download
@@ -4070,4 +4070,10 @@ x3AlCuIW+PNH4SCHAA==
 
 ### Tuesday, November 13th 2018 
 
+- hf meeting
+- 1hr isf
+- 1.5hrs af
+- 1hr ola
+- 30mins clean
 - swim
+- bed at 11pm
