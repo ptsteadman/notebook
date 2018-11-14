@@ -4070,10 +4070,12 @@ x3AlCuIW+PNH4SCHAA==
 
 ### Tuesday, November 13th 2018 
 
-- hf meeting
++ hf meeting
 - 1hr isf
 - 1.5hrs af
 - 1hr ola
 - 30mins clean
-- swim
 - bed at 11pm
+
+got sort of "stuck" messing around with wordpress.
+snapped out of it and was able to put a bit of time towards isf tho
