@@ -4071,7 +4071,7 @@ x3AlCuIW+PNH4SCHAA==
 ### Tuesday, November 13th 2018 
 
 + hf meeting
-- 1hr isf
+* 1hr isf
 - 1.5hrs af
 - 1hr ola
 - 30mins clean
@@ -4079,3 +4079,10 @@ x3AlCuIW+PNH4SCHAA==
 
 got sort of "stuck" messing around with wordpress.
 snapped out of it and was able to put a bit of time towards isf tho
+
+### Wednesday, November 14th 2018
+
+- swim
+- 30mins isf
+- 30mins ola
+
