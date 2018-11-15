@@ -4083,6 +4083,15 @@ snapped out of it and was able to put a bit of time towards isf tho
 ### Wednesday, November 14th 2018
 
 - swim
-- 30mins isf
++ 30mins isf
 - 30mins ola
+
+### Thursday, November 15th 2018
+
+- 1.5hrs mm
+- 0.5hrs ola
+- 0.5hrs isf
+- no subs
+
+
 
