@@ -4088,10 +4088,15 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 ### Thursday, November 15th 2018
 
-- 1.5hrs mm
-- 0.5hrs ola
++ 1.5hrs mm
++ 0.5hrs ola
 - 0.5hrs isf
 - no subs
+
+### Saturday, November 17th 2018
+
+- 1hr cleaning
+- write
 
 
 
