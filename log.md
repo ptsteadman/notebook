@@ -4116,10 +4116,10 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 ### Tuesday, November 20th 2018
 
-- clean pigeon cage
-- set up stuff for emily
++ clean pigeon cage
++ set up stuff for emily
 - yoga vid
-- clean room
++ clean room
 - hf email / invoice
 - af email / invoice
 
