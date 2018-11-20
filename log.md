@@ -4105,5 +4105,23 @@ snapped out of it and was able to put a bit of time towards isf tho
 + writing
 + cleaning 
 
+### Monday, November 19th 2018
+
++ 2hrs mm
++ 1hr af
+- 30mins isf
+- leave lab at 8pm
++ no subs
+- clean pigeon cages
+
+### Tuesday, November 20th 2018
+
+- clean pigeon cage
+- set up stuff for emily
+- yoga vid
+- clean room
+- hf email / invoice
+- af email / invoice
+
 
 
