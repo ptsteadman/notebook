@@ -4100,8 +4100,8 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 ### Monday, November 19th 2018
 
-- 2hrs mm
-- 1hr af
++ 2hrs mm
++ 1hr af
 - 30mins isf
 - leave lab at 8pm
 - no subs
