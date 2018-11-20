@@ -4095,8 +4095,15 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 ### Saturday, November 17th 2018
 
-- 1hr cleaning
++ 1hr cleaning
 - write
+
+### Sunday, November 28th 2018
+
++ laundry
+- gym
++ writing
++ cleaning 
 
 
 
