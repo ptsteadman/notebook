@@ -4120,8 +4120,15 @@ snapped out of it and was able to put a bit of time towards isf tho
 + set up stuff for emily
 - yoga vid
 + clean room
-- hf email / invoice
-- af email / invoice
++ hf email / invoice
++ af email / invoice
+
+### Wednesday, November 21st 2018
+
+- 2hrs breez
+- 0.5hrs isf
+- row
+- write
 
 
 
