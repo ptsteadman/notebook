@@ -4130,5 +4130,12 @@ snapped out of it and was able to put a bit of time towards isf tho
 + row
 - write
 
+### Thursday, November 22nd 2018
+
+- 1hr breez
+- row
+- write
+- take 'ways of seeing' quotes
+
 
 
