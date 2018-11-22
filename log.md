@@ -4125,9 +4125,9 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 ### Wednesday, November 21st 2018
 
-- 2hrs breez
++ 2hrs breez
 - 0.5hrs isf
-- row
++ row
 - write
 
 
