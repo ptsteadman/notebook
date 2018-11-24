@@ -4140,7 +4140,7 @@ snapped out of it and was able to put a bit of time towards isf tho
 ### Friday, November 23rd 2018
 
 + yoga
-- 1hr breez
++ 1hr breez
 - write
 
 
