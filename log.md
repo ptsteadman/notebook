@@ -4132,10 +4132,16 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 ### Thursday, November 22nd 2018
 
-- 1hr breez
-- row
+* 1hr breez
++ row
 - write
 - take 'ways of seeing' quotes
+
+### Friday, November 23rd 2018
+
++ yoga
+- 1hr breez
+- write
 
 
 
