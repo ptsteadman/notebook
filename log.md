@@ -4143,5 +4143,21 @@ snapped out of it and was able to put a bit of time towards isf tho
 + 1hr breez
 - write
 
+### Monday, November 26th 2018
+
++ yoga
+* 1hr cleaning
++ pigeon cages
+
+### Tuesday, November 27th 2018
+
+- clean lab
++ 1.5hrs af
+- hf email
+- 1hr isf
++ ola update
+- clean pigeon house
+- leave lab by 8pm
+- swim
 
 
