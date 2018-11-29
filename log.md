@@ -4143,5 +4143,9 @@ snapped out of it and was able to put a bit of time towards isf tho
 + 1hr breez
 - write
 
+### Monday, November 26th 2018
 
++ yoga video 
+* 45mins cleaning
++ unpack
 
