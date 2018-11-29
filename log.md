@@ -4151,13 +4151,22 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 ### Tuesday, November 27th 2018
 
-- clean lab
++ clean lab
 + 1.5hrs af
-- hf email
-- 1hr isf
++ hf email
++ 1hr isf
 + ola update
-- clean pigeon house
++ clean pigeon house
++ leave lab by 8pm
++ swim
+
+### Wednesday, November 28th 2018
+
++ 1.5hrs isf
+- 1hr clean
+- 1hr breez
+- no subs
+- yoga
 - leave lab by 8pm
-- swim
 
 
