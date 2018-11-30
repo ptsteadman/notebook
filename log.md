@@ -4169,3 +4169,22 @@ snapped out of it and was able to put a bit of time towards isf tho
 - yoga
 - leave lab by 8pm
 
+### Thursday, November 29th 2018
+
++ xero rec
+- urbit registration
+- 1hr isf
++ 2hrs breez
++ breez proposal
++ 1hr clean
+- write
++ yoga
+
+### Friday, November 30th 2018
+
+- 30mins clean
+- yoga
+- 1.5hrs isf
+- 1.5hrs af
+- write
+- urbit registration
