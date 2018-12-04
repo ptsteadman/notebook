@@ -4204,5 +4204,5 @@ snapped out of it and was able to put a bit of time towards isf tho
 - shopping
 - clean lab
 - 1.5hrs isf
-- 1.5hrs mm
++ 1.5hrs mm
 - 0.75hrs cleaning
