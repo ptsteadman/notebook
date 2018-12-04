@@ -4188,3 +4188,20 @@ snapped out of it and was able to put a bit of time towards isf tho
 - 1.5hrs af
 - write
 + urbit registration
+
+### Monday, December 3rd 2018
+
+- clean pigeon zone
+- 0.75hrs cleaning
+- 0.75hrs gift guide
+- 0.75hrs isf
+- no subs
+
+### Tuesday, December 4th 2018
+
+- yoga or swimming
+- lab by 10:30am
+- shopping
+- 1.5hrs isf
+- 1.5hrs mm
+- 0.75hrs cleaning
