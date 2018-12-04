@@ -4182,9 +4182,9 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 ### Friday, November 30th 2018
 
-- 30mins clean
-- yoga
++ 30mins clean
++ yoga
 - 1.5hrs isf
 - 1.5hrs af
 - write
-- urbit registration
++ urbit registration
