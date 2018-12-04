@@ -4199,9 +4199,10 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 ### Tuesday, December 4th 2018
 
-- yoga or swimming
++ yoga or swimming
 - lab by 10:30am
 - shopping
+- clean lab
 - 1.5hrs isf
 - 1.5hrs mm
 - 0.75hrs cleaning
