@@ -4206,3 +4206,13 @@ snapped out of it and was able to put a bit of time towards isf tho
 - 1.5hrs isf
 + 1.5hrs mm
 - 0.75hrs cleaning
+
+### Thursday, December 6th 2018
+
++ yoga
++ 0.5hrs isf
++ 1.5hrs mm
+- 1.5hrs af
+- clean pigeon zone
+- bed at 1am
+- 30mins cleaning
