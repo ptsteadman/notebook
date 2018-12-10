@@ -4193,7 +4193,6 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 - clean pigeon zone
 - 0.75hrs cleaning
-- 0.75hrs gift guide
 - 0.75hrs isf
 - no subs
 
@@ -4202,7 +4201,8 @@ snapped out of it and was able to put a bit of time towards isf tho
 + yoga or swimming
 - lab by 10:30am
 - shopping
-- clean lab
++ clean lab
 - 1.5hrs isf
 + 1.5hrs mm
++ 0.75hrs gift guide
 - 0.75hrs cleaning
