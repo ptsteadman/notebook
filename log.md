@@ -4216,3 +4216,16 @@ snapped out of it and was able to put a bit of time towards isf tho
 - clean pigeon zone
 - bed at 1am
 - 30mins cleaning
+
+### Monday, December 10th 2018
+
+- swim
+- dishes
+- clean room
+- lab by 2:30
+- 1.5hrs af
+- 1.5hrs isf
+- pay verizon bill
+- some xmas shopping
+- edit pitch
+- leave lab by 8:45
