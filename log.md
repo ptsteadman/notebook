@@ -4193,7 +4193,6 @@ snapped out of it and was able to put a bit of time towards isf tho
 
 - clean pigeon zone
 - 0.75hrs cleaning
-- 0.75hrs gift guide
 - 0.75hrs isf
 - no subs
 
@@ -4202,9 +4201,10 @@ snapped out of it and was able to put a bit of time towards isf tho
 + yoga or swimming
 - lab by 10:30am
 - shopping
-- clean lab
++ clean lab
 - 1.5hrs isf
 + 1.5hrs mm
++ 0.75hrs gift guide
 - 0.75hrs cleaning
 
 ### Thursday, December 6th 2018
@@ -4217,11 +4217,11 @@ snapped out of it and was able to put a bit of time towards isf tho
 - bed at 1am
 - 30mins cleaning
 
-
 ## Week of Sunday, December 8th 2018
 
 - exercise every day
 - no subs on weekdays
+- 3hrs client work / day
 
 ### Sunday, December 8th 2018
 
@@ -4229,10 +4229,29 @@ snapped out of it and was able to put a bit of time towards isf tho
 - 1.5hrs isf
 - leave lab by 9:30
 
-### Monday, December 9th 2018
+### Monday, December 10th 2018
 
-- yoga
++ swim
++ dishes
+- clean room
+- lab by 2:30
+- 1.5hrs af
+* 1.5hrs isf
 - pay verizon bill
-- lab by 10:30
++ some xmas shopping
++ edit pitch
+- leave lab by 8:45
 
+fuck should have got (more) client work done!
 
+### Tuesday, December 11th 2018
+
++ post craigslist ads
++ pay verizon bill
++ get prescription
+- 2hrs af
++ 2hrs mm
+- leave lab before 8pm
+- swim
++ contact elias, willis re: pitch
+- read vc funding stuff
