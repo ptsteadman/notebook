@@ -4216,3 +4216,23 @@ snapped out of it and was able to put a bit of time towards isf tho
 - clean pigeon zone
 - bed at 1am
 - 30mins cleaning
+
+
+## Week of Sunday, December 8th 2018
+
+- exercise every day
+- no subs on weekdays
+
+### Sunday, December 8th 2018
+
++ craigslist post
+- 1.5hrs isf
+- leave lab by 9:30
+
+### Monday, December 9th 2018
+
+- yoga
+- pay verizon bill
+- lab by 10:30
+
+
