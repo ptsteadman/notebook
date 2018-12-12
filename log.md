@@ -4251,7 +4251,17 @@ fuck should have got (more) client work done!
 + get prescription
 - 2hrs af
 + 2hrs mm
-- leave lab before 8pm
-- swim
++ leave lab before 8pm
++ swim
 + contact elias, willis re: pitch
-- read vc funding stuff
++ read vc funding stuff
+
+### Wednesday, December 12th 2018
+
+- yoga
+- clean room
+- lab by 10:40
+- 1.5hrs mm
+- 2.5hrs af
+- some xmas shopping
+- work on funding plan
