@@ -4261,7 +4261,7 @@ fuck should have got (more) client work done!
 - yoga
 - clean room
 - lab by 10:40
-- 1.5hrs mm
++ 1.5hrs mm
 - 2.5hrs af
 - some xmas shopping
-- work on funding plan
++ work on funding plan
