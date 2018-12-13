@@ -4265,3 +4265,10 @@ fuck should have got (more) client work done!
 - 2.5hrs af
 - some xmas shopping
 + work on funding plan
+
+### Thursday, December 13th 2018
+
+- yoga
+- clean pigeon zone
+- 20mins cleaning
+- 2hrs af
