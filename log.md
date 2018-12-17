@@ -4272,3 +4272,14 @@ fuck should have got (more) client work done!
 - clean pigeon zone
 - 20mins cleaning
 - 2hrs af
+
+### Monday, December 17th 2018
+
++ yoga
++ 20mins clean
+- 3hrs af
+- xmas shopping
+- work on blog post
+- reduce prices
+- leave lab by 9:30pm
+- food shop
