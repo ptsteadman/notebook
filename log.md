@@ -4278,8 +4278,16 @@ fuck should have got (more) client work done!
 + yoga
 + 20mins clean
 + 3hrs af
-- xmas shopping
++ xmas shopping
 + work on blog post
 + reduce prices
 - leave lab by 9:30pm
 - food shop
+
+### Tuesday, December 18th 2018
+
+- clean pigeon zone
+- yoga
+- 15mins clean
+- 1.5hrs af
+- 1.5hrs isf
