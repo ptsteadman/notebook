@@ -4277,9 +4277,9 @@ fuck should have got (more) client work done!
 
 + yoga
 + 20mins clean
-- 3hrs af
++ 3hrs af
 - xmas shopping
-- work on blog post
-- reduce prices
++ work on blog post
++ reduce prices
 - leave lab by 9:30pm
 - food shop
