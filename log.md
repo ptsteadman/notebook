@@ -4291,3 +4291,25 @@ fuck should have got (more) client work done!
 - 15mins clean
 - 1.5hrs af
 - 1.5hrs isf
+
+### Thursday, December 20th 2018
+
+- yoga
+- 10mins clean
+- proposal
+- amina text
+- 1.5hrs mm
+- 1.5hrs ola
+- xmas shopping 
+- 1.5hrs isf
+
+https://computerlab.io/2018/12/20/deploying-headless-wordpress-on-gcp/
+
+CMS lifecycle:
+
+• 2005: Wordpress rules
+• 2010: Wordpress sux
+• 2015: keystonejs sux
+• 2017: Netlify sux
+• 2018: react-admin sux
+• 2019: Wordpress rules
