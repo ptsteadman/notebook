@@ -4258,10 +4258,10 @@ fuck should have got (more) client work done!
 
 ### Wednesday, December 12th 2018
 
-- yoga
-- clean room
-- lab by 10:40
-- 1.5hrs mm
++ yoga
++ clean room
++ 1.5hrs mm
 - 2.5hrs af
 - some xmas shopping
-- work on funding plan
++ work on funding plan
+
