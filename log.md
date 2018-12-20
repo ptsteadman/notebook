@@ -4260,8 +4260,59 @@ fuck should have got (more) client work done!
 
 + yoga
 + clean room
+- yoga
+- clean room
+- lab by 10:40
 + 1.5hrs mm
 - 2.5hrs af
 - some xmas shopping
 + work on funding plan
 
+### Thursday, December 13th 2018
+
+- yoga
+- clean pigeon zone
+- 20mins cleaning
+- 2hrs af
+
+### Monday, December 17th 2018
+
++ yoga
++ 20mins clean
++ 3hrs af
++ xmas shopping
++ work on blog post
++ reduce prices
+- leave lab by 9:30pm
+- food shop
+
+### Tuesday, December 18th 2018
+
+- clean pigeon zone
+- yoga
+- 15mins clean
+- 1.5hrs af
+- 1.5hrs isf
+
+### Thursday, December 20th 2018
+
+- yoga
+- 10mins clean
+- proposal
+- amina text
+- 1.5hrs mm
+- 1.5hrs ola
+- xmas shopping 
+- 1.5hrs isf
+
+https://computerlab.io/2018/12/20/deploying-headless-wordpress-on-gcp/
+
+CMS lifecycle:
+
+• 2005: Wordpress rules
+• 2010: Wordpress sux
+• 2015: keystonejs sux
+• 2017: Netlify sux
+• 2018: react-admin sux
+• 2019: Wordpress rules
+>>>>>>> bd4f965cd25b391e4bfd018fe235f11efa258514
