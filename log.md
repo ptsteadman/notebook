@@ -4296,12 +4296,12 @@ fuck should have got (more) client work done!
 
 ### Thursday, December 20th 2018
 
-- yoga
-- 10mins clean
-- proposal
++ yoga
++ 10mins clean
++ proposal
 - amina text
 - 1.5hrs mm
-- 1.5hrs ola
++ 1.5hrs ola
 - xmas shopping 
 - 1.5hrs isf
 
@@ -4315,4 +4315,3 @@ CMS lifecycle:
 • 2017: Netlify sux
 • 2018: react-admin sux
 • 2019: Wordpress rules
->>>>>>> bd4f965cd25b391e4bfd018fe235f11efa258514
