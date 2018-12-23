@@ -4305,13 +4305,9 @@ fuck should have got (more) client work done!
 - xmas shopping 
 - 1.5hrs isf
 
-https://computerlab.io/2018/12/20/deploying-headless-wordpress-on-gcp/
+### Sunday, December 22nd 2018
 
-CMS lifecycle:
+- laundry
+- swim
+- clean
 
-• 2005: Wordpress rules
-• 2010: Wordpress sux
-• 2015: keystonejs sux
-• 2017: Netlify sux
-• 2018: react-admin sux
-• 2019: Wordpress rules
