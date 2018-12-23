@@ -4305,7 +4305,7 @@ fuck should have got (more) client work done!
 - xmas shopping 
 - 1.5hrs isf
 
-### Sunday, December 22nd 2018
+### Sunday, December 23rd 2018
 
 - laundry
 - swim
