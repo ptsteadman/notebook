@@ -4311,3 +4311,11 @@ fuck should have got (more) client work done!
 - swim
 - clean
 
+### Sunday, December 30th 2018
+
+- laundry
+- gym
+- 45mins clean
+- make solutions
+- 1.25hrs af
+- 0.5hrs isf
