@@ -4319,3 +4319,11 @@ fuck should have got (more) client work done!
 + make solutions
 - 1.25hrs af
 - 0.5hrs isf
+
+### Monday, December 31st 2018
+
+- yoga
+- clean pigeon zone
+- wash dishes
+- 0.75mins coding
+- 0.5hrs clean
