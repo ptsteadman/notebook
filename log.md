@@ -4321,3 +4321,19 @@ fuck should have got (more) client work done!
 
 
 
+### Sunday, December 30th 2018
+
++ laundry
++ gym
++ 45mins clean
++ make solutions
+- 1.25hrs af
+- 0.5hrs isf
+
+### Monday, December 31st 2018
+
+- yoga
+- clean pigeon zone
+- wash dishes
+- 0.75mins coding
+- 0.5hrs clean
