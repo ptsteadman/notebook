@@ -4309,5 +4309,15 @@ fuck should have got (more) client work done!
 
 - laundry
 - swim
-- clean
++ clean
+
+### Friday, December 28th 2018
+
++ look up card status / bank rec
+    + see if I can find my personal card bc zachary's card seems to not work
+      anymore
+- 1.5hrs breez coding
++ look into mm error
+
+
 
