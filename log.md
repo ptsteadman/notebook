@@ -150,8 +150,9 @@ Privacy advocates are fighting a losing rear-guard action against reality.
 
 Determined by the level of abstraction at which you can see.
 
-You are known better than you know yourself.  Because you don't see yourself at
-that level of abstraction.
+You are known better than you know yourself. (Because you are unable to see yourself at
+the high levels of abstraction that other technical or social artefacts /
+systems can.)
 
 ### Sunday, August 21st 2016
 
@@ -4320,7 +4321,6 @@ fuck should have got (more) client work done!
 + look into mm error
 
 
-
 ### Sunday, December 30th 2018
 
 + laundry
@@ -4332,8 +4332,69 @@ fuck should have got (more) client work done!
 
 ### Monday, December 31st 2018
 
-- yoga
-- clean pigeon zone
-- wash dishes
++ yoga
++ clean pigeon zone
++ wash dishes
 - 0.75mins coding
-- 0.5hrs clean
++ 0.5hrs clean
+
+### Wednesday, January 2nd 2018
+
++ gym
++ send email to venkatesh
+
+
+Hey,
+
+I'm interested in writing (or having someone write) a sort of meta-analysis of bleeding edge ideas on privacy, especially privacy of thought.
+
+Some people whose thoughts I'm interested in including (and building a framework around):
+
+1. my own, including some ideas from "What I Learned From Live-Tweeting My Google Searches"
+
+"I think these three categories point to three important use-cases of privacy: 1) a way to care for the emotions of others, 2) a tool in competition, 3) a filter of irrelevant information."
+
+2. some ideas from Cixin Liu **three body problem spoiler alert!**
+
+a. the idea of an alien species (the trisolarians) who communicate electromagnetically and thus have no privacy of thought...what are the implications?
+
+b. the idea of hyper-surveillance up to "the physical limits of privacy": thousands of hyperdimensional supercomputer survelliance particles ("sophons") that can do mass surveillance of an entire planet...in the book, they can survey just about everything *except* human thought. i'd also want to do a bit of hard research on the science of this 
+
+c. the idea of "wallfacers", people who live (either by their own choice or (as in the book, by the choice of society) in the sort of "straussian silence" you tweeted about. they are empowered but don't make their beliefs or plans known for strategic reasons
+
+**end three body problem spoiler alert**
+
+d. related: the origin of tor-like private internet privacy tools from/for community of displaced falun gong practitioners in 2001 / 2002 [citation needed]
+https://en.wikipedia.org/wiki/Freegate https://en.wikipedia.org/wiki/Ultrasurf
+
+3. some ideas from Richard Thieme...here are some paraphrased quotes from a talk he does at def con:
+
+"The definition of privacy is the weakest link in discussions about privacy."
+
+"Privacy advocates are always fighting a losing rear-guard action against reality."
+
+"You are known better than you know yourself." (Because you are unable to see yourself at
+the high levels of abstraction that other technical or social 
+systems can.)
+
+4. thoughts from / about megan boyle's "Liveblog"
+
+5. i'm sure gibson / adrian chen on livestreamers / past ribbonfarm writers / monero devs / have other ideas
+
+I'm mostly sending this email to start organizing my thoughts, I don't have the bandwidth at the moment to write the piece, but think it could make sense at ribbonfarm if you're interested. Have you seen a high-quality meta-analysis like this before? Know someone who would be interested in cowriting or paying enough that I would have time to work on it?
+
++ 3hrs breez
++ bank rec
++ send joan + robbie ty note
+- 1.5hrs af
+- 45mins clean
+- work on exec summary
++ no subs
+- bed by 1am
+
+### Thursday, January 3rd 2018
+
+- 15 mins clean lab
+- leave lab by 10
+
+### Friday, January 4th 2018

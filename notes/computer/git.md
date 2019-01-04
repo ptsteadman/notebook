@@ -16,3 +16,10 @@ apart, etc
 
 Add `*.s??` to `~/.gitignore` to globally ignore vim swap files
 and then run `git config --global core.excludesfile ~/.gitignore`
+
+Autopush: add executable (chmod +x) file in .git/hooks/post-commit that contains the following:
+
+```
+#!/bin/sh
+git push origin master
+```
