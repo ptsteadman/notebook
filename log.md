@@ -4405,8 +4405,9 @@ I'm mostly sending this email to start organizing my thoughts, I don't have the 
 + jashin email
 + mmonk email
 + stuart email
-- 2hr isf
+* 2hr isf
 - 1hr af
 
+### Saturday, January 5th 2018
 
 
