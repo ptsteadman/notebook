@@ -4394,7 +4394,19 @@ I'm mostly sending this email to start organizing my thoughts, I don't have the 
 
 ### Thursday, January 3rd 2018
 
-- 15 mins clean lab
-- leave lab by 10
++ 15 mins clean lab
++ leave lab by 10
 
 ### Friday, January 4th 2018
+
++ 0.5hr cleaning
+- yoga video
+- call c1
++ jashin email
++ mmonk email
++ stuart email
+- 2hr isf
+- 1hr af
+
+
+
