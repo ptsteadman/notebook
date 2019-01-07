@@ -4410,4 +4410,21 @@ I'm mostly sending this email to start organizing my thoughts, I don't have the 
 
 ### Saturday, January 5th 2018
 
+- yoga video
+- 0.5hr clean
+- call c1
+- read outside 2hrs
 
+lawyers are like programmers is that one of them can cause big problems for a large institution
+
+### Monday, January 7th 2018
+
++ yoga
+- haircut
+- 2.5hrs af
+- 1hr isf
+- ola work
+- exec summary work
+- leave lab by 9:15pm
+- no subs
+- call c1
