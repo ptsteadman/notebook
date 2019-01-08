@@ -4420,11 +4420,11 @@ lawyers are like programmers is that one of them can cause big problems for a la
 ### Monday, January 7th 2018
 
 + yoga
-- haircut
++ haircut
 - 2.5hrs af
 - 1hr isf
-- ola work
-- exec summary work
-- leave lab by 9:15pm
++ ola work
++ exec summary work
++ leave lab by 9:15pm
 - no subs
-- call c1
++ call c1
