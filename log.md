@@ -4433,9 +4433,18 @@ lawyers are like programmers is that one of them can cause big problems for a la
 
 + yoga
 + 2.5hrs af
-- 1hr isf
-- 1hr mm
-- figure out how stripe atlas works with 'safe' documents
+* 1hr isf
++ 1hr mm
++ figure out how stripe atlas works with 'safe' documents
 + work on executive summary
-- no subs
-- leave lab by 9:15
++ no subs
++ leave lab by 9:15
+
+### Wednesday, January 9th 2019
+
++ swim
+- 1.5hrs af
+- 0.5hrs isf
+- ping victoria re: info
+- bed by 1am
+
