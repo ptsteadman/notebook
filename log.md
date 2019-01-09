@@ -4338,7 +4338,7 @@ fuck should have got (more) client work done!
 - 0.75mins coding
 + 0.5hrs clean
 
-### Wednesday, January 2nd 2018
+### Wednesday, January 2nd 2019
 
 + gym
 + send email to venkatesh
@@ -4392,12 +4392,12 @@ I'm mostly sending this email to start organizing my thoughts, I don't have the 
 + no subs
 - bed by 1am
 
-### Thursday, January 3rd 2018
+### Thursday, January 3rd 2019
 
 + 15 mins clean lab
 + leave lab by 10
 
-### Friday, January 4th 2018
+### Friday, January 4th 2019
 
 + 0.5hr cleaning
 - yoga video
@@ -4408,7 +4408,7 @@ I'm mostly sending this email to start organizing my thoughts, I don't have the 
 * 2hr isf
 - 1hr af
 
-### Saturday, January 5th 2018
+### Saturday, January 5th 2019
 
 - yoga video
 - 0.5hr clean
@@ -4417,14 +4417,25 @@ I'm mostly sending this email to start organizing my thoughts, I don't have the 
 
 lawyers are like programmers is that one of them can cause big problems for a large institution
 
-### Monday, January 7th 2018
+### Monday, January 7th 2019
 
 + yoga
 + haircut
-- 2.5hrs af
-- 1hr isf
+* 2.5hrs af
+* 1hr isf
 + ola work
 + exec summary work
 + leave lab by 9:15pm
-- no subs
++ no subs
 + call c1
+
+### Tuesday, January 8th 2019
+
++ yoga
++ 2.5hrs af
+- 1hr isf
+- 1hr mm
+- figure out how stripe atlas works with 'safe' documents
++ work on executive summary
+- no subs
+- leave lab by 9:15
