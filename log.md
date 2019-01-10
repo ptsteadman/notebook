@@ -4443,8 +4443,20 @@ lawyers are like programmers is that one of them can cause big problems for a la
 ### Wednesday, January 9th 2019
 
 + swim
-- 1.5hrs af
+* 1.5hrs af
 - 0.5hrs isf
 - ping victoria re: info
-- bed by 1am
++ bed by 1am
+
+### Thursday, January 10th 2019
+
+* 1.25hrs breez
++ build bso
++ 1hr isf
+- 2hrs artguide
+- sva business plan numbers
+- ping victoria re: info
+- leave lab by 9:15
+- yoga
+- no subs
 
