@@ -4456,7 +4456,7 @@ lawyers are like programmers is that one of them can cause big problems for a la
 + 2hrs artguide
 - sva business plan numbers
 + ping victoria re: info
-- leave lab by 9:15
++ leave lab by 9:15
 - yoga
 - no subs
 
@@ -4467,3 +4467,11 @@ lawyers are like programmers is that one of them can cause big problems for a la
 - 1hr mm
 - 1hr isf
 
+### Monday, January 14th 2019
+
+- yoga
+- 0.5hrs clean up
+- 3hrs artguide
+- 1hr mm
+- work sva stripe/guide
+- leave lab by 9:15
