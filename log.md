@@ -4469,9 +4469,20 @@ lawyers are like programmers is that one of them can cause big problems for a la
 
 ### Monday, January 14th 2019
 
-- yoga
-- 0.5hrs clean up
++ yoga
++ 0.5hrs clean up
 - 3hrs artguide
-- 1hr mm
-- work sva stripe/guide
-- leave lab by 9:15
++ 1hr mm
++ work sva stripe/guide
+- leave lab by 9:30
+- no subs
+- bed before midnight
+
+### Tuesday, January 15th 2019
+
+- wake up early
+- yoga
+- 3hrs artguide
+- finish stripe atlas app
+- finish acquisition strategy
+
