@@ -4471,7 +4471,7 @@ lawyers are like programmers is that one of them can cause big problems for a la
 
 + yoga
 + 0.5hrs clean up
-- 3hrs artguide
+* 3hrs artguide
 + 1hr mm
 + work sva stripe/guide
 + leave lab by 9:30
