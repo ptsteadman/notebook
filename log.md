@@ -4481,9 +4481,9 @@ lawyers are like programmers is that one of them can cause big problems for a la
 ### Tuesday, January 15th 2019
 
 + wake up early
-- yoga
-- 0.5hrs clean
-- 3hrs artguide
++ yoga
++ 0.5hrs clean
+* 3hrs artguide
 - 1hr isf
 - finish stripe atlas app
 - finish acquisition strategy
