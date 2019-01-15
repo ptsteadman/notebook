@@ -4482,6 +4482,7 @@ lawyers are like programmers is that one of them can cause big problems for a la
 
 + wake up early
 - yoga
+- 0.5hrs clean
 - 3hrs artguide
 - 1hr isf
 - finish stripe atlas app
