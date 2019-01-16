@@ -4496,7 +4496,7 @@ lawyers are like programmers is that one of them can cause big problems for a la
 ### Wednesday, January 16th 2019
 
 - yoga
-- clean pigeon zone
++ clean pigeon zone
 - lab by 11am
 - 3hrs artguide
 - 1hr isf
@@ -4507,3 +4507,7 @@ lawyers are like programmers is that one of them can cause big problems for a la
 - no subs
 - bed before midnight
 
+
+
+gm to everyone except this guy who thought opening with a line about an employee in tears was a good idea:
+ general business tip: ask a potential client what happened with your predecessor, that's how they'll treat / talk about you
