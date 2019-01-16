@@ -4483,15 +4483,27 @@ lawyers are like programmers is that one of them can cause big problems for a la
 + wake up early
 + yoga
 + 0.5hrs clean
-* 3hrs artguide
-- 1hr isf
-- finish stripe atlas app
++ 3hrs artguide
++ 1hr isf
++ finish stripe atlas app
 - finish acquisition strategy
-- pick up prescription
++ pick up prescription
+- work on salon94 proposal
++ leave lab by 9:30
++ no subs
++ bed before midnight
+
+### Wednesday, January 16th 2019
+
+- yoga
+- clean pigeon zone
+- lab by 11am
+- 3hrs artguide
+- 1hr isf
+- call with ben
+- call oscar
 - work on salon94 proposal
 - leave lab by 9:30
 - no subs
 - bed before midnight
-
-### Wednesday, January 16th 2019
 
