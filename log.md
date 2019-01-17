@@ -4498,12 +4498,12 @@ lawyers are like programmers is that one of them can cause big problems for a la
 - yoga
 + clean pigeon zone
 - lab by 11am
-- 3hrs artguide
-- 1hr isf
-- call with ben
++ 3hrs artguide
++ 1hr isf
++ call with ben
 - call oscar
 - work on salon94 proposal
-- leave lab by 9:30
++ leave lab by 9:30
 - no subs
 - bed before midnight
 
