@@ -4495,7 +4495,7 @@ lawyers are like programmers is that one of them can cause big problems for a la
 
 ### Wednesday, January 16th 2019
 
-- yoga
++ yoga
 + clean pigeon zone
 - lab by 11am
 + 3hrs artguide
@@ -4505,9 +4505,21 @@ lawyers are like programmers is that one of them can cause big problems for a la
 - work on salon94 proposal
 + leave lab by 9:30
 - no subs
-- bed before midnight
-
-
++ bed before midnight
 
 gm to everyone except this guy who thought opening with a line about an employee in tears was a good idea:
  general business tip: ask a potential client what happened with your predecessor, that's how they'll treat / talk about you
+
+### Thursday, January 17th 2019
+
++ call oscar
+- lab by 11:45
+- salon94 proposal
+- finish executive summary
+- pick up prescription
+- 2hrs artguide
+    + email
+    - testflight
+- 0.5hrs isf 
+- leave lab by 9:30
+- bed before midnight
