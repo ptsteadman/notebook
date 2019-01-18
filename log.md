@@ -4495,14 +4495,15 @@ lawyers are like programmers is that one of them can cause big problems for a la
 
 ### Wednesday, January 16th 2019
 
-- yoga
-+ clean pigeon zone
 - lab by 11am
-- 3hrs artguide
-- 1hr isf
-- call with ben
-- call oscar
++ clean pigeon zone
++ call with ben
++ 1hr isf
 - work on salon94 proposal
+- yoga
+- 3hrs artguide
++ update lab projects
+- call oscar
 - leave lab by 9:30
 - no subs
 - bed before midnight
