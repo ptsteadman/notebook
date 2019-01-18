@@ -4524,8 +4524,12 @@ gm to everyone except this guy who thought opening with a line about an employee
 + leave lab by 9:30
 - bed before midnight
 
+need to figure out what is going on with my time in the mornings
+
 ### Friday, January 18th 2019
 
+- yoga
+- clean lab
 + 0.2hrs cleaning
 - 2hrs artguide
 - finish executive summary
