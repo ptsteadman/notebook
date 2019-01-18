@@ -4514,12 +4514,19 @@ gm to everyone except this guy who thought opening with a line about an employee
 
 + call oscar
 - lab by 11:45
-- salon94 proposal
-- finish executive summary
-- pick up prescription
-- 2hrs artguide
++ salon94 proposal
+* finish executive summary
++ pick up prescription
+* 2hrs artguide
     + email
-    - testflight
+    * testflight
 - 0.5hrs isf 
-- leave lab by 9:30
++ leave lab by 9:30
 - bed before midnight
+
+### Friday, January 18th 2019
+
++ 0.2hrs cleaning
+- 2hrs artguide
+- finish executive summary
+- 0.5hrs mm
