@@ -4534,3 +4534,20 @@ need to figure out what is going on with my time in the mornings
 - 2hrs artguide
 - finish executive summary
 - 0.5hrs mm
+
+### Sunday, February 3rd 2019
+
+- yoga / swim
+- 1.5hrs artguide
+- organize visit deck materials
+- bed at midnight
++ coordinate soffi meeting
+- plan hammer visit
+- send tax docs
+- invoice breez
+
+there is no need to 'max out' this visit or push too hard to network
+the people you are already planning to hang out with are more than adequate, they're great
+general humility and specific confidence about your and victoria's vision for
+your project will serve you best
+
