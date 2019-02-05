@@ -4540,9 +4540,9 @@ need to figure out what is going on with my time in the mornings
 - yoga / swim
 - 1.5hrs artguide
 - organize visit deck materials
-- bed at midnight
+* bed at midnight
 + coordinate soffi meeting
-- plan hammer visit
++ plan hammer visit
 - send tax docs
 - invoice breez
 
@@ -4551,3 +4551,11 @@ the people you are already planning to hang out with are more than adequate, the
 general humility and specific confidence about your and victoria's vision for
 your project will serve you best
 
+### Monday, February 4th 2019
+
++ yoga
++ send tax docs
+- 2hrs artguide
++ invoice breez
++ 1hr isf
++ 1hr breez
