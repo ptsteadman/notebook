@@ -4562,7 +4562,8 @@ your project will serve you best
 
 ### Wednesday, Feburary 6th 2019
 
-- 5hrs artguide
-- check lab finances
++ 5hrs artguide
++ check lab finances
+- attempt wordpress fix
 
 
