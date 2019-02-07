@@ -4555,7 +4555,14 @@ your project will serve you best
 
 + yoga
 + send tax docs
-- 2hrs artguide
+* 2hrs artguide
 + invoice breez
 + 1hr isf
 + 1hr breez
+
+### Wednesday, Feburary 6th 2019
+
+- 5hrs artguide
+- check lab finances
+
+
