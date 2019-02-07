@@ -72,6 +72,8 @@ pkill -9 -f foo
 - If you get into a funky state, you can do ctrl-alt-f3 and do this from the
   command line, no gui needed.
 
+`sudo dpkg -i --force-overwrite /var/cache/apt/archives/nvidia-410_410.79-0ubuntu1_amd64.deb`
+
 ## Optimizing a video for web
 
  ffmpeg -i MMonk_CellularSongs_Excerpt5_LowSong.mov -ss 00:00:00 -t 00:00:10 -async 1 mmonk.mov

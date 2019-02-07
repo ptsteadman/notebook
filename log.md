@@ -4495,56 +4495,22 @@ lawyers are like programmers is that one of them can cause big problems for a la
 
 ### Wednesday, January 16th 2019
 
-+ yoga
-+ clean pigeon zone
 - lab by 11am
-+ 3hrs artguide
-+ 1hr isf
++ clean pigeon zone
 + call with ben
-- call oscar
++ 1hr isf
 - work on salon94 proposal
-+ leave lab by 9:30
+- yoga
+- 3hrs artguide
++ update lab projects
+- call oscar
+- leave lab by 9:30
 - no subs
-+ bed before midnight
+- bed before midnight
 
 gm to everyone except this guy who thought opening with a line about an employee in tears was a good idea:
  general business tip: ask a potential client what happened with your predecessor, that's how they'll treat / talk about you
 
-### Thursday, January 17th 2019
-
-+ call oscar
-- lab by 11:45
-+ salon94 proposal
-* finish executive summary
-+ pick up prescription
-* 2hrs artguide
-    + email
-    * testflight
-- 0.5hrs isf 
-+ leave lab by 9:30
-- bed before midnight
-
-need to figure out what is going on with my time in the mornings
-
-### Friday, January 18th 2019
-
-- yoga
-- clean lab
-+ 0.2hrs cleaning
-- 2hrs artguide
-- finish executive summary
-- 0.5hrs mm
-
-### Sunday, February 3rd 2019
-
-- yoga / swim
-- 1.5hrs artguide
-- organize visit deck materials
-* bed at midnight
-+ coordinate soffi meeting
-+ plan hammer visit
-- send tax docs
-- invoice breez
 
 there is no need to 'max out' this visit or push too hard to network
 the people you are already planning to hang out with are more than adequate, they're great
