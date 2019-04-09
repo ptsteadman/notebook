@@ -4533,3 +4533,7 @@ your project will serve you best
 - attempt wordpress fix
 
 `Got added to a facebook group of animal lovers cheerfully planning depressing-seeming suicides in order to speed the voluntary extinction of humanity
+
+there are  more creative people in my life than opportunities for them to share their output without being spammy 
+
+working hard on something you care about and then posting a link to it or making a zine to be read in solitary is anticlimactic and not as fun as it could be
