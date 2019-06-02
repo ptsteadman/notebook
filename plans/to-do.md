@@ -1,18 +1,12 @@
 ### To Do
 - Get OSCP cert.
-- Host CTF(s).
 - Attempt to get my EHR and write / publish my experience.
 - Write and publish 'Sexually Frustrated? Consider Chemical Castration'
 - Make and publish Rehab Bootcamp Landing Page.
 - Write and publish 'making the pulling down gesture to indicate fucking someone'.
 - Write and publish about how venture capitalism is just socially acceptable nepotism.
 - Write and publish 'Peter Thiel's Favorite Book' (review of The Sovereign Individual).
-- Write and publish 'Failed Minimalism'.
-- Write and publish 'Are You An Advanced Basic?' piece.
 - Write and publish 'Quora is the Social Network for Sociopaths' piece.
-- Define 'Virtual Realism'.
 - Make and publish 'Debugging Iceberg' image.
-- Develop Computer Lab healthcare ethics document.
-- Write and publish 'Comparing Different Videoconferencing Software / Mics'.
 - `django-react-boilerplate`
 - Write and publish 'How To Write Code Outside'.
