@@ -27,7 +27,7 @@ Recursively binwalk files / directories: `find PxNc/ -type f -print0 | xargs -0 
 
 `sudo ufw allow/deny 22`
 
-moving between words in terminal: `ALT-B ALT-F`
+moving between words in terminal: `ALT-B ALT-F` + 'CTRL -> arrow key'
 
 Find by filename: `find / -name foo`
 
@@ -57,6 +57,9 @@ kill everything matching regex:
 
 pkill -9 -f foo
 
+unzip foo.zip to foo/ in cwd:
+
+unzip ~/Downloads/foo.zip -d ./
 
 ## Ubuntu Nvidia Driver Stuff
 
