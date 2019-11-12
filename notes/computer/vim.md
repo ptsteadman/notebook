@@ -73,7 +73,11 @@ then `f <space> .` to repeat
 `:Rex` to close it
 
 
-### Commenting things out
+### Plugins
 
-Use tpope's vim-commentary and `gc`.
+Commenting things out: Use tpope's vim-commentary and `gc`.
+
+Unicode symbols: use unicode.vim and then `:UnicodeSearch! <name of symbol>`
+
+
 
