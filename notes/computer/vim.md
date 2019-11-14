@@ -77,3 +77,7 @@ then `f <space> .` to repeat
 
 Use tpope's vim-commentary and `gc`.
 
+### Prose editing
+
+`setl fo+=a` automatically reflow text
+
