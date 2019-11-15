@@ -65,6 +65,8 @@
 
 then `f <space> .` to repeat
 
+In visual mode, `press g C-g` to count lines / words
+
 ### netrw
 
 `d` to create a directory

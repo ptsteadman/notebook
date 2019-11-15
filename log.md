@@ -4536,8 +4536,61 @@ Got added to a facebook group of animal lovers cheerfully planning depressing-se
 
 there are  more creative people in my life than opportunities for them to share their output without being spammy 
 
+### ~October 2019
 working hard on something you care about and then posting a link to it or making a zine to be read in solitary is anticlimactic and not as fun as it could be
 
 It fundamentally changes the experience
 no money made on the walls of our homes
 my only ideas are highdeas and I commit years to exploring them :(
+
+### Thursday, November 14th 2019
+
+all the artists I can name in 10mins
+mierle laderman ukeles
+kate newby
+laura owens
+marcel duchamp
+damien hirst
+agnes martin
+andy worhal
+john singer sargent
+carroll dunham
+bruce nauman
+richard serra
+richard prince
+xie deqing
+robert barry
+lawrence weiner
+maurizo cattelan
+gerhard richter
+tomma abts
+bunny rogers
+amalia ulman
+laurie simmons
+pigeon pat
+hans haacke
+mark rothko
+robert raushenberg
+theaster gates
+pablo picasso
+vincent van gogh
+paul chan
+benjamin kellog
+salvador dali
+william turner
+rafael rozendal
+franz kline
+max earnst
+helen frankenthaler
+mary bauermister
+thomas struth
+wolfgang tillmans
+cindy sherman
+andrea fraser
+pope.l
+francis alys
+odilon redon
+monet
+manet
+
+46 artists
