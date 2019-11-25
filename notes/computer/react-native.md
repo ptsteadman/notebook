@@ -28,3 +28,5 @@ react-native run-android
 ## Clearing up iOS build issues
 
 Product -> Clean
+
+## Stripe RN without ejecting from expo

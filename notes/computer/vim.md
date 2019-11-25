@@ -65,6 +65,8 @@
 
 then `f <space> .` to repeat
 
+In visual mode, `press g C-g` to count lines / words
+
 ### netrw
 
 `d` to create a directory
@@ -80,4 +82,8 @@ Commenting things out: Use tpope's vim-commentary and `gc`.
 Unicode symbols: use unicode.vim and then `:UnicodeSearch! <name of symbol>`
 
 
+
+### Prose editing
+
+`setl fo+=a` automatically reflow text
 
