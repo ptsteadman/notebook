@@ -1,11 +1,5 @@
 # Misc Programming and Computer Notes
 
-`C-u` deletes the current console line
-
-`hash -r` clears the bash command cache
-
-`alt-.` last arg
-
 You can find someone's public key on GitHub with:
 `https://developer.github.com/v3/users/keys/`
 
@@ -17,49 +11,13 @@ You can find someone's public key on GitHub with:
 
 `dig google.com`
 
-Use `chmod 600`...for something.
-
-To exit a frozen ssh session, `ENTER`, `~`, `.`.
-
 Remove old kernels (important with encrypted drives...) `sudo apt-get autoremove --purge`
 
-Recursively binwalk files / directories: `find PxNc/ -type f -print0 | xargs -0 binwalk > binwalk.txt`
-
 `sudo ufw allow/deny 22`
-
-moving between words in terminal: `ALT-B ALT-F` + 'CTRL -> arrow key'
-
-Find by filename: `find / -name foo`
-
-Linux kernel version: `uname -a`
 
 Replace the content of a file that requires sudo: `sudo bash -c 'echo "nameserver 8.8.8.8" > /etc/resolv.conf'`
 
 Run command as another user: `sudo -u scriptmanager /bin/bash -c 'echo "f.write(open(\"/root/root.txt\").read())" >> /scripts/test.py'`
-
-Context of line in grep: `-C` flag
-
-Split text and take segment: `cut -d "/" -f 3`
-
-Sort unique: `sort -u`
-
-Bash for loop:
-
-`for url in $(cat list.txt); do host $url; done`
-
-Copy pwd to clipboard and use in another terminal:
-
-`pwd | xclip`
-
-`cd $(xclip -o)`
-
-kill everything matching regex:
-
-pkill -9 -f foo
-
-unzip foo.zip to foo/ in cwd:
-
-unzip ~/Downloads/foo.zip -d ./
 
 ## Ubuntu Nvidia Driver Stuff
 
