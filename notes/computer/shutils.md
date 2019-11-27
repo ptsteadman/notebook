@@ -18,10 +18,6 @@ Copy pwd to clipboard and use in another terminal:
 
 `cd $(xclip -o)`
 
-kill everything matching regex:
-
-`pkill -9 -f foo`
-
 Context of line in grep: `-C` flag
 
 Find by filename: `find / -name foo`
@@ -31,6 +27,19 @@ Linux kernel version: `uname -a`
 Recursively binwalk files / directories: `find PxNc/ -type f -print0 | xargs -0 binwalk > binwalk.txt`
 
 `hash -r` clears the bash command cache
+
+## Killing / Managing Processes
+
+kill everything matching regex:
+
+`pkill -9 -f foo`
+
+but it's better to use zsh's tab completion based on process name.
+
+Find processing using a given port:
+
+`lsof -i tcp:${PORT_NUM}`
+
 
 # sh-shortcuts
 
