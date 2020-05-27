@@ -24,12 +24,19 @@
 
 `dt` `dT` delete TO something
 
+`d^` / `d0` delete back to beginning of line
+
+ `c^` / `c0` same but then go into insert mode
+
+ `S` delete entire line and go into insert mode
+
 `~` toggle case
 
 `<C-I>`, `<C-O>` rewind/forward past movements
 
 `gf` go to file under cursor
 
+`/\u` go to next uppercase character
 
 ### Buffer / Split Commands
 
