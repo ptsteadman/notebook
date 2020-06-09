@@ -1,6 +1,7 @@
 # Docker and docker-compose
 
-- `docker ps -a` all docker files, even the non-running ones
+- `docker ps -a` all docker containers, even the non-running ones
+- `docker stop $(docker ps -q)` stop all running containers
 
 - `docker build -t tag-name .` builds a docker image with the tag tag-name,
   looking for a Dockerfile in the current directory
