@@ -241,3 +241,14 @@ for ... of is a way to iterate thru an iterator
 
 how to combine promises and generators?
 yield a promise, have the promise `next` the generator
+
+### yarn / npm
+
+For updating yarn on OSX:
+- I have yarn installed using the script, not brew:
+
+so upgrade via the install script, and reopen shell
+
+```
+curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+```

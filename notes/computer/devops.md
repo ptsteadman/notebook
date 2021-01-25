@@ -48,6 +48,10 @@ while developing...
 
 5. `sudo service nginx start`
 
+6. Now need to restart the pyramid servers probably with:
+
+`~/menv/bin/pserve ~/memorial/bin/production.ini`
+
 #### arp-scan
 
 `sudo apt install arp-scan`
