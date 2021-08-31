@@ -7694,3 +7694,1243 @@ Designing Data-Intensive Applications (Kleppmann, Martin)
 
 For example, Parquet [57] is a columnar storage format that supports a document data model, based on Google’s Dremel
 ==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 2901-2903 | Added on Sunday, July 25, 2021 9:51:53 PM
+
+Developers of analytical databases also worry about efficiently using the bandwidth from main memory into the CPU cache, avoiding branch mispredictions and bubbles in the CPU instruction processing pipeline, and making use of single-instruction-multi-data (SIMD) instructions in modern CPUs
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 2908-2910 | Added on Sunday, July 25, 2021 9:52:48 PM
+
+Column compression allows more rows from a column to fit in the same amount of L1 cache. Operators, such as the bitwise AND and OR described previously, can be designed to operate on such chunks of compressed column data directly. This technique is known as vectorized processing
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 2931-2935 | Added on Sunday, July 25, 2021 9:57:43 PM
+
+A clever extension of this idea was introduced in C-Store and adopted in the commercial data warehouse Vertica [61, 62]. Different queries benefit from different sort orders, so why not store the same data sorted in several different ways? Data needs to be replicated to multiple machines anyway, so that you don’t lose data if one machine fails. You might as well store that redundant data sorted in different ways so that when you’re processing a query, you can use the version that best fits the query pattern.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 2964-2966 | Added on Sunday, July 25, 2021 10:04:05 PM
+
+A common special case of a materialized view is known as a data cube or OLAP cube [64]. It is a grid of aggregates grouped by different dimensions.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 3266-3267 | Added on Monday, July 26, 2021 12:20:06 PM
+
+In XML and CSV, you cannot distinguish between a number and a string that happens to consist of digits (except by referring to an external schema). JSON distinguishes strings and numbers, but it doesn’t distinguish integers and floating-point numbers, and it doesn’t specify a precision.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 3419-3423 | Added on Monday, July 26, 2021 5:13:43 PM
+
+As you can see in Figure 4-4, the encoding of a repeated field is just what it says on the tin: the same field tag simply appears multiple times in the record. This has the nice effect that it’s okay to change an optional (single-valued) field into a repeated (multi-valued) field. New code reading old data sees a list with zero or one elements (depending on whether the field was present); old code reading new data sees only the last element of the list.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 3507-3508 | Added on Monday, July 26, 2021 5:21:48 PM
+
+To maintain compatibility, you may only add or remove a field that has a default value.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 3820-3827 | Added on Tuesday, July 27, 2021 12:05:00 AM
+
+The actor model is a programming model for concurrency in a single process. Rather than dealing directly with threads (and the associated problems of race conditions, locking, and deadlock), logic is encapsulated in actors. Each actor typically represents one client or entity, it may have some local state (which is not shared with any other actor), and it communicates with other actors by sending and receiving asynchronous messages. Message delivery is not guaranteed: in certain error scenarios, messages will be lost. Since each actor processes only one message at a time, it doesn’t need to worry about threads, and each actor can be scheduled independently by the framework. In distributed actor frameworks, this programming model is used to scale an application across multiple nodes. The same message-passing mechanism is used, no matter whether the sender and recipient are on the same node or different nodes. If they are on different nodes, the message is transparently encoded into a byte sequence, sent over the network, and decoded on the other side.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4068-4069 | Added on Tuesday, July 27, 2021 10:06:09 AM
+
+In a large machine, although any CPU can access any part of memory, some banks of memory are closer to one CPU than to others (this is called nonuniform memory access, or NUMA
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4155-4159 | Added on Tuesday, July 27, 2021 9:12:33 PM
+
+For that reason, it is impractical for all followers to be synchronous: any one node outage would cause the whole system to grind to a halt. In practice, if you enable synchronous replication on a database, it usually means that one of the followers is synchronous, and the others are asynchronous. If the synchronous follower becomes unavailable or slow, one of the asynchronous followers is made synchronous. This guarantees that you have an up-to-date copy of the data on at least two nodes: the leader and one synchronous follower. This configuration is sometimes also called semi-synchronous
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4180-4189 | Added on Tuesday, July 27, 2021 9:16:13 PM
+
+Fortunately, setting up a follower can usually be done without downtime. Conceptually, the process looks like this: Take a consistent snapshot of the leader’s database at some point in time—if possible, without taking a lock on the entire database. Most databases have this feature, as it is also required for backups. In some cases, third-party tools are needed, such as innobackupex for MySQL [12]. Copy the snapshot to the new follower node. The follower connects to the leader and requests all the data changes that have happened since the snapshot was taken. This requires that the snapshot is associated with an exact position in the leader’s replication log. That position has various names: for example, PostgreSQL calls it the log sequence number, and MySQL calls it the binlog coordinates.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4232-4237 | Added on Tuesday, July 27, 2021 9:20:37 PM
+
+In certain fault scenarios (see Chapter 8), it could happen that two nodes both believe that they are the leader. This situation is called split brain, and it is dangerous: if both leaders accept writes, and there is no process for resolving conflicts (see “Multi-Leader Replication”), data is likely to be lost or corrupted. As a safety catch, some systems have a mechanism to shut down one node if two leaders are detected.ii However, if this mechanism is not carefully designed, you can end up with both nodes being shut down
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4286-4288 | Added on Tuesday, July 27, 2021 9:30:41 PM
+
+An alternative is to use different log formats for replication and for the storage engine, which allows the replication log to be decoupled from the storage engine internals. This kind of replication log is called a logical log, to distinguish it from the storage engine’s (physical) data representation.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4334-4336 | Added on Thursday, July 29, 2021 8:26:13 AM
+
+In normal operation, the delay between a write happening on the leader and being reflected on a follower—the replication lag—may be only a fraction of a second, and not noticeable in practice.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4347-4349 | Added on Thursday, July 29, 2021 1:33:10 PM
+
+A user makes a write, followed by a read from a stale replica. To prevent this anomaly, we need read-after-write consistency. In this situation, we need read-after-write consistency, also known as read-your-writes consistency
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4381-4382 | Added on Thursday, July 29, 2021 1:59:32 PM
+
+Our second example of an anomaly that can occur when reading from asynchronous followers is that it’s possible for a user to see things moving backward in time.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4393-4395 | Added on Thursday, July 29, 2021 2:00:17 PM
+
+When you read data, you may see an old value; monotonic reads only means that if one user makes several reads in sequence, they will not see time go backward—i.e., they will not read older data after having previously read newer data.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4412-4414 | Added on Thursday, July 29, 2021 2:08:05 PM
+
+Preventing this kind of anomaly requires another type of guarantee: consistent prefix reads [23]. This guarantee says that if a sequence of writes happens in a certain order, then anyone reading those writes will see them appear in the same order.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4412-4415 | Added on Thursday, July 29, 2021 2:09:22 PM
+
+Preventing this kind of anomaly requires another type of guarantee: consistent prefix reads [23]. This guarantee says that if a sequence of writes happens in a certain order, then anyone reading those writes will see them appear in the same order. This is a particular problem in partitioned (sharded) databases,
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4412-4415 | Added on Thursday, July 29, 2021 2:09:30 PM
+
+Preventing this kind of anomaly requires another type of guarantee: consistent prefix reads [23]. This guarantee says that if a sequence of writes happens in a certain order, then anyone reading those writes will see them appear in the same order. This is a particular problem in partitioned (sharded) databases,
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4444-4445 | Added on Thursday, July 29, 2021 2:13:54 PM
+
+Use Cases for Multi-Leader Replication It
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4445-4447 | Added on Thursday, July 29, 2021 2:14:12 PM
+
+It rarely makes sense to use a multi-leader setup within a single datacenter, because the benefits rarely outweigh the added complexity. However, there are some situations in which this configuration is reasonable. Multi-datacenter operation
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4468-4470 | Added on Thursday, July 29, 2021 2:15:53 PM
+
+Some databases support multi-leader configurations by default, but it is also often implemented with external tools, such as Tungsten Replicator for MySQL [26], BDR for PostgreSQL [27], and GoldenGate for Oracle [19].
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4312-4315 | Added on Thursday, July 29, 2021 2:16:27 PM
+
+The trigger has the opportunity to log this change into a separate table, from which it can be read by an external process. That external process can then apply any necessary application logic and replicate the data change to another system. Databus for Oracle [20] and Bucardo for Postgres [21] work like this, for example.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4475-4476 | Added on Thursday, July 29, 2021 2:17:55 PM
+
+For example, autoincrementing keys, triggers, and integrity constraints can be problematic. For this reason, multi-leader replication is often considered dangerous territory that should be avoided if possible
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4538-4540 | Added on Thursday, July 29, 2021 2:21:19 PM
+
+Give each write a unique ID (e.g., a timestamp, a long random number, a UUID, or a hash of the key and value), pick the write with the highest ID as the winner, and throw away the other writes. If a timestamp is used, this technique is known as last write wins (LWW).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4575-4578 | Added on Thursday, July 29, 2021 2:23:33 PM
+
+Operational transformation [42] is the conflict resolution algorithm behind collaborative editing applications such as Etherpad [30] and Google Docs [31]. It was designed particularly for concurrent editing of an ordered list of items, such as the list of characters that constitute a text document.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4603-4607 | Added on Friday, July 30, 2021 5:34:27 PM
+
+In circular and star topologies, a write may need to pass through several nodes before it reaches all replicas. Therefore, nodes need to forward data changes they receive from other nodes. To prevent infinite replication loops, each node is given a unique identifier, and in the replication log, each write is tagged with the identifiers of all the nodes it has passed through [43]. When a node receives a data change that is tagged with its own identifier, that data change is ignored, because the node knows that it has already been processed.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4611-4613 | Added on Friday, July 30, 2021 5:51:29 PM
+
+On the other hand, all-to-all topologies can have issues too. In particular, some network links may be faster than others (e.g., due to network congestion), with the result that some replication messages may “overtake” others,
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4639-4640 | Added on Friday, July 30, 2021 5:55:14 PM
+
+Riak, Cassandra, and Voldemort are open source datastores with leaderless replication models inspired by Dynamo, so this kind of database is also known as Dynamo-style.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4753-4754 | Added on Friday, July 30, 2021 6:17:51 PM
+
+By subtracting a follower’s current position from the leader’s current position, you can measure the amount of replication lag.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4775-4780 | Added on Saturday, July 31, 2021 12:42:29 PM
+
+The latter is known as a sloppy quorum [37]: writes and reads still require w and r successful responses, but those may include nodes that are not among the designated n “home” nodes for a value. By analogy, if you lock yourself out of your house, you may knock on the neighbor’s door and ask whether you may stay on their couch temporarily. Once the network interruption is fixed, any writes that one node temporarily accepted on behalf of another node are sent to the appropriate “home” nodes. This is called hinted handoff.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4835-4836 | Added on Saturday, July 31, 2021 12:54:32 PM
+
+not concurrent, as we shall discuss in “Timestamps for ordering events”. There
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4836-4837 | Added on Saturday, July 31, 2021 12:54:43 PM
+
+There are some situations, such as caching, in which lost writes are perhaps acceptable. If losing data is not acceptable, LWW is a poor choice for conflict resolution.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4836-4840 | Added on Saturday, July 31, 2021 12:55:03 PM
+
+There are some situations, such as caching, in which lost writes are perhaps acceptable. If losing data is not acceptable, LWW is a poor choice for conflict resolution. The only safe way of using a database with LWW is to ensure that a key is only written once and thereafter treated as immutable, thus avoiding any concurrent updates to the same key. For example, a recommended way of using Cassandra is to use a UUID as the key, thus giving each write operation a unique key
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4836-4840 | Added on Saturday, July 31, 2021 12:55:09 PM
+
+There are some situations, such as caching, in which lost writes are perhaps acceptable. If losing data is not acceptable, LWW is a poor choice for conflict resolution. The only safe way of using a database with LWW is to ensure that a key is only written once and thereafter treated as immutable, thus avoiding any concurrent updates to the same key. For example, a recommended way of using Cassandra is to use a UUID as the key, thus giving each write operation a unique key
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4944-4945 | Added on Monday, August 2, 2021 5:15:33 PM
+
+The collection of version numbers from all the replicas is called a version vector
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4991-4993 | Added on Monday, August 2, 2021 5:19:58 PM
+
+Consistent prefix reads Users should see the data in a state that makes causal sense: for example, seeing a question and its reply in the correct order.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5205-5206 | Added on Monday, August 2, 2021 7:37:53 PM
+
+If the partitioning is unfair, so that some partitions have more data or queries than others, we call it skewed.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5247-5249 | Added on Monday, August 2, 2021 7:43:19 PM
+
+Many programming languages have simple hash functions built in (as they are used for hash tables), but they may not be suitable for partitioning: for example, in Java’s Object.hashCode() and Ruby’s Object#hash, the same key may have a different hash value in different processes
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5265-5266 | Added on Monday, August 2, 2021 7:45:46 PM
+
+Unfortunately however, by using the hash of the key for partitioning we lose a nice property of key-range partitioning: the ability to do efficient range queries.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5323-5329 | Added on Wednesday, August 4, 2021 4:33:59 PM
+
+This approach to querying a partitioned database is sometimes known as scatter/gather, and it can make read queries on secondary indexes quite expensive. Even if you query the partitions in parallel, scatter/gather is prone to tail latency amplification (see “Percentiles in Practice”). Nevertheless, it is widely used: MongoDB, Riak [15], Cassandra [16], Elasticsearch [17], SolrCloud [18], and VoltDB [19] all use document-partitioned secondary indexes.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5388-5392 | Added on Wednesday, August 4, 2021 4:40:05 PM
+
+Fortunately, there is a fairly simple solution: create many more partitions than there are nodes, and assign several partitions to each node. For example, a database running on a cluster of 10 nodes may be split into 1,000 partitions from the outset so that approximately 100 partitions are assigned to each node. Now, if a node is added to the cluster, the new node can steal a few partitions from every existing node until partitions are fairly distributed once again.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5500-5503 | Added on Thursday, August 5, 2021 10:26:23 AM
+
+Cassandra and Riak take a different approach: they use a gossip protocol among the nodes to disseminate any changes in cluster state. Requests can be sent to any node, and that node forwards them to the appropriate node for the requested partition (approach 1 in Figure 6-7). This model puts more complexity in the database nodes but avoids the dependency on an external coordination service such as ZooKeeper.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5498-5498 | Added on Thursday, August 5, 2021 10:26:53 AM
+
+HBase, SolrCloud, and Kafka also use ZooKeeper to track partition assignment.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5697-5698 | Added on Thursday, August 5, 2021 10:44:49 AM
+
+For example, in multi-threaded programming, if one thread executes an atomic operation, that means there is no way that another thread could see the half-finished result of the operation.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5701-5703 | Added on Thursday, August 5, 2021 9:10:41 PM
+
+Rather, ACID atomicity describes what happens if a client wants to make several writes, but a fault occurs after some of the writes have been processed—for example, a process crashes, a network connection is interrupted, a disk becomes full, or some integrity constraint is violated.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5708-5710 | Added on Thursday, August 5, 2021 9:12:13 PM
+
+application can be sure that it didn’t change anything, so it can safely be retried. The ability to abort a transaction on error and have all writes from that transaction discarded is the defining feature of ACID atomicity. Perhaps abortability would have been a better term than atomicity,
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5731-5732 | Added on Thursday, August 5, 2021 9:27:03 PM
+
+The application may rely on the database’s atomicity and isolation properties in order to achieve consistency, but it’s not up to the database alone.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5742-5744 | Added on Thursday, August 5, 2021 9:27:58 PM
+
+The database ensures that when the transactions have committed, the result is the same as if they had run serially (one after another), even though in reality they may have run concurrently
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5817-5818 | Added on Thursday, August 5, 2021 9:32:40 PM
+
+Violating isolation: one transaction reads another transaction’s uncommitted writes (a “dirty read”).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5866-5867 | Added on Friday, August 6, 2021 3:41:13 PM
+
+Transactions are very useful in this situation to prevent denormalized data from going out of sync.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5928-5933 | Added on Friday, August 6, 2021 3:59:01 PM
+
+The most basic level of transaction isolation is read committed.v It makes two guarantees: When reading from the database, you will only see data that has been committed (no dirty reads). When writing to the database, you will only overwrite data that has been committed (no dirty writes).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 5970-5972 | Added on Friday, August 6, 2021 4:03:54 PM
+
+Read committed is a very popular isolation level. It is the default setting in Oracle 11g, PostgreSQL, SQL Server 2012, MemSQL, and many other databases
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6000-6001 | Added on Friday, August 6, 2021 4:16:31 PM
+
+This anomaly is called a nonrepeatable read or read skew: if Alice were to read the balance of account 1 again at the end of the transaction, she would see a different value ($600) than she saw in her previous query.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6018-6020 | Added on Friday, August 6, 2021 4:18:22 PM
+
+Snapshot isolation [28] is the most common solution to this problem. The idea is that each transaction reads from a consistent snapshot of the database—that is, the transaction sees all the data that was committed in the database at the start of the transaction.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6021-6022 | Added on Friday, August 6, 2021 4:18:49 PM
+
+Snapshot isolation is a boon for long-running, read-only queries such as backups and analytics.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6032-6036 | Added on Friday, August 6, 2021 4:19:55 PM
+
+To implement snapshot isolation, databases use a generalization of the mechanism we saw for preventing dirty reads in Figure 7-4. The database must potentially keep several different committed versions of an object, because various in-progress transactions may need to see the state of the database at different points in time. Because it maintains several versions of an object side by side, this technique is known as multi-version concurrency control (MVCC).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6090-6093 | Added on Friday, August 6, 2021 4:30:29 PM
+
+Repeatable read and naming confusion Snapshot isolation is a useful isolation level, especially for read-only transactions. However, many databases that implement it call it by different names. In Oracle it is called serializable, and in PostgreSQL and MySQL it is called repeatable read [23]. The
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6091-6092 | Added on Friday, August 6, 2021 4:30:46 PM
+
+Snapshot isolation is a useful isolation level, especially for read-only transactions. However, many databases that implement it call it by different names. In Oracle it is called serializable, and in PostgreSQL and MySQL it is called repeatable read
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6122-6123 | Added on Friday, August 6, 2021 4:34:21 PM
+
+Many databases provide atomic update operations, which remove the need to implement read-modify-write cycles in application code. They are usually the best solution if your code can be expressed in terms of those operations.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6136-6136 | Added on Friday, August 6, 2021 4:36:18 PM
+
+viii—but
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6175-6175 | Added on Friday, August 6, 2021 4:38:19 PM
+
+The FOR UPDATE clause indicates that the database should take a lock on all rows returned by this query.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6248-6250 | Added on Friday, August 6, 2021 4:45:53 PM
+
+You can think of write skew as a generalization of the lost update problem. Write skew can occur if two transactions read the same objects, and then update some of those objects (different transactions may update different objects).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6364-6366 | Added on Friday, August 6, 2021 4:53:36 PM
+
+This effect, where a write in one transaction changes the result of a search query in another transaction, is called a phantom [3]. Snapshot isolation avoids phantoms in read-only queries, but in read-write transactions like the examples we discussed, phantoms can lead to particularly tricky cases of write skew.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6360-6363 | Added on Friday, August 6, 2021 4:53:50 PM
+
+In the case of the doctor on call example, the row being modified in step 3 was one of the rows returned in step 1, so we could make the transaction safe and avoid write skew by locking the rows in step 1 (SELECT FOR UPDATE). However, the other four examples are different: they check for the absence of rows matching some search condition, and the write adds a row matching the same condition. If the query in step 1 doesn’t return any rows, SELECT FOR UPDATE can’t attach locks to anything.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6367-6368 | Added on Friday, August 6, 2021 4:55:01 PM
+
+If the problem of phantoms is that there is no object to which we can attach the locks, perhaps we can artificially introduce a lock object into the database?
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6366-6368 | Added on Friday, August 6, 2021 4:55:20 PM
+
+Materializing conflicts If the problem of phantoms is that there is no object to which we can attach the locks, perhaps we can artificially introduce a lock object into the database?
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6512-6512 | Added on Friday, August 6, 2021 5:11:56 PM
+
+In 2PL, writers don’t just block other writers; they also block readers and vice versa.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6507-6511 | Added on Friday, August 6, 2021 5:12:36 PM
+
+If transaction A has read an object and transaction B wants to write to that object, B must wait until A commits or aborts before it can continue. (This ensures that B can’t change the object unexpectedly behind A’s back.) If transaction A has written an object and transaction B wants to read that object, B must wait until A commits or aborts before it can continue. (Reading an old version of the object, like in Figure 7-1, is not acceptable under 2PL.)
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6512-6515 | Added on Friday, August 6, 2021 5:13:28 PM
+
+Snapshot isolation has the mantra readers never block writers, and writers never block readers (see “Implementing snapshot isolation”), which captures this key difference between snapshot isolation and two-phase locking. On the other hand, because 2PL provides serializability, it protects against all the race conditions discussed earlier, including lost updates and write skew.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6532-6534 | Added on Friday, August 6, 2021 5:14:36 PM
+
+The database automatically detects deadlocks between transactions and aborts one of them so that the others can make progress. The aborted transaction needs to be retried by the application.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6556-6558 | Added on Friday, August 6, 2021 5:16:48 PM
+
+Conceptually, we need a predicate lock [3]. It works similarly to the shared/exclusive lock described earlier, but rather than belonging to a particular object (e.g., one row in a table), it belongs to all objects that match some search condition,
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6580-6583 | Added on Friday, August 6, 2021 5:17:51 PM
+
+Unfortunately, predicate locks do not perform well: if there are many locks by active transactions, checking for matching locks becomes time-consuming. For that reason, most databases with 2PL actually implement index-range locking (also known as next-key locking), which is a simplified approximation of predicate locking
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6607-6611 | Added on Friday, August 6, 2021 5:23:38 PM
+
+Perhaps not: an algorithm called serializable snapshot isolation (SSI) is very promising. It provides full serializability, but has only a small performance penalty compared to snapshot isolation. SSI is fairly new: it was first described in 2008 [40] and is the subject of Michael Cahill’s PhD thesis [51]. Today SSI is used both in single-node databases (the serializable isolation level in PostgreSQL since version 9.1 [41]) and distributed databases (FoundationDB uses a similar algorithm).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7007-7007 | Added on Friday, August 6, 2021 5:55:01 PM
+
+In distributed systems, suspicion, pessimism, and paranoia pay off.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7059-7060 | Added on Friday, August 6, 2021 6:04:21 PM
+
+One study in a medium-sized datacenter found about 12 network faults per month, of which half disconnected a single machine, and half disconnected an entire rack
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7175-7178 | Added on Friday, August 6, 2021 6:22:20 PM
+
+Even better, rather than using configured constant timeouts, systems can continually measure response times and their variability (jitter), and automatically adjust timeouts according to the observed response time distribution. This can be done with a Phi Accrual failure detector [30], which is used for example in Akka and Cassandra
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7284-7285 | Added on Friday, August 6, 2021 6:40:49 PM
+
+NTP may adjust the frequency at which the monotonic clock moves forward (this is known as slewing the clock) if it detects that the computer’s local quartz is moving faster or slower than the NTP server.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7294-7297 | Added on Friday, August 6, 2021 6:42:41 PM
+
+The quartz clock in a computer is not very accurate: it drifts (runs faster or slower than it should). Clock drift varies depending on the temperature of the machine. Google assumes a clock drift of 200 ppm (parts per million) for its servers [41], which is equivalent to 6 ms drift for a clock that is resynchronized with a server every 30 seconds, or 17 seconds drift for a clock that is resynchronized once a day.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7326-7328 | Added on Friday, August 6, 2021 6:45:53 PM
+
+For example, the MiFID II draft European regulation for financial institutions requires all high-frequency trading funds to synchronize their clocks to within 100 microseconds of UTC, in order to help debug market anomalies such as “flash crashes” and to help detect market manipulation
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7343-7344 | Added on Friday, August 6, 2021 6:46:57 PM
+
+Thus, if you use software that requires synchronized clocks, it is essential that you also carefully monitor the clock offsets between all the machines.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7366-7369 | Added on Friday, August 6, 2021 6:49:19 PM
+
+Database writes can mysteriously disappear: a node with a lagging clock is unable to overwrite values previously written by a node with a fast clock until the clock skew between the nodes has elapsed [54, 55]. This scenario can cause arbitrary amounts of data to be silently dropped without any error being reported to the application.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4930-4932 | Added on Friday, August 6, 2021 6:51:43 PM
+
+To prevent this problem, an item cannot simply be deleted from the database when it is removed; instead, the system must leave a marker with an appropriate version number to indicate that the item has been removed when merging siblings. Such a deletion marker is known as a tombstone.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4928-4932 | Added on Friday, August 6, 2021 6:51:54 PM
+
+However, if you want to allow people to also remove things from their carts, and not just add things, then taking the union of siblings may not yield the right result: if you merge two sibling carts and an item has been removed in only one of them, then the removed item will reappear in the union of the siblings [37]. To prevent this problem, an item cannot simply be deleted from the database when it is removed; instead, the system must leave a marker with an appropriate version number to indicate that the item has been removed when merging siblings. Such a deletion marker is known as a tombstone.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7417-7419 | Added on Friday, August 6, 2021 7:31:31 PM
+
+However, when a database is distributed across many machines, potentially in multiple datacenters, a global, monotonically increasing transaction ID (across all partitions) is difficult to generate, because it requires coordination.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7770-7771 | Added on Friday, August 6, 2021 8:03:40 PM
+
+Safety is often informally defined as nothing bad happens, and liveness as something good eventually happens.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7818-7818 | Added on Friday, August 6, 2021 8:07:08 PM
+
+The fact that such partial failures can occur is the defining characteristic of distributed systems.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8181-8185 | Added on Saturday, August 7, 2021 1:01:02 PM
+
+This is the idea behind linearizability [6] (also known as atomic consistency [7], strong consistency, immediate consistency, or external consistency [8]). The exact definition of linearizability is quite subtle, and we will explore it in the rest of this section. But the basic idea is to make a system appear as if there were only one copy of the data, and all operations on it are atomic.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8235-8235 | Added on Saturday, August 7, 2021 1:10:08 PM
+
+After
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8237-8239 | Added on Saturday, August 7, 2021 1:10:21 PM
+
+In a linearizable system we imagine that there must be some point in time (between the start and end of the write operation) at which the value of x atomically flips from 0 to 1. Thus, if one client’s read returns the new value 1, all subsequent reads must also return the new value, even if the write operation has not yet completed.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8290-8293 | Added on Saturday, August 7, 2021 1:16:20 PM
+
+Linearizability is a recency guarantee on reads and writes of a register (an individual object). It doesn’t group operations together into transactions, so it does not prevent problems such as write skew (see “Write Skew and Phantoms”), unless you take additional measures such as materializing conflicts (see “Materializing conflicts”).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8298-8300 | Added on Saturday, August 7, 2021 1:17:12 PM
+
+However, serializable snapshot isolation (see “Serializable Snapshot Isolation (SSI)”) is not linearizable: by design, it makes reads from a consistent snapshot, to avoid lock contention between readers and writers.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8309-8311 | Added on Sunday, August 8, 2021 9:16:59 AM
+
+Coordination services like Apache ZooKeeper [15] and etcd [16] are often used to implement distributed locks and leader election.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7632-7635 | Added on Sunday, August 8, 2021 9:18:43 AM
+
+When using a lock or lease to protect access to some resource, such as the file storage in Figure 8-4, we need to ensure that a node that is under a false belief of being “the chosen one” cannot disrupt the rest of the system. A fairly simple technique that achieves this goal is called fencing, and is illustrated in Figure 8-5.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 7637-7639 | Added on Sunday, August 8, 2021 9:18:57 AM
+
+Let’s assume that every time the lock server grants a lock or lease, it also returns a fencing token, which is a number that increases every time a lock is granted (e.g., incremented by the lock service). We can then require that every time a client sends a write request to the storage service, it must include its current fencing token.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8311-8313 | Added on Sunday, August 8, 2021 9:20:56 AM
+
+(we discuss such algorithms later in this chapter, in “Fault-Tolerant Consensus”).iii There
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8313-8315 | Added on Sunday, August 8, 2021 9:21:11 AM
+
+There are still many subtle details to implementing locks and leader election correctly (see for example the fencing issue in “The leader and the lock”), and libraries like Apache Curator [17] help by providing higher-level recipes on top of ZooKeeper.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8382-8384 | Added on Sunday, August 8, 2021 9:36:18 AM
+
+Systems with multi-leader replication are generally not linearizable, because they concurrently process writes on multiple nodes and asynchronously replicate them to other nodes.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4661-4668 | Added on Sunday, August 8, 2021 10:55:57 AM
+
+Read repair When a client makes a read from several nodes in parallel, it can detect any stale responses. For example, in Figure 5-10, user 2345 gets a version 6 value from replica 3 and a version 7 value from replicas 1 and 2. The client sees that replica 3 has a stale value and writes the newer value back to that replica. This approach works well for values that are frequently read. Anti-entropy process In addition, some datastores have a background process that constantly looks for differences in the data between replicas and copies any missing data from one replica to another. Unlike the replication log in leader-based replication, this anti-entropy process does not copy writes in any particular order, and there may be a significant delay before data is copied.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8461-8463 | Added on Sunday, August 8, 2021 11:17:20 AM
+
+When a network fault occurs, you have to choose between either linearizability or total availability. Thus, a better way of phrasing CAP would be either Consistent or Available when Partitioned
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4503-4504 | Added on Sunday, August 8, 2021 11:24:06 AM
+
+The biggest problem with multi-leader replication is that write conflicts can occur, which means that conflict resolution is required.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 6647-6651 | Added on Sunday, August 8, 2021 11:58:58 AM
+
+How does the database know if a query result might have changed? There are two cases to consider: Detecting reads of a stale MVCC object version (uncommitted write occurred before the read) Detecting writes that affect prior reads (the write occurs after the read)
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8557-8558 | Added on Sunday, August 8, 2021 12:04:05 PM
+
+A total order allows any two elements to be compared, so if you have two elements, you can always say which one is greater and which one is smaller.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8560-8562 | Added on Sunday, August 8, 2021 12:04:45 PM
+
+We say they are incomparable, and therefore mathematical sets are partially ordered: in some cases one set is greater than another (if one set contains all the elements of another), but in other cases they are incomparable.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8564-8566 | Added on Sunday, August 8, 2021 12:06:55 PM
+
+In a linearizable system, we have a total order of operations: if the system behaves as if there is only a single copy of the data, and every operation is atomic, this means that for any two operations we can always say which one happened first.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8608-8609 | Added on Sunday, August 8, 2021 12:13:48 PM
+
+In order to determine causal dependencies, we need some way of describing the “knowledge” of a node in the system. If a node had already seen the value X when it issued the write Y, then X and Y may be causally related.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 4905-4915 | Added on Sunday, August 8, 2021 12:16:29 PM
+
+The algorithm works as follows: The server maintains a version number for every key, increments the version number every time that key is written, and stores the new version number along with the value written. When a client reads a key, the server returns all values that have not been overwritten, as well as the latest version number. A client must read a key before writing. When a client writes a key, it must include the version number from the prior read, and it must merge together all values that it received in the prior read. (The response from a write request can be like a read, returning all current values, which allows us to chain several writes like in the shopping cart example.) When the server receives a write with a particular version number, it can overwrite all values with that version number or below (since it knows that they have been merged into the new value), but it must keep all values with a higher version number (because those values are concurrent with the incoming write).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8613-8614 | Added on Sunday, August 8, 2021 12:17:10 PM
+
+Causal consistency goes further: it needs to track causal dependencies across the entire database, not just for a single key. Version vectors can be generalized to do this
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8668-8670 | Added on Sunday, August 8, 2021 12:34:35 PM
+
+The use of Lamport timestamps is illustrated in Figure 9-8. Each node has a unique identifier, and each node keeps a counter of the number of operations it has processed. The Lamport timestamp is then simply a pair of (counter, node ID).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8676-8679 | Added on Sunday, August 8, 2021 12:36:15 PM
+
+The key idea about Lamport timestamps, which makes them consistent with causality, is the following: every node and every client keeps track of the maximum counter value it has seen so far, and includes that maximum on every request. When a node receives a request or response with a maximum counter value greater than its own counter value, it immediately increases its own counter to that maximum.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8685-8687 | Added on Sunday, August 8, 2021 12:38:43 PM
+
+Although there are some similarities, they have a different purpose: version vectors can distinguish whether two operations are concurrent or whether one is causally dependent on the other, whereas Lamport timestamps always enforce a total ordering.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8685-8687 | Added on Sunday, August 8, 2021 12:38:49 PM
+
+Although there are some similarities, they have a different purpose: version vectors can distinguish whether two operations are concurrent or whether one is causally dependent on the other, whereas Lamport timestamps always enforce a total ordering. From the total ordering of Lamport timestamps, you cannot tell whether two operations are concurrent or whether they are causally dependent.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8685-8687 | Added on Sunday, August 8, 2021 12:38:57 PM
+
+Although there are some similarities, they have a different purpose: version vectors can distinguish whether two operations are concurrent or whether one is causally dependent on the other, whereas Lamport timestamps always enforce a total ordering. From the total ordering of Lamport timestamps, you cannot tell whether two operations are concurrent or whether they are causally dependent.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8726-8730 | Added on Sunday, August 8, 2021 1:54:51 PM
+
+Total order broadcast is usually described as a protocol for exchanging messages between nodes. Informally, it requires that two safety properties always be satisfied: Reliable delivery No messages are lost: if a message is delivered to one node, it is delivered to all nodes. Totally ordered delivery Messages are delivered to every node in the same order.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8756-8759 | Added on Sunday, August 8, 2021 2:02:03 PM
+
+Total order broadcast is asynchronous: messages are guaranteed to be delivered reliably in a fixed order, but there is no guarantee about when a message will be delivered (so one recipient may lag behind the others). By contrast, linearizability is a recency guarantee: a read is guaranteed to see the latest value written.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8783-8788 | Added on Sunday, August 8, 2021 2:06:55 PM
+
+You can sequence reads through the log by appending a message, reading the log, and performing the actual read when the message is delivered back to you. The message’s position in the log thus defines the point in time at which the read happens. (Quorum reads in etcd work somewhat like this [16].) If the log allows you to fetch the position of the latest log message in a linearizable way, you can query that position, wait for all entries up to that position to be delivered to you, and then perform the read. (This is the idea behind ZooKeeper’s sync() operation [15].)
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8783-8790 | Added on Sunday, August 8, 2021 2:06:59 PM
+
+You can sequence reads through the log by appending a message, reading the log, and performing the actual read when the message is delivered back to you. The message’s position in the log thus defines the point in time at which the read happens. (Quorum reads in etcd work somewhat like this [16].) If the log allows you to fetch the position of the latest log message in a linearizable way, you can query that position, wait for all entries up to that position to be delivered to you, and then perform the read. (This is the idea behind ZooKeeper’s sync() operation [15].) You can make your read from a replica that is synchronously updated on writes, and is thus sure to be up to date. (This technique is used in chain replication
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8779-8790 | Added on Sunday, August 8, 2021 2:07:24 PM
+
+(To be precise, the procedure described here provides sequential consistency [47, 64], sometimes also known as timeline consistency [65, 66], a slightly weaker guarantee than linearizability.) To make reads linearizable, there are a few options: You can sequence reads through the log by appending a message, reading the log, and performing the actual read when the message is delivered back to you. The message’s position in the log thus defines the point in time at which the read happens. (Quorum reads in etcd work somewhat like this [16].) If the log allows you to fetch the position of the latest log message in a linearizable way, you can query that position, wait for all entries up to that position to be delivered to you, and then perform the read. (This is the idea behind ZooKeeper’s sync() operation [15].) You can make your read from a replica that is synchronously updated on writes, and is thus sure to be up to date. (This technique is used in chain replication
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8832-8838 | Added on Sunday, August 8, 2021 2:26:28 PM
+
+You may have heard about the FLP result [68]—named after the authors Fischer, Lynch, and Paterson—which proves that there is no algorithm that is always able to reach consensus if there is a risk that a node may crash. In a distributed system, we must assume that nodes may crash, so reliable consensus is impossible. Yet, here we are, discussing algorithms for achieving consensus. What is going on here? The answer is that the FLP result is proved in the asynchronous system model (see “System Model and Reality”), a very restrictive model that assumes a deterministic algorithm that cannot use any clocks or timeouts.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8886-8887 | Added on Sunday, August 8, 2021 2:35:42 PM
+
+If a transaction was allowed to abort after committing, any transactions that read the committed data would be based on data that was retroactively declared not to have existed—so they would have to be reverted as well.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8892-8893 | Added on Sunday, August 8, 2021 2:37:03 PM
+
+Two-phase commit is an algorithm for achieving atomic transaction commit across multiple nodes—i.e., to ensure that either all nodes commit or all nodes abort.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8946-8948 | Added on Sunday, August 8, 2021 7:02:55 PM
+
+Thus, the protocol contains two crucial “points of no return”: when a participant votes “yes,” it promises that it will definitely be able to commit later (although the coordinator may still choose to abort); and once the coordinator decides, that decision is irrevocable. Those promises ensure the atomicity of 2PC.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8970-8973 | Added on Sunday, August 8, 2021 7:06:13 PM
+
+The only way 2PC can complete is by waiting for the coordinator to recover. This is why the coordinator must write its commit or abort decision to a transaction log on disk before sending commit or abort requests to participants: when the coordinator recovers, it determines the status of all in-doubt transactions by reading its transaction log.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8970-8974 | Added on Sunday, August 8, 2021 7:07:06 PM
+
+The only way 2PC can complete is by waiting for the coordinator to recover. This is why the coordinator must write its commit or abort decision to a transaction log on disk before sending commit or abort requests to participants: when the coordinator recovers, it determines the status of all in-doubt transactions by reading its transaction log. Any transactions that don’t have a commit record in the coordinator’s log are aborted. Thus, the commit point of 2PC comes down to a regular single-node atomic commit on the coordinator.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 8992-8994 | Added on Sunday, August 8, 2021 7:07:49 PM
+
+Some implementations of distributed transactions carry a heavy performance penalty—for example, distributed transactions in MySQL are reported to be over 10 times slower than single-node transactions
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9010-9012 | Added on Sunday, August 8, 2021 7:11:45 PM
+
+Heterogeneous distributed transactions allow diverse systems to be integrated in powerful ways. For example, a message from a message queue can be acknowledged as processed if and only if the database transaction for processing the message was successfully committed. This is implemented by atomically committing the message acknowledgment and the database writes in a single transaction.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9024-9025 | Added on Sunday, August 8, 2021 7:12:46 PM
+
+X/Open XA (short for eXtended Architecture) is a standard for implementing two-phase commit across heterogeneous technologies
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9028-9029 | Added on Sunday, August 8, 2021 7:13:18 PM
+
+XA is not a network protocol—it is merely a C API for interfacing with a transaction coordinator.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9104-9111 | Added on Sunday, August 8, 2021 7:20:58 PM
+
+In this formalism, a consensus algorithm must satisfy the following properties [25]:xiii Uniform agreement No two nodes decide differently. Integrity No node decides twice. Validity If a node decides value v, then v was proposed by some node. Termination Every node that does not crash eventually decides some value.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9139-9146 | Added on Sunday, August 8, 2021 7:23:53 PM
+
+The best-known fault-tolerant consensus algorithms are Viewstamped Replication (VSR) [94, 95], Paxos [96, 97, 98, 99], Raft [22, 100, 101], and Zab [15, 21, 102]. There are quite a few similarities between these algorithms, but they are not the same [103].
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9182-9185 | Added on Sunday, August 8, 2021 7:28:15 PM
+
+All of the consensus protocols discussed so far internally use a leader in some form or another, but they don’t guarantee that the leader is unique. Instead, they can make a weaker guarantee: the protocols define an epoch number (called the ballot number in Paxos, view number in Viewstamped Replication, and term number in Raft) and guarantee that within each epoch, the leader is unique.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9206-9210 | Added on Sunday, August 8, 2021 7:32:25 PM
+
+Consensus algorithms are a huge breakthrough for distributed systems: they bring concrete safety properties (agreement, integrity, and validity) to systems where everything else is uncertain, and they nevertheless remain fault-tolerant (able to make progress as long as a majority of nodes are working and reachable). They provide total order broadcast, and therefore they can also implement linearizable atomic operations in a fault-tolerant way (see “Implementing linearizable storage using total order broadcast”).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9282-9284 | Added on Sunday, August 8, 2021 7:38:00 PM
+
+If application state needs to be replicated from one node to another, other tools (such as Apache BookKeeper [108]) can be used.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9820-9829 | Added on Monday, August 9, 2021 11:21:23 AM
+
+cat /var/log/nginx/access.log |   awk '{print $7}' |   sort             |   uniq -c          |   sort -r -n       |   head -n 5         
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9838-9839 | Added on Monday, August 9, 2021 5:57:00 PM
+
+The uniq command filters out repeated lines in its input by checking whether two adjacent lines are the same. The -c option tells it to also output a counter: for every distinct URL, it reports how many times that URL appeared in the input.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 9969-9970 | Added on Monday, August 9, 2021 6:10:24 PM
+
+\n (newline, ASCII 0x0A) character. The choice of \n is arbitrary—arguably, the ASCII record separator 0x1E would have been a better choice, since it’s intended for this purpose [
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10021-10023 | Added on Monday, August 9, 2021 6:17:23 PM
+
+Various other distributed filesystems besides HDFS exist, such as GlusterFS and the Quantcast File System (QFS) [20].
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10034-10036 | Added on Monday, August 9, 2021 6:20:04 PM
+
+Replication may mean simply several copies of the same data on multiple machines, as in Chapter 5, or an erasure coding scheme such as Reed–Solomon codes, which allows lost data to be recovered with lower storage overhead than full replication
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10374-10375 | Added on Thursday, August 12, 2021 11:34:44 AM
+
+(The idea of being able to recover from buggy code has been called human fault tolerance
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10399-10402 | Added on Thursday, August 12, 2021 11:37:55 AM
+
+All of the processing and parallel join algorithms that we discussed in the last few sections had already been implemented in so-called massively parallel processing (MPP) databases more than a decade previously [3, 40]. For example, the Gamma database machine, Teradata, and Tandem NonStop SQL were pioneers in this area
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10403-10405 | Added on Thursday, August 12, 2021 11:38:07 AM
+
+The biggest difference is that MPP databases focus on parallel execution of analytic SQL queries on a cluster of machines, while the combination of MapReduce and a distributed filesystem [19] provides something much more like a general-purpose operating system that can run arbitrary programs.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10425-10426 | Added on Thursday, August 12, 2021 11:39:36 AM
+
+Simply dumping data in its raw form allows for several such transformations. This approach has been dubbed the sushi principle: “raw data is better”
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10451-10454 | Added on Thursday, August 12, 2021 11:41:56 AM
+
+The Hadoop ecosystem includes both random-access OLTP databases such as HBase (see “SSTables and LSM-Trees”) and MPP-style analytic databases such as Impala [41]. Neither HBase nor Impala uses MapReduce, but both use HDFS for storage.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10484-10486 | Added on Thursday, August 12, 2021 10:08:06 PM
+
+And this is why MapReduce is designed to tolerate frequent unexpected task termination: it’s not because the hardware is particularly unreliable, it’s because the freedom to arbitrarily terminate processes enables better resource utilization in a computing cluster.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10581-10584 | Added on Thursday, August 12, 2021 10:16:15 PM
+
+Spark, Flink, and Tez avoid writing intermediate state to HDFS, so they take a different approach to tolerating faults: if a machine fails and the intermediate state on that machine is lost, it is recomputed from other data that is still available (a prior intermediary stage if possible, or otherwise the original input data, which is normally on HDFS).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10603-10604 | Added on Thursday, August 12, 2021 10:19:36 PM
+
+A sorting operation inevitably needs to consume its entire input before it can produce any output, because it’s possible that the very last input record is the one with the lowest key and thus needs to be the very first output record.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10732-10734 | Added on Thursday, August 12, 2021 10:32:05 PM
+
+Reusable implementations are emerging: for example, Mahout implements various algorithms for machine learning on top of MapReduce, Spark, and Flink, while MADlib implements similar functionality inside a relational MPP database (Apache HAWQ)
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 10762-10765 | Added on Thursday, August 12, 2021 10:34:55 PM
+
+Broadcast hash joins One of the two join inputs is small, so it is not partitioned and it can be entirely loaded into a hash table. Thus, you can start a mapper for each partition of the large join input, load the hash table for the small input into each mapper, and then scan over the large input one record at a time, querying the hash table for each record.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 11079-11081 | Added on Friday, August 13, 2021 11:01:39 AM
+
+What happens if the producers send messages faster than the consumers can process them? Broadly speaking, there are three options: the system can drop messages, buffer messages in a queue, or apply backpressure (also known as flow control; i.e., blocking the producer from sending more messages).
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 11180-11182 | Added on Friday, August 13, 2021 11:16:17 AM
+
+Even if the message broker otherwise tries to preserve the order of messages (as required by both the JMS and AMQP standards), the combination of load balancing with redelivery inevitably leads to messages being reordered.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 11197-11198 | Added on Friday, August 13, 2021 11:17:52 AM
+
+Why can we not have a hybrid, combining the durable storage approach of databases with the low-latency notification facilities of messaging? This is the idea behind log-based message brokers.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 11339-11341 | Added on Friday, August 13, 2021 5:52:45 PM
+
+More recently, there has been growing interest in change data capture (CDC), which is the process of observing all data changes written to a database and extracting them in a form in which they can be replicated to other systems.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 11361-11362 | Added on Friday, August 13, 2021 5:58:34 PM
+
+Bottled Water implements CDC for PostgreSQL using an API that decodes the write-ahead log
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 11421-11422 | Added on Friday, August 13, 2021 6:05:10 PM
+
+In event sourcing, the application logic is explicitly built on the basis of immutable events that are written to an event log. In this case, the event store is append-only, and updates or deletes are discouraged or prohibited.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 11449-11450 | Added on Friday, August 13, 2021 6:09:43 PM
+
+On the other hand, with event sourcing, events are modeled at a higher level: an event typically expresses the intent of a user action, not the mechanics of the state update that occurred as a result of the action.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 11620-11622 | Added on Friday, August 13, 2021 6:54:50 PM
+
+Complex event processing (CEP) is an approach developed in the 1990s for analyzing event streams, especially geared toward the kind of application that requires searching for certain event patterns
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 11733-11734 | Added on Friday, August 13, 2021 7:07:05 PM
+
+A tricky problem when defining windows in terms of event time is that you can never be sure when you have received all of the events for a particular window, or whether there are some events still to come.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 11777-11779 | Added on Friday, August 13, 2021 7:16:02 PM
+
+A hopping window also has a fixed length, but allows windows to overlap in order to provide some smoothing. For example, a 5-minute window with a hop size of 1 minute would contain the events between 10:03:00 and 10:07:59, then the next window would cover events between 10:04:00 and 10:08:59, and so on.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 12302-12305 | Added on Friday, August 13, 2021 8:24:16 PM
+
+Surprisingly often I see software engineers make statements like, “In my experience, 99% of people only need X” or “…don’t need X” (for various values of X). I think that such statements say more about the experience of the speaker than about the actual usefulness of a technology. The range of different things you might want to do with data is dizzyingly wide. What one person considers to be an obscure and pointless feature may well be a central requirement for someone else.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 12365-12367 | Added on Friday, August 13, 2021 8:37:48 PM
+
+It is still an open research problem to design consensus algorithms that can scale beyond the throughput of a single node and that work well in a geographically distributed setting.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 12372-12374 | Added on Friday, August 13, 2021 8:44:19 PM
+
+For example, consider a social networking service, and two users who were in a relationship but have just broken up. One of the users removes the other as a friend, and then sends a message to their remaining friends complaining about their ex-partner. The user’s intention is that their ex-partner should not see the rude message, since the message was sent after the friend status was revoked.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 12372-12377 | Added on Friday, August 13, 2021 8:44:30 PM
+
+For example, consider a social networking service, and two users who were in a relationship but have just broken up. One of the users removes the other as a friend, and then sends a message to their remaining friends complaining about their ex-partner. The user’s intention is that their ex-partner should not see the rude message, since the message was sent after the friend status was revoked. However, in a system that stores friendship status in one place and messages in another place, that ordering dependency between the unfriend event and the message-send event may be lost. If the causal dependency is not captured, a service that sends notifications about new messages may process the message-send event before the unfriend event, and thus incorrectly send a notification to the ex-partner.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 12544-12547 | Added on Friday, August 13, 2021 9:13:57 PM
+
+Whenever a batch, stream, or ETL process transports data from one place and form to another place and form, it is acting like the database subsystem that keeps indexes or materialized views up to date. Viewed like this, batch and stream processors are like elaborate implementations of triggers, stored procedures, and materialized view maintenance routines.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 12633-12637 | Added on Friday, August 13, 2021 9:25:58 PM
+
+In particular, there is a lot of overlap with dataflow languages such as Oz [28] and Juttle [29], functional reactive programming (FRP) languages such as Elm [30, 31], and logic programming languages such as Bloom [32]. The term unbundling in this context was proposed by Jay Kreps [7].
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 12707-12708 | Added on Friday, August 13, 2021 9:32:33 PM
+
+The important thing to keep in mind is that maintaining derived data is not the same as asynchronous job execution, for which messaging systems are traditionally designed
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 12980-12986 | Added on Friday, August 13, 2021 9:51:46 PM
+
+To make the operation idempotent through several hops of network communication, it is not sufficient to rely just on a transaction mechanism provided by a database—you need to consider the end-to-end flow of the request. For example, you could generate a unique identifier for an operation (such as a UUID) and include it as a hidden form field in the client application, or calculate a hash of all the relevant form fields to derive the operation ID [3]. If the web browser submits the POST request twice, the two requests will have the same operation ID. You can then pass that operation ID all the way through to the database and check that you only ever execute one operation with a given ID, as shown in Example 12-2.
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 13036-13041 | Added on Friday, August 13, 2021 9:52:58 PM
+
+The end-to-end argument This scenario of suppressing duplicate transactions is just one example of a more general principle called the end-to-end argument, which was articulated by Saltzer, Reed, and Clark in 1984 [55]: The function in question can completely and correctly be implemented only with the knowledge and help of the application standing at the endpoints of the communication system. Therefore, providing that questioned function as a feature of the communication system itself is not possible. (Sometimes an incomplete version of the function provided by the communication system may be useful as a performance enhancement.)
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 13175-13176 | Added on Friday, August 13, 2021 11:01:34 PM
+
+In slogan form: violations of timeliness are “eventual consistency,” whereas violations of integrity are “perpetual inconsistency.”
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 13303-13305 | Added on Friday, August 13, 2021 11:17:18 PM
+
+Mature systems similarly tend to consider the possibility of unlikely things going wrong, and manage that risk. For example, large-scale storage systems such as HDFS and Amazon S3 do not fully trust disks: they run background processes that continually read back files, compare them to other replicas, and move files from one disk to another, in order to mitigate the risk of silent corruption
+==========
+Designing Data-Intensive Applications (Kleppmann, Martin)
+- Your Highlight on Location 13477-13480 | Added on Saturday, August 14, 2021 2:36:56 PM
+
+Surveillance As a thought experiment, try replacing the word data with surveillance, and observe if common phrases still sound so good [93]. How about this: “In our surveillance-driven organization we collect real-time surveillance streams and store them in our surveillance warehouse. Our surveillance scientists use advanced analytics and surveillance processing in order to derive new insights.”
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 1597-1598 | Added on Saturday, August 14, 2021 2:56:37 PM
+
+In his transport, there were 650 Jews. Twenty-three survived. That Levi—a timid, scrawny man (five feet five, 108 pounds)—was one of them seems a miracle.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 1846-1848 | Added on Saturday, August 14, 2021 4:38:01 PM
+
+Already before the First World War, Ostjuden, or Jews from the East, were pouring into the Western capitals, and, with their soiled bundles and their numerous children, they were regarded, basically, as immigrant scum.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 1877-1877 | Added on Saturday, August 14, 2021 4:41:30 PM
+
+George Grosz.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 1986-1986 | Added on Saturday, August 14, 2021 4:57:47 PM
+
+baldachin
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 1969-1969 | Added on Saturday, August 14, 2021 4:57:56 PM
+
+deliquesces
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 1991-1992 | Added on Saturday, August 14, 2021 4:58:37 PM
+
+I am almost glad the book has a fault. Roth extracted The Radetzky March from his very innards. This rather desperate, corny fate business reminds us of that fact, and counterbalances the crushing beauty of the rest of the book.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2014-2017 | Added on Saturday, August 14, 2021 5:40:26 PM
+
+For Roth, the state is a myth, which, like other myths (Christianity, Judaism, the Austrian Idea), is an organizer of experience, a net of stories and images in which we catch our lives, and understand them. When such a myth fails, nothing is left: no meaning, no emotion, even. Disasters in Roth's books tend to occur quietly, modestly.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2311-2312 | Added on Sunday, August 15, 2021 10:39:16 AM
+
+After the Bible, The Golden Legend is said to have been the most widely read text of the Middle Ages.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2336-2339 | Added on Sunday, August 15, 2021 10:50:05 AM
+
+While she was being held up as a warning, however, the young Magdalene was also an object of admiration. She was chosen as the patron saint not just of barrelmakers and gardeners but also of glovemakers, combmakers, perfume manufacturers, and hair-dressers—in other words, the purveyors of all those fripperies which led her to her fall. (She also became the patroness of prostitutes. In Beaucaire, on her saint's day, the local whores ran a race in her honor.)
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2354-2354 | Added on Sunday, August 15, 2021 10:54:23 AM
+
+compendious
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2352-2354 | Added on Sunday, August 15, 2021 10:54:35 AM
+
+Richard Crashaw's Saint Mary Magdalene, or The Weeper (1646) pictures Christ "followed by two faithful fountains"—the Magdalene's two eyes—"two walking baths; two weeping motions; / Portable, and compendious oceans."
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2361-2362 | Added on Sunday, August 15, 2021 11:21:30 AM
+
+In an 1888 engraving by the Belgian Symbolist Félicien Rops, she crumples over, without a stitch on, at the foot of the Cross, as she embraces Christ's feet.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2362-2364 | Added on Sunday, August 15, 2021 11:21:57 AM
+
+In the twentieth century, the Magdalene received more exalted tributes. Rainer Maria Rilke, Marina Tsvetaeva, and Boris Pasternak all devoted beautiful poems to her. They are love poems, about her relationship with Christ, but they are grave and nuanced.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2390-2395 | Added on Sunday, August 15, 2021 11:25:52 AM
+
+Anyone who wants to know the full, surprising contents of the Gnostic Gospels—with hermaphroditic spirits, and a Demiurge (not God) creating the universe, and the story of the Fall told from the point of view of the serpent, a friend to mankind—should consult Elaine Pagels's classic The Gnostic Gospels (1979) or Marvin Meyer's The Gnostic Discoveries: The Impact of the Nag Hammadi Library (2005). Meyer is more descriptive, Pagels more analytic. What is important for this story is that Mary Magdalene is a central figure in the Gnostic Gospels and, compared with her European legend, an utterly new character. Not only is she not a prostitute; she is an evangelical hero and Christ's favorite disciple.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2461-2463 | Added on Sunday, August 15, 2021 11:35:47 AM
+
+But, with the publication of the Gnostic Gospels, abetted by postmodern theory, a number of young scholars came to regard early Christianity entirely differently—as a process, a vast, centuries-long argument among competing sects, during which certain choices were made.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2608-2610 | Added on Sunday, August 15, 2021 12:05:32 PM
+
+In other words, we need a psychology of creativity. And that is exactly what most psychobiographers do not concern themselves with. Creativity—the thing that actually distinguishes their subjects from the rest of humankind and therefore needs explaining—is to them a given.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 2948-2949 | Added on Sunday, August 15, 2021 12:49:39 PM
+
+To it future painters and sculptors may one day return for instruction in its wide plastic use." So ballet is reality's government in exile.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 3084-3085 | Added on Sunday, August 15, 2021 1:06:02 PM
+
+(Once, Kirstein recalls, he invited Balanchine to go to a museum. "No, thanks," Balanchine replied. "I've been to a museum.")
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 3190-3193 | Added on Sunday, August 15, 2021 1:16:15 PM
+
+And at the end of a particularly great performance of Symphony in C, when fifty dancers filled the stage with disciplined, free vitality, I felt an exhilarated happiness. My friends felt it too, we defined it in the same way, and we agreed about its value. When that exhilaration failed to come—for it did not come at every performance—we agreed about that too, for this happiness was too important to fake. It was one of the great things in our lives, and one of the great things in the century.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 3349-3350 | Added on Sunday, August 15, 2021 1:45:46 PM
+
+He collected Staffordshire corn-on-the-cob jugs and pottery cabbages. He kissed his housekeeper every night before going to bed. He sought comfort, for he was plagued by insecurities, above all about his work.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 167-172 | Added on Thursday, August 19, 2021 10:21:16 AM
+
+“Tonight you’re washing dishes,” said Li in the tone he felt his parents were using on each other. Li’s parents seemed startled, looking at Li. “You can’t speak like that to Dad,” said Li’s mom. “You don’t help,” Li told his dad. “You just complain.” “He can only complain,” agreed Li’s mom. “So tonight you’ll clear the table and wash dishes,” said Li, and, to his moderate surprise, his dad began clearing the table.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 177-178 | Added on Thursday, August 19, 2021 10:21:44 AM
+
+“Sorry for being loud,” said Li. He and his parents liked to imagine that Dudu viewed all human speech as being directed to, or about, her.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 255-256 | Added on Thursday, August 19, 2021 10:33:55 AM
+
+When he got to Taiwan for his current ten-week visit, he’d been ensconced in stoned hermitude for fourteen months, during which he’d begun to view himself as recovering not just from pharmaceutical drugs but from nearly everything.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 686-687 | Added on Thursday, August 19, 2021 11:14:04 AM
+
+“I don’t want to,” said Li. “There’s
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 687-688 | Added on Thursday, August 19, 2021 11:14:13 AM
+
+“There’s a Chinese saying—it’s easier to change a dynasty than a personality.”
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 1089-1092 | Added on Friday, August 20, 2021 12:16:59 AM
+
+“I don’t believe you,” said Li. Since 2003, when his dad was imprisoned, his mom seemed to have earned all their money through stocks and real estate. The three of them sometimes joked that Li’s dad should write a book titled How to Lose Money; the joke was possible because he’d been the original source of the money.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 1210-1212 | Added on Friday, August 20, 2021 12:27:33 AM
+
+In bed, Li thought about chronic illness, which was worst in the States and rising globally. Maybe health problems would end U.S. domination, weakening the country into a new kind of partnership society—a meek, in-turned place of diseased people caring for one another—and also, eventually, history.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 1210-1214 | Added on Friday, August 20, 2021 12:28:04 AM
+
+In bed, Li thought about chronic illness, which was worst in the States and rising globally. Maybe health problems would end U.S. domination, weakening the country into a new kind of partnership society—a meek, in-turned place of diseased people caring for one another—and also, eventually, history. Humans everywhere were being nudged and shoved and pulled and lured away from matter, toward the increasingly friendlier dimension of the imagination—away from inflamed, deformed, poisoned bodies and the ad-covered, polluted outdoors, into beds, books, computers, fantasies, dreams, memories, and art.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 1372-1374 | Added on Friday, August 20, 2021 12:42:16 AM
+
+“Yes,” said Li, wondering what his parents understood or thought about there having been an earlier, deep stumble into history, with its own technologies, deities, drugs, novels, and types of pets. To Li, it seemed surprising and illuminating, showing that history, instead of being linear and unstoppable, was possibly a frequently interrupted thing, requiring two or five or more tries.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 1565-1565 | Added on Friday, August 20, 2021 6:39:03 AM
+
+his crura—his
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 1709-1711 | Added on Friday, August 20, 2021 11:28:21 AM
+
+The next day, still awake, he found himself earnestly considering returning to his drug phase’s last third, which had featured the solitary polydrug binge—a late-historical activity with probably millions of practitioners—but by night he didn’t want to anymore.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 1880-1883 | Added on Friday, August 20, 2021 11:54:24 AM
+
+He learned from a 2015 study that, out of awe, amusement, compassion, contentment, joy, love, and pride, it was awe, somewhat surprisingly, that had the strongest correlation with lower inflammation levels. He decided to feel and note awe or its intellect-grasped variation, wonder, at least once a day, which, with cannabis supplied and pain mostly gone, was easy.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 1887-1888 | Added on Friday, August 20, 2021 11:54:49 AM
+
+pleased by the sporadic breeze. He fell asleep, became a moxic
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 1958-1960 | Added on Friday, August 20, 2021 12:06:32 PM
+
+As his parents slept, Li felt tantalizingly scared, mulling over how in modern dominator societies one could at any moment find oneself trapped in abject pain, without memories or other frames of reference, unsure where or who one was—a counter-possibility to being suddenly, after dying or crossing history, in an eternal dream with its own dreamworlds.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 2106-2108 | Added on Friday, August 20, 2021 12:51:31 PM
+
+That night, researching for his novel, Li emailed his mom asking if she’d ever seen his dad cry. She said she’d seen it once, before they wed, when he talked about his parents dying when he was a college freshman. “I felt sad seeing him cry so I made a promise in my heart that I would help and take care of him all my life. I have kept my promise so far.”
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 2117-2119 | Added on Friday, August 20, 2021 12:53:47 PM
+
+At a waterfall at the bottom of Carp Mountain, Li learned of phytoncides (antimicrobial compounds given off by plants) and anions (molecules with extra electrons) from a dual-language sign calling them “air vitamins crucial to mental and physical health.”
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 2158-2159 | Added on Friday, August 20, 2021 12:58:05 PM
+
+“You used to be angry all the time—heh,” said Li’s dad. “What was there to be angry about?” “I wasn’t angry,” said Li. “I was uncomfortable.”
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 2934-2935 | Added on Friday, August 20, 2021 4:39:20 PM
+
+“No,” said Li’s dad. “Heh.” Walking
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 2935-2938 | Added on Friday, August 20, 2021 4:39:35 PM
+
+Walking past beautiful mosses, grasses, ferns, herbs, trees, and vines, Li couldn’t stop frowning. He felt anguished in an undefinable, helpless way that he knew indicated complex problems with his psyche. Previously, Yangmingshan had been a fun topic; it was the site of one of the earliest known instances of cannabis use by humans; for weeks, Li and his parents had discussed finding cannabis, harvesting some, and photographing the location for future harvests, but now they were there and hadn’t mentioned cannabis at all.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 2952-2953 | Added on Friday, August 20, 2021 4:42:27 PM
+
+The next day, despite having warned himself in his notes not to get upset on the last day, he got upset when his mom made him hard-boiled eggs to bring onto the plane.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 2962-2963 | Added on Friday, August 20, 2021 4:43:13 PM
+
+“the greatest of follies is to sacrifice health for any other kind of happiness.”
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 3333-3334 | Added on Friday, August 20, 2021 8:36:13 PM
+
+suttee, burying sacrificed women and children around the corpse of a dominant male.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 3500-3501 | Added on Friday, August 20, 2021 8:47:12 PM
+
+Furthermore, the dancing of feelings is a limited business. Dance, like music, is fundamentally abstract.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 3694-3696 | Added on Friday, August 20, 2021 9:31:38 PM
+
+"Everything a man does he does for his ideal woman." After the first performance of Don Quixote, Farrell said, she and Balanchine went to Dunkin' Donuts and talked about how happy they were and "how life would go on like this forever."
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 3905-3908 | Added on Friday, August 20, 2021 9:54:04 PM
+
+Art doesn't start out hallowed. It starts personal: an emergency. When Balanchine's oldest fans speak of certain moments—of Maria Tallchief in The Firebird, gliding across the dark stage, putting the monsters to sleep, or of Tanaquil LeClercq in Western Symphony, wearing her sexy black hat and banging out fouettés—it seems to me that this is what they mean: theater that isn't just a show but something immediate, unfakable.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 3381-3381 | Added on Saturday, August 21, 2021 1:00:37 PM
+
+Li had told her that non-organic tobacco contained glyphosate,
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 3497-3498 | Added on Saturday, August 21, 2021 1:25:36 PM
+
+psychic driving, an MKULTRA technique in which people were forced to hear the same statements half a million times from electronic helmets.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 4361-4362 | Added on Saturday, August 21, 2021 2:05:18 PM
+
+Horst. A gruff, lovable man who took his dachshunds to work with him, Horst had been the music director at Denishawn.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 4479-4480 | Added on Saturday, August 21, 2021 2:26:00 PM
+
+Graham was opportunistic, like many artists. She promised people a great deal, and then, if they asked for a great deal, she got rid of them.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 4672-4673 | Added on Saturday, August 21, 2021 3:03:18 PM
+
+Drama is a wheel, with spokes (the productions) radiating from the hub (the text). Dance is a chain, with each link attached only to the last.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 3978-3979 | Added on Sunday, August 22, 2021 11:54:45 AM
+
+They visited Flowerface, a county in east Taiwan where face-tattooed aborigines had once lived.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 4009-4012 | Added on Sunday, August 22, 2021 12:05:57 PM
+
+Before bed, Li read a paper on Nüwa, the oldest known Chinese deity. The Chinese had three basic creation myths, said the paper. According to the oldest, Nüwa, whose name the paper translated as “Snail-maid,” created both the universe and, with clay and river water, people. Liking her creations’ laughter, she formed the sexes and taught them to love and reproduce.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 4171-4173 | Added on Sunday, August 22, 2021 1:50:11 PM
+
+They got out and saw another “No Trespassing” sign. It began to lightly rain. Crossing a field, they passed a hot-pink thing sticking out of the grass and theorized it was a new species of life that wouldn’t be noticed due to seeming plastic.
+==========
+Leave Society (Tao Lin)
+- Your Highlight on Location 4303-4304 | Added on Sunday, August 22, 2021 2:09:05 PM
+
+He felt like an unself-conscious child who was also an adult who was nervous and giddy with requited love. He imagined he felt like Kay had the night she blushed for half an hour.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 5207-5209 | Added on Sunday, August 22, 2021 2:47:45 PM
+
+To Teachout, this narrowness is the key to Mencken's moral failings: "He looked at evil and saw ignorance." Hence his misunderstanding of Hitler. To him, the Führer was just another rabble-rouser, whom the excellent German people would soon tire of.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 5395-5398 | Added on Sunday, August 22, 2021 3:09:13 PM
+
+she was asked whether she thought Hollywood had a way of destroying artistic talent. "No, no, no," she replied. "I think nobody on earth writes down. Garbage though they turn out, Hollywood writers aren't writing down. That is their best. If you're going to write, don't pretend to write down. It's going to be the best you can do, and it's the fact that it's the best you can do that kills you."
+==========
+Complete Stories (Dorothy Parker)
+- Your Highlight on Location 2371-2374 | Added on Monday, August 23, 2021 7:45:58 AM
+
+She would cry long and softly over newspaper accounts of kidnaped babies, deserted wives, unemployed men, strayed cats, heroic dogs. Even when the paper was no longer before her, her mind revolved upon these things and the drops slipped rhythmically over her plump cheeks. “Honestly,” she would say to Herbie, “all the sadness there is in the world when you stop to think about it!” “Yeah,” Herbie would say.
+==========
+Complete Stories (Dorothy Parker)
+- Your Highlight on Location 2398-2398 | Added on Monday, August 23, 2021 7:48:36 AM
+
+She could bear those, at that, better than accounts of neat, companionable marriage and living happily ever after.
+==========
+Complete Stories (Dorothy Parker)
+- Your Highlight on Location 2442-2443 | Added on Monday, August 23, 2021 7:56:28 AM
+
+inevitably a quarrel, yet she would stay with him. There
+==========
+Complete Stories (Dorothy Parker)
+- Your Highlight on Location 2443-2444 | Added on Monday, August 23, 2021 7:56:36 AM
+
+There was always her thin and wordless idea that, maybe, this night, things would begin to be all right.
+==========
+Complete Stories (Dorothy Parker)
+- Your Highlight on Location 2530-2532 | Added on Monday, August 23, 2021 8:06:22 AM
+
+The aim of each was to have one man, permanently, to pay all her bills, in return for which she would have immediately given up other admirers and probably would have become exceedingly fond of him; for the affections of all of them were, by now, unexacting, tranquil, and easily arranged.
+==========
+Complete Stories (Dorothy Parker)
+- Your Highlight on Location 2613-2616 | Added on Monday, August 23, 2021 8:14:02 AM
+
+Mrs. Morse had been drinking all the afternoon; while she dressed to go out, she felt herself rising pleasurably from drowsiness to high spirits. But as she came out into the street the effects of the whisky deserted her completely, and she was filled with a slow, grinding wretchedness so horrible that she stood swaying on the pavement, unable for a moment to move forward.
+==========
+Complete Stories (Dorothy Parker)
+- Your Highlight on Location 2643-2644 | Added on Monday, August 23, 2021 8:17:19 AM
+
+She stretched her arms high and gave a vast yawn. “Guess I’ll go to bed,” she said. “Gee, I’m nearly dead.”
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 5459-5463 | Added on Monday, August 23, 2021 10:03:19 AM
+
+Lay in a "blackout cupboard" of prepared foods, including, she says—with what must have been a major gut-clenching, for she was a great gourmet—"cheeses in glass." Yes, Cheez Whiz, or whatever it was called in 1942. "In a time of peril and unspoken fear," she explains, cheese, any cheese, is "an anesthetic…. Put alittle bit on crackers, or on crisp toast if your oven is still working. Try it on a tired factory worker some day, or a nervous neighbor, with a glass of milk if possible or a cup of tea, and watch the unfolding of a lot of spiritual tendrils that were drawn up into a tight heedless tangle."
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 5523-5523 | Added on Monday, August 23, 2021 4:07:19 PM
+
+The notable thing is not that sex opened her up but that the complications and disasters that followed did not close her down again.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 5694-5697 | Added on Monday, August 23, 2021 7:21:11 PM
+
+In the cage we rose and dropped, rubbing elbows with bigshots and operators, commissioners, grabbers, heelers, tipsters, hoodlums, wolves, fixers, plaintiffs, flatfeet, men in Western hats and women in lizard shoes and fur coats, hothouse and arctic drafts mixed up, brute things and airs of sex, evidence of heavy feeding and systematic shaving, of calculations, grief, not-caring, and hopes of tremendous millions in concrete to be poured or whole Mississippis of bootleg whiskey and beer.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 5699-5700 | Added on Monday, August 23, 2021 7:21:23 PM
+
+All of Chicago seems gathered into the book, and eventually all of America, and much of human history as well. People are compared to Peter the Great, Pasiphaë, Alcibiades, Sardanapalus, Cesar Romero. Chicago becomes the world.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 5764-5767 | Added on Tuesday, August 24, 2021 1:40:24 PM
+
+Italian wines are "easy and companionable," she writes. "You can do with them what you never would with a hock or claret, trundle them about in a car, opened and all, fling in a handful of ice, drink them without a glass, drink them at all hours, with any food, in carefree quantities." This is the voice of a person who knows more than wine; she knows how to live, how to have fun.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 5947-5950 | Added on Wednesday, August 25, 2021 2:03:26 PM
+
+When you go from painting to this, it means you have an aggressive thought. You want to twist the neck of a person…. I became a sculptor because it allowed me to express—this is terribly, terribly important—it allowed me to express what I was embarrassed to express before. Then she wrung the neck of the figure she was creating.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 6327-6332 | Added on Wednesday, August 25, 2021 2:57:59 PM
+
+Still, they make no bones about the fact that life, for most people, is basically a disaster. In The Gate of Angels, Fred Fairly, as he is walking home to tell his father that he no longer believes in God, hears a kind of bustle in the hedges by the side of the road: The bushes…were motionless, but from the crowded stalks and the dense hedges there came a perpetual furtive humming, whining and rustling which suggested an alarming amount of activity out of sight. Twigs snapped and dropped from above, sticky threads drifted across from nowhere, there seemed to be something like an assassination, on a small scale, taking place in the tranquil heart of summer.
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 6382-6383 | Added on Wednesday, August 25, 2021 4:16:18 PM
+
+"Vanity Fair and Buddenbrooks, when I reread them recently…made me wince," she wrote in 1963. "I could not stand the omnipotent author showing me that's how life is, making me compassionate and tearful."
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 6433-6434 | Added on Wednesday, August 25, 2021 4:24:33 PM
+
+To quote the well-known last line of that piece, "In place of a hermeneutics we need an erotics of art":
+==========
+28 Artists & 2 Saints (Joan Acocella)
+- Your Highlight on Location 6446-6448 | Added on Wednesday, August 25, 2021 4:25:47 PM
+
+To her, it didn't seem like disagreement, but "more like turning a prism—to see something from another point of view." This is not fundamentally the method of criticism. It is the method of the novel.
+==========
+The Periodic Table (Primo Levi)
+- Your Highlight on Location 424-432 | Added on Monday, August 30, 2021 11:16:05 AM
+
+Caselli loved P. with a bitter, polemical love. Apparently he had been faithful to him for forty years; he was his shadow, his earthbound incarnation, and, like all those who perform vicarial functions, he was an interesting human specimen: like those, I mean to say, who represent Authority without possessing any of their own, such as, for example, sacristans, museum guides, beadles, nurses, the “young men” working for lawyers and notaries, and salesmen. These people, to a greater or lesser degree, tend to transfuse the human substance of their chief into their own mold, as occurs with pseudomorphic crystals: sometimes they suffer from it, often they enjoy it, and they possess two distinct patterns of behavior, depending on whether they act on their own or “in the exercise of their function.” It often happens that the personality of their chief invades them so completely as to disturb their normal human contacts and so they remain celibate: celibacy is in fact prescribed and accepted in the monastic state, which entails precisely the proximity and subjection to the highest authority.
+==========
+The Periodic Table (Primo Levi)
+- Your Highlight on Location 451-454 | Added on Monday, August 30, 2021 11:20:07 AM
+
+The course notes contained a detail which at first reading had escaped me, namely, that the so tender and delicate zinc, so yielding to acid which gulps it down in a single mouthful, behaves, however, in a very different fashion when it is very pure: then it obstinately resists the attack. One could draw from this two conflicting philosophical conclusions: the praise of purity, which protects from evil like a coat of mail; the praise of impurity, which gives rise to changes, in other words, to life.
+==========
+The Periodic Table (Primo Levi)
+- Your Highlight on Location 499-502 | Added on Monday, August 30, 2021 11:34:38 AM
+
+Night lay beyond the walls of the Chemical Institute, the night of Europe: Chamberlain had returned from Munich duped, Hitler had marched into Prague without firing a shot, Franco had subdued Barcelona and was ensconced in Madrid. Fascist Italy, the small-time pirate, had occupied Albania, and the premonition of imminent catastrophe condensed like grumous dew in the houses and streets, in wary conversations and dozing consciences.
+==========
+The Periodic Table (Primo Levi)
+- Your Highlight on Location 953-956 | Added on Monday, August 30, 2021 12:23:37 PM
+
+Gina then made a cruel decision: if she couldn’t bind herself to the man she cared for, the only one, well then, there would not be any other. Not a nun; she had modern ideas: but she forbade herself marriage forever in a refined and merciless manner, that is, by getting married. She was by now almost an executive, needed by the management, endowed with an iron memory and proverbial diligence: and she let everyone know, her parents and her bosses, that she intended to marry Bortolasso, the mine’s simpleton.
+==========
