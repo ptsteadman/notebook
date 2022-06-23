@@ -13904,3 +13904,618 @@ The Adventures of Augie March (Saul Bellow)
 
 She had to get herself up and change from worsted stockings—actually golf hose held with snarled elastics—to silk, to black dress, put up her triple-circle coif and, looking mean, powder her face. Not caring how ungentle she looked to us, she mounted her air-sweeping feathers with hat pins and, got up in the condition of ceremony, she went out with an aged quickness of anger, but as she walked down she still had to set both feet on each tread of the stairs.
 ==========
+The Site Reliability Workbook (Betsy Beyer)
+- Your Highlight on Location 1093-1094 | Added on Wednesday, May 25, 2022 8:43:47 AM
+
+Count your manually detected outages. If you have support tickets, count those too. Look at periods when you had a known outage or incident. Check that these periods correlate with steep drops in error budget.
+==========
+隐身衣 (格非)
+- Your Highlight on Location 18-18 | Added on Thursday, May 26, 2022 7:38:29 PM
+
+揶揄
+==========
+隐身衣 (格非)
+- Your Highlight on Location 21-21 | Added on Thursday, May 26, 2022 7:40:27 PM
+
+矜持
+==========
+隐身衣 (格非)
+- Your Highlight on Location 26-26 | Added on Thursday, May 26, 2022 7:43:38 PM
+
+自惭形秽
+==========
+隐身衣 (格非)
+- Your Highlight on Location 45-45 | Added on Thursday, May 26, 2022 9:21:02 PM
+
+委婉
+==========
+隐身衣 (格非)
+- Your Highlight on Location 65-65 | Added on Thursday, May 26, 2022 9:36:40 PM
+
+耸人听闻
+==========
+隐身衣 (格非)
+- Your Highlight on Location 65-65 | Added on Thursday, May 26, 2022 9:36:59 PM
+
+陈词滥调
+==========
+隐身衣 (格非)
+- Your Highlight on Location 71-72 | Added on Thursday, May 26, 2022 9:44:50 PM
+
+刘德华
+==========
+隐身衣 (格非)
+- Your Highlight on Location 71-71 | Added on Thursday, May 26, 2022 9:44:58 PM
+
+红色娘子军
+==========
+隐身衣 (格非)
+- Your Highlight on Location 39-39 | Added on Thursday, May 26, 2022 9:48:36 PM
+
+张学友
+==========
+隐身衣 (格非)
+- Your Highlight on Location 39-39 | Added on Thursday, May 26, 2022 9:48:44 PM
+
+蔡琴
+==========
+隐身衣 (格非)
+- Your Highlight on Location 39-39 | Added on Thursday, May 26, 2022 9:48:51 PM
+
+梅艳芳
+==========
+隐身衣 (格非)
+- Your Highlight on Location 73-73 | Added on Thursday, May 26, 2022 9:49:34 PM
+
+轻佻
+==========
+隐身衣 (格非)
+- Your Highlight on Location 89-89 | Added on Friday, May 27, 2022 9:07:46 AM
+
+莫扎特
+==========
+隐身衣 (格非)
+- Your Highlight on Location 89-89 | Added on Friday, May 27, 2022 9:08:00 AM
+
+莫扎特
+==========
+隐身衣 (格非)
+- Your Highlight on Location 90-90 | Added on Friday, May 27, 2022 9:09:21 AM
+
+李宇春
+==========
+隐身衣 (格非)
+- Your Highlight on Location 99-99 | Added on Friday, May 27, 2022 9:20:15 AM
+
+氛围
+==========
+隐身衣 (格非)
+- Your Highlight on Location 101-101 | Added on Friday, May 27, 2022 9:21:24 AM
+
+格里格《彼尔·金特》中的“晨曲”
+==========
+隐身衣 (格非)
+- Your Highlight on Location 109-109 | Added on Friday, May 27, 2022 9:26:42 AM
+
+摆布
+==========
+隐身衣 (格非)
+- Your Highlight on Location 111-111 | Added on Friday, May 27, 2022 9:28:17 AM
+
+褪
+==========
+隐身衣 (格非)
+- Your Highlight on Location 117-117 | Added on Friday, May 27, 2022 9:30:37 AM
+
+谶语
+==========
+隐身衣 (格非)
+- Your Highlight on Location 116-116 | Added on Friday, May 27, 2022 9:31:19 AM
+
+格言
+==========
+隐身衣 (格非)
+- Your Highlight on Location 122-122 | Added on Friday, May 27, 2022 9:33:51 AM
+
+秉性
+==========
+隐身衣 (格非)
+- Your Highlight on Location 131-131 | Added on Friday, May 27, 2022 9:38:30 AM
+
+卖相
+==========
+隐身衣 (格非)
+- Your Highlight on Location 141-141 | Added on Friday, May 27, 2022 9:42:09 AM
+
+消受不起
+==========
+隐身衣 (格非)
+- Your Highlight on Location 154-154 | Added on Friday, May 27, 2022 8:51:51 PM
+
+象征性
+==========
+隐身衣 (格非)
+- Your Highlight on Location 154-154 | Added on Friday, May 27, 2022 8:53:02 PM
+
+红杏出墙
+==========
+隐身衣 (格非)
+- Your Highlight on Location 185-185 | Added on Saturday, May 28, 2022 12:15:01 PM
+
+鬼胎
+==========
+隐身衣 (格非)
+- Your Highlight on Location 200-200 | Added on Saturday, May 28, 2022 12:28:01 PM
+
+谓的进口机床，听上去神秘兮兮
+==========
+隐身衣 (格非)
+- Your Highlight on Location 203-203 | Added on Saturday, May 28, 2022 12:30:11 PM
+
+架不住
+==========
+隐身衣 (格非)
+- Your Highlight on Location 214-214 | Added on Sunday, May 29, 2022 3:16:39 AM
+
+鼻涕虫
+==========
+隐身衣 (格非)
+- Your Highlight on Location 229-230 | Added on Sunday, May 29, 2022 9:48:42 AM
+
+我的客户大致可分为以下两类
+==========
+隐身衣 (格非)
+- Your Highlight on Location 233-233 | Added on Sunday, May 29, 2022 9:53:45 AM
+
+茅塞顿开
+==========
+隐身衣 (格非)
+- Your Highlight on Location 237-237 | Added on Sunday, May 29, 2022 10:04:28 AM
+
+见缝插针
+==========
+隐身衣 (格非)
+- Your Highlight on Location 237-237 | Added on Sunday, May 29, 2022 10:05:30 AM
+
+点拨
+==========
+隐身衣 (格非)
+- Your Highlight on Location 270-270 | Added on Sunday, May 29, 2022 11:24:39 AM
+
+霍尔德
+==========
+隐身衣 (格非)
+- Your Highlight on Location 271-271 | Added on Sunday, May 29, 2022 11:27:15 AM
+
+管弦乐，
+==========
+隐身衣 (格非)
+- Your Highlight on Location 279-279 | Added on Sunday, May 29, 2022 3:36:51 PM
+
+海菲兹
+==========
+隐身衣 (格非)
+- Your Highlight on Location 279-279 | Added on Sunday, May 29, 2022 3:36:58 PM
+
+柯岗
+==========
+隐身衣 (格非)
+- Your Highlight on Location 287-287 | Added on Sunday, May 29, 2022 5:26:06 PM
+
+拉赫玛尼诺夫
+==========
+隐身衣 (格非)
+- Your Highlight on Location 287-287 | Added on Sunday, May 29, 2022 5:27:13 PM
+
+新疆之春
+==========
+隐身衣 (格非)
+- Your Highlight on Location 308-308 | Added on Sunday, May 29, 2022 5:43:04 PM
+
+蕊
+==========
+隐身衣 (格非)
+- Your Highlight on Location 308-308 | Added on Sunday, May 29, 2022 5:43:49 PM
+
+张罗
+==========
+隐身衣 (格非)
+- Your Highlight on Location 311-311 | Added on Sunday, May 29, 2022 5:52:08 PM
+
+挑三拣四
+==========
+隐身衣 (格非)
+- Your Highlight on Location 311-311 | Added on Sunday, May 29, 2022 5:53:06 PM
+
+饥不择食
+==========
+隐身衣 (格非)
+- Your Highlight on Location 312-312 | Added on Sunday, May 29, 2022 5:54:07 PM
+
+情有独钟
+==========
+隐身衣 (格非)
+- Your Highlight on Location 312-312 | Added on Sunday, May 29, 2022 5:54:30 PM
+
+情有独钟
+==========
+隐身衣 (格非)
+- Your Highlight on Location 312-312 | Added on Sunday, May 29, 2022 5:55:15 PM
+
+委婉
+==========
+隐身衣 (格非)
+- Your Highlight on Location 352-352 | Added on Sunday, May 29, 2022 6:37:18 PM
+
+馋
+==========
+隐身衣 (格非)
+- Your Highlight on Location 362-362 | Added on Sunday, May 29, 2022 6:41:55 PM
+
+九头鸟
+==========
+隐身衣 (格非)
+- Your Highlight on Location 393-394 | Added on Sunday, May 29, 2022 6:56:48 PM
+
+灰头土脸
+==========
+隐身衣 (格非)
+- Your Highlight on Location 397-397 | Added on Sunday, May 29, 2022 7:00:38 PM
+
+三天两头
+==========
+隐身衣 (格非)
+- Your Highlight on Location 399-399 | Added on Monday, May 30, 2022 11:04:30 AM
+
+得寸进尺
+==========
+隐身衣 (格非)
+- Your Highlight on Location 428-428 | Added on Monday, May 30, 2022 11:30:19 AM
+
+逼仄。
+==========
+隐身衣 (格非)
+- Your Highlight on Location 451-451 | Added on Monday, May 30, 2022 12:04:25 PM
+
+殷勤
+==========
+隐身衣 (格非)
+- Your Highlight on Location 461-461 | Added on Monday, May 30, 2022 12:09:40 PM
+
+半导体
+==========
+隐身衣 (格非)
+- Your Highlight on Location 466-466 | Added on Monday, May 30, 2022 12:12:11 PM
+
+宋玉庆演唱的现代京剧《奇袭白虎团》。
+==========
+隐身衣 (格非)
+- Your Highlight on Location 468-468 | Added on Monday, May 30, 2022 12:13:12 PM
+
+周杰伦
+==========
+隐身衣 (格非)
+- Your Highlight on Location 468-468 | Added on Monday, May 30, 2022 12:13:38 PM
+
+王心刚
+==========
+隐身衣 (格非)
+- Your Highlight on Location 469-469 | Added on Monday, May 30, 2022 12:14:34 PM
+
+迄今为止
+==========
+隐身衣 (格非)
+- Your Highlight on Location 502-502 | Added on Monday, May 30, 2022 12:35:18 PM
+
+八面玲珑
+==========
+隐身衣 (格非)
+- Your Highlight on Location 512-512 | Added on Monday, May 30, 2022 12:42:50 PM
+
+披星戴月
+==========
+隐身衣 (格非)
+- Your Highlight on Location 534-534 | Added on Wednesday, June 1, 2022 8:49:33 AM
+
+最好的东西往往只有表面薄薄的一层
+==========
+隐身衣 (格非)
+- Your Highlight on Location 536-536 | Added on Wednesday, June 1, 2022 8:51:48 AM
+
+悄然
+==========
+隐身衣 (格非)
+- Your Highlight on Location 546-546 | Added on Wednesday, June 1, 2022 8:57:03 AM
+
+床沿
+==========
+隐身衣 (格非)
+- Your Highlight on Location 560-561 | Added on Wednesday, June 1, 2022 10:10:45 PM
+
+蹊跷事
+==========
+隐身衣 (格非)
+- Your Highlight on Location 567-567 | Added on Wednesday, June 1, 2022 10:16:09 PM
+
+肺腑
+==========
+隐身衣 (格非)
+- Your Highlight on Location 576-576 | Added on Wednesday, June 1, 2022 10:20:15 PM
+
+受宠若惊
+==========
+隐身衣 (格非)
+- Your Highlight on Location 580-580 | Added on Wednesday, June 1, 2022 10:22:58 PM
+
+酒酣耳热
+==========
+隐身衣 (格非)
+- Your Highlight on Location 596-596 | Added on Wednesday, June 1, 2022 10:32:11 PM
+
+变本加厉
+==========
+隐身衣 (格非)
+- Your Highlight on Location 620-620 | Added on Friday, June 3, 2022 2:38:53 PM
+
+韩红
+==========
+隐身衣 (格非)
+- Your Highlight on Location 619-619 | Added on Friday, June 3, 2022 2:38:59 PM
+
+天路
+==========
+隐身衣 (格非)
+- Your Highlight on Location 628-628 | Added on Friday, June 3, 2022 2:45:37 PM
+
+豆蔻年华
+==========
+隐身衣 (格非)
+- Your Highlight on Location 712-712 | Added on Saturday, June 4, 2022 4:00:10 PM
+
+乘凉
+==========
+隐身衣 (格非)
+- Your Highlight on Location 725-725 | Added on Saturday, June 4, 2022 4:11:15 PM
+
+乖张
+==========
+隐身衣 (格非)
+- Your Highlight on Location 728-728 | Added on Saturday, June 4, 2022 4:13:25 PM
+
+巴托克
+==========
+隐身衣 (格非)
+- Your Highlight on Location 728-728 | Added on Saturday, June 4, 2022 4:13:34 PM
+
+普罗科菲耶夫
+==========
+隐身衣 (格非)
+- Your Highlight on Location 731-731 | Added on Saturday, June 4, 2022 4:17:40 PM
+
+寂静山村的夜晚
+==========
+隐身衣 (格非)
+- Your Highlight on Location 751-751 | Added on Saturday, June 4, 2022 4:44:16 PM
+
+红杏出墙
+==========
+隐身衣 (格非)
+- Your Highlight on Location 761-761 | Added on Sunday, June 5, 2022 5:56:28 PM
+
+意大利四重奏乐团演奏的莫扎特
+==========
+隐身衣 (格非)
+- Your Highlight on Location 761-762 | Added on Sunday, June 5, 2022 5:56:54 PM
+
+季雪金弹的拉威尔或德彪西
+==========
+隐身衣 (格非)
+- Your Highlight on Location 764-764 | Added on Sunday, June 5, 2022 5:58:59 PM
+
+颦
+==========
+隐身衣 (格非)
+- Your Highlight on Location 774-774 | Added on Sunday, June 5, 2022 6:06:42 PM
+
+轻描淡写
+==========
+隐身衣 (格非)
+- Your Highlight on Location 794-794 | Added on Sunday, June 5, 2022 6:19:59 PM
+
+阳痿
+==========
+隐身衣 (格非)
+- Your Highlight on Location 795-795 | Added on Sunday, June 5, 2022 6:20:36 PM
+
+铤而走险
+==========
+隐身衣 (格非)
+- Your Highlight on Location 801-801 | Added on Sunday, June 5, 2022 6:23:19 PM
+
+死皮赖脸
+==========
+隐身衣 (格非)
+- Your Highlight on Location 810-810 | Added on Sunday, June 5, 2022 6:27:34 PM
+
+折合
+==========
+隐身衣 (格非)
+- Your Highlight on Location 846-847 | Added on Sunday, June 5, 2022 6:48:43 PM
+
+客户的账户，从未出现过任何闪
+==========
+隐身衣 (格非)
+- Your Highlight on Location 851-852 | Added on Sunday, June 5, 2022 6:52:05 PM
+
+以邻为壑
+==========
+隐身衣 (格非)
+- Your Highlight on Location 855-856 | Added on Sunday, June 5, 2022 6:54:14 PM
+
+文艺复兴至巴洛克时代
+==========
+隐身衣 (格非)
+- Your Highlight on Location 859-859 | Added on Sunday, June 5, 2022 7:01:35 PM
+
+醍醐灌顶
+==========
+隐身衣 (格非)
+- Your Highlight on Location 862-863 | Added on Sunday, June 5, 2022 7:25:19 PM
+
+肖邦
+==========
+隐身衣 (格非)
+- Your Highlight on Location 863-863 | Added on Sunday, June 5, 2022 7:27:32 PM
+
+刽子手
+==========
+隐身衣 (格非)
+- Your Highlight on Location 864-864 | Added on Sunday, June 5, 2022 7:28:36 PM
+
+富特文格勒
+==========
+隐身衣 (格非)
+- Your Highlight on Location 865-865 | Added on Sunday, June 5, 2022 7:29:07 PM
+
+主人公
+==========
+隐身衣 (格非)
+- Your Highlight on Location 865-865 | Added on Sunday, June 5, 2022 7:30:09 PM
+
+榨取
+==========
+隐身衣 (格非)
+- Your Highlight on Location 902-902 | Added on Sunday, June 5, 2022 7:59:14 PM
+
+萨蒂，《玄秘曲》
+==========
+隐身衣 (格非)
+- Your Highlight on Location 960-961 | Added on Monday, June 6, 2022 4:10:26 PM
+
+巴托利演唱的多尼采蒂的歌剧
+==========
+隐身衣 (格非)
+- Your Highlight on Location 961-961 | Added on Monday, June 6, 2022 4:11:04 PM
+
+CHESKY公司于一九九〇年出版的理查·施特劳斯的《莎乐美》
+==========
+隐身衣 (格非)
+- Your Highlight on Location 1079-1079 | Added on Monday, June 6, 2022 5:21:11 PM
+
+红色黎明
+==========
+隐身衣 (格非)
+- Your Highlight on Location 1080-1080 | Added on Monday, June 6, 2022 5:21:40 PM
+
+走投无路
+==========
+隐身衣 (格非)
+- Your Highlight on Location 1115-1115 | Added on Monday, June 6, 2022 7:45:38 PM
+
+勃拉姆斯
+==========
+隐身衣 (格非)
+- Your Highlight on Location 1200-1200 | Added on Monday, June 6, 2022 8:13:14 PM
+
+莱恩-哈特
+==========
+隐身衣 (格非)
+- Your Highlight on Location 1223-1223 | Added on Monday, June 6, 2022 8:21:24 PM
+
+搔首弄姿
+==========
+隐身衣 (格非)
+- Your Highlight on Location 1286-1286 | Added on Monday, June 6, 2022 8:41:46 PM
+
+未置可否
+==========
+隐身衣 (格非)
+- Your Highlight on Location 1291-1291 | Added on Monday, June 6, 2022 8:43:32 PM
+
+搪塞
+==========
+隐身衣 (格非)
+- Your Highlight on Location 1350-1350 | Added on Monday, June 6, 2022 9:02:09 PM
+
+吹毛求疵
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 130-132 | Added on Wednesday, June 8, 2022 9:24:52 AM
+
+Till then, in the real non-sci-fi world, there was Aunt Reet’s bordering-on-the-supernatural sense of the land, the stories that seldom appeared in deeds or contracts, especially matrimonial, the generations of family hatreds big and small, the way the water flowed, or used to.
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 575-575 | Added on Tuesday, June 14, 2022 5:58:58 PM
+
+Chantays, the Trashmen, the Halibuts,
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 571-572 | Added on Tuesday, June 14, 2022 5:59:06 PM
+
+according to rock critics who’d noticed, included Earl Bostic, Stan Getz, and legendary New Orleans studio tenor Lee Allen.
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 578-579 | Added on Tuesday, June 14, 2022 6:00:19 PM
+
+“Coy and I should’ve met cute, with cuteness everywhere back then and all of it up for sale, but actually we met squalid, down at Oscar’s in San Ysidro—”
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 777-778 | Added on Wednesday, June 15, 2022 3:48:10 PM
+
+Droolin’ Floyd Womack
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 866-867 | Added on Wednesday, June 15, 2022 5:20:09 PM
+
+“The Great Pretender.”
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 882-882 | Added on Wednesday, June 15, 2022 5:22:10 PM
+
+about halfway to the Wolfmann residence, the Bonzo
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 882-882 | Added on Wednesday, June 15, 2022 5:22:17 PM
+
+Bonzo Dog Band
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 1953-1954 | Added on Saturday, June 18, 2022 2:25:01 PM
+
+departure—“Pipeline” and “Surfin’ Bird,” by the Trashmen, and “Bamboo,” by Johnny and the Hurricanes, singles by Eddie and the Showmen, the Bel Airs, the Hollywood Saxons, and the Olympics,
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 2134-2137 | Added on Saturday, June 18, 2022 3:30:40 PM
+
+“Never mind. Just be advised, boys,” she said, “you’ll want to watch your step, ’cause what I am is, is like a small-diameter pearl of the Orient rolling around on the floor of late capitalism—lowlifes of all income levels may step on me now and then but if they do it’ll be them who slip and fall and on a good day break their ass, while the ol’ pearl herself just goes a-rollin on.”
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 2265-2266 | Added on Saturday, June 18, 2022 3:52:15 PM
+
+She grew unflirtatious, almost somber. Her beauty deepening somehow. “I just hope he’s alive, man. He wasn’t that bad of a person.”
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 2302-2302 | Added on Saturday, June 18, 2022 8:42:36 PM
+
+Louis L’Amour
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 2305-2305 | Added on Saturday, June 18, 2022 8:42:48 PM
+
+Del Shannon perennial “Runaway,”
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 2662-2663 | Added on Tuesday, June 21, 2022 1:59:22 PM
+
+The Fenways were heavy-duty South Bay money, living on the Palos Verdes Peninsula in a gated enclave located inside the already gated high-rent community of Rolling Hills.
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 2751-2751 | Added on Tuesday, June 21, 2022 9:37:02 PM
+
+wraparound hallucination
+==========
+Inherent Vice (Thomas Pynchon)
+- Your Highlight on Location 3043-3045 | Added on Thursday, June 23, 2022 3:20:26 AM
+
+“All my Chinese food,” Denis shaking his head. Once a month he ordered thirty meals from South Bay Cantonese out on Sepulveda and kept them in the freezer to thaw out one by one for meals over the next month.
+==========
