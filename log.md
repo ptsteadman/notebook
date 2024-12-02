@@ -4628,6 +4628,40 @@ manet
 "是吧，” 安娜说。
 
 
+# IAM Session Notes
+
+- in AWS, a role can be an identity - can do authn/authz itself. big difference between user and role
+is that roles do not have long-lived credentials
+- roles do not have long-term credentials
+- it's nice to hear that AWS promotes the pattern of heavy use of roles, even nested use of roles
+- when a user assumes a role, you lose permissions of the user, and so on if you continue assuming roles
+- assigning vs assuming roles
+- Service Role + Service Linked Role: assumed by services (usually AWS services), service linked
+  roles are pre-defined
+- elements of policies
+    - effect - "ALLOW"
+    - principal - user or role
+    - action
+    - resource
+    - condidition
+
+### Permission Granting Policies
+1. Identity Based Policies: AWS managed, customer managed, inline
+2. Resource Based Policies:
+- example: s3 bucket allows users from a certain AWS account to upload 
+3. (ACLs)
+
+### Permission Boundary Policies
+1. LIMIT permissions - can be attached to a role or user?
+- how to debug this?
+2. Organization Service Control Policies (SCPs)
+- associated with an OU (organizational unit) or an AWS account
+3. Session Policies
+
+root user of management account is special, if no scp policies, can do anything
+
+### modules:
+968353118467
 
 
 
