@@ -5,6 +5,7 @@ def cd(current: str, path: str) -> str:
     stack = []
     for part in joined_path.split('/'):
         if part == ".." and stack:
+            breakpoint()
             stack.pop()
         elif part and part != ".":
             stack.append(part)
