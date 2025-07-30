@@ -1,6 +1,6 @@
 """
-Context: We have a hierarchical file system where design files and folders are organized in a tree structure (similar to how files/folders are organized in Figma). Each file/folder has specific user access permissions. We need to build a system to efficiently determine what content is accessible to users.
-Problem Statement: Given a file system tree where each node (file/folder) has:
+Context: We have a hierarchical file system where design files and folders are organized in a tree structure (similar to how files/folders are organized in Figma). Each file/folder has specific user access permissions. We need to build a system to efficiently determine what content is accessible to users.
+Problem Statement: Given a file system tree where each node (file/folder) has:
 * A unique ID
 * Parent ID (null for root)
 * Type (file or folder)
@@ -46,7 +46,7 @@ init_function(
 """
 
 import unittest
-from typing import List, Set
+from typing import List, Set, Dict, Optional
 from dataclasses import dataclass, field
 from collections import deque
 from itertools import chain
@@ -58,6 +58,91 @@ class Node:
     children: List["Node"] = field(default_factory=list) 
     users: Set[str] = field(default_factory=set) 
     parents: List["Node"] = field(default_factory=list) 
+
+@dataclass
+class FileSystemNode:
+    id: str
+    parentId: Optional[str]
+    type: str  # "file" or "folder"
+    name: str
+    accessibleBy: List[str]
+
+class SimpleFileSystem:
+    def __init__(self, nodes: List[FileSystemNode]):
+        self.nodes = nodes
+        self.id_to_node = {node.id: node for node in nodes}
+        self.children_map = {}
+        
+        # Build parent-child relationships
+        for node in nodes:
+            if node.parentId is not None:
+                if node.parentId not in self.children_map:
+                    self.children_map[node.parentId] = []
+                self.children_map[node.parentId].append(node.id)
+    
+    def get_topmost_accessible(self, user_id: str) -> List[FileSystemNode]:
+        """
+        Find all "topmost" accessible files/folders for a given user.
+        "Topmost" means if a user has access to both a parent and child, only return the parent.
+        
+        Algorithm: BFS from root nodes
+        - Start from all root nodes (nodes with no parent)
+        - Process nodes in level order (BFS ensures ancestors are processed before descendants)
+        - When we find an accessible node, it's topmost (no accessible parent above it in BFS order)
+        - Skip adding its descendants to the queue since they're covered
+        - Continue BFS with remaining nodes
+        
+        Key Insight: BFS level-order processing ensures that if a node is accessible,
+        it's not covered by any accessible parent (since we would have found that parent first).
+        
+        Time Complexity: O(V + E) where V = nodes, E = edges
+        Space Complexity: O(V) for visited set and queue
+        """
+        def has_access(node: FileSystemNode) -> bool:
+            return user_id in node.accessibleBy
+        
+        # Find root nodes (nodes with no parent)
+        root_nodes = [node for node in self.nodes if node.parentId is None]
+        
+        # BFS from root nodes to find topmost accessible nodes
+        topmost_nodes = []
+        visited = set()
+        queue = deque()
+        
+        # Start BFS from all root nodes
+        for root in root_nodes:
+            queue.append(root)
+        
+        # Also handle orphaned nodes (nodes with invalid parent references)
+        orphaned_nodes = []
+        for node in self.nodes:
+            if node.parentId is not None and node.parentId not in self.id_to_node:
+                orphaned_nodes.append(node)
+        
+        # Add orphaned nodes to the queue
+        for orphan in orphaned_nodes:
+            queue.append(orphan)
+        
+        while queue:
+            node = queue.popleft()
+            
+            if node.id in visited:
+                continue
+            visited.add(node.id)
+            
+            # If this node is accessible, it's topmost (BFS ensures no accessible parent above)
+            if has_access(node):
+                topmost_nodes.append(node)
+                # Skip adding descendants to queue since they're covered by this node
+            else:
+                # Continue BFS with children
+                children = self.children_map.get(node.id, [])
+                for child_id in children:
+                    child = self.id_to_node.get(child_id)
+                    if child and child_id not in visited:
+                        queue.append(child)
+        
+        return topmost_nodes
 
 class Team:
   def __init__(self, uuid, folder_ids, file_ids, user_ids):
@@ -205,5 +290,132 @@ class FileSystemTester(unittest.TestCase):
         self.assertNotIn("File1", node_uuids, "Should NOT include File1 (covered by Team1)")
 
 
+class SimpleFileSystemTester(unittest.TestCase):
+    def test_basic_topmost_accessible(self):
+        """Test the basic case from the problem statement"""
+        nodes = [
+            FileSystemNode("1", None, "folder", "root", ["user1"]),
+            FileSystemNode("2", "1", "folder", "folder1", ["user1", "user2"]),
+            FileSystemNode("3", "2", "file", "file1", ["user2"])
+        ]
+        
+        fs = SimpleFileSystem(nodes)
+        result = fs.get_topmost_accessible("user1")
+        
+        # user1 has access to root and folder1, but only root should be returned
+        # because folder1 is covered by root
+        self.assertEqual(len(result), 1)
+        self.assertEqual(result[0].id, "1")
+        self.assertEqual(result[0].name, "root")
+    
+    def test_user2_access(self):
+        """Test user2 access pattern"""
+        nodes = [
+            FileSystemNode("1", None, "folder", "root", ["user1"]),
+            FileSystemNode("2", "1", "folder", "folder1", ["user1", "user2"]),
+            FileSystemNode("3", "2", "file", "file1", ["user2"])
+        ]
+        
+        fs = SimpleFileSystem(nodes)
+        result = fs.get_topmost_accessible("user2")
+        
+        # user2 has access to folder1 and file1, but only folder1 should be returned
+        # because file1 is covered by folder1
+        self.assertEqual(len(result), 1)
+        self.assertEqual(result[0].id, "2")
+        self.assertEqual(result[0].name, "folder1")
+    
+    def test_multiple_topmost_nodes(self):
+        """Test case where user has access to multiple topmost nodes"""
+        nodes = [
+            FileSystemNode("1", None, "folder", "root", ["user1"]),
+            FileSystemNode("2", "1", "folder", "folder1", ["user2"]),  # user2 only
+            FileSystemNode("3", "1", "folder", "folder2", ["user2"]),  # user2 only
+            FileSystemNode("4", "2", "file", "file1", ["user2"]),
+            FileSystemNode("5", "3", "file", "file2", ["user2"])
+        ]
+        
+        fs = SimpleFileSystem(nodes)
+        result = fs.get_topmost_accessible("user2")
+        
+        # user2 should get folder1 and folder2 (both are topmost)
+        self.assertEqual(len(result), 2)
+        result_ids = {node.id for node in result}
+        self.assertEqual(result_ids, {"2", "3"})
+    
+    def test_no_access(self):
+        """Test case where user has no access"""
+        nodes = [
+            FileSystemNode("1", None, "folder", "root", ["user1"]),
+            FileSystemNode("2", "1", "folder", "folder1", ["user1"]),
+            FileSystemNode("3", "2", "file", "file1", ["user1"])
+        ]
+        
+        fs = SimpleFileSystem(nodes)
+        result = fs.get_topmost_accessible("user2")
+        
+        # user2 has no access to anything
+        self.assertEqual(len(result), 0)
+    
+    def test_complex_hierarchy(self):
+        """Test a more complex hierarchy"""
+        nodes = [
+            FileSystemNode("1", None, "folder", "root", ["user1"]),
+            FileSystemNode("2", "1", "folder", "folder1", ["user1", "user2"]),
+            FileSystemNode("3", "2", "folder", "subfolder1", ["user2"]),
+            FileSystemNode("4", "3", "file", "file1", ["user2"]),
+            FileSystemNode("5", "1", "folder", "folder2", ["user2"]),
+            FileSystemNode("6", "5", "file", "file2", ["user2"])
+        ]
+        
+        fs = SimpleFileSystem(nodes)
+        result = fs.get_topmost_accessible("user2")
+        
+        # user2 should get folder1 and folder2 (both are topmost)
+        # folder1 covers subfolder1 and file1
+        # folder2 covers file2
+        self.assertEqual(len(result), 2)
+        result_ids = {node.id for node in result}
+        self.assertEqual(result_ids, {"2", "5"})
+    
+    def test_orphaned_nodes(self):
+        """Test case with nodes that have invalid parent references"""
+        nodes = [
+            FileSystemNode("1", None, "folder", "root", ["user1"]),
+            FileSystemNode("2", "999", "folder", "orphaned", ["user1"]),  # Invalid parent
+            FileSystemNode("3", "2", "file", "file1", ["user1"])
+        ]
+        
+        fs = SimpleFileSystem(nodes)
+        result = fs.get_topmost_accessible("user1")
+        
+        # Should handle orphaned nodes gracefully
+        # root should be returned, orphaned should be returned (no parent access)
+        self.assertEqual(len(result), 2)
+        result_ids = {node.id for node in result}
+        self.assertEqual(result_ids, {"1", "2"})
+
+
 if __name__ == "__main__":
+    # Example usage of SimpleFileSystem
+    print("=== SimpleFileSystem Example ===")
+    
+    # Create nodes as described in the problem statement
+    nodes = [
+        FileSystemNode("1", None, "folder", "root", ["user1"]),
+        FileSystemNode("2", "1", "folder", "folder1", ["user1", "user2"]),
+        FileSystemNode("3", "2", "file", "file1", ["user2"])
+    ]
+    
+    fs = SimpleFileSystem(nodes)
+    
+    # Test user1 access
+    user1_result = fs.get_topmost_accessible("user1")
+    print(f"User1 topmost accessible: {[node.name for node in user1_result]}")
+    
+    # Test user2 access
+    user2_result = fs.get_topmost_accessible("user2")
+    print(f"User2 topmost accessible: {[node.name for node in user2_result]}")
+    
+    print("\n=== Running Tests ===")
     unittest.main()
