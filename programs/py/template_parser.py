@@ -48,10 +48,21 @@ def parse_old(template: str, variables: Dict) -> str:
     return result
 
 def parse(template: str, variables: Dict[str, str]) -> str:
+    """
+    Parse a template string with support for escaping braces.
+    
+    {{ and }} are treated as literal braces
+    {var} is treated as a variable placeholder
+    Missing variables are left as {var_name}
+    """
+    if not template:
+        return template
+    
     res = []
-    i, stack = 0, []
+    i = 0
     template = template.replace("{{", "TEMP_OPEN_BRACE")
     template = template.replace("}}", "TEMP_CLOSE_BRACE")
+    
     while i < len(template):
         if (start := template.find("{", i)) == -1:
             res.append(template[i:])
@@ -59,8 +70,17 @@ def parse(template: str, variables: Dict[str, str]) -> str:
         else:
             res.append(template[i:start])
             end = template.find("}", start)
-            res.append(variables[template[start+1:end]])
+            
+            if end == -1:
+                # Unmatched opening brace - leave it as-is
+                res.append(template[start:])
+                break
+            
+            var_name = template[start+1:end]
+            # Use .get() to handle missing variables gracefully
+            res.append(variables.get(var_name, f"{{{var_name}}}"))
             i = end + 1
+    
     result = "".join(res)
     result = result.replace("TEMP_OPEN_BRACE", "{")
     result = result.replace("TEMP_CLOSE_BRACE", "}")
@@ -81,9 +101,10 @@ class TestTemplate(unittest.TestCase):
             "Hello Alex, welcome to figma"
         )
     
-    def test_missing_variable_raises_keyerror(self):
-        with self.assertRaises(KeyError):
-            parse("Hello {name}, welcome to {platform}", {"name": "Alex"})
+    def test_missing_variable_handled_gracefully(self):
+        # Should leave missing variables as {var_name} instead of raising KeyError
+        result = parse("Hello {name}, welcome to {platform}", {"name": "Alex"})
+        self.assertEqual(result, "Hello Alex, welcome to {platform}")
     
     def test_escaped_braces(self):
         # Test that {{ and }} are treated as literal braces
@@ -104,11 +125,40 @@ class TestTemplate(unittest.TestCase):
             "This is literal: {}"
         )
     
-    def test_malformed_template(self):
-        # Test that malformed templates (unmatched braces) are handled gracefully
-        # The current implementation will leave unmatched braces as-is
+    def test_unmatched_opening_brace(self):
+        # Should handle unmatched opening brace gracefully
         result = parse("Hello {name}, welcome to {platform", {"name": "Alex"})
         self.assertEqual(result, "Hello Alex, welcome to {platform")
+    
+    def test_unmatched_closing_brace(self):
+        # Should handle unmatched closing brace gracefully
+        result = parse("Hello {name}, welcome to }platform}", {"name": "Alex"})
+        self.assertEqual(result, "Hello Alex, welcome to }platform}")
+    
+    def test_empty_template(self):
+        self.assertEqual(parse("", {"name": "Alex"}), "")
+    
+    def test_no_variables(self):
+        self.assertEqual(parse("Hello world", {}), "Hello world")
+    
+    def test_empty_variables_dict(self):
+        result = parse("Hello {name}", {})
+        self.assertEqual(result, "Hello {name}")
+    
+    def test_nested_braces_in_variables(self):
+        # Test that braces in variable values don't interfere
+        result = parse("Hello {name}", {"name": "Alex {test}"})
+        self.assertEqual(result, "Hello Alex {test}")
+    
+    def test_consecutive_braces(self):
+        # Test handling of consecutive braces
+        result = parse("Hello {name} {{}}", {"name": "Alex"})
+        self.assertEqual(result, "Hello Alex {}")
+    
+    def test_special_characters_in_variable_names(self):
+        # Test variable names with special characters
+        result = parse("Hello {user_name}", {"user_name": "Alex"})
+        self.assertEqual(result, "Hello Alex")
 
 if __name__ == "__main__":
     unittest.main()
