@@ -19,7 +19,7 @@ from typing import Dict
 from string import Template
 import re
 
-def parse(template: str, variables: Dict) -> str:
+def parse_old(template: str, variables: Dict) -> str:
     """
     Parse a template string with support for escaping braces.
     
@@ -46,6 +46,27 @@ def parse(template: str, variables: Dict) -> str:
     result = result.replace("TEMP_CLOSE_BRACE", "}")
     
     return result
+
+def parse(template: str, variables: Dict[str, str]) -> str:
+    res = []
+    i, stack = 0, []
+    template = template.replace("{{", "TEMP_OPEN_BRACE")
+    template = template.replace("}}", "TEMP_CLOSE_BRACE")
+    while i < len(template):
+        if (start := template.find("{", i)) == -1:
+            res.append(template[i:])
+            break
+        else:
+            res.append(template[i:start])
+            end = template.find("}", start)
+            res.append(variables[template[start+1:end]])
+            i = end + 1
+    result = "".join(res)
+    result = result.replace("TEMP_OPEN_BRACE", "{")
+    result = result.replace("TEMP_CLOSE_BRACE", "}")
+    return result
+
+        
 
 class TestTemplate(unittest.TestCase):
     def test_basic_substitution(self):
