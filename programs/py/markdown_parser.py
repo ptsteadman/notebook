@@ -20,29 +20,67 @@ Followups:
 
 import unittest
 
+# def parseMarkdown(text: str) -> str:
+#     TOKENS = {"*": "i", "**": "b", "~~": "s"}
+#     res = []
+#     i, stack = 0, []
+#     while i < len(text):
+#         token = text[i]
+#         if text[i:i+2] in TOKENS: 
+#             token = text[i] if (stack and stack[-1] == text[i]) else text[i:i+2]
+
+#         if token in TOKENS:
+#             if stack and stack[-1] == token:
+#                 stack.pop()
+#                 res.append(f"</{TOKENS[token]}>")
+#             else:
+#                 stack.append(token)
+#                 res.append(f"<{TOKENS[token]}>")
+#         else:
+#             res.append(text[i])
+#         i += len(token)
+#     if stack:
+#         res.append(f"</{TOKENS[stack[-1]]}>")
+
+#     return "".join(res)
+
+
+TOK2TAG = {"*": "i", "**": "b", "~~": "s"}        # HTML tag mapping
+ORDERED_TOKENS = ["~~", "**", "*"]                # longest first
+
 def parseMarkdown(text: str) -> str:
-    TOKENS = {"*": "i", "**": "b", "~~": "s"}
-    res = []
-    i, stack = 0, []
-    while i < len(text):
-        token = text[i]
-        if text[i:i+2] in TOKENS: 
-            token = text[i] if (stack and stack[-1] == text[i]) else text[i:i+2]
+    """Supports italics (*), bold (**), strike (~~) with nesting."""
+    out, stack, i, n = [], [], 0, len(text)
 
-        if token in TOKENS:
-            if stack and stack[-1] == token:
-                stack.pop()
-                res.append(f"</{TOKENS[token]}>")
-            else:
-                stack.append(token)
-                res.append(f"<{TOKENS[token]}>")
-        else:
-            res.append(text[i])
-        i += len(token)
-    if stack:
-        res.append(f"</{TOKENS[stack[-1]]}>")
+    while i < n:
+        # ----- token detection (longest-match) -----
+        token = None
+        for t in ORDERED_TOKENS:
+            if text.startswith(t, i):
+                token = t
+                break
 
-    return "".join(res)
+        if token is None:               # literal char
+            out.append(text[i])
+            i += 1
+            continue
+
+        # ----- delimiter handling -----
+        tag = TOK2TAG[token]
+        if stack and stack[-1] == token:        # closing delimiter
+            out.append(f"</{tag}>")
+            stack.pop()
+        else:                                   # opening delimiter
+            out.append(f"<{tag}>")
+            stack.append(token)
+        i += len(token)                         # jump over delimiter
+
+    # ----- auto-close any unbalanced openers -----
+    while stack:
+        tag = TOK2TAG[stack.pop()]
+        out.append(f"</{tag}>")
+
+    return "".join(out)
 
 class MarkdownParserTester(unittest.TestCase):
     def test_italic(self):
