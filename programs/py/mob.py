@@ -21,7 +21,7 @@ from typing import Dict, Optional
 class SessionState:
     driver_index: int = 0
     session_count: int = 0
-    driver_times: Dict[str, float] = None
+    driver_times: Optional[Dict[str, float]] = None
     
     def __post_init__(self):
         if self.driver_times is None:
@@ -46,6 +46,7 @@ class Display:
         self.stdscr.clrtoeol()  # Clear from end of text to end of line
         self.stdscr.addstr(row, 0, text, attrs)
         self.stdscr.refresh()
+
         
     def update_line_with_parts(self, row, parts):
         """Update a line with multiple parts that can have different attributes"""
@@ -63,6 +64,7 @@ class NotificationManager:
     def play_sound():
         try:
             subprocess.run(["afplay", "/System/Library/Sounds/Hero.aiff"], check=True)
+            subprocess
         except subprocess.CalledProcessError:
             pass
             
@@ -106,7 +108,7 @@ async def countdown_timer(display: Display, duration_seconds: int, current_drive
     display.stdscr.addstr(2, 0, "⏰ Time remaining:")
     display.stdscr.addstr(4, 0, PROMPT)
     display.stdscr.refresh()
-    
+
     # Calculate line positions based on the layout
     time_line = 2  # Time is always on line 2
     input_line = 4  # Input prompt is on line 4
