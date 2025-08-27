@@ -8,51 +8,71 @@ It took a bit longer than a month, but I recently finished reading "The Prize", 
 
 It's fascinating how the conditions of one period of glut precipitate the next period of shortage, and vice versa. Although this cycle has happened several times since 1859, the political and technological landscape has changed dramatically each time: for example, shifting from vertically integrated global corporations owning oil concessions around the world to nationalized oil producers selling to a financialized global marketplace of refinement and distribution. 
 
-The dynamics of the oil industry also effect the political and technological landscape as well, and it's interesting seeing similarities in the present commoditization of LLM "tokens".
+The oil industry is a socio-technical system that has both deeply influenced the course of history,
+and been in turn deeply influenced by the societal implications of its externalities. I'm fascinated
+by the feedback loops, equilibria and dynamics of socio-technical systems. In the history of the oil
+industry, I also see a potential model for the present commoditization of LLM "tokens".
 
 # What do you want to be doing in two years?
 
-I want to be at the peak of my abilities as an individual contributor, a T-shaped generalist software engineer with a strong technical specialization in some area of platform engineering. I want to be beginning to combine these technical skills with a body of domain knowledge (for example, I've developed a knowledge of the art market, but I've since decided that it's not something I want to be domain expert in long term.) I want to be leading without explicit authority, helping people cope with the stress of adapting to a world that's rapidly changing, sometimes in disturbing ways.
+I hope to be at the peak of my abilities as an individual contributor, a T-shaped generalist
+software engineer with a strong technical specialization in some area of platform engineering. I
+hope to start combining these technical skills with a growing body of domain knowledge (for example,
+I previously developed domain knowledge in fine arts, but I've since decided that it's not something
+I want to be domain expert in long-term. I hope to better understand what domains suit me well.) I
+want to be leading without explicit authority, helping people cope with the stress of adapting to a
+world that's rapidly changing, sometimes in disturbing ways.
 
 # Why do you want to attend RC? How would attending RC be different than working on your own?
 
 I think there's a number of orthogonal reasons I want to attend RC, all important:
+- Being part of RC will give a good reason to reach out to people in industry and ask about their experiences
+- I want to continue to build a network of senior IC colleagues who I can compare notes
+  with on technical subjects: I've found this more and more important as my career progresses
 - I want guidance in doing open-ended research and presenting it to others in a non-academic context
-- I want to focus on more applied topics (like CI/CD, building example applications) that may not be the best fit for original academic research
-- Being a part of RC will give a good excuse to reach out to people in industry and ask about their experiences 
-- I want to be able to adjust the scope of my research if someone gives me a better idea
-- I want to get a new job soon, so I have a limited time to pursue this research
+  (my interests are more typically more "applied" and therefore not the best fit for academia)
+- Because I need to get a new job soon, I have a limited time to pursue this research - RC time
+  frame works best for me
 - I want to build my volitional muscles: spending the past decade as a consultant and IC has caused literal and figurative muscle atrophy
 
 # What would you like to work on at RC?
 # E.g., things you want to learn or understand better, projects you want to build or contribute to, etc. Consider where the edge of your abilities is, and where you’d like it to be at the end of your batch.
 
-I'm interested in doing a "Comparative CI/CD" study, inspired by the "Build Systems a la Carte"
-paper from 2020. Basically, I feel like I lack a generalized model to evaluate CI/CD systems (I'll
-especially focus on deployment, which isn't covered in the aforementioned paper). To do this study,
-I'd like to do a sort of "inverted demo TODO app": set up CI/CD for the same non-trivial application
-using a variety of different tools, both open source (ex: Bazel, Ansible, ArgoCD, Gitlab, Spinnaker
-etc) and commercial (Buildkite, GitHub Actions, etc). Then I will figure out how to evaluate and
-characterize the different systems (ex: which support which aspects of GitOps? what alterantives are
-there to GitOps?), and publish my findings and example applications on GitHub. I want to strike a
-balance between the formalism of the "Build Systems a la Carte" paper and the box-checking and
-buzzwords of industry blog posts.
+In order to understand the differences between programming languages and frameworks, developers
+often implement the same demo "TODO" application in different languages to compare syntax,
+principles, performance, and general developer experience. I want to better understand CI/CD
+systems, so I plan to create different implementations of CI/CD for same non-trivial demo
+application to illustrate the conceptual and practical differences between these systems.
+Besides the example code, I want to create a general model of the principles, capabilities,
+patterns, and non-functional qualities that characterize different build and deploy platforms.
 
-If time allows, I will also modify the example application to include some large assets that need to
-be regularly deployed (ex: a machine learning model that's periodically re-trained). I will also
-evaluate recent advancements in the field (ex: Uber's ML-based smart merge queue, CI/CD for
-infrastructure as code), and perhaps try to contribute some novel code for problems that I've
-identified (ideally to some existing open source project).
+I will compare both open source (ex: GitLab, Bazel, Spinnaker, ArgoCD) and commerical tools (ex:
+BuildKite, GitHub Actions, CircleCI, Earthly), with a focus on CD tooling for monorepos with large
+artifacts. I've already developed a fun demo app involving OpenTripPlanner with extensive NYC
+transit data, a Golang backend with Redis and Server Sent Events, a NextJS frontend, job queue and
+(soon) basic ML models. As I build out different CI/CD implementations for this application using a
+variety of CI/CD tools, I'll explore the important principles in the space (ex: GitOps, the
+Kuberentes operator pattern, reproducable builds), develop a capability matrix (ex: branch deploys,
+Blue/Green deploys, remote execution), identify patterns for common concerns like environment and
+configuration management, and perform quantitative and qualitative benchmarking. If other RC
+particpants are looking to ship their projects, I'd be excited to assist with setting up their CI/CD
+(this could help me get feedback on developer experience).
 
-If other RC particpants are looking to ship their projects, I could also assist with setting up
-their CI/CD (this could help me get feedback from the users of the systems).
+I imagine that the output of my work could be a long form blog post or presentation with links to
+the demo repos and a flowchart that can be used to guide CI/CD decision-making at different
+stages of scaling. I want to strike a balance between the formalism of the "Build Systems a la
+Carte" paper and the buzzwords and box-checking of some industry blog posts.
+
+If time allows, I will also evaluate recent advancements in the field (ex: Uber's ML-based smart
+merge queue, CI/CD for infrastructure as code), and try to contribute to relevant open
+source projects.
 
 # Do you plan to attend RC in-person, remotely, or some combination of the two? How will this affect your working style?
 
 In person, I live in Yorkville, Manhattan so I should be able to show up in person most days.
 
 # What other commitments (work, life, family) would you have during your batch?
-- Applying to jobs + interviewing
+- Applying to jobs, interviewing
 - Some amount of work on a side project that I help manage (AccessKit - see accesskit.media for some information about it)
 
 I'd be interesting integrating both of these into my work at RC if it makes sense.
@@ -60,13 +80,14 @@ I'd be interesting integrating both of these into my work at RC if it makes sens
 # Describe your programming background in a few sentences.
 
 I've been programming professionally since 2012.
-After some interships at IMAX, Priceline, and Moat, I led small teams at a devshop I started with my friends.
-I did a lot of frontend dev during the heyday of React, then shifted to a more platform role helping
-unblock my colleagues. This later led to me taking a platform engineering role at Sotheby's during the
-pandemic, when aucitons were rapidly shifting to hybrid online-in person model, with over 50% of
-bids coming from online clients. At Sotheby's I acted as a staff / senior staff engineer and leader
-of the platform team managing our Kubernetes cluster, monorepo tooling, GraphQL layer, observability
-and much more.
+
+After some interships at IMAX, Priceline, and Moat, I led small teams of programmers at a devshop I
+started with my friends. I did a lot of frontend dev during the heyday of React, then shifted to a
+more platform role helping unblock my colleagues. This later led to me taking a platform engineering
+role at Sotheby's during the pandemic, when auctions were rapidly shifting to hybrid online, with
+over 50% of bids coming from online clients. At Sotheby's I acted as a staff / senior staff engineer
+and leader of the platform team managing our Kubernetes cluster, Golang/TypeScript/Scala monorepo
+tooling, GraphQL layer, observability and much more.
 
 Besides my professional work, I find hashing of all kinds (geohashing, perceptual hashing, etc)
 intellectually satisfying. I also like working with WebGL, audio and video.
