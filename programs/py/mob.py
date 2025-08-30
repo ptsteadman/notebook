@@ -279,7 +279,7 @@ class MobManager:
         self.state.driver_times[self.names[self.state.driver_index]] += self.session_duration.total_seconds() / 60
         
         if not skipped:
-            await NotificationManager.play_alert_sequence()
+            asyncio.create_task(NotificationManager.play_alert_sequence())
             if not self.is_pomodoro:
                 next_driver_name = self.names[(self.state.driver_index + 1) % len(self.names)]
                 NotificationManager.say(f"{next_driver_name} is next driver", self.voice_enabled)
